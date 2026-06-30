@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="refresh" content="3600">
+  <title>Market Liquidity Dashboard</title>
+  <style>
+    * { margin:0; padding:0; box-sizing:border-box; }
+    body { background:#0f1117; color:#e0e0e0;
+            font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; }
+    .container { max-width:1300px; margin:0 auto; padding:2rem; }
+    h1 { color:#fff; font-size:1.7rem; font-weight:700; }
+    .updated { color:#555; font-size:0.85rem; margin-top:.3rem; margin-bottom:1.8rem; }
+    .chart { width:100%; border-radius:10px; display:block; }
+    .metrics { display:grid;
+                grid-template-columns:repeat(auto-fit,minmax(160px,1fr));
+                gap:1rem; margin-top:1.8rem; }
+    .metric { background:#1a1a2e; border-radius:8px; padding:1.1rem 1.3rem; }
+    .metric-label { color:#666; font-size:.75rem; text-transform:uppercase;
+                     letter-spacing:.06em; }
+    .metric-value { color:#fff; font-size:1.35rem; font-weight:600;
+                     margin-top:.3rem; }
+    .metric-sub { color:#444; font-size:.72rem; margin-top:.2rem; }
+    footer { text-align:center; color:#333; font-size:.78rem;
+              margin-top:2.5rem; padding-top:1rem;
+              border-top:1px solid #1e1e2e; }
+    a { color:#555; text-decoration:none; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Market Liquidity Dashboard</h1>
+    <p class="updated">Actualizado: 30 Jun 2026 &nbsp;·&nbsp;
+       Net Liquidity = Fed Balance Sheet − TGA − RRP</p>
+    <img class="chart" src="liquidity_chart.png" alt="Liquidity Chart">
+    <div class="metrics">
+        <div class="metric">
+          <div class="metric-label">Net Liquidity</div>
+          <div class="metric-value">$5.81T</div>
+          <div class='metric-sub'>Fed Balance − TGA − RRP</div>
+        </div>
+        <div class="metric">
+          <div class="metric-label">M2 (EEUU)</div>
+          <div class="metric-value">$23.05T</div>
+          <div class='metric-sub'>Oferta monetaria</div>
+        </div>
+        <div class="metric">
+          <div class="metric-label">Reverse Repos</div>
+          <div class="metric-value">$0.004T</div>
+          <div class='metric-sub'>Liquidez aparcada en Fed</div>
+        </div>
+        <div class="metric">
+          <div class="metric-label">SP500</div>
+          <div class="metric-value">7,483</div>
+          
+        </div>
+        <div class="metric">
+          <div class="metric-label">MSCI World ETF</div>
+          <div class="metric-value">$202.15</div>
+          <div class='metric-sub'>URTH</div>
+        </div>
+        <div class="metric">
+          <div class="metric-label">Oro</div>
+          <div class="metric-value">$4,042/oz</div>
+          <div class='metric-sub'>GC=F</div>
+        </div>
+        <div class="metric">
+          <div class="metric-label">Bitcoin</div>
+          <div class="metric-value">$58,609</div>
+          <div class='metric-sub'>BTC-USD</div>
+        </div></div>
+    <footer>
+      Datos: <a href="https://fred.stlouisfed.org">FRED (St. Louis Fed)</a>
+      &amp; <a href="https://finance.yahoo.com">Yahoo Finance</a>
+      &nbsp;·&nbsp; Actualización diaria automática vía GitHub Actions
+    </footer>
+  </div>
+</body>
+</html>
