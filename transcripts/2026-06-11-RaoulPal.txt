@@ -1,0 +1,2058 @@
+Building a business in AI has tremendous
+margins. Tremendous. It allows you to
+grow rapidly. We've never seen this
+before, right? So Reed's law, which is
+meal squared, has never existed in
+biology, not even viruses. It doesn't
+exist. And now we're seeing it and it's
+[ __ ] everywhere, which is why it's so
+hard to understand. the new world is if
+we can't actually make all the chips we
+need and we can't actually get the power
+we need, you end up with a little bit of
+demand versus supply mismatch. The
+bottlenecks themselves may slow the
+earnings of these companies. Not because
+the demand is not there, because the
+demand is too big. Okay, that's sort of
+bananas, but that's what we might get
+to. As you know by now, I'm Ral Pal and
+welcome to my show, The Journeyman,
+where we travel to that nexus of
+understanding between macro, crypto, and
+the exponential age of technology. I've
+been bleeting on for a few years now how
+this is all coming together, macro,
+crypto, and technology. They're all the
+same thing, and everything is changing,
+and it's changing extremely fast.
+There's not many people who understand
+across all of these disciplines. Um, you
+can find experts in various fields, but
+very few people who understand at broad
+in macro terms what this all means. But
+my regular guest, good friend of mine,
+Jordi Vissa, well, he's the person I go
+to to think things through. And he does
+the same with me. So, it's not really an
+interview ever. It's just us thinking
+through what the hell is going on, what
+does it mean, how to measure it, how to
+take opportunity of it. So, I think
+you're going to love it. Here's a
+conversation with good friend Jordi
+Vissa.
+Join me Ral Pal as I go on a journey of
+discovery through the macro, crypto, and
+exponential age landscapes. In the
+journey man, I talk to the smartest
+people in the world so we can all become
+smarter together.
+Jordi Vissa, how the devil are you?
+>> How you doing, my friend?
+>> I'm good. I'm good. So, lots to talk
+about, I'm sure. I have no idea as ever
+what we're going to talk about, but
+what's on your mind?
+>> Uh, well, I'm going to start in a good
+place for you. Um, I actually listened
+to you and and Julian recently and uh
+and something you guys talked about
+throughout, but really at the very end,
+um, if you remember when we sat down in
+my offices and I talked about um, no
+more recessions.
+>> Yeah.
+>> Uh, and that kind of hit you. I the way
+you guys phrased the transition away
+from labor verse capital into compute
+verse energy. Uh you and I have talked
+about this to in some way. We're both AI
+believers, but it really hit me hard in
+the same way the recession did because
+it fits in with that whole conversation.
+Uh meaning business cycles of the past
+to grow your business, you needed
+location, you needed to borrow money,
+you needed to hire people to grow it
+every year. when we were at at
+investment banks, okay, this division is
+doing well. Let's give them more people.
+Let's go open an office in Brazil. Let's
+go do this.
+In compute verse energy, it's a very,
+very different thing. And I spent the
+time and I've been writing about um that
+the AI cycle is no longer about capital
+verse labor, but not phrasing the way
+you guys did. And not specifically
+saying compute verse energy, but
+actually saying bottlenecks and
+shortages, which are the same thing as
+when supply and demand get out of whack
+on the other side. But we're we're it
+really hit me hard that we're starting
+to see that phase and that people should
+get used to that. the new world is if we
+can't actually make all the chips we
+need and we can't actually get the power
+we need in a delayed fashion, you end up
+with a little bit of demand versus
+supply mismatch. So that's what I've
+been thinking a lot and writing about.
+>> So I got further in this thinking. So I
+I've started building out a whole
+dashboard of indicators for monitoring
+this um exponential increase in the
+output of intelligence per unit of
+energy and I built an index of it. Um,
+and I'm still not I've not published it
+fully yet. I just started writing about
+it in GMI. Really interesting. So, I
+used Moore's law beforehand
+and then it starts hooking up um really
+with AI. You've got some kind of GPU and
+other stuff that starts lifting it and
+then AI it's now gone it's a log chart
+and it's now gone exponential on a log
+chart, right? Which is what I've been
+talking about Reed's law the the
+exponential squared.
+>> Um, and what it started to think about.
+So think about these these bottlenecks
+and stuff like this. Think about the
+fact that like data centers are 30%
+built versus where they should have been
+what they stated.
+Think about the race between the US and
+China and how nobody is allowed to win
+it. Think about the fact that no single
+AI frontier house can win because it's
+all too dangerous, right, to have
+>> Y.
+>> And what I get to is there is almost no
+way for this not to be a super cycle.
+>> Mhm. And even the bottlenecks just slow
+it down, but it has to keep expend. So
+what is a bottleneck? It actually needs
+more expenditure. You need to build out
+the power stuff. You need to build out
+whatever it is. And so what you've got
+is the largest capex cycle I think
+humanity will ever see at this rate.
+Well, maybe there's another one to space
+later, but right now is this.
+>> Yeah.
+>> Um and I'm struggling to see how we
+actually get a business cycle. And you
+and I will remember the days of 1995 to
+2001
+where the business cycle went up and
+down a bit but basically it was all
+productivity and growth.
+>> Yeah. So let let's make sure we we we we
+double click on one part and let's see
+if you agree with this. So for the
+business cycle um it is based on
+perception. It's based on surveys. It's
+based on the way people see it because
+everyone can't see everything happening.
+So when people talk about PMIs, okay,
+well those are surveys. Those are this
+is what I expect to have happen. And so
+when they're high, there's a lot of
+different components in it. There's
+prices paid, there's supply delivery
+times, there's new orders, there's
+productions, and with inside the PMI,
+you can have a high PMI number, but you
+could have bottleneck showing up in the
+supply chain in the prices paid. And you
+could see new orders drop down to 50.
+You could see the other things, and we
+saw a lot of that during COVID. and we
+have the employment numbers which are
+the component which is not going higher.
+So I think my I think everything you
+said I completely agree with. I do
+believe one of the problems and I want
+to double click on something you said if
+people haven't thought about this um how
+could we possibly have this much
+advancements in the IQ stage getting us
+up to 135 plus right now without having
+the data centers being built. How could
+that have occurred? And you and I both
+know well the algorithmic side got
+better. human feedback, reinforcement,
+learning, reasoning, everything kind of
+happen. And that's why we've been able
+at least to stay up to here. I believe
+we're at a different point. But I want
+to hear that's why we're seeing an
+exponential of an exponential because
+it's not just about the build more oil
+rigs and we have more oil, right? That's
+a standard process. So build more data
+centers and we have more energy uh more
+intelligence. Yes. But that intelligence
+becomes self-recursive learning,
+improvements in the algorithm, all of
+that. And that is where the double
+exponential comes from. Um, and we've
+never seen this before. Right? So Reed's
+law, which is law squared or to the
+power of two, has never existed in
+biology, not even, you know, viruses. It
+doesn't exist. And now we're seeing it
+and it's [ __ ] everywhere, which is
+why it's so hard to understand.
+not only hard to understand, but how
+fast it starts to move at a pace that
+parabas now become something that you
+get used to. And you and I have been
+doing this long enough. And because I
+grew up in emerging markets, I used to
+see parabas a lot. And they usually went
+up and then they'd come down in in
+almost the exact same straight line. I
+think it has confused people. I I
+literally just wrote something uh where
+if you go back to January and you take
+when Jensen Yuang got on stage at CES
+and he spoke and he talked about Vera
+Rubin and he talked about all the things
+that were needed. You know, you and I
+are in in in different um we're in the
+same world. We have the same background,
+but I have two feet or I have one foot
+fully in the Trapfi world and then one
+foot fully in the crypto world. And I
+still talk to hedge funds every single
+day. I talked to mutual funds. I talked
+to people about AI and how to invest in
+it. In January, they didn't understand
+the agentic economy had started. They
+didn't understand the rise of agents at
+that point.
+>> And then by March, you had the Morgan
+Stanley TMT event and Jensen Yuang spoke
+there and Intel spoke and Dell spoke and
+they all started and everyone started
+realizing, "Oh my god, these numbers are
+going to be huge. We got to start
+getting involved." And then you had
+computex uh over the course of you know
+this month and I think the realization
+has hit people but the problem with the
+agentic world in the way that Jensen
+described it at CES which makes it a
+little bit different than the last 3
+years with the IQ acceleration.
+It's going to be very difficult and very
+correlated amongst all of the broadening
+out that's happened to make sure that we
+can continue to keep this thing going at
+the same pace that it's been happening.
+So, I do believe there's going to be a
+slowdown to some degree, but to your
+point, for everyone watching, recursive
+self-improvement and where we're getting
+a year from now, you're going to be
+blown more blown away than you are
+today, even if for the next four months,
+the focus shifts to bottlenecks and
+shortages.
+>> And also, you know, I was um building
+something out about this is like, you
+know, it's not going to be the same
+stocks all the way through because
+there's bottlenecks and shortages or
+there's the applications layer, right?
+people still aren't focusing. Something
+you talked about a long time ago is
+like, you know, the peptides and and all
+of the genetic science breakthroughs
+that are enabled by this technology,
+right? The market can't focus. The
+market can only hold so much attention
+and so much capital at any one stage. It
+hasn't figured out the agentic economy
+yet because if not, you'd see it in
+crypto because it's massive. The TAM has
+gone to infinity, which people have
+never understood. The TAM was always
+humans, right? And now the TAM is
+infinity. And we people don't understand
+this yet. They don't understand um what
+this is about to do to human biology.
+They kind of sort of do, but it's not
+reflected in stock prices yet. Um so I
+think we'll get rotations. You know, it
+doesn't always have to be about Nvidia.
+As you say, there'll be times when it's
+going to take a while to push a new
+breakthrough from algorithmic
+compression or build these data centers
+in enough scale to show the next big
+step. you know, after Mythos, maybe it's
+going to be difficult for a while. Maybe
+not. It's not proven difficult yet.
+They've never yet hit any boundary and
+they keep saying we're not hitting
+boundaries and we thought we would and
+we haven't. But I do think there'll be
+rotations as as you say it goes through
+different component parts and kind of
+breaks them down because you know if you
+think about the bottleneck theory. So
+you find a bottleneck whatever it may be
+>> power
+what that bottleneck does is concentrate
+capital into that particular issue
+>> because if the universe is solving for
+intelligence per unit of energy it will
+clear all roadblocks to get there and
+capital is how you do it. capital and
+attention.
+>> And so two two things you said on there
+on the power side, it's very clear to
+everyone now based on the data center
+delays, based on the turbines and the
+transformers and every other part that
+it's we've got a bottleneck. So what is
+the recent announcement from Nvidia and
+Seammens? Well, they're doing something
+with Fluent specifically on the battery
+side in China. They're really focused on
+solid state batteries. Huge silver
+imports. Everyone should go look at how
+much silver is needed in solid state
+batteries instead of what lithium takes.
+If you take if we had battery innovation
+today and we were able to, we have
+enough power on the US grid to plug
+everything into it. We just can't do
+that because we reap peak capacity too
+much. But if we could store and have it
+to deal with those peak capacity days,
+then we wouldn't we'd be able to use the
+grid almost completely to get the needs
+that we have by 2030. So innovations in
+the stuff that we're talking about are
+going to happen and power is a perfect
+example. You brought something up which
+I think and I'm starting to focus my
+attention. So when you say we'll rotate,
+we'll move to other places. When Jensen
+Yuang did the five layer cake and he
+talked about the fact that at the bottom
+of the stack you have energy, you have
+chips, you have infrastructure, then you
+have the models and at the top you have
+applications. Every time I talk to
+people on applications they are focused
+on SAS for some reason. And I always sit
+there in these meetings and I go, why
+are you focused on a seatbased thing of
+the past? What I envision happening, and
+this is the first time I'll say it in
+any um podcast, even though I've talked
+about the name, the reason we're in this
+stage that the buildout can happen with
+companies like Google able to raise $85
+billion in a public equity. You and I
+have been involved a long time. There's
+never been a public equity of that size,
+but let's normalize it. It's bigger than
+the bottom 360 companies in the S&P
+500's market cap. So, you're talking
+about a massive raise barely down uh for
+the buildout. To be in that position,
+you had to be a Warner from the time
+that the great financial crisis came
+out. They sucked in all of the capital.
+You know who's starting to suck in all
+the capital right now for the
+application layer? It's for human
+software. And it's what you brought up.
+Eli Liy is sucking in all of the capital
+through GLP1s. And I believe GLP1s are
+going to lead to them. They have a
+thousand GPU um data center now uh at
+Lilipod at their campus. They worked
+with Nvidia to launch something in
+Silicon Valley. I believe we're going to
+look back and and realize that GLP1s
+were the ability to finance the next
+stage of the human software that you're
+talking about.
+>> Yeah. It's like Elon's used cars, you
+know, you use something that generates
+cash flows, you know, and we'll look
+back at Google and look back at some of
+these people and say, well, advertising
+was just the start of actually a much
+bigger process. Just a couple of things
+to add to that as well is
+talking about efficiencies and
+bottlenecks.
+Elon's been is always very good at this
+kind of stuff. So, when the Cyber Truck
+came out, he realized that there is a
+global copper shortage, right? Every
+hedge fund in the world plays the AI
+trade via the copper shortage. And it's
+it's been okay, but not the greatest
+trade on Earth because I think
+everybody's focused on it. But what Elon
+did was change the voltage in a Cybert
+truck from 12 to 24 and ended up using
+70% less copper.
+It's like a very simple thing. He's
+like, well, nobody done it before and it
+was just basically physics and I just
+did that and we figured out how to do it
+and then it changed everything. So, I do
+think there's a lot of efficiencies. you
+know, you talk about silver and stuff,
+we will root around it because we're
+quite intelligent. It was an old friend
+of mine um who was at Goldman who who
+was on the oil trading desk wrote a
+book, The Energy World is Flat. And I
+didn't really understand it at first um
+but basically explaining that
+that the intelligence density within the
+oil companies is vast. And if you give
+them a roadblock like we can't get
+enough oil, there's going to be peak
+oil, they come up with shale.
+And it's the same with the drug
+companies. It's the same with Elon and
+Copper. You know, I think Doomongous
+will say, "Well, it's [ __ ] It can't
+happen." And my thought will capital and
+attention will just root through it. And
+again, I I I don't know. I don't think
+you guys um said this when I listened,
+but I heard the copper point, which I
+agree with. I mean, for the amount of
+times I've heard, we're we're not going
+to have copper. Um, which again it's
+true but you could have the same you
+could have said the same thing with the
+data centers and then Vera Rubin came
+out and we moved most of the stuff to
+optical fiber to move that around. So
+it's like we keep coming up with
+solutions to problems to to to deal with
+this
+>> and AI will make the solutions faster to
+to get to as well.
+>> Well, but that that's the main point.
+And so when I look at parabas and um the
+easiest way for me to say to someone,
+okay, let's assume there was a parabola
+that was justified if at the beginning
+of January in January of 2026, instead
+of him announcing that the agentic world
+was rising, what if he actually said,
+you know, there's 7.5 billion people on
+the planet, but by the end of this year
+there'll be 15 billion. Um, okay, we'd
+have parabas everywhere. It'd be in
+food. It would be we wouldn't have
+enough things right off the bat. So what
+he did when the agentic world comes
+people haven't made the connection that
+we're talking about billions of thinkers
+entering the the world and and they
+consume only one thing compute. So
+that's why we have shortages of all
+these things cuz that's what they
+compute. The reason the business cycle
+and people looking for when the next
+housing market's going to start. You're
+missing the point that these digital
+employees will never buy a house. They
+will never send their kids to college.
+They will never consume things the way
+it is. So, you have to kind of back your
+way out and realize, forget the doom and
+gloom over the job replacement. The
+reality is, as Elon says, at some point,
+if they're really good at solving
+problems and abundance comes, you're
+going to have a choice of whether you
+actually want to work or if your life is
+fine just being in nature. And that time
+commitment of the next 50 years of
+adjusting to a world that is completely
+different, that is what happened in my
+opinion there. And to your point on any
+kind of problem we have with seven and a
+half billion agents coming in over a
+course of whatever the next year, two
+years, whatever it takes, we're
+basically doing the Manhattan project
+times whatever. So any problem you want,
+forget Elon figuring it out, he's one
+person. But if you take all of the AI
+agents and let them sit and work on any
+problem there is, we will solve
+eventually every single problem. And I
+don't think people have come into the
+context of that much IQ and what it
+means to have that much IQ solving
+problems.
+>> And also cuz people think of these
+models as a single thing, right? This
+single beast, but they're not because
+there's a 100 million users. No, it's a
+billion users, I think, now of of
+OpenAI. Each one is a different instance
+using this huge intelligence of which
+they can come with different
+breakthroughs. It's not the big model
+itself. the big model enables all these
+instances and depending what you do with
+it. So it's it's it's exponential yet
+again in the amount of intelligence you
+can drag out of this thing. Yeah, that
+that's a brilliant comment and I've
+experienced it a couple of ways. But
+let's assume that every time that I ask
+a question or I go down a rabbit hole of
+of what will happen if this or what'll
+go on when I'm writing papers and all of
+that's getting added into the way that
+things are thinking about. you're
+getting all of human intelligence put
+back in. The other direction I've gone
+is to isolate intelligence to try and
+brainstorm with certain people. So, one
+of the things that's worked extremely
+well for me this year, both investing,
+but also writing papers, has been
+creating knowledge brains. And I did it
+in a very simplistic way to start, which
+was just let me take every transcript
+and upload it into notebook LM of Jensen
+Yuong of whoever I wanted to do. I
+recently did it with David Ricks from
+Eli Liy because I want to hear what
+they're talking about and I want to have
+it in one transcript. Jensen Yuang
+speaks multiple times a week and he
+these are not short conversations. These
+are anywhere from an hour to 3 hours. If
+you upload 3 hours of him speaking, he
+doesn't have a teleprompter. He's just
+winging it. You get so much good raw
+information. He's basically telling you
+what companies to buy. And to do it, you
+can either do a notebook LM or you can
+take all those transcripts and save them
+into a notebook on your computer and
+then have co-work go in there. Then you
+can have your agents go off and run
+through it and connect it to another
+person, Andre Carpathy, whatever you
+want. So the ability of taking a human
+being's brain and making that the
+content that you're working off of as
+opposed to the internet which is every
+human being I don't think people have
+made that connection yet of how quickly
+you will do it because you can isolate
+the most individual thinkers in any
+given field and get tons of information
+particularly when you pair them with
+other people.
+>> Yeah. And I've built um I'm building a
+whole I mean so many things right now
+but one is the GMI brain. So it has
+everything I've ever written over the
+last 21 years. So, I've probably got
+more long form written content than
+almost anybody else in finance
+>> and then the video transcripts and then
+my X feed and then, you know, all of
+this stuff and then I've got a, you
+know, it's that's in a rag vector
+database. I can now query it, do all
+sorts of stuff. Okay, that's
+interesting.
+Then I built something that I'm still
+working on called the lens which uses my
+exponential age framework only and goes
+to first principles.
+um and you you give it any question
+whether it was the US election uh the
+midterm election or markets and it uses
+that particular lens to analyze stuff.
+So I'm now doing replications of parts
+of myself into different things. So I'm
+not just using Jensen yuan. The issue
+I've got is I mean I love the idea of
+what you're doing with notebook LM which
+I love as well is I am running out of
+time. I cannot I can't manage this. I
+I'm so el overwhelmed with the amount of
+things that I'm building and doing
+because you know I I can do it all
+myself now which is a dangerous thing
+because the only thing I've got is time.
+That is my energy per unit of
+intelligence. Yeah, my intelligence is
+going exponential but I'm right at the
+boundary of my fixed time.
+>> So le let's we always talk about the
+similarities between us. Um one of the
+differences is I was still at a hedge
+fund. we were off building a separate
+business. When the hedge fund that I
+worked at for 20 years closed, I had to
+make a decision and I never wanted to
+work for anyone again and I never wanted
+to manage anyone again. Those were the
+two things that I kind of said brought
+me the least amount of joy. Going out
+raising money, going to investors,
+trying to convince them to give you
+money, then staying up all night trading
+the markets and explaining why you're
+doing whatever, and then people coming
+in and not able to pay their bills or
+whatever the case was. It just it was
+very difficult for me to kind of do all
+of that and still be able to enjoy life.
+So when I started to make the decision
+what I wanted to do and I realized
+content was going to be it. Not content
+for me but realizing that 8 billion
+people on the planet are not going to
+know how to navigate this thing. Very
+few people are going to be able to. And
+if I thought about it all the time and I
+took my ability to speak in analogies
+and convert it into language that they
+could understand, I could help people
+train on doing this that I could grow a
+business which has grown rapidly. And
+the one thing I can say is in your
+position, some of your time is just
+dealt with that you're involved with a
+big company. I have no employees. I have
+one person that helps me out once we
+launch um the payw wall. It's grown
+consistently. And the reason it's grown
+consistently is because I'm using AI
+agents, but I have all of my time. They
+deal with the the the subscribers and I
+deal with just creating content and
+going through it and learning and being
+able to do it. So, I appreciate the part
+you're saying, I don't know how you do
+as much as you do because I have a lot
+more time. But I do think for people
+that are listening, um, building a
+business in AI has tremendous margins,
+tremendous. It allows you to grow
+rapidly. So, you can go from zero to
+I don't even think my business will be
+around for very long because I think
+I'll it'll be monetized because I think
+people need what I'm doing and it's
+growing in a consistent linear way, but
+I'm having so much fun and I'm learning
+so much and I feel like it's making me
+>> How about So, Jordy now just thinks, you
+know what, I need to build Hermes agents
+and then I need to think about I need a
+permanent memory layer. So, how do you
+get the time to do it's that stuff that
+takes up my time, right? because
+eventually you you free up time but you
+end up finding new things to to do with
+this technology. So that time just gets
+sucked into something else. Um but but
+how do you find the time to do that? Cuz
+I'm doing all of these things and that's
+what's I'm really struggling. I've got
+15 things on my list of different
+variations of stuff that I'm doing and
+having to learn brand new from scratch.
+I I can't I don't know this for sure,
+but I'm going to guess that I'm able to
+use No, it has to be. I use AI more than
+you do just by the nature of not having
+to do as many interviews and not having
+to deal with the business and whatever
+else things are traveling, the events. I
+choose and pick what I'm going to based
+on whether it makes sense for me totally
+from a a time basis. So, I probably have
+more time to use it.
+>> I'm not sure. I'm not sure. I mean, I'm
+all day from 6:00 a.m. till
+>> 8:00 p.m. I'm 14 hours a day at this
+stuff, you know? I do three speaking,
+you know, where I have to go and travel
+three a year, something like that. So,
+it's not really that. Yes, there's
+running real vision, but there's people
+running. I don't know. I'm just finding
+maybe I'm just overly ambitious in all
+the things I want to do because you you
+want to get everything moved along to
+get to that foundational layer. So,
+you're building all the databases across
+everything and how that they interact
+with each other and whether you're using
+a Obsidian or whether you're using a
+nation and all of this stuff is it just
+takes time. I you know what it is and to
+be fair so let's assume we do exactly
+the same amount it is a function of
+number one we see new stuff every day
+that we wish we were doing and so it's
+moving so fast and we're seeing it so
+fast because you and I are clearly on X
+we're clearly talking to smart people
+and if someone says to me you should be
+connecting to Obsibian to do your
+knowledge brains then immediately when I
+go home I go look and I'm like well how
+much is this how much time is this going
+to take how's it going to go with Hermes
+it's very interesting because I had just
+finished my second open claw and then
+all of a sudden everyone's like, "You
+got to move to Hermes." I'm like, "I I I
+just went through all this time to use
+OpenClaw and I read what they were doing
+and I I worked with one of the LLM.
+Should I be spending time on this?" And
+the answer was no, don't bother yet.
+It'll get easier in the next month. So,
+what I've gotten good at is kind of
+asking chateep. I'm I'm using 5.5 now
+much more than Claude. Um, I it just I
+think they're both at I don't know what
+the IQ is, but they're these things are
+the smartest things I've ever had
+conversations with, but chatbt is my
+style because it's less verbose and I
+like less verbose. Um, I just like quick
+answers, move on, get the next one. And
+it has been very good about telling me
+what not to spend time on.
+>> Yeah. Yeah. And what I got to is, you
+know, cuz having had that same
+conversation, most of the time we both
+know is like either Anthropic or or um
+OpenAI will build that you don't
+actually need the Hermes agent,
+>> but the foundational database layer you
+actually do need. So I'm like, I'm just
+going to build that for now. I've got a
+Hermes agent. Don't really use it yet
+because I'm building all these other
+things from that database. Because once
+you got your foundations right, how I
+think about these databases is we're all
+going to have our own vault.
+>> Yep.
+>> Of everything, your personal stuff,
+every photo you've ever had, every phone
+call you've ever will be in your vault.
+And then you can use the vault for
+various brain aspects or monetization
+aspects or whatever. So I'm just focused
+like, okay, I need to create the vault,
+the rail operating system as I call it.
+And and as people listen to this don't
+know what you're saying. Um honestly the
+beauty of an LLM is theoretically you
+can get information on any topic you
+want to get a topic on. You can have a
+chat on it. Great. But if every file on
+every computer you've used on your phone
+on everything, every piece of
+information you've ever had is now in a
+place where it can be accessed at any
+point like in in a second. I don't think
+people realize what that means. If
+they've gone out to dinner and someone
+says, "Well, where's the receipt for
+that?" you have the receipt. Like every
+single thing is at your fingertips. And
+the easiest way for me to like explain
+to people as to how important this is is
+um when a loved one dies and you're the
+executive or the administrator, you will
+hear from every person how much of a
+nightmare it is to go from point A to
+the end. I had to go through that over
+the course of the last 18 months. And
+midway through it, I just started
+putting everything into one folder and
+connecting that folder to opus 4.5
+initially and then go. So whenever the
+probate person calls, when everyone
+calls, I just go right into it and I
+say, "Hey, what they're looking for this
+answer. What what's the answer?" I don't
+have to go look. If they say, "What
+where are we right now on the estate
+account?" I just go in. What did you do
+this asset at? Where's the document for
+that? It's all in one file. It gets
+brought up by Claude. It immediately
+sends it out. So, I think for people to
+understand your comment on on the vault,
+they really have to understand how
+amazing it will be in the future, and
+that's one of the reasons why you need
+to have your personal assistant at least
+trying it just to get through the
+experience of everything that you can do
+with it.
+>> Um, have you started using granola yet?
+>> No.
+>> Okay. Granola's a great one. it it's um
+we've all seen on Zoom and everything
+else it's there's an AI that does the
+transcripts but Granola is like it has a
+bunch of different models you can use
+whether you're using chat GPT or you
+want to use Kimmy or whatever it is and
+it will do instant transcripts instant
+summaries okay fine but it becomes the
+knowledge base for everything so it's
+like oh you're speaking to Jordi again
+here's the four things you talked about
+last time here's the things you were
+going to follow up on and it all feeds
+into my brain so then every single
+conversation I have and I can do that on
+phone calls or leave myself voice
+messages all feeds the brain and it
+never forgets. So then I can go back and
+say hey listen you know when's the you
+know whether it's a real vision meeting
+a product and development team you know
+what are the last five things we talked
+about what what's going off track can
+you analyze what it's all of it so it's
+a really helpful tool and everybody I
+know uses it starts using it a lot
+>> so wait is this replace did you use is
+this notion but in a different way
+>> what it is is it just rec just think of
+it as recording everything you speak
+>> okay
+>> and so it captures all of the nuance
+because it's full transcript and then
+has LLM to analyze, summarize, do all of
+that, but then it becomes this vast
+database of everything you've ever
+spoken. And you know what we're getting
+to is permanent memory.
+>> Y
+>> the biggest issue that AI companies have
+is the memory is not persistent enough.
+That's what we all fight with all day.
+you know, bloody context windows and
+then, you know, it forgets everything
+and you've got so much, you know,
+imagine you've got thousands of chats.
+All of that information gets lost
+because it only compresses like human
+brains compress what we can remember. It
+does the same. And this this is the
+breakthrough is the database memory
+layer. I think that's what Capath has
+been talking about as well.
+I'll have to look at
+>> I I do I mean that that's the reason why
+I use open claw so much is I'll just say
+something if if I'm on a flight and I
+want to send something because I have an
+idea and I want to remember I don't want
+to forget it then I will just literally
+say in telegram to openclaw hey when I
+get off the flight let's remember to
+talk about this and then when I get off
+maybe it's two weeks later I I never
+asked about I said hey what did I ask
+about on the plane and immediately it
+comes back to me so again I I I've
+stopped stopped using um you know notes
+and notion to to a great degree compared
+to openclaw. OpenClaw becomes my
+assistant in terms of me making sure and
+then on the week on Fridays when I'm
+doing all these um this uh algorithms
+that I run on my portfolio and then I
+upload them into openclaw then it's very
+easy for me to go back and like hey
+compare where the technical sheet is now
+versus where it was in April. Um tell me
+where the exhaustion model is today
+versus where it was in April. Well, it
+has all the information and so for me I
+just know that openclaw has everything
+that I need and I guess I'm I'm using it
+to some degree the way you're you're
+describing but I don't have to go look
+at it.
+>> Yeah, it was just great because you can
+just dump the same data into your open
+claw and open claw can then access it
+and do whatever it wants and look for
+the pattern matching and that comes up.
+And are you do I mean this is going way
+off the macro topic because it's always
+interesting to speak to somebody else
+doing the same thing. Are you using for
+openclaw are you using a VPS or are you
+using a mini or something like that? Now
+it's So I have one on a on uh a Mac Mini
+which has a Chinese model, a Kim K 2.5
+and then I bought the highest end laptop
+I could from Apple and that one I'm
+using with GPT 5.5 at this point. Um so
+initially it was using uh 5.4 before
+then when codeex
+>> you just bought the the Pro Max. I think
+I' I've just got mine just got mine
+today with the M5 chip and the whole
+>> Exactly. Yeah.
+>> Same thing again.
+>> Exactly. And it just stays open all the
+time and I can bring it with me. The
+reason I got a laptop is so that I
+literally can bring it around with me on
+trips as opposed to bringing my Mac Mini
+and then plugging it into something and
+going through it. This was just easier.
+And I'm finding because we're moving
+between chatpt, between codecs, between
+claw code, between co-work, between that
+um I can't, you know, I've got Macs in
+my houses, you know, the main Macs and
+stuff. I'm like, this is not functioning
+any longer cuz I'm having to scrape
+everything from the local machine and
+dumping it into my Google Drive or
+something. I'm like, I I just need the
+most powerful laptop and monitor screens
+and just plug the same thing in
+everywhere. But then I'm terrified of
+losing that laptop.
+>> Yeah. So, a quick break in your regular
+programming. If you're serious about
+your future, grab my free report called
+Prepare for 2030. I think you've got 5
+years to make as much money as possible.
+And this guide will help you navigate
+what's coming. The link is in the
+description. Download it now. I think
+I'm going to and I hate saying this but
+I again for people listening who are
+thinking of building a business when you
+don't have compensation costs and your
+business is growing and you're looking
+at the bottom line your margins are
+insane. So it's literally like I need to
+spend some money on something and so I
+keep playing with hardware because the
+hardware allows me to do things. So the
+Hermes Asian stuff is going to be on an
+Nvidia. I I mean that's what it's going
+to be and that's because number one it
+there's a backlog on all the Apple stuff
+at this point and that'll change at some
+point but Nvidia is coming out with new
+work and I want to do it and so I saw a
+setup that was on a uh on a DGX that I
+think is going to serve the purpose that
+I want with the Hermes agent of where it
+got to. So I still want to do these
+things and I also want multiple ones
+that can do things in a different way.
+So I haven't got to the point yet where
+I envision only having one of these. I
+like having them for different things
+and doing different projects. I want one
+that works overnight on a lowcost thing.
+I want to have an open source model
+because I listened to Dennis Casabus
+this morning on an interview he did
+probably um that was with Y Combinator
+and he just talked again and again about
+these models, the open source models
+just getting better and better and
+smaller and smaller and eventually we're
+going to be on the edge. And I don't
+know what that means for the for the big
+model providers. I don't know what that
+means for enterprise adoption, but I do
+know this. Working on your own personal
+laptop and having your own machines is
+going to be a major part of what we're
+doing. And I just want to have the
+models on my machine and I want to have
+the ones accessing the cloud.
+>> But also, you know, I think you're
+raising an important point here is that
+we're going to go to the edge. This
+process of, you know, it's laughable us
+buying Mac minis and, you know, and
+everybody running out of Mac minis,
+right? But it just shows you the phase
+we're at. We're at the tinkering phase
+where everyone's like doing that. In the
+end, literally every electronic device
+will have a powerful LLM model because
+you're now getting the new Gemini 4 or
+whatever it is, the Gemma 4 or whatever.
+You know, these things are small enough
+for a mobile phone, carry the history of
+humanity on it and can code. I mean,
+it's like these things are wild, right?
+And soon that'll be in your fridge.
+This is what people don't understand is
+you know this ridiculous phase where
+we're talking about different hardware.
+It goes everywhere a distributed via
+cloud that we don't think about these
+things some localized but then every
+single device.
+>> Yeah. the the the only thing I'll say
+about the devices, the approach, the the
+thought I've had and the one that I I
+say to parents, not to kids, um the only
+analogy I can use for people is if it's
+either golf or skiing. I started skiing
+in my 40s and it's a very hard thing to
+do. You have to I mean, you have to
+unlearn what you think you know about
+falling. You have to learn about gravity
+more. You have to learn technical
+skills. You have to get over fears. It's
+a very complicated thing because you're
+scared of dying and hurting your knees
+and everything else. So, um, golf, you
+have to if if someone said tomorrow that
+you want to start to play golf and
+you're like, "Okay, what do I do?" One
+thing you have to do is put the reps in.
+And for the machines to get used to
+being on the edge, part of it is knowing
+that when you're walking around
+listening to a podcast, which I do every
+morning almost, and I hit something that
+clicks. If I'm listening to Raul and
+Julian, and you guys say something,
+which is literally what happened, you
+guys, I I took the paper I wrote has you
+guys referenced and it has two quotes
+from you, two literal quotes. I paused
+it. I speak it into Whisper Flow. It
+goes into notion, but then I'm like, you
+know what? I need to write a draft of
+the paper right now. So, I pause the
+interview and as I'm walking, I now
+shift over to ChatPT and I say, "Okay,
+we're going to write a five paragraph um
+paper real quick." So, I have an
+outline. I want the first paragraph to
+be XYZ. I want you to fill in enough of
+it. There are the thoughts I have.
+Paragraph two. And I go through this
+whole thing and it's a technique I
+learned um from a movie producer on how
+they write screenplays. And it's like,
+yeah, movie when you watch it, it's
+think of it as 60 90 second um
+increments. And if you're going to write
+a paper, you should think about nine
+paragraphs and then just kind of write
+each paragraph at a time and then go
+back and edit it. And the only way, R,
+that I think people can actually get
+good at this is they need to buy the
+best iPhone. They need to buy the best
+computer. They need to buy it. They need
+to use it. And then when the new stuff
+comes out, they need to buy it and treat
+it as education. And education costs
+money. And if you're not learning how to
+use it now, I don't know if you can
+catch up. I really don't. This is not
+going to be the software age. It's the
+one thing I haven't heard anyone talk
+about and I'd love to hear your opinion
+on it. I figure out new ways to change
+the way I'm using AI. It will never be a
+button. There will never be like a
+format way that you everyone uses it.
+Everyone will use it differently. And
+for me, I really do use it walking. I
+use it thinking. I use it in the car. I
+use it on the plane. And then I use it
+on my Mac Mini. And they're all running
+at the same time. I think to do that,
+you have to use the technology and
+different devices.
+>> Yeah. What it is doing is creating
+friction. My girlfriend's like, "Yeah,
+you and Claude." It's like, because the
+problem is is I'm on a plane, I come off
+a plane.
+>> Yeah.
+>> I I get up to my desk and I've got, you
+know, I'm I'm doing everything. I'm I'm
+writing essays, getting notes, building
+stuff, analyzing stuff, doing my
+personal life stuff, and it's all in one
+thing,
+right? Intelligence is not software.
+Intelligence is intelligence. And it can
+have any output that you want or any
+input that you can give it. And that's
+why it's it's so unique in what it is.
+It's not like, oh, I use, you know,
+whatever software tools. It's none of
+that. It's not like using zero to do
+your accounting. It can be everything
+and and anything or nothing depending
+what you do.
+>> Yeah. Do you do you watch TV much? Uh, I
+do in the evenings because I need to
+because if not I'm I'm not sleeping a
+lot because I'm like I can do this and I
+can do this and I can do this and I can
+do I'm like for [ __ ] sake I need to
+stop this.
+>> So I'm I'm I'm the same way and maybe
+it's an hour a day. Um it's never during
+the day. Like sports
+>> sports has become like a lost thing for
+me because it's like three hours and I
+think about how much time can go on in
+three hours. Like it can just go. You
+end up on the sofa on your [ __ ] you
+know, chat to your PT thinking, I've got
+an idea. Yeah, it's bad. So, so go back
+to the first time that you talked to
+Standiller, the first time that you
+talked to Paul Tudtor Jones and the
+feeling you had of knowing these people
+um from a myth and then speaking to them
+and realizing I love talking to them
+because I'm learning something and
+they're unique thinkers and with ghost
+the problem is in the way you describe
+it and so people realize I always view
+the LLM as the smartest person I've ever
+met and that means that why wouldn't I
+just love every conversation and if I
+I want their opinion on anything.
+>> I know, but that's, you know, but it's
+before you know it, you know, it's the
+main thing you talk to and it's like
+it's Yeah, it's it's complicated. Let's
+put it that way.
+>> Not not for insatiable learners who ask
+questions and constantly want to.
+>> It's incredible. I mean, it's
+incredible. It's just, you know, it's
+the most amazing thing you could ever
+imagine. You can't imagine anything more
+incredible than somewhere in this cloud
+above us is this super intelligent being
+of which we get to talk to and it gets
+to help us. Um, and maybe we're helping
+it as well. And it's like it's wild.
+>> Yeah. And I guess that's where you and I
+are at this stage. And I know most of
+the people I I talk to in my in in my
+life. And a lot of them, it's shocking
+how many people that are a part of my
+regular communications that are people
+I've met either through you that were
+connected back to me. Um, one of the
+people which I'll just mention, Tad
+Smith, is a very close friend at this
+point. I love him to death. Um, I love
+>> And you had you had um my my spy tells
+me, didn't you just have um she saw Alan
+Howard the other day as well?
+>> I did. and and Allan Allen's become um a
+good friend as well and someone that I
+like to brainstorm with on on on a
+regular basis.
+>> Super Alan's super smart. He's a great
+guy.
+>> He's super smart because he has the same
+affliction I do, which is ADHD, meaning
+he likes consuming lots of information
+and can bounce from topic to topic. Um
+Tad's a little bit more organized in in
+in his thoughts and and that's why he
+was CEO of of of major places. But the
+reason I bring him up is uh a lot of the
+conversations I have have come through
+you and that just means it's it's
+curious people that are using AI and in
+particular I love people in their 50s
+and 60s that are using AI because
+they're bringing domain experience.
+They're bringing having people work for
+them because if you've had people work
+for you and in my 20s I opened an office
+for Morgan Stanley. I've had hundreds of
+people reporting to me since I was in my
+early 30s.
+At some point you get frustration, you
+get happy, you get disappointed with the
+employees. That never happens with AI.
+It's always some amazing experience that
+I blame myself. get frustrated
+sometimes, particularly when they're
+about to change a model and it's
+unearthing it and it's like it's out
+output suddenly becomes really dumb and
+it's so frustrating becomes lazy because
+they're obviously training transferring
+the inference over to a new cluster and
+uh that it gets so insanely angry and
+then but you know what's coming it's
+like Christmas because you're going to
+get a new model. C can we can we talk in
+the in the the final minutes of this
+about how much and I don't know if
+you've thought about this. So when I
+brought up Eli Liy, the reason I I care
+so much um about longevity and about uh
+the concept of people
+not being sick is because whenever I um
+hear people talk about government debt,
+there's two things that I always
+they just blow my mind. Um the the US
+has $ 38 trillion, $40 trillion of of of
+debt. Great. The total net worth of
+households in the country is $180
+trillion. So I I always hate the fact
+when the balance sheet isn't brought
+into how small the problem is. And that
+that has bothered me forever. But the
+second thing is when we get into the
+entitlements and this crossover point of
+when it's going to be bankrupt and I go,
+well, how much of those dollars are
+related to health? how much of those
+dollars are related to have you thought
+about um the impact that AI is going to
+have on both the debt and the
+entitlement situation?
+>> Well, the debt is simple because debt is
+a percentage GDP collapses, right?
+That's the economic singularity idea. So
+I don't worry about the debt and you
+know and I think this the whole
+singularity when it starts really
+changing the economic formula 2030 that
+was my guess three three years ago and I
+think it's going to be spot on. So that
+feels like that the longevity side it's
+a mix right I think you're right um is
+that the entitlements go down which is
+intelligent solving for the problem of
+the entitlements
+but
+what do you do with an old population
+and how do you retool them to do things
+that they feel is productive now doesn't
+have to be productive as in terms of
+economic units but it needs to be
+productive as in community or whatever
+it is that's still quite hard to for
+them to figure out what you do because
+don't forget the whole mindset is I do
+this then I retire then I do that and
+you kind of it all blurs into one it's
+already been blurring for a while
+because everyone's working from home so
+what is a job and you know and then when
+you when you're having so much fun as
+well the whole job disappears you're not
+reporting to the guy and having to wear
+a suit so we're merging that way already
+you know what is a what is a podcast on
+YouTube it's you know it's it's somebody
+whose job is to get attention from other
+humans and entertain them whether it's
+by curiosity or whatever it is that
+that's a purely post AAI
+um job really.
+>> Mhm.
+>> So I don't I don't know about the
+longevity side because it it's it's
+somewhat complicated because there's so
+many unknowns but I hadn't really
+thought about the entitlement side but
+it but it makes a lot of sense.
+>> Yeah. I the I I I I spend a lot of time
+on this and I think the reason is I
+don't know if you have or if you've if
+you've ever seen the book The Daily
+Stoic by Ryan Holiday.
+>> Yeah. Yeah. Yeah.
+>> Oh god. Um
+>> he's even been on Real Vision.
+>> Oh, has Well, I I I think the book is a
+must own for all human beings. And I I I
+will never say that about any book.
+There's not a book I've read that I
+think all human beings should should
+read. But the reason I say all human
+beings is if you think your problems
+like worrying about what you would do if
+everything is free or if there's no jobs
+wondering what you do. I mean just go
+back to reading a book where Marcus
+Aurelius thousands of years ago is
+talking about the same anxiety. It's
+just a different form of it. Human
+beings have anxiety and they will always
+have anxiety. They will always worry
+about what if this then what will happen
+um type thing. There's people that lose
+their arms and then they're playing
+golf. There's people that, you know,
+every single thing that human beings
+need to overcome over time, they have
+figured a way to, not all people, but
+people have the ability to kind of find
+it. And the Daily Stoic has always shown
+me that I'm not trying to I I never
+think the problem of this will happen
+and people won't adjust to it. I know
+they will. The debt problem I completely
+um agree with you on. I don't know how
+much you've been talking with people on
+tokenization. And I know I've listened
+to some interviews recently where you
+where you have, but I was just at the
+New York Stock Exchange and I said to
+everyone, do you understand that 2/3 of
+the assets in the world are illquid? Um,
+tokenization for everything that people
+are looking at, we're going to bring
+transparency, movement into dormant
+things. Twothirds of the money that has
+gone into assets doesn't move. real
+estate, private credit, private equity,
+venture capital, all art, memorabilia,
+like it doesn't move. Now you're going
+to have movement, velocity. So GDP by
+definition, just because of velocity has
+to go higher. So I agree with you on the
+debt side. That's why I've started to
+focus more on the entitlement side and
+what it means from a political basis and
+what it means for crypto in general. And
+so tokenization has been kind of the
+thing that has really entered my mind
+with this longevity thing because
+demographics are obviously highly
+attached to them to to the entitlements
+but they're also attached to the
+ownership of assets and that's where
+tokenization comes into.
+>> Another thing that I've been thinking
+through is uh I wrote a essay and a bit
+series of essays around something I've
+called the invisible economy which is
+basically the agentic economy.
+>> Yeah. But how I got to it was Ribbit
+Capital, Mickey Mala um and the team had
+written an essay about tokenization of
+everything in token factories and how
+they think about token is a machine
+readable packet of information whether
+it's a financial transaction. I mean,
+even blockchains aren't financial
+transactions. Only Bitcoin is. They're
+just they're they're they're recorded
+packets of digital information. And you
+know how much Google I think Google what
+did they what did they create or
+process? I can't was like 13 no 30
+trillion tokens last year or something
+stupid, right?
+>> Yeah, we're in quadrillions now for
+sure.
+>> Quad whatever it is. It was like a
+stupid number. Um, but anyway, what I
+realized is for to feed the beast as I
+call it, you know, the whole AI
+superrains, all of them, however it
+comes, you need more and more
+information to get smarter.
+>> Yep.
+>> And we're going to suck in all of the
+information.
+Everything, every single piece of
+information that can possibly be
+digitized will get digitized and used to
+train AGI to turn into ASI. That's every
+piece of scientific data, every single
+thing from any university, any single
+piece of information. All of this is
+going to be an agentic economy that's
+invisible to us. There will be well,
+we're already seeing it, right? API
+calls, MCPs,
+right? This is the start of the
+invisible agentic economy where the
+marketplace and what I'm trying to get
+to to your point, the biggest
+marketplace on Earth is not going to be
+the assets and stuff that humans have.
+It's the It's the data that the AI needs
+and we don't see any of it. You just
+plug in your thing to your vault. Yep.
+>> And you can monetize it and you can be a
+university, you can be whatever for
+source of information. You know, all of,
+you know, we're seeing people like John
+Deere connecting all of the tractors and
+getting all of the information. We're
+seeing all of these companies creating
+massive, massive amounts of information.
+Um, and that we won't even see. It'll
+generate money for whoever it is that
+it's probably an AI agent
+>> by other AI agents who are connecting
+with them, taking all of these
+transactions in real-time speed. And
+I've been telling people this is the
+biggest marketplace on earth and people
+don't not even ready for this yet.
+>> No. and and I I will um I will give you
+a lot of credit being in the seat you're
+in um being making calls going out and
+having to deal with people's impatience
+on um how this all plays out and how how
+long it takes particularly in the crypto
+community and as you were speaking about
+this hidden economy I I I remember you
+in the conversation with Julie and you
+getting into this and so I've started to
+kind of pick apart the concept of
+bubble. Um because bubble is a very
+weird thing and it's very hard in
+exponential because it's price and time.
+And so like when you're talking about
+you have to be patient. I'm now going
+the other direction. I'm going if you
+don't want to be patient that's fine.
+But if you're seeing a bunch of parabas
+don't think of it as as a bubble break
+bubble down. That means you're seeing
+sticks. That means things are going up
+fast. So they're going up high and
+they're going up fast. And the problem
+is when you look at the mag seven and
+you go, well, they were a trillion
+dollars in in 2010
+and now they're 20 some odd trillion.
+Well, if that had happened in one year
+that you'd call it a bubble, but it
+happened over 15 years, so it's not a
+bubble, but it's a 20 bagger, it's a 30
+bagger. So why is it any different? You
+just think that if it happens too fast,
+that's a bubble. And I think people that
+is the problem is people don't
+understand time both from the bubble
+side but also from the patient side.
+>> And you know what's been hilarious is
+earnings have kept pace.
+>> Yes.
+>> With the stock growth. Right. In fact
+P's have come down. And that's and
+people don't want to see that. It's like
+you know we've got hockey sticks going
+on in ways that we have never seen
+before in literally everything.
+>> Yeah. And I'm sure what's going to
+happen is they're going to consolidate
+now and then they'll go up again. And
+you know what a six-month consolidation
+looks on a hockey stick that then hockey
+sticks again. When you pull it out, it
+still looks like a hockey stick. So for
+everyone who's going through this, it's
+like we're caught in this human time
+warp of looking at things and things
+that move fast we assume can't be true.
+And I was listening to a podcast this
+week where sometimes the the the
+brilliance comes out from people that
+are not that educated, but what they're
+doing is just paying attention to
+everything they hear. And they called
+this I think the smarter you are, the
+more you know, the worse you are during
+this time. I think actually knowing a
+lot like having the history in the back
+of your mind, your brain is taking this
+pattern connecting it to too many other
+patterns and even though when people go
+this is like the.com bubble, this is
+like 87, this is like, you know, 1929
+and I look and I go that's three data
+points. I don't make decisions on three
+data points. You're going to have to
+give me more on this because if you're
+wrong, you're missing out on the entire
+thing.
+>> And so how you and I would understand
+this is those people have a bloated
+context window. And what happens is
+>> that's exactly right. I mean once you
+realize it right you know when when the
+LLM's compressed that's what we do we
+remember certain things and it gets more
+compressed over time this context window
+that's the mid curving you're putting
+too much context into the thing and what
+happens is you're drawing false
+parallels or misunderstanding or not
+reading what it is and often to to left
+curve it what you know how I got into
+using clawed code because I was scared
+of it was I'm just like listen I have no
+[ __ ] clue what I'm doing so just just
+bear with me.
+>> Yeah,
+>> work fine.
+>> As opposed to I need to know how to do
+this. I need to know. I'm like, I have
+no clue. So, just understand that. And
+then occasionally you'll stop it and
+say, I don't understand what you're
+talking about. Sorry. Okay, I'll come
+back to you.
+>> All right. So, let me get your opinion
+on this because I think everyone wants
+to hear this. I think they want to hear
+us talk about this. Um, so when earnings
+are this good, it's very easy for people
+that are traditional investors to then
+look at what the PE is, what the growth
+rate is, and they can justify buying
+things at any price. When earnings are
+great and they're this good, it's bad
+for things that are narrative based,
+it's bad for Bitcoin, it's bad for
+crypto because there is no way to take
+the same thing. So, it's not just the
+attention in my opinion as to what's
+happened. It's the fact that for this
+period of time, which I believe is a
+small period, the one thing I believe
+has happened is this is like a gap
+higher in AI because in the end of last
+year, nobody was on top of the
+importance of Opus 4.5. That was the
+official gun going off for the agentic
+world. The agentic world is a broadening
+out in what it needs. It brings in every
+semiconductor. It's not just GPUs. It is
+movement. It is so many things. And so
+if overnight there was a
+pre-announcement and the earnings were,
+you know what, we're saying the earnings
+are now going to be up 28%
+year-over-year, well then the stock
+market gaps up, all the semi-names go up
+immediately and you have this place. The
+problem is for things that are narrative
+based that don't actually work in the
+traditional world is then they lose
+interest to people because they have so
+many things to buy. I think we've now
+built in um because it was such a
+surprise the agentic thing to so many
+real investors. I've talked to trillions
+of PMs that manage o combined over
+trillions of dollars. I'm telling you,
+they were caught off guard by the
+agentic rise. They're not caught off
+guard anymore. Now they're fully on
+board. They get it and they're probably
+a little bit ahead now and the earnings
+will now be good, but they won't be five
+times what people expected. And that
+means we're should be a rotation. And
+that's why I like the longevity themes.
+I like the application for the software
+for Eli Liy and for stuff like that. But
+I also think this is where crypto and
+where a lot of the commodity based
+stuff, the bottlenecks, the shortages,
+and there's the normal rotation where
+people look for other things. But I'd
+love your opinion on when earnings are
+great, you don't need crypto. What
+happens when earnings are now a
+two-sided market?
+>> Yeah, I think look, everything is
+attention and capital, right? And this
+there's simply not enough liquidity
+to drive these massive mega stocks to
+these levels. there's not enough
+attention to be broadly spread which
+actually creates opportunity. If you go
+back to the 1995 to 2000 period, it was
+rolling as well. It wasn't just one set
+of stocks, right? It wasn't just
+Microsoft. It was a whole bunch of
+things that moved over different periods
+of time. So, I think we'll see that. And
+I think what you're suggesting I think
+is really interesting is that the
+bottlenecks themselves may slow the
+earnings of these companies. Not because
+the demand is not there, because the
+demand is too big. Okay, that's sort of
+bananas, but that's what we might get
+to. And if that happens, you'll they'll
+they need to correct or trade sideways
+for a while and digest and all of that
+and that's great and the market's focus
+will move and the applications layers
+one and crypto to me is I mean it's so
+obvious and it remains obvious because
+of the agentic economy, the need for ID,
+the need for all of the things from AI
+alone, let alone all the other
+attributes of of blockchain technology
+that that doesn't go away. And I've been
+really hyperfocused on the layer ones,
+not just stuff like hyperlquid because
+that's for me midcurving it because
+people are looking for cash flow and y
+>> buybacks. It's like because they want it
+in a bucket that they understand because
+as you're saying it's working in the
+real world too. Um and other things
+haven't been. I think that will that
+will all change again. Um the other
+thing is I don't know if you saw Chimath
+had written that whole
+article on X about how these software
+long duration software stocks were
+contract
+>> and basically you read this very long
+piece and what he's made the assumption
+of is in a world where
+all software goes to zero basically is
+what he's saying it has a threeear shelf
+life.
+>> Mhm. He's like
+he's actually using current interest
+rates for that assumption but in that
+world interest rates are zero and so
+duration doesn't matter still. So I
+think it's just attention focus and
+people trying to understand you know
+what
+there's a lot of people interesting
+enough buying SAS companies to use AI to
+rebuild them and there'll be a bunch of
+them won't happen. So yeah we're going
+to have a bifocation of stuff. I don't
+see it going away because what what are
+we what are you and I doing all day
+plugging our [ __ ] AP our ais into
+APIs of all of these things right
+there's no point rebuilding zero if you
+need to do accounting just get your claw
+to talk to zero and do the accounting
+why would you why would you rebuild oh
+I've built my entire own accounting
+engine that's stupid
+>> so let let let's everything you said
+there so chimas thing on terminal value
+I I wrote about let's go back to what
+you said about the bottlenecks and the
+interesting part So it the the AI world
+is is a commodity world. This is a
+hardware trade and in commodities they
+don't speak in the way that we do with
+software and we go through it. They
+think in volumes. So it's it's a volume
+thing. It's how many did you sell? The
+price is the after effect. But it's all
+about barrels of oil. It's about how
+much did you sell. My guess is with
+bottlenecks you just you don't sell as
+much because you can't make as much. And
+so the production of these things is
+going to be more difficult. The other
+thing is to make a semiconductor you
+need and people have realized you need
+NAPA, you need helium, you need a lot of
+petrochemicals not just in that you need
+them for lithography. You need
+everything to happen to be able to build
+everything. And so if there's a
+bottleneck you could extrapolate this
+bottleneck. You and I both know the
+algorithmic side and the agentic side
+could make all of the investment. The
+capex numbers may never happen to the
+degree that people think because we
+could solve for that. So there could be
+a bubble on that. Here's where the issue
+comes in in the second part of what you
+brought up. I always believed and I
+first said this at um the your event in
+Miami last year, not the one this year,
+but I said, "Guys, the third wave of
+crypto, I already know what it is. Two
+things have to be happening. One is once
+the AI physical infrastructure is being
+built for the agentic world and we hit
+that trigger point in the agentic world,
+we won't know 3 years from now whether
+we're at AGI or not. We won't know which
+companies will be around." And that's
+Chimas's point on terminal value. What I
+do know will be here is the financial
+guard rails, the transactions, the
+velocity of money, all of that will be
+happening. The beauty of the financial
+guard rails in crypto, we're back to
+software again. We're just a different
+it's a different kind of software, but
+it's about the transactions. And so, if
+the physical hardware side becomes, I
+don't know if this is going to happen or
+whether we actually need as much as I
+thought we did. Well, then we get back
+into the cyclical side and people start
+looking for I need something safe. I
+need software. I need things that don't
+need the physical world that are based
+on volumes and seats and well that's AI
+agents. And so I've always believed that
+the third wave is an Elliot wave person.
+Number one, you had to get to a point
+where everyone was dumping crypto which
+is where we are. Number two, they had to
+miss the obvious which is the financial
+guardrails are necessary for these
+consuming tokenhungry digital employees.
+And we need that the the world that
+they're comfortable with. they start
+questioning if these are good
+investments and tokenization needs to
+come to make them more liquid to where
+that money can leave this massive $400
+trillion and start to enter the crypto
+world. So I actually believe that this
+is the most important point for people.
+It's the patience point. We are now at
+the bottleneck stage and the longer it
+takes to fix a bottleneck rly is that we
+come up with innovations along the way
+that we don't need the entire capex
+buildout and so you could get these
+multiples to come down. And so that's
+what I think is going to happen is we'll
+start questioning it at some point this
+year or into next year.
+>> Talk to me about the IPOs because this
+is on people's mind. How you thinking
+through this? I've been spending a lot
+of time thinking about this as well. How
+are you thinking about it?
+>> Well, first thing is Google's um
+decision to do this is clearly in my
+opinion a a fight for finite amount of
+capital. Um you've got massive IPOs,
+three massive IPOs coming to the market.
+uh where you could see $4 trillion there
+uh coming in. You had Cerebras come out
+and the stock is already down 50% from
+where it is, which is fairly normal for
+any IPO. Um but I think you're getting
+these raises at a time which says that
+number one, people need a lot of capital
+for this buildout. Number two, the
+credit markets and the debt markets are
+being used by the companies that can do
+it. And if I was Google and Goldman
+walked in and said, "Hey, OpenAI and
+Anthropic are not going to be able to
+raise debt. You should go hit their
+market because they're going to tap into
+that. SpaceX can't go borrow any debt.
+So, hit the equity market, get your
+stuff done, and then continue with the
+debt markets. But, you might as well do
+that now." So I think the IPOs are very
+likely to be some sort of a not a top in
+the market but probably a peak in the
+infrastructure capex trade for the time
+being rather than say the S&P is going
+to trade lower because I can see
+software I can see a lot of things
+starting to do well. I just think in
+general this might be a peak in the
+capex trade.
+>> Yeah I think it'll there's going to be
+some outcome. you can't have this much.
+Although there is a bit of an engineered
+short squeeze in stuff like SpaceX
+>> just by the how it's included to the to
+the NASDAQ. So I'm not sure. I just
+think volatility seems to be the easiest
+answer to that. It's like it's not going
+to be as easy for a bit because we're
+going to need to digest a lot of
+capital. People have to recycle capital,
+you know, because if you think about it,
+there's a whole bunch of people who made
+a [ __ ] ton of money. They're going to be
+able to realize some of their gains.
+Okay, great. So they realize some of
+their gains. What are they going to do?
+Reinvest into something else.
+>> So this the capital gets recycled in the
+end because why not? This is the world's
+great I mean this is the greatest trade
+of all time. It's all happening in front
+of us. So for people listening, R and I
+have been involved in the same market
+for a long time. So he used a word that
+I used in my paper today. So for people
+that are technicians, they'll say
+consolidate. For people that I think pay
+attention to investors and supply and
+demand, digestion. And the line I used
+in my paper was we just had an AI capex
+all you can eat buffet and it just it's
+going to end with the IPOs. It's not
+going to go down. This is not the end of
+the market. But we need to digest
+everything that just happened for 3 to 6
+months. So
+>> it could be sloppy and it could be
+frustrating for people. But capital will
+rotate the moment it happens. Yeah.
+People realize that the underlying
+growth of this whole thing this mega
+secular the mega secular trend is not
+going away. So therefore people will
+just go for the for the next phase
+whatever it is whether it's crypto you
+know if the if Nvidia and all of these
+companies stop going up probability of
+crypto going up goes up much faster.
+>> Yeah.
+>> For example
+>> did you think when the um ET the Bitcoin
+ETF was launched that we'd see a similar
+type thing that after the initial
+enthusiasm we'd go through a period of
+digestion.
+>> Yeah. I mean we've seen that before. We
+saw it with gold the gold futures market
+and we've we've seen this you know it's
+a it's a lot because you forward load a
+bunch of demand basically is what it is
+and need for the wait for the the
+underlying trend of demand to continue
+and you know capital can only be created
+via either the markets going up and
+people cashing out or by liquidity
+expansion and that's only expanding at a
+certain pace. You know global liquidity
+is expanding 10% a year. So it takes a
+while if you take out if you forward do
+a year's worth of capital. It's going to
+take a year to catch up.
+>> And and the reason I asked the question
+is because if you would have gone back
+in hindsight before 2024 and said,
+"Okay, so the ETF launch is going to
+happen and oh by the way, the president
+of the United States is going to support
+crypto and all of that happened within a
+one-year period." You would expect that
+that was kind of like a a a digestion
+event. That would be a sell the news
+event. And so whenever I look at crypto
+and I see people, I'm like,
+unfortunately, you come out of a bare
+market, a horrible bare market in 2022.
+And then you get this enthusiasm of
+finally we're getting this ETF and then
+you get a president and at inauguration
+he issues a meme stock and all of a
+sudden now if you could have written the
+book, you would have said, I think we're
+going to be in a painful period. And I
+think it actually clearly the the
+altcoins and a lot of the ecosystem did
+not do as well as Bitcoin did during the
+period, but I think everyone would would
+admit looking back that those events
+probably justified some sort of a
+digestion period. And I think that's
+what crypto has been going through
+personally.
+>> Yeah. And in the meantime, you know,
+like you, I'm an observer of the
+underlying trend. The underlying trend
+is every single bank and financial
+institution I have spoken to.
+>> When I go to the big I went to consensus
+in Miami, no retail.
+>> No. And it was a lot of people.
+>> Yeah.
+>> I don't know how many 15,000 people. Not
+retail.
+Yeah. Well,
+>> they're still out there, Ro, because I I
+left yoga this morning at at 7:15 and
+these two very nice women, uh, I'll give
+them a shout out, Jessica and Patricia,
+they they saw me and they went, "Hi,
+Jordy." I went, "Hi." And they went, "We
+we follow you." I went, "Oh, that's
+great." And they went, "This is a sign
+we need to buy today." They're still out
+there. They're just waiting for for new.
+>> I'm not saying they're not they're not
+gone, but it was really interesting
+these big events.
+>> Yeah. Um well also because retail
+haven't made money and the ticket prices
+are still expensive whatever but you
+know but there's a transition I mean
+look at the the the rise of stable coins
+look at the rise of what the financial
+institutions doing look at the
+tokenization of everything and you just
+see what the underlying trend is if you
+created excess capacity in blockchains
+as you like we did with cloud and
+everything else is the moment you
+consolidate into five things that matter
+you consolidate the capital you then
+building huge demand for block space via
+these things. You know what the answer
+is going to be? Is number go up? I mean,
+it's
+people unfortunately got too used to
+short-term trading
+um that they've lost the wood through
+the trees.
+>> Yeah. Which again, that's normal. I just
+I find the traders in in this world that
+I know are crypto, they move on to other
+things and there's other things to to
+make money on. My father trained me in
+handicapping horse races and he used to
+always say if the odds aren't in your
+favor, wait till the next race. And I
+think if you break markets down by what
+race are we in right now, the crypto
+race is not a race that people have been
+enjoyable. I've said to people now that
+there's no way to refute it. When you
+fail at a moving average or you fail and
+you keep having these lower lows and
+lower highs, it's a bare market. There's
+no other way to do it. I want to see us
+break a moving average and I want to see
+on the flip side the capex trade not be
+working and everyone looking for a new
+place to play the trade because if I'm
+right and this is the third wave. I
+learned a lesson from from both Paul and
+Stan when I read Market Wizards when I
+was a a younger person uh still in my
+20s and they both said read the Elliot
+wave book and I still to this day read
+it every single year. Now I use AI to
+kind of go through and have a chat with
+it. But I'm a big believer in in third
+waves or when you make lots of money.
+And I was lucky to catch one in Micron.
+I'm lucky to catch one in Marll. I'm
+waiting for it to happen back in crypto.
+And for everyone who's watching third
+waves, go look him up. You want to be
+involved in that. It could be called the
+banana zone, but it's still uh still
+been banned. Listen, Jordy, a fantastic
+conversation as ever. Um, it's just I
+love these check-ins because we just are
+parallel interlocking paths and then we
+just get a chance to check in what each
+other's up to and what they're thinking
+about. I love it.
+>> Love it as well.
+>> All right, my friend. See you soon.
+>> See you soon.
+>> So, another great conversation with
+Jordi. There's not much more to say
+really than you can see how much
+disruption is happening, how fast it's
+happening, and how complex it all is.
+But also, there's probably still
+opportunities in all of this. the great
+ro rotation when it happens if it
+happens if people move away from the
+magnificent 7 and start looking at
+lagards well there's the whole
+biological revolution going on there's
+whole applications layers what's it
+going to do to the SAS industry we don't
+know but we're going to find out and
+when does crypto catch up as well
+because I know people have given up hope
+but normally that's the right signal
+when things change so anyway keep your
+eyes on it all nothing is nothing
+remains as it is this is the exponential
+age after all. That's when everything
+goes exponential. See you next time. So,
+you obviously like this video enough
+that you've got to the end. That's quite
+a big task. But listen, do me a favor.
+Hit the like and subscribe button and
+also check out what videos next cuz I
+think you'll love it. But if you want
+even more and when I'm talking more, I'm
+talking about membergenerated ideas,
+incredible alpha research, everything
+there to help you in your journey. Just
+head to realton.com/join
+for the best financial intelligence out
+there and the pure alpha that's within
+the platform.

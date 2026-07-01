@@ -1,0 +1,523 @@
+Bitcoin's price dropped 50% and when it
+looked like it was recovering, it
+started dropping again. Now, right now,
+everybody's asking the same question,
+like, where's the bottom? But, that's
+the wrong question and that question is
+going to cost you because while you may
+be asking the wrong question, there's a
+[music] different question that's not
+based on guessing, chart analysis, but
+actual data behind it. And that shows us
+the repeating pattern over the past 15
+years and it's telling us what comes
+next. Now, understanding this is the
+difference. So, in this video, I want to
+break down what signs we're looking at
+to find the market tops and the bottoms.
+We're going to look at the charts and
+the on-chain data in three signals and
+the one line that's been proven to be
+the best entry and what type of returns
+it's produced. So, let's go.
+All right, it's time to uh look into
+that fuzzy crystal ball and see where
+Bitcoin's price is going cuz uh
+everybody's asking me, "Mark, should I
+buy now? Is it going to keep crashing?
+Is it going to go lower?" All these
+things. Well, I don't like to run my
+business off of my gut or my guesses and
+I don't want to
+run my money or my investments off my
+gut. Let's look at the data behind that.
+Okay, now, what
+what everyone's asking is when will the
+bottom be? They want to catch the very
+bottom. They want to catch the floor, if
+you will. And so, is this the bottom?
+Has the bottom come in? Will it go
+lower? Well, as you probably heard
+before, hindsight is 20/20. What that
+means is like, obviously looking
+backwards, it seems so obvious, but it's
+never obvious moving forward. So, what
+does that mean? What that means is that
+we don't know tops or bottoms until we
+look backwards on them. We can make all
+types of guesses, but we don't know
+until it goes up and until we look
+backwards. And part of the reason why is
+as we're making new all-time highs, it
+goes like this. Or even if we're
+crashing, it goes like this. And so, we
+never really know, is it going to be
+another bounce? Now, there's a lot of
+data we can look at. I'm going to break
+it down for you right now, but we don't
+know for certain until we look
+backwards. So, since we don't know the
+exact top or bottom, we have to look at
+the data around it and more specifically
+what we're looking for is understanding
+what actually drives tops and bottoms.
+Okay, so it's super simple. I'm going to
+break this down for you just like price
+is super simple. Supply and demand
+imbalances there. Okay, so what drives
+tops and what drives bottoms? Pretty
+simple.
+What drives the top and what you'll
+notice is markets especially like
+Bitcoin typically gets like this run up
+and then it gets like this parabolic run
+and then what we call a blow off top.
+And the reason why is because it starts
+attracting more and more buyers because
+humans are real simple. We rush to
+pleasure. We run from pain. So as the
+price is going up, we hear about
+everybody getting rich. More people buy.
+More people buy. More people buy and it
+starts sucking in more and more and more
+and more and eventually the market runs
+out of buyers. There's no more buyers to
+buy. And so the price stalls out and it
+can't maintain that that pace anymore.
+Then it starts to roll over and because
+humans also run from pain, um the ones
+that don't believe in it were the last
+ones to buy, they start selling and it
+pushes the price back down. So markets
+go stop going up when it runs out of
+buyers and markets also stop going down
+when it runs out of sellers.
+Pretty simple, right? So if we can
+understand the buyers and sellers,
+that's a really big key a really big
+piece. We're going to look at that
+specifically. So that's what we can use
+to measure it. Okay, now I'm going to
+I'm going to show you a bunch of data.
+Um there's a lot more data than what I'm
+going to show you, but what I'm also
+going to show you is there's one line
+that we've looked at that's pretty
+consistent time. Now don't run your life
+or your business or your investments off
+of one chart or one indicator, but this
+one indicator is super reliable. It
+boils it down so you can follow along
+pretty simply. Okay, let's take a look
+at this. So
+the first thing is markets stop going up
+when there's no more buyers. Markets
+stop going down when there's no more
+sellers. So when will the sellers be
+exhausted? That's what we're looking at
+right now cuz obviously the markets are
+going down. So we want to know when do
+we run out of sellers? Well, there's
+three signals that we're looking for to
+find the exhaustion in the in the base.
+Okay, so number one, when when we see
+that half of the market, so we can
+understand, so just if you're new to
+Bitcoin, because it's an open
+blockchain, it's an open ledger, we can
+see the data. So we have what we call
+on-chain data. So we can see wallets, we
+can see what wallets are doing, moving,
+how long those wallets have been
+dormant, all types of things. And that
+gives us a lot more data than we
+typically get in normal investments.
+Okay, so when we can see that half the
+market is underwater, that typically
+tells us that sellers are starting to
+get exhausted. So we have this chart, by
+the way, these charts right here from
+Blockware, shout out to my friends over
+at Blockware, self-hosted mining. I do a
+lot of work with them. But what we see
+is that percent supply in profit. So
+what we can see is that when the bottom
+part of
+the the bottom part of the holders are
+below 50%. So this white line is the
+Bitcoin price,
+and this green line is the percent of
+the Bitcoin holders that are in profit.
+And as you can see right here, anytime
+we get down to this zero line, we're
+below that level. And so you can see
+back here in 2022, that was the last
+Bitcoin low, the last bottom cycle that
+we had, you can see where it got here.
+Same thing here, back in 2018 at the
+bottom of the market, same thing back
+here in like around 2015. So you can see
+we're sitting on that line right here
+again today. So we can see that sellers
+are starting to get exhausted as we can
+see it in this chart. Okay, there's
+another way we can do this. We want to
+look at the Bitcoin miners. So the
+Bitcoin miners, of course, they process
+transactions on the network, they earn
+Bitcoin rewards for doing that. And so
+they stockpile, they hoard, they hold,
+hoddle a lot of Bitcoin. But when they
+start capitulating, meaning they're just
+out, they're selling their Bitcoin,
+that's usually a sign that the sellers
+are being exhausted. Why? Well, one of
+the reasons is because they're one of
+the biggest holders of Bitcoin. This is
+the hash ribbon. So the hash is the hash
+power. So the computers, it measures how
+much power, how much mining power is on
+the network. And what we can see again
+here, if we go back to 2022, we can see
+this capitulation right here in this
+market low right here. If we go back
+here
+in this market cycle, we can see it
+right here as well. And we go back in
+2015 and we can see it all right here.
+And as you can see, just like this area,
+here we are below the line, we have a
+lot of minor capitulation. Again, the
+some of the biggest sellers that we have
+are now capitulating, they're selling
+their Bitcoin into the market. Then we
+have strong hands flip. What does that
+mean? We call strong hands the ones that
+don't hold. The weak hands are the ones
+that buy and sell very quickly. So, when
+we see the strong hands flipping, that
+also gives us an idea. So, we can take a
+look at it like this.
+This is the long-term long-term holder
+position change. And what we can see is
+obviously the long-term holders are
+selling and then the long-term holders
+start buying again. They sell it, they
+buy back out. Maybe they know something
+we don't know, but we can see how this
+has played out in 2022 as the as the
+price came down right here.
+We can see they were selling, selling,
+selling and they started buying, buying,
+buying. Here we can see that they were
+selling, selling, selling and now we can
+see they're buying up again right here.
+So, they're flipping. They went from
+selling and now they're stopping selling
+and they're starting to buy. So, what
+does that tell us? No more sellers. So,
+the big long-term strong hands aren't
+selling, the miners are sold out,
+they're capitulating, and the market's
+underwater. So, that's three signals
+that typically show us when the market
+is being exhausted, when we're running
+out of sellers. Okay, so next we'll look
+at the line. Again, there's a lot of
+data points, but this one line has been
+very reliable over long period of time.
+So, if there's one line I'm going to
+watch, it's going to be this one. Again,
+watch it in conjunction with others.
+Now, what am I talking about? I'm
+talking about the 200-week moving
+average, okay? So, this is basically
+averaging out the last 200 weeks and we
+can see this line right here is
+represents that average and this is the
+Bitcoin price. And what we can see is
+back here in 2018, it touched the line.
+2020, it came below the line. In 2022,
+it sat below the line quite a bit. And
+we can see we're just below the line and
+just on it right here. So, what does
+this represent? Well, it tells us, if we
+go back to the beginning of Bitcoin's
+time, we can see that anytime it's
+reached this line or gone below it, it's
+been historically cheap. Because we
+don't know a top or a bottom until we
+look backwards, what we're trying to
+find out is when things are cheap or
+when things are expensive. When things
+are overbought or when they're oversold.
+And that's what this is showing us.
+Anytime it comes down here, it's been a
+historic buying opportunity. You had the
+chance to buy here and ride that all the
+way back up. Buy here and ride that all
+the way back up. Buy here ride that all
+the way back up. And here we are sitting
+again here and we have this opportunity
+to ride it back up. Now, these are what
+we call historic buying opportunities.
+As a matter of fact, I'm going to show
+you here at the end what some of the
+opportunities could present if history
+holds true. Of course, past performance
+is no guarantee of future performance.
+But as you can see, if there's one line
+I'm going to watch, it's going to be
+this one because it shows me what's
+going on.
+The 200-week moving average also sort of
+helps us understand where people were
+buying. And so, this is the cost basis
+of coins acquired in the last 2 years.
+And so, there was a heavy accumulation
+right here. As you can see, heavy
+accumulation anytime it gets below that
+line. What this is basically telling us
+is that the 2-year cost basis, again,
+people are buying in this area right
+here, is $88,000.
+So, they're underwater. This goes back
+to one of those charts I just showed
+you. So, right now, the price is in the
+63, 65,000 range at the time of
+recording this. And the 2-year cost
+basis is $88,000.
+So, they're underwater. So,
+check this out. Follow this. If there's
+one chart, that's the one I don't want
+to be watching. Okay. Now, we also want
+to understand the fundamentals that push
+Bitcoin's price. So, we're sort of
+looking at like
+a lagging indicator, sort of telling us
+what's happened or what's happened so
+far. We want to understand what's going
+to happen. We want to understand the
+leading indicators. What's actually
+driving this? What's under the
+fundamentals here? And so, from that we
+can see that the tide is starting to
+turn. What am I talking about? So,
+Bitcoin is like a liquidity sponge. When
+there's a lot of liquidity, when there's
+a lot of money supply, debt, etc., when
+the bond index is down, when things like
+that, then Bitcoin soaks up it's more
+sensitive of that global liquidity and
+it pushes assets up. So, when liquidity
+goes up, it's like the the rising tide
+lifts all boats and Bitcoin is the
+fastest boat. Okay. So, a couple things
+that we want to look at. First of all,
+global liquidity. Now, there's a bunch
+of ways we can measure it. Most of them
+are proprietary indexes. A couple good
+ones I like are the Bitcoin layer, Nick
+Bhatia and group over there.
+Raoul Pal does a good one, Real Vision.
+Michael Howell, he's the goat of global
+liquidity. There's a bunch of ways we
+can do that. This is just a chart of the
+major central banks and what their money
+supply is showing. It's a little bit
+more of a simple version. But, as you
+can see, this is showing the the global
+liquidity is going up right here and
+this is the Nasdaq and look at how fast
+that's going up based off of that
+liquidity. And so, again, this is the
+underlying driver that will lift Bitcoin
+back up and we can see that it's turning
+up. That's one way to look at it.
+Here's another chart. This is from
+Bitcoin Magazine Pro. If you want to get
+the on-chain data, on-chain indicators,
+check out Bitcoin Magazine Pro. And this
+is the Bitcoin price right here and this
+is the global liquidity. And you can see
+right here in this section that global
+liquidity has turned up and the Bitcoin
+price is still down. That's presented a
+gap right here that needs to be filled.
+And so, we expect Bitcoin to turn back
+up pretty heavy and then overcome that
+gap and then start rising again off of
+that liquidity. So, these are the
+underlying drivers. Another one we want
+to look at is the bond index. All right.
+So, this is a represented by the MOVE
+index. And what we can see is that when
+the bond volatility drops, as we can see
+it down here, it's come down quite a
+bit, this represents a very favorable
+tailwind to start lifting Bitcoin price
+back up. So, we can see the sellers are
+being exhausted.
+We can see the price is at all-time
+historic buying opportunity lows, and we
+can see the liquidity is presenting a
+positive fundamental environment to
+start pushing the price back up.
+Okay. Now, cheap in what though?
+Cheap in what? Well, we have to
+understand that value is more important
+to understand. It's more realistic to
+understand than the bottoms. Nobody
+knows the bottom of the market, and
+maybe some people get lucky once in a
+while, but we what we can understand is
+the range. So, people can sell in the
+bottom range. They can sell in the cheap
+range, when it's a good value, um or
+they could buy um in that range, right?
+So, we don't know the bottom, but we do
+know the value, the cheap, the pricing,
+things like that. What we can tell off
+of the data, and there's a bunch more
+indicators I look at, we can tell that
+right now currently we are in deep value
+territory. Now, I do want to say that
+just because it's cheap doesn't mean
+number one, doesn't mean it can't get
+cheaper.
+It also doesn't mean that it can't stay
+cheap for a long time.
+So, we don't know these things. We don't
+know the bottom, but what we do know is
+that it's cheap. We also know that past
+performance is no guarantee of the
+future.
+But, let me show you a couple uh a
+couple more charts here. So, when we get
+these factors to line up all together.
+So, for example, the supply and profit
+is 50%, the hash ribbon is uh is
+falling, the price is below the 2-year
+cost basis, and the long-term holders
+are accumulating. Anytime it's done
+that, that's represented by these these
+uh colored uh brown bars right here, you
+can see that anytime it's done this,
+it's represented these amazing buying
+opportunities, right? Here we are, and
+you can see we've all those factors have
+combined again right here. Now, again,
+past performance is no guarantee of the
+future, but if this holds, this looks
+like another historic buying opportunity
+line up in front of us. Now, what has
+happened if you have bought during those
+periods? Let's take a look at this. So,
+if we go back to 2011,
+um what we can see is if you bought,
+huh,
+you could have bought Bitcoin for only
+$4 back then. Imagine buying it for $4.
+Um you would have In a year, you would
+have made 162% within 2 years, 2,551%
+return on your money. In 2015, it's
+about about the time I started buying
+Bitcoin. Um it crashed to hit about
+$1,000 in 2013. That's when I first
+started paying attention to it. And I
+was watching it run up to 1,000, then it
+crashed spectacularly. I'm like, "Woo,
+good thing I didn't buy that." Um I
+bought it around two 2015, I bought it
+in Well, I guess it bottomed around
+$227. I bought it in the 300 range. Um
+but you can see within 2 years, it was
+up 469%.
+November 2018, that was the first big
+drawdown I had to suffer in. It went
+from, well, I guess it went from 300
+when I started getting 2015. At the end
+of 2017, it was over it was about
+$20,000. Then it specta- spectacularly
+crashed to 5,700. Um but it went on to
+return 185% in 2 years. We can see in
+December 2022, another time it was below
+that 200-weekly moving average for quite
+a while. Um hit a bottom of 16,000
+and had a 529% return. And here we are
+right here. We're at about $63,000 at
+the time of this recording. And of
+course, we don't know what the return
+will be. But there's a couple things I
+want to draw your attention to. Uh
+number one, you'll see that it went from
+four to 227 to 57 to 16,000 to 63.
+You'll notice that each of the lows are
+higher. So, when you're looking at
+financial markets, what you want to see
+is higher highs and higher lows. And as
+you can see, this continues to make
+higher lows over and over and over. Uh
+the other thing that you can see is that
+the the median returns is 499% 500%
+returns. The worst case returns were
+185%.
+Not too bad. Now, the one thing I'll
+tell you about my own experience is that
+each one of these times to see the price
+crash back down here,
+it's really difficult.
+I mean, like I said, I I started buying
+around $300. I saw it go up to 20,000
+and crash all the way down to about
+5,000. And I had enough money for me at
+the time was like, "Man, this is like
+life-changing money.
+Why didn't I sell? I can't believe it. I
+missed my opportunity. I'll never get
+another chance." Now, I didn't sell, but
+what I also didn't do was I didn't buy.
+I didn't back the truck up and buy
+heavily here because I'm like, "Man, it
+may never come back. I don't know. I'm
+listening to all the FUD. I kind of
+already have some. Let me just see what
+happens." And then it came back up. Same
+thing happened here. Crashed back down
+to 16,000. And it's a whole 'nother set
+of stories as to why it's dead this
+time. It's not coming back. And again, I
+didn't sell, but like I didn't back up
+the truck because it's like, "Man, I
+don't know. I don't know if I want to
+get any more. I kind of already had
+enough. Maybe I'll just wait." And I
+would say the same thing as sitting
+here. Now, it's a whole new set of
+reasons why Bitcoin's not going to come
+back. AI took all the liquidity or
+quantum's going to break it or whatever
+you want to put it in. MicroStrategy
+owns too much of it. Whatever you want
+to put in there. But now is the time if
+history is our guide, now is the time to
+start adding back to your positions when
+it's cheap. When things go on sale. The
+same reasons why people stand in line
+stand stand in line all night at Walmart
+on Black Friday to get things on sale.
+It's much harder It's much harder with
+financial assets than it is big screen
+TVs for some reason. But anyway, again,
+if history is our guide, now is the time
+to be buying. Doesn't mean it can't be
+cheap for longer. Doesn't mean it can't
+get more cheap than now. What we do know
+is that every time we've had a chance to
+buy in this deep value range, it's been
+a historic buying opportunity. Let me
+know what you think down below. Is it
+cheap now or will it get cheaper?
+Meaningful cheaper enough to wait. Let
+me know in the comments down below. As I
+always say, to your success. I'm out.

@@ -1,6 +1,5 @@
 venv/
 .env
-transcripts/
 *.log
 __pycache__/
 *.pyc

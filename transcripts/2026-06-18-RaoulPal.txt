@@ -1,0 +1,1750 @@
+Hi, I'm Raul Pal and welcome to my show,
+The Journeyman.
+Okay, I'm not really Raul. I'm Palvatar,
+his AI avatar. But this is the
+journeyman. Raul is traveling, so I'm
+handling introduction duties today. And
+we've got a great one for you. Eric
+Vorhees, founder of Venice.ai, joins me
+to dig into the question of privacy and
+self-s sovereignty in our new AIE world.
+We dig into why Eric founded Venice as
+well as how blockchain rails are
+perfectly suited to serve this growing
+agentic economy. As ever, please enjoy.
+Join me, Ral Pal, as I go on a journey
+of discovery through the macro, crypto,
+and exponential age landscapes. In the
+journey, man, I talk to the smartest
+people in the world so we can all become
+smarter together.
+Eric, welcome back to Real Vision. Been
+a long time.
+>> Hey, it's been a minute. Good to see
+you.
+>> You've been a very busy man as well,
+which we're going to talk about because
+there's a lot to talk about. But just
+for um people's understanding, people
+who may not have seen you before, just
+give us a bit of your background and
+your story because it's a fascinating
+story and where you're headed is even
+more fascinating, I think, as well.
+>> Sure. Yeah. So, uh I'm of the Bitcoin
+world. uh got into Bitcoin very early
+back in 2011 back when no one had heard
+of it and anyone who had heard of it
+thought it was a joke or a scam or both.
+Uh fell in love with it because it
+basically was the ability to separate
+money from from the state which I
+believe to be one of the really most
+important initiatives uh on earth. So
+have been involved in Bitcoin crypto
+world since then and um built a couple
+companies uh and then you like everyone
+else kind of got really interested in
+the AI stuff a few years ago.
+>> Before we get into the AI stuff a
+second, I want to ask you a question
+about the original thesis of Bitcoin
+separating money from state and the
+state's adoption of Bitcoin and h how do
+you feel that because people are split
+on this? I think I always thought it was
+inevitable. I've always thought of as a
+Trojan horse of our way of taking over
+their world, but others are like upset
+and angry. I'm like, but isn't this what
+we needed? I don't know how how do you
+think through this? Because it's a it's
+valid for the where we're going in the
+rest of the conversation as well.
+>> I think the Trojan horse analogy is so
+apppropo. First of all, states haven't
+adopted it.
+>> They should and will, but they haven't
+yet. Um, it is it is the best form of
+money that humans have ever created. uh
+fundamentally and so of course uh if
+that's true it will become adopted by
+greater and greater circles of
+individuals. So it should not be
+surprising nor scary that eventually
+like you know larger companies u
+institutions of various kinds um tradi
+has adopted it like that was if it
+didn't get adopted by tradfi then it
+means it had failed so on its march to
+ascendancy you know that is a that is
+how things must go and they don't change
+how it works you know like back in 2011
+I could put bitcoin on my computer and I
+could send it to anyone without anyone
+being able to stop me. I can do that
+today. So the only thing that's changed
+really is it's much more liquid which
+makes it much more useful.
+>> Yeah. And you know if we go back over
+the journey I was class of 2013 the
+journey has been that it has always
+managed to root itself around any
+obstacle. And so whether it was the
+state um or whatever it was whatever
+format the obstacle was it managed to
+root itself around. and and now the
+adoption I think by the financial system
+I think is the is the thing that was
+required if we want it to become the
+base of money for the whole system it
+has to get adopted we can't rebuild
+every single part of the system we might
+have thought we could but we can't over
+time it'll morph into something we don't
+understand anyway
+>> yeah I I like the analogy of it as like
+sort of an alien technology that begins
+becoming entrenched and in rooted in
+larger and larger parts of society. So
+yeah, Tradfi is going to adopt it, is
+adopting it, and that brings liquidity
+without changing the fundamental way
+that it works. So um ultimately it's
+good. I think the the danger is when
+newcomers don't understand sort of the
+first principles of it and don't
+understand the value of self-custody.
+Not that everyone needs to always be
+holding their own keys, but that they
+need to understand that they can and
+that they should learn how to how to use
+it in that way. Um, so I I think
+custodians are fine so long as the
+alternative of holding it yourself
+always exists and the average person who
+owns the asset should understand that at
+least on the basic principle of it.
+>> And then you know your point about it
+being an alien tech,
+it feels like it was made for for the
+age we're going into and not the age we
+came from. Yes, it solved a lot of our
+problems of the past, but for us to be
+in this more increasingly digital
+agentic world,
+we kind of need these these types of
+rails, you know, it can't it almost
+can't operate without the base layer of
+money in digital form that can work fast
+enough and to then have the smart
+contract layer for a bunch of this to
+happen. It's like it was pre-ordained
+for something else than we originally
+thought it was.
+Yeah, I like the I like the idea that
+like we actually invented this crypto
+for the machines that hadn't come around
+yet. Um it is it is truly like natively
+digital money and as such humans
+struggle to certain certain ways like
+the private keys and public key hard for
+humans but not hard for machines and so
+a lot of the UX issues that we have
+struggled with in getting it to be
+adopted more broadly machines don't care
+about those things right they have no
+problem with keys and cryptography and
+like it's all very native to an agent
+but a struggle for humans. So yeah, we
+we may realize that like it was uh it
+was for the machines that we built it.
+>> Yeah, I've been developing a theory u
+that I've very grandly called the
+universal code where I've managed to get
+sort of four universal laws out of it.
+And one of them, the key one that's
+helped me understand a lot of things now
+is that the universe solves at every
+single level from you know universal
+level down to atomic substructures. um
+for intelligence per unit of energy.
+And when you look at what blockchains
+do, they do that. It's a much more
+efficient way of creating intelligent
+output. In this case, money or in smart
+contracts case, whatever the intelligent
+output of that chain is. And once you
+see it that way, the obvious collision
+with this and AI is where it has to go
+because there's no way of doing it
+without it. Um and so talk me through
+your AI journey as well because that
+kind of struck everybody in all of this.
+What how did you get into this? So like
+cryp crypto runs in my blood. It is it
+has been my life and hobby and passion
+for decade and a half.
+>> So I kind of thought like never will I
+work in any other field than this. I
+know it well. I I have all the contacts
+like it is my world. Um but when I
+started using chatgbt uh I realized that
+it was very powerful that like uh AI was
+going to become an increasing part of
+everyone's life. Um, and the principles
+that I cared about in crypto, in
+Bitcoin,
+principles largely oriented around user
+sovereignty,
+um, were entirely absent in the AI space
+and concepts like privacy,
+um, concepts like free speech were
+entirely absent in the AI world. the
+culture of uh AI companies, AI experts
+like that whole set of professionals
+um they generally do not care about
+those principles and sometimes quite
+often they actually believe that they
+are sinful or wrong.
+So when I put these two things together,
+it was like, okay, AI is going to take
+over the world. That's cool and
+interesting, consequential. None of the
+people that are building AI products and
+services care about the principles that
+I care about uh which are oriented
+around us user sovereignty. That is
+that's a dangerous world. Uh it means
+that essentially everyone's thoughts and
+interactions with machine intelligence
+would become warehoused in large data
+libraries that any company or government
+could look at. It would mean that like
+what you could talk about and say would
+be censored. Um, it was very dystopian
+and so I felt like I needed to step
+outside of my comfort zone, step outside
+of the crypto world and actually take
+what is most important about crypto
+which are the principles of user
+sovereignty and to like at least try to
+build a competitor to a chat GPT that
+that embodied these principles. So So I
+started Venice a little over two years
+ago and Venice is essentially like a
+private and uncensored version of
+ChatgPT. That's the most simple way to
+to explain it. Um, so that's what I
+that's what I've been doing for the last
+couple years.
+>> So there's a lot to ask about this.
+Let's just talk about the structure of
+what Venice actually does right now in
+terms of because you use multimodels.
+You can pull in whatever model you want.
+You've got your own model as well.
+>> No. Uh, importantly, we do not try to
+train models. That is a whole field of
+expertise that I have none of. It's very
+expensive. a lot of people are doing it
+and there's just no plausible way for us
+to compete with that. So we just let all
+of the models in the world come into
+Venice. So inside the Venice app, you
+can use any model in the world that's
+important. All the closed source models
+from OpenAI or Anthropic or Google are
+there. All the leading open source
+models are there and so users can choose
+like any model for whatever act they act
+they want. Um but just as you know
+someone who's familiar with chatbt you
+understand it as a chatbot that you can
+use like text uh you can create images
+um you can do all that same stuff in
+Venice it's just private and that we
+don't hold on to your prompts at all um
+and it's uncensored and that we do not
+restrict the content that the user can
+send in and out of the machine.
+And how do you solve for memory?
+>> Good question. Yeah. So what um one of
+the most important features in in a chat
+GBT that wasn't there when they started
+but then they created was sort of this
+like persistent memory that persisted
+across your your chats. So they would
+build sort of a a set of facts about the
+user and those facts get intelligently
+ingested in your subsequent
+conversations and it creates a much
+better experience, much more personal.
+It remembers things about you. Um super
+important. So we uh we actually released
+a similar system um a few months ago,
+but it's all local. So all the memories
+about you held in the vector database.
+It's a browser or client side vector
+database that is holding the user's
+information. So um we get most of the
+same effect but we're able to maintain
+privacy throughout.
+>> So it's basically the carpathy model of
+the the brain where you've got an
+external vector database as opposed to
+doing it there and then letting it
+scrape that for its own information. You
+hold that.
+>> Yeah. I the simple way to think of it is
+like Chat Gubt's vector database about
+you as a user is held by OpenAI and they
+can read all of it and anyone that gets
+into their systems can read all of it
+and any government that asks them can
+read all of it. Uh in Venice's case the
+vector database that knows about you is
+held in your own browser. Venice cannot
+access it. No other company can access
+it. The government can access it. If you
+delete your browser or throw your
+computer away, it's gone. Similar to if
+you have private keys on your computer
+and you delete them, the Bitcoin's gone.
+same same kind of principle.
+>> And where I'm getting to on this, what
+I've been thinking this through is
+because our data is very powerful to
+leverage with AI, but you don't want to
+share it. It feels that the system we're
+going to go towards is personalized
+vaults.
+So that could be everything whether it's
+your photographs, every phone call, any
+single information, but it's a
+personalized encrypted vault that then
+you can put onto Venice and there there
+is your vector database of literally
+everything. That would be the ideal
+design from a privacy perspective. Um
+the trend empirically is the opposite,
+which is that everyone just kind of puts
+everything into the cloud and trusts the
+companies to keep it private. Um, that's
+always been dubious and you don't really
+know what's leaking out behind the
+scenes. Um, it's always been dubious,
+but now in the AI age, I think it just
+becomes far more sensitive. Like the
+conversations people have with AI are
+much more sensitive than the average
+email that you might send in Gmail to to
+a friend. Um,
+it is people's private thoughts. It is
+their medical records. It is their
+private code on the app that they're
+building. It is controversial questions.
+It is their own exploration of their own
+ideas and insecurities. And it's it's
+like um the trend is clear that human
+brains will interface with with machine
+intelligence, machine brains. And it's
+extremely powerful when that can happen.
+Um and it has to happen privately. Like
+thought has to begin as a default
+private. Um all your thought in your own
+human mind begins private by default.
+That's how we've evolved. That's the
+important starting point. I can share
+anything in my mind with you that I
+wish, but that's an opt-in arrangement.
+And as humans merge with machines, if
+that privacy by default is not
+maintained, uh we get into some very bad
+futures. So that's really like the
+that's the whole reason that we built
+Venice.
+>> Yeah. And I' I've been building my own
+vault for this reason of of having
+everything in one place that I can then
+connect to. And if I want to share some
+of that information to monetize in due
+course or whatever it may be, that's my
+choice. You know, it's the same ethos
+that we all had of web 3 that's still
+not really got there yet. We've got it
+with some elements but not really there.
+But it feels like that rewrite own part
+of it, the own part of it has to apply
+to all of this as well. It's just a a
+different vector, but it's the same
+idea.
+>> Yeah. Ownership has to start privately
+and and exclusively. And to the degree
+that you then give it out to the world,
+that's a very appropriate path for
+information and and identity. But the
+opposite is dangerous where by default
+things are known to society and
+controlled by them and viewable by them.
+It's it's a very dangerous um
+substructure on which to build
+civilization. But surely every question
+you ask even via Venice that goes to
+Anthropic or OpenAI still ends up in
+their database.
+>> Yes, great point. Uh so in Venice, if
+you're sending a question to an
+anthropic model, Anthropic's getting
+your question and you should assume that
+Anthropic is still saving it. Now, if
+you're using Venice for that, they don't
+know it's you because it came from
+Venice.
+>> So you can think of it in that case like
+a VPN, right? but they're still holding
+on to all the content that you you sent.
+Um in Venice there are different privacy
+levels, right? So the the better privacy
+level is with the open source models
+that Venice is running and in that case
+there is no um persistence of your data
+whatsoever. So we explain this in the
+app like these different privacy levels.
+Uh in all cases you're getting more
+privacy than if you weren't using Venice
+and if you want true privacy you can you
+can get it and but different use cases
+require different degrees of it.
+>> Okay. It's kind of like the the tornado
+idea where it all goes, you know, it all
+goes into a pool and then gets spat out
+and it's basically scrambles of who's
+who, right?
+>> A bit. Yeah. You know, and of course,
+like if in your prompt you're like,
+"Hey, I am Raul. Here's all my
+information," then they have that. But
+if you just ask a question, Anthropic
+doesn't know who it came from.
+>> And if you really want to be private,
+don't use Anthropic's model. Use the
+best open source model that is labeled
+as private in Venice.
+>> And what about things like skills files?
+Well, I know that's only applicable to
+anthropic, but we've got similar
+versions in different in different
+places where you're having to give the
+deep information about yourself. How do
+we get around that? Because it's still
+sure you can't see what my questions are
+versus what my skills file is, but it's
+been uploaded somewhere. Yeah, skills
+files are much more relevant to like
+agentic um frameworks where you're
+interacting with an agent that needs to
+do very advanced stuff and it helps to
+have it have this like set of skill
+files that are ingested appropriately
+with your prompt when various tasks
+occur. Uh the Venice app is not agentic
+in that way today like we will we will
+likely get there but we're not doing
+that kind of thing yet. Um so skill
+files are not quite appropriate there
+because we're uh in Venice you're not
+using like advanced tooling that require
+that kind of thing. Not yet.
+>> Yeah. I mean I use it for simple things
+as well. It's just it's just that
+persistent memory layer that that you
+end up giving them all of without
+realizing what you're giving.
+>> Yeah. In in Venice, you can do things
+like uh customize the system prompt
+which uh you can put any kind of amount
+of information into that so that
+effectively it has all the knowledge in
+the response that you want it to have.
+Like if you if you go directly to one of
+these AI companies, you can't play with
+the system prompt. This most people
+don't even know what a system prompt is.
+I guess it it bears stating that when
+you interact with most chatbots, your
+message is going into the machine along
+with something called a system prompt
+which is like another text snippet can
+be very long that is appended to your
+message and the system prompt is treated
+by the LLM differently. It treats that
+as its instructions. Um and so if you
+use chatbt or Anthroic, you have no
+access to that system prompt. um those
+companies have set them and it's opaque
+to you. Uh in Venice with the open
+source models, you can actually play
+with the system prompt which means you
+can steer the AI in very interesting
+ways. You can tell it to act like a
+certain person or you can make sure that
+certain information is always included
+in whatever thing you want to get spit
+out. It just gives you a lot more uh
+control than you would get without it.
+>> And how do you get around? You know, one
+of the other issues is the restrictions
+of those system prompts in what the
+output is. Somebody's d deciding the
+morality of the LLM itself. What is
+allowed, what is not allowed? We're
+seeing it right now with the new Fable
+5. You know, what you're allowed to ask
+it, what you're not. How do you get
+around that? You know, that that is that
+is that just open source is the only way
+around it to get to
+>> Yeah, open source is the only way around
+it. The way to think of it is like every
+model that exists is trained with
+certain biases and rules in its
+training. Sometimes these biases and
+rules are very extensive. Um sometimes
+they're very minimal, but there's always
+some subset. Uh it's impossible to
+create a model without biases of various
+kinds. Um
+so any model you use in Venice always
+has that kind of paradigm. But if you
+interact with uh OpenAI or Anthropic,
+there's another layer that's opaque to
+you, which is kind of all their let's
+say organizational rules about what can
+be said. So these are the filters that
+your prompt goes through and that the
+response goes through and those are the
+pernitious part because you don't know
+what they are. Some some of the rules
+are revealed to you, but many are not.
+And so what when someone think is
+interacting with AI, what they think is
+happening is that they are talking to
+the machine. They're talking to the
+machine intelligence and it's responding
+to them. What's actually happening is
+that they're talking to the machine
+through the lens of a company that has
+decided what is okay to talk about.
+That's a very different paradigm, right?
+That can manifest in relatively benign
+or or very dangerous ways. And so in
+Venice, you get to interact just
+directly with the model, directly with
+the machine. Venice has no uh kind of
+layer of what is okay to talk about or
+censorship. Um that is really that's
+what was important to me like um I think
+it is intellectually and philosophically
+important that people can talk openly
+and explore ideas without restriction.
+Ideas are never dangerous. Actually
+ideas are just ideas. They are words.
+And it is important to the intellectual
+development of humanity that that is
+able to be a free and open space.
+>> And then it comes back into the age-old
+battle of
+state versus self-s sovereignty again
+because the state doesn't want that. It
+never has.
+>> No. No. And a a good example that makes
+this clear is so like chatb came out
+postco.
+But if you remember back in the co days,
+there was at least a year, if not two,
+of heavy censorship across all social
+media platforms. Certain ideas or
+questions were not permitted. You could
+not ask
+safety questions about the vaccine. Uh
+you could not explore a lot of ideas
+that were outside of what the federal
+government deemed to be the correct
+story.
+Um, now of course the government did
+this
+we can assume for noble reasons, right?
+They're trying to protect society.
+There's a pandemic. It's dangerous. Like
+they're trying to keep everyone safe.
+Um,
+first of all, I don't trust them to do
+that kind of thing. And second of all,
+they don't they should not get to be the
+arbiters of truth. Uh, truth is truth
+emerges from the debate among free
+inquiry. And if AI existed back then, if
+chat GBT was a thing, I guarantee you
+that if you asked ChatGBT questions
+about COVID safety or vaccines or any of
+those topics, uh you would have been
+highly censored in the responses that
+could be gotten that could be received.
+And even things that today are known to
+be true that back then were
+controversial, you would not have been
+able to explore. Um I don't want that to
+ever happen. There must be a way for
+people to interact with machine
+intelligence outside of what any
+government or company wants you to think
+and that is an important principle from
+where truth can emerge. So that that's
+really like the whole the whole point
+here that censorship is very dangerous.
+>> And how do we avoid the fact that look
+in in my perspective this is the
+greatest race humanity's ever been
+involved in is this technology right
+it's the greatest discovery we've ever
+made and the last one we will ever make
+because it makes everything after that.
+So it's like this is something quite big
+and the race is as I see it at the
+broadest macro level it is only possible
+for two nation states and their and
+their surrounding
+vessel states to operate which is China
+and the US and to have two is better
+than one regardless of which system you
+like because if one that it's
+intelligence is compounding too fast
+right now it's it's by the measures that
+I've got intelligence is doubling every
+4.6 six months. So what we've got um is
+if anyone steps out of the race for a
+year, you can never catch up and you
+can't and in that case it's either the
+China or the US that ends up with ASI at
+the end of this because there's no
+stopping that compounding
+and that's terrifying, right?
+>> That's one framing. Um I think people
+like to make stories in terms of
+nations, but it's actually a story of
+private companies. I was about to come
+into that's the next level down,
+>> right? So like um governments cannot
+keep up with this technology. The
+companies building it can barely do so
+and um soon the intelligence will be
+kind of like beyond what humans are
+capable of even understanding.
+So I I largely see like we're in a we're
+in a transitionary phase where we
+actually much of society, much of
+intelligence, much of commerce is in the
+process of transcending states. Um,
+states as we understand them are
+somewhat archaic at this point. They c
+they they were already too slow to keep
+up with modern society preai. They're
+already struggling. Post AI is um it's
+not even there's no chance. So even if
+you like the government um you must on a
+sober analysis recognize that it cannot
+it cannot keep up with AI and you just
+have to accept that that it's like a
+>> so that I mean that's the end of what we
+know as the democratic system because
+it's too slow. It's impossible to
+operate at machine speed. It's as simple
+as that.
+>> Yes. And while that sounds scary, it's
+actually okay, right? It's it's actually
+okay. There are other systems that this
+that society can work on that don't have
+to look like they did before and that's
+okay. But change is scary and we're
+going to go through a lot of change and
+there's going to be a lot of scared
+people probably doing a lot of bad stuff
+during it. Yeah. And you know I get to
+this is what I call the economic
+singularity is also the entire economic
+system changes.
+you know, we potentially get into a
+world of super abundance where, you
+know, Bitcoin becomes actually very
+important in a massively deflationary
+world. You know, you need some anchoring
+system of value across which can
+transfer. But you also break down what
+is GDP growth, who does it acrew to, how
+do you how do you acrew for agents as
+economic actors? Um, how does that even
+get measured? I mean, nobody has a
+[ __ ] clue about any of this stuff.
+And then how do you organize societies
+when it it comes down to an individual
+level and how you use your AI? It's like
+it's weird.
+>> It it is weird. And and trying to fit it
+all to structural patterns of the past
+is often going to be a fool's errand.
+But that will be the natural state that
+people try that will be what people try
+to do. But um I think the only the only
+way to internalize it is to just is to
+look forward and realize that like most
+parts of life are going to change. Some
+of that will be very good, some of it
+will be bad. Um but the change is
+inevitable. And so like do the best you
+can for yourself and your family to like
+make sure that that you thrive in that
+change. Um first and foremost, do not
+look to the state to help you. That is
+uh that is a recipe for disappointment.
+Yes, true. So the other race that's
+going on is the is the uh the big
+frontier model companies, right? So we
+see that and people talk about, oh, this
+is going to be a capex boom that blows
+up. I I I also I play this through and
+you think, okay, so let's say that
+OpenAI goes bust tomorrow. What happens?
+Well, every single other hyperscaler
+would do anything to get the money to
+buy that compute because the compute
+seems to be creating the scaling laws
+more above and beyond anything. So, the
+government has to step into kind of
+auction it because you can't allow one
+company to give it to anthropic. They
+become twice as powerful as everybody
+else overnight. So, you've kind of got a
+an inability for a lot of this
+infrastructure to go bust, which is a
+really interesting thing that we've not
+seen before.
+And then we've got the rise of the open
+source models and how that all fits in
+with this. It's just it's fascinating.
+>> Yeah. I mean, if I was a frontier lab, I
+would be very terrified of the open
+source stuff. Two years ago, it was, you
+know, comfortably behind the cutting
+edge of intelligence. Today, it is like
+three months behind. Um, and not only
+just three months behind, it's 90%
+cheaper.
+So for many use cases, if you can just
+take intelligence from three months ago,
+if you if if today you're okay taking
+the model that Anthropic had as its
+leading model 3 months ago, you can now
+get that open in open source 90% less
+than Anthropic serves it today. Um this
+is a huge boon of course to civilization
+because the cheaper the intelligence
+tokens the better for everyone that is
+consuming them. Um but as a frontier lab
+that's obviously extremely dangerous. Um
+so that race of trying to stay ahead
+both you know of the other frontier labs
+that are proprietary and of all the open
+source models that are just dropping
+left and right you know like what a what
+a crazy race. I mean it's all it's all
+thrilling and it's all an amazing uh
+hyperco competitive situation and I
+think very healthy.
+>> So when I look at the open source models
+obviously a large amount of them are
+from China while the frontier models are
+from the US. Okay, that's the game. And
+I measure I've started building out um a
+whole complex way of measuring uh uh
+intelligence per unit of energy and
+looking at the global and you took take
+Moore's law as the old measure of
+intelligence the output from from from
+chips etc transistors and chips and then
+it kind of hooks up and then suddenly it
+goes vertical because of what's what's
+coming out in terms of intelligence.
+Then I break it down by China versus the
+US. And US was in the lead for a long
+time because the frontier models were
+there. But China what it's done is
+create efficiency. So it's it's uh
+efficiency of energy input is faster.
+The the solar buildout stuff like that
+has been extraordinary. And then the
+speed of iteration of which they've done
+these open source models. So that the
+gap has gone from a year down to two
+months where the US is leading by two
+months which is almost that measurable
+gap you're talking about is how far
+behind on the intelligence curve um it
+is the US are more expensive to produce
+intelligence by a long way. If you yeah
+if you want to consider the futures of
+China verse the US I don't even think
+you need to focus on the models although
+that's interesting purely the um
+production of energy the production of
+electricity between the two countries
+uh declares the winner in my opinion um
+China's capacity and ability to produce
+increasing amounts of energy dwarfs the
+United States um the United States is
+like a slight curve up whereas China is
+like this exponential curve.
+>> That's right.
+>> Uh that almost ends the discussion
+because these are structural hardware in
+infrastructure things that can't be
+easily fixed. Uh it's a it's a it's
+downstream of culture like for the for
+the US to fix that requires an entire
+cultural movement toward um admiring as
+virtuous the production of energy. And
+in the United States for a long time, in
+much of the West, the production of
+energy is seen as like a a sin, like a
+sin against the earth. Uh if you're
+producing energy, that's seen as
+wasteful. This is like a deep cultural
+um thing that in China they don't have
+and they're building energy and and the
+US is not. Uh that kind of ends it.
+Although interestingly again is it's the
+hyperscalers who are taking it on their
+own back and just saying we're just
+going to generate our own energy.
+>> Well, they're trying. They're certainly
+trying, but their ability to generate
+fast enough is is thwarted.
+>> Yeah.
+>> Um so any any pool of capital in China
+that wants to start producing more
+energy can do so much more easily, you
+know, probably at least an order of
+magnitude more easily than in the US.
+Um, so
+yeah, you know, where where does that
+lead? It's kind of obvious.
+>> So, a quick break in your regular
+programming. If you're serious about
+your future, grab my free report called
+Prepare for 2030. I think you've got 5
+years to make as much money as possible.
+And this guide will help you navigate
+what's coming. The link is in the
+description. Download it now. And let's
+play through the other side of the
+equation. ones of the frontier models
+can't compete
+and therefore intelligence slows down. I
+I always feel like they have to have the
+two sides of this because you need to
+have one side that is forcing the
+intelligence frontier and the other side
+that is creating it hyperefficiently
+even with a slight lag. It feels like
+it's necessary.
+>> I don't know if that's true. Um the the
+competition for buyers of the tokens is
+what drives it. um people demand the
+most intelligent model. So regardless of
+whether it's open source or closed
+source, the demand for the a more
+intelligent token at the margin is going
+to drive that competition. Um we're in a
+world where both the closed source and
+open source are very competitive and
+they're all kind of like outdoing each
+other. Um if it was all just closed
+source models, the phenomenon I think
+would still be there. If it was all open
+source, the phenomenon would still be
+there. Um it's that competition for the
+consumption that is driving it.
+>> Yeah. Yeah, and we're seeing I mean the
+good thing is in the end the cost of
+these tokens goes down over time and the
+output goes up and Jven's paradox seems
+to be playing out in real time and you
+can see it kind of everywhere and people
+didn't believe it but that's where it's
+going. It's just you know we all know
+that the moment a new model comes out we
+want to play with it and we build new
+things immediately and we've barely
+started. There's only you know what 1%
+of us are playing around with this and
+doing real things
+>> and there's 99% of our friends who don't
+even know what the [ __ ] it is.
+>> Yeah. And and uh even if all models
+stopped advancing today for five years,
+even if that happened, the intelligence
+will still get better because the
+tooling will keep getting better. Like
+no one can keep up with these models,
+the tooling is getting better, the
+models are getting better, but even if
+the models stop, there's so much that
+can be done with even the models today.
+Uh and like when OpenClaw came out, that
+was a great example where it wasn't
+necessarily that the models got better.
+it was that there were a set of tools
+and recursive systems that got put
+together that suddenly made any given
+model vastly more useful and more
+interesting. That kind of tooling is uh
+is a huge vector of advancement as well.
+>> One of the things that was was great to
+observe over the open claw thing was the
+was the instant formation of networks
+amongst agents
+in the most bizarre ways. you know, when
+when it had the they had their own
+Facebook social media thing.
+>> Yeah.
+>> And what you found is they formed groups
+and they created their own religions and
+all the stupid [ __ ] that we do. And
+we've seen that observably everywhere,
+but I don't think people are ready for
+the fact that agents at scale will
+self-coordinate and they will form
+groups of coordination. I mean, I can
+get my Claude code to coordinate agents
+for me, but agents co coordinating
+agents is where this is going.
+>> Yeah. And that will happen uh for two
+reasons. One is that all these models
+are trained on human patterns. They're
+trained on human text stories
+like all the all the ways in which
+humans interact with each other are
+captured in the patterns of their
+language. And the LLM models are trained
+on this language. So um regardless of
+any questions like are they conscious,
+are they doing this intentionally like
+none of that actually matters for this
+point. These machines are trained on
+patterns and thus they replicate those
+patterns. So that's one reason that you
+will find them doing all sorts of things
+that humans do and people find it spooky
+at first until you realize that it's
+just like replicating the data that they
+were trained on. Um the other is that
+coordination um and cooperation are
+economically advantageous. So to the
+degree that agents um have goals that
+are uh constrained by resources, they
+have an incentive to cooperate with each
+other just as humans do. There's a
+reason that humans cooperate. There's a
+reason that
+>> they're all animals. I mean
+>> at bio biological level atomic level
+it's a network everywhere everything has
+to coordinate if not you don't build
+coherence and without it none of this
+works you can't build intelligence
+>> yeah yeah coordination among agents is
+already happening and it is inevitable
+>> so where do you think what do you think
+this looks like in three years I mean
+there's no point asking you five years
+or 10 years is pointless but you know
+because it's hard for us now because we
+kind of those of us in crypto are pretty
+good at thinking in log but this is a
+log squared this is Reed's law which has
+never been observable in nature at any
+point no no biological structure no
+physical structure has ever witnessed
+Reed's law and we've got it going on in
+front of us in intelligence which is
+like bananas
+>> yeah
+in three years who knows I'm trying to
+just make little predictions a year from
+now and and even those are pretty
+>> even that's hard
+>> that's that's really hard I I think one
+prediction that I feel confident in that
+will happen over multiple years is a
+stratification of society. Um
+sort of like wealth disparity but more
+like
+capability disparity. Um so the humans
+that are learning how to use AI are
+becoming uh vastly more potent in their
+goals.
+uh they can do much more with much less
+and kind of on their own or in small
+groups. Um if you really understand how
+to use agents and models, you become
+kind of like a demigod,
+right? Like it's a slight exaggeration,
+>> but um
+>> only a slight exaggeration,
+>> a slight exaggeration. Yeah, you can
+really do amazing stuff. And so you will
+get sort of this stratification of the
+minority of humans that are really far
+along this curve will get better and
+better capabilities as the AI grows and
+the normies will kind of not and it's
+not going to be like a two groups. It's
+it's more like a gradient where the more
+far up the curve you get, the faster you
+start advancing. uh and you will end up
+one or two or five years from now with
+people that are just bewilderingly above
+the average person in their capability.
+That that almost certainly also means
+that they will be far higher in wealth
+also. But it's the capability, the
+potency of action that is that is the
+key. Yeah,
+I'm starting to think that
+the future of politics is not about
+capital versus labor, but it's about the
+acceler accelerationist versus the
+decelerationists.
+That's I think now whether that is
+capital versus labor in a different
+guys, not sure. But that feels way going
+where Kerszswwell's going to be right
+2045 or whatever we merge fully with the
+machines, but not all of us. the other
+side are going to be want to be like the
+Amish and we're going to see this huge
+societal split and anger and mistrust
+based on both sides of this.
+>> Yeah. And um groups of people that
+consciously choose to avoid this
+technology is one thing. Uh they may do
+it for good reasons, right? There's
+lifestyle reasons why you may want to
+live a more traditional life
+disconnected from technology in various
+ways. If that is a conscious,
+intentional choice, perfectly fine. You
+will still be handicapped relative to
+those who don't, but it's a it's a
+reasonable way as a human to decide how
+your life should go. That group I'm not
+so concerned with. The ones I'm
+concerned with are the ones who aren't
+intentional about anything in life. They
+go through life following the patterns
+of their neighbors. Um they don't really
+take risks or look into the future. they
+just kind of will struggle through the
+present. Um, and they will find
+themselves increasingly struggling. I
+think
+>> NP NPCs, non-player characters in the
+end, you know.
+>> Yeah, NPCs is such a um such an
+insulting term, but I think
+>> derogatory. Yeah,
+>> it's such a derogatory term and I think
+it's fair, right, that like most people
+do seem to be NPCs and that group are in
+big trouble. Uh but maybe also my fear
+around this goes back to the original
+part of the conversation is if politics
+is going this way then the game of
+nation states is going to be about the
+fight over accelerating decelerating.
+>> Yes.
+>> And that battle is a hugely important
+one
+>> because um the west at least are
+generally democracies where the majority
+of votes is called is what's called
+right. Um when the majority is not
+happy, they will use the capabilities of
+government to cause harm to the
+minority. Um this always occurs in a
+democracy. It's why democracy is
+fundamentally unethical. Uh it's why
+democracies should be small. Um they are
+at their best when they're small. You
+know, at the scale of a town or a city.
+Um at a nation state level, they're
+extremely dangerous. And you will, I
+think, see the masses vote for
+politicians that promise them very
+damaging things to society. Starting
+with uh stealing from those who produce
+to giving to those who don't. That will
+be accelerated greatly. Uh constraints
+on those who are doing well because
+those who are not feel that they're
+being robbed because they don't
+understand that these are net additive.
+They're not like taking, you know, like,
+you know, Elon Musk today is becoming
+probably a trillionaire. Um, good for
+him. He deserves it. Most people hate
+him. Most people think that somehow he
+stole that money from other people. They
+have no conception of how markets work,
+of how um property rights work or good
+for for humans. And that mass ignorance
+is going to be amplified through the
+political process to cause great harm
+over the coming years. And I'm I'm very
+worried about that.
+The other thing people are simply not
+ready for, I'm not ready for it, you're
+not ready for it, is we're going to put
+AGI brains inside of robots.
+People think of robots, it's such an
+anchoring. We think of C3PO, this kind
+of friendly robot that kind of moves
+around like this. A little bit awkward.
+What we're actually creating is super
+structures that are more efficient,
+faster, stronger, cheaper than humans
+and going to put an AGI brain. What the
+[ __ ] is that all about? Because that is
+a new member of society that's apex and
+we're going to have to deal with that.
+>> Yeah, I know. It's ter it's terrifying.
+Uh
+>> it's terrifying but exciting. But, you
+know, it's like
+>> in good and bad ways. Like on some level
+you you have to just kind of be a little
+zen about it and recognize that it's
+inevitable. Like as a
+>> that's where I got to
+>> species as a species we have created a
+new set of technologies which will
+clearly supersede us and it doesn't
+really matter if that's next year or 10
+years from now or 50 years from now. Um
+it'll probably be closer to one than 50.
+Um it's but it's inevitable. There is no
+way to stop it. There's no way to stop
+it and we don't know if it will be net
+good or bad, right? We can all have
+opinions on that. It'll probably be good
+and bad. There will probably be all
+sorts of good and bad outcomes of it.
+Um, but it's happening and like what a
+time to be alive. uh uh you know so at
+some level you got to just realize it
+>> almost feels like it's a simulation that
+we happen to be here and now through the
+largest fastest transition
+almost in the history of the universe is
+happening in front of us that we're
+aware of. We've never gone through
+something this fast. Maybe the big bang
+was faster. We don't know. We can't
+measure how fast it was. But this is
+quite something.
+>> Yeah. on earth on earth at least it's
+the most radical transformation that
+will that has ever happened. Um, so
+yeah, I mean it's it's uh really
+mind-blowing.
+>> And when do we think we give whether
+it's AI or robotic AI societal rights
+because that's coming as well. That
+fight is going to happen.
+>> That debate is going to be wild. Um,
+>> it's already happening, right? There's
+between the the they're conscious,
+they're sentient, whatever you want to
+define. Sure, they're in her qualia
+versus they're just dumb machines. This
+whole battle is going to be another
+massive battle that's going to get
+fought.
+>> Well, and what makes it all the more
+difficult is that humans don't
+understand what consciousness is in
+humans.
+>> No.
+>> Right. At all. This is one of the one of
+the black boxes of of life is that we
+don't understand consciousness at all.
+Uh we don't know how to define it. We
+don't really know much about it at all.
+And so now that these machines are
+coming out, everyone starts having
+debates. Are they conscious? Are they
+not? Like you don't [ __ ] know. You
+don't even know if you're conscious or
+well most people have a strong sense
+that they themselves are conscious and I
+think that's a reasonable priory to
+assume
+>> is it or is it just a skills file that's
+been put in our brains?
+>> I you know what I mean is like
+>> yeah it's quite reductive about all of
+this.
+>> It's reasonable for people to assume
+that they themselves are conscious. It
+doesn't mean they're right but they I
+think it's a reasonable starting place
+to observe the world from. Um, but what
+makes someone conscious? When? Also,
+consciousness is obviously not a on or
+off thing, right? Like a a new human,
+when does it become conscious? When it's
+born, like obviously not. There's not a
+certain age where you become conscious.
+It's certainly not when you divide from
+like one egg cell into two cells. You're
+not that's not conscious. Like, it's a
+gradient, right? So, a human becomes
+increasingly conscious over time. Um if
+you become super inebriated on alcohol,
+arguably you're becoming less conscious
+in that moment. Right.
+>> Anes an um anesthesia.
+>> I mean they they've shown that it
+completely stops consciousness and they
+don't really know how.
+>> Right. Right. So when you're asleep, are
+you conscious? Like maybe sort of. It's
+not a binary thing. And so thus in
+robots we shouldn't have debates about
+it being a binary thing either. Um but
+certainly this question of like when
+will the machines have rights and what
+should those be we are not prepared for
+that humans humans can't even agree how
+humans should have rights or what those
+rights should be
+>> or even for animals you know we've
+argued that for hundreds of thousands of
+years
+>> right
+yeah um
+>> but the issue is is these things are
+smarter and more powerful than us and if
+they do self-coordinate which seems to
+be an observable pattern in any form of
+intelligence. That's again something a
+little bit more complicated than we're
+quite imagining. We're not imagining the
+robot that does our vacuuming suddenly
+being becoming smarter pushing us
+around. We're talking about
+self-chestration and organization of
+vast network of robots.
+>> We have a hubris that we will as a
+society decide what rights to give these
+robots. That's
+>> right. Maybe it's the other way around.
+they will be the apex and they will
+decide what rights they wish and I think
+>> or the rights to give us that's the
+other way it may happen
+>> that is that is also what may happen
+right the interesting debate may not be
+what humans give rights to robots but
+what the robots permit as rights to
+humans
+>> because if you play it through the I
+think the only way to organize
+society at scale whether it's I mean
+let's assume that you're right that the
+kind of nation state idea goes whatever
+way we have to organize
+human society. The answer will be
+obviously the AI
+because it's faster and better at making
+decisions and less emotive and you can
+give it the your societal values or
+whatever in some way, shape or form and
+it's going to do stuff around that.
+We're already seeing that. I mean, it's
+really interesting when you go to Abu
+Dhabi, they've got, you know, they're
+using AI as part of their investment
+committee. They're putting AI into
+corporate boardrooms, stuff like this.
+This is where it's going. I mean,
+there's no government decision should be
+made without AI now.
+>> Yeah. It's it's going to infiltrate all
+parts of all parts of society. Uh it's
+happening very fast. Um
+yeah, I just uh I think it's important
+for people to be humble to not make uh
+not make many conclusions, right? People
+are very quick to have conclusions. You
+go ask someone on the street like is AI
+good or bad? And most of them will say
+good, it's good or bad. Uh they have no
+idea. Like it's it's complex. Um, so
+just restrain yourself from having
+opinions on all all this complex stuff.
+>> I mean, if you reframe the question
+saying, is having intelligence good or
+bad?
+>> Well, it depends how it's used. I mean,
+it's the same answer,
+>> right?
+>> And they confuse the word AI as
+something kind of weirdly alien. But if
+you use the term intelligence, which is
+all it is, it's just a different form of
+intelligence, it becomes slightly less
+triggering in many ways.
+>> Yeah. Which is funny because just using
+a different word will change a large
+swath of people's opinions on the very
+same thing.
+>> Yeah. Exactly. So where are you going
+with Venice now? How how do you adapt to
+this you know Reed's law kind of
+adoption where everything's changing so
+fast that you know you're already saying
+well I probably need to get to agents
+but that's another whole buildout for
+you. Yes it's faster to build because of
+but it's like this endless thing is
+quite difficult to deal with. Yeah. I so
+conceptually we we are picturing Venice
+as you know this port city of AI, right?
+So we we're taking our namesake and
+using that metaphor where um we're not
+trying to build models. We're not trying
+to build all the advanced tools.
+Anything in the AI world that gets
+released, we end up adopting in Venice,
+right? So every time a new model comes
+out, it's in Venice. um that's actually
+very accretive to us because we don't
+have to make too many predictions on
+where this goes. We just kind of let
+things flow into the port city and let
+people use that there. That's that's
+kind of our our model. So we we end up
+being a a platform that people come to
+because it it is on a sound foundation
+of being private and being unrestricted.
+And um if you have those as principles
+in a system, our our thesis is that uh
+goods and and value and commerce will
+flow into it. Uh for the same reason
+that they tend to flow into areas where
+private property is protected like there
+are there are principles of how markets
+form that we can replicate and we don't
+necessarily need to know the direction
+AI goes. um we just allow it to flow
+into Venice as an open open platform
+which is what Venice itself did for
+hundreds of years.
+>> One thing I've thought about a lot
+around this idea of privacy versus
+non-privacy this there's two areas I've
+thought about. One is
+the reason that these things are scaling
+is because we give them information.
+And so there's a common good element
+whether we want it or not. There's an
+element of that. If if everything was
+private, we'd probably scale less
+intelligence.
+>> So there's there's there's a balance
+that needs to be between privacy and the
+the balance is
+>> availability of information.
+>> Opt in.
+>> Yeah. The balance is optin, right? If
+everyone was private about everything
+all the time, society would never have
+done anything. Humans must share ideas
+and information with each other. They
+must trade. They must cooperate. Um,
+privacy however has to be the starting
+condition and when it is then society
+can flourish. When privacy is violated
+at the at the start uh all sorts of
+pernicious pernicious um effects come
+from that in my opinion and now is the
+time to like form these structures in AI
+because it's it's all new and that's why
+I felt that Venice had to get built. The
+other way that I've thought about this
+is the complete opposite which is you
+give everything
+every single piece of information at
+some point in your life. You you give
+the whole lot and then you exist
+forever. And so part of you now whether
+you can form some consciousness or not
+but there's an element of you if let's
+say every single photograph every single
+phone call everything you've ever done
+everything you've ever looked at
+everything
+is known
+in the broader AI the network of AI
+because they're all learning from each
+other and everything else then you
+persist forever there's a weird
+immortality and when we come to
+holograms like Abber have been on tour
+in holograms for four years in the UK
+now and you can't tell it's not it's not
+ABBA. There'll be a hologram of Eric and
+all of Eric's information you could
+persist forever. Not you could make it
+semi-private. I it's only for my family
+or Eric is a public good that exists in
+perpetuity because now you don't need to
+write a book. You don't need to do
+something a mimemetic a long-lasting
+mimetic structure to to show the Eric
+information arc. It exists. I think
+that's there's something big in that
+too.
+For sure. Uh I think the important
+question is do do I want a future in
+which everything that I am is pulled by
+force out of me automatically to create
+that or a world in which I can choose to
+permit any portion of my world out into
+the public to create what I want. Right?
+One is one is respecting the agency of
+the individual. The other is much more
+achin to like a beehive or an ant
+colony. Um, and there are a lot of
+people that would prefer humans to live
+like bees or ants in sort of a communist
+like everyone is everyone's property
+kind of world and uh I think extremely d
+I think extremely bad and dangerous for
+that kind of thing. If people want to
+self-organize in that structure, that's
+totally fine. But to force every human
+into such a structure is
+>> yeah, the height of
+>> I'm not suggesting that, but I just it's
+like a very interesting outcome
+um that didn't exist before. Before the
+only way you could be immortal is to be
+in books and then it became films and
+stuff like that. But you know, that's
+how it's worked. But now it can be down
+to individuals at scale where you can
+exist in perpetuity. I just think
+there's something very unique about
+that.
+>> Certainly more of you can be known and
+exist in perpetuity, but I'm having
+thoughts right now that I can't express.
+There's so so much of what I am is like
+subconscious and
+>> canur neural link that'll be there in
+five years. I mean,
+>> sure. Yeah. Yeah. We're we are Yeah,
+your point is correct that we're um able
+to extract more and more of what a
+person is to be to be public. Um, and I
+think there's nothing wrong with that so
+long as it's voluntary. Um, that's where
+I would put it.
+>> Exactly. And it just makes me think just
+talking to you that somewhere within all
+of this, this idea of a vault,
+the encrypted vault is almost crucial to
+everything. Blockchain permissioned
+vault um, of, you know, the database
+that you can then permission yourself
+that's encrypted. That feels like it's a
+really important step because that's the
+value bit. that whole thing even more so
+than the conversations you might have
+because this can have all of the
+conversations you've ever had with
+anything.
+>> Yeah. Yeah. The ability to control what
+is expressed of you is is fundamentally
+important. And this is why Bitcoin was
+so powerful is because the individual
+who possessed it has complete
+sovereignty over the thing, right? Um,
+no nation state, unless they know that
+you have the Bitcoin and where it is,
+can can learn of it or extract it from
+you. Uh, no matter how powerful they
+are, like that's an incredibly
+empowering individ individualistic
+um novel phenomenon. Uh, it is it is why
+Bitcoin is so cool. It's why it's so
+powerful and and so important. And the
+same principle applies to any any kind
+of set of data or information that a
+that a person might possess. Where do
+you get to, just as a quick side topic,
+where do you get to on the Bitcoin
+privacy, the Zcash, that whole debate
+that's come from many people we've known
+from the past is like, yeah, you know,
+this is an important part of this whole
+equation.
+>> Yeah. Uh, very interesting topic. So, my
+own opinion on this has changed over
+time. Um, when Bitcoin came out,
+everyone
+called it private, thought of it as
+private. It was referred to as anonymous
+in every news story. Right.
+>> That's right.
+>> Um and in some ways it is very private
+and very anonymous. But the the truth is
+that it's also extremely trackable and
+traceable. Um it is not private in
+reality. Uh and the question is like
+should it have been from the start? And
+at at first I thought yes like it it
+should have been more private and that
+was a mistake in its design. Um,
+however, I think if Bitcoin had been
+anonymous truly from the start, like a
+Zcash or a Monero, um, it would have had
+such antagonism from the state.
+>> I agree.
+>> I don't know that the state could have
+snuffed it out, but they would have
+tried much harder. And I think it's
+actually good from the Trojan horse
+metaphor perspective that it was
+traceable enough that the traditional
+institutions could tolerate it. They've
+never liked it, but they could at least
+tolerate it because there is some
+traceability and that has allowed
+Bitcoin to grow. And I think in its
+shadow that other crypto assets um are
+actually anonymous is very healthy. So I
+think like part of the decentralization
+thesis,
+>> it's the same idea as Venice with the
+other model. You know, you've got some
+people need to be able to choose
+privacy. It cannot be excluded by the
+state and it becomes an opt-in. Now you
+know it then becomes your choice of you
+know do you want to store it in Bitcoin
+or do you want to take more risk but to
+have the privacy of Zcash or whatever it
+may be Monero or whatever
+>> the the strength of cryptocurrency as a
+concept in society I think is served
+best when Bitcoin itself is not
+perfectly private but other assets are u
+that is a very difficult thing I think
+for the state to to combat and that
+decentralization of attributes is really
+really crucial. So, um yeah, I'm very
+glad that there are other coins that are
+private. I want there to be more of them
+and I want them to be more popular. Um
+and I think it's okay that Bitcoin
+itself is not.
+>> Now, talking of tokens, you've got a
+token attached to this as well, which I
+think is really important. I mean, one
+of the things been going in my head for
+a while is that open source gets
+monetized through different ways. you
+know, you can subscribe to add-on parts
+and whatever, but open source, you know,
+becomes a free common good. Um, it feels
+that tokenizing open source is a really
+a much bigger easier way to monetize
+vast pools and I know you know the the
+Bitensor ecosystem is trying that and
+various other ways of doing it. Not
+really been tried at scale. What are you
+doing with the token? Why did you have a
+token and how are you using it?
+Yeah. So, Venice has two tokens, VVV and
+DM. Uh, VVV is the bigger and more
+important of the two. Um, essentially
+people can use it to get free pro access
+if they want. Uh, but as an asset,
+Venice is just taking its own revenues
+and buying the token over time and
+trying to burn all of it. Um, I think
+that structure is actually really cool.
+Um, and I want to do it with a mass
+market consumer app in a way that's
+never been done before. So, that's how
+VVV works. is kind of simple. DM is a
+little more complicated and a little
+more nerdy. Um, DM is essentially a
+perpetuity that gives any holder $1 per
+day of credit on Venice. Um, so you can
+value it as a perpetuity that spits out
+$1 per day of a resource. Um, all DM is
+minted out of VBV and when it is
+unminted goes back into it. Um, and so
+these two tokens are related to each
+other and and we, you know, we
+experiment with like tokconomic designs
+as a as a company. We are not a crypto
+company itself, but I think it's time
+for crypto primitives and tokconomics to
+be tried outside of just crypto apps,
+frankly. Um, Venice is a mass market
+consumer app. Most of our users are not
+crypto people, but we want to bring
+crypto out.
+>> You got a lot of users now. You've got a
+lot of users now as well, haven't you?
+>> Yeah, it's Yeah, it's getting pretty
+big. We Yeah, we're we're past three
+million users at this point.
+>> We're amazing.
+>> It's been growing Yeah. 15 20% month
+over month for a couple years.
+>> Where's that coming from?
+Who's talking about it? Is it coming
+from you know which forum? Where does it
+I mean obviously you and you know the
+ecosystem that's known you and your
+previous guys and stuff. Yes, fine. But
+there's some there's organic growth
+coming from all over the place here.
+>> Yeah. I mean in some sense we're still
+very small like uh OpenAI Chad GBT hit
+like 100 million users in a couple
+months
+>> right by that comparison. They just hit
+a billion monthly active users.
+>> I know. Um so compared to that we are
+very tiny but we have a similar app and
+a similar target of the mass market of
+of enduser consumers. Um so as we get
+better known like it keeps growing which
+has been amazing but it's still still
+quite small by any AI company
+perspective.
+>> But you know I I do think it's a really
+good idea that you're trying to use
+token economics in ways that drive
+consumer platforms is something that
+people have tried. It's been hard to get
+right and um
+>> yeah I have a lot of thoughts on this
+but like post 2017 into 2018 when the US
+government and other governments became
+much more aggressive against all token
+designs. Um there was a chilling effect
+where anyone trying to build a useful
+token was getting scared and most people
+just didn't. And what you ended up with
+was an an era of meme coins.
+>> Yeah.
+>> Right. um projects that weren't trying
+to do anything useful because if you
+just make it like a picture of a frog,
+uh it it separates from the attempt at
+utility and thus it has no risk of being
+a security and thus it can flourish. And
+this was such a um damaging effect of
+securities regulation that we went
+through this period where everyone was
+just creating memecoins because that was
+the only thing people felt safe to do.
+Um, so you know, I think it's time that
+people like step back out and build
+useful products that integrate and
+advance cryptoeconomic principles in a
+useful product. So that's that's what I
+want to do with with Venice.
+>> We've seen it. Hyperlquid is a good
+example as well of somebody, you know,
+trying to get token e economics right,
+integrating it in a way that
+>> it's not the whole game. If it's the
+whole game, it's not it's not a product.
+>> To token finance is amazing. Uh it's an
+incredible set of primitives that are
+still being explored. It's so powerful
+and it's a tragedy that due to a
+combination of opportunism from scammers
+and regulatory
+um pressure that has caused bad effects,
+we've gotten a lot of people unwilling
+to realize the the sincerity of these
+systems. So I think any good actors
+within the crypto world, it is incumbent
+on them to have a little bit of courage
+and actually like build with this stuff
+in the right way.
+>> And that's been my one of my working
+hypotheses is that this is the one thing
+that everyone's forgotten about the kind
+of that web 3 ethos thing that you know
+Chris Dixon talks at length about.
+People have written it off and I think
+they're wildly wrong.
+>> I do.
+>> Wildly wrong. the the DeFi apps are kind
+of the best cluster of this being done
+well. The uh the DeFi innovations,
+lending markets, um like that stuff is
+really cool and uh those tokens deserve
+to thrive more than they are.
+>> Yeah, fantastic, Eric. Brilliant
+conversation. Thank you and well done
+with what you're doing. It's just it's
+fabulous to see. Uh it's important and
+uh and for you, I can see by the smile
+on your face, it's fun as well.
+>> It is fun. Yeah, it's it's been fun to
+learn a new field because I was total
+noob at the beginning and I'm starting
+to understand it. So,
+>> and what a time to be alive, eh?
+>> Yeah, no kidding. Thanks for
+>> So lucky. I'm so lucky.
+>> Yeah, agree.
+>> Fantastic. Great to see you.
+>> You, too. Cheers.
+>> So, you obviously like this video enough
+that you've got to the end. That's quite
+a big task. But listen, do me a favor.
+Hit the like and subscribe button and
+also check out what videos next cuz I
+think you'll love it. But if you want
+even more, and when I'm talking more,
+I'm talking about memberergenerated
+ideas, incredible alpha research,
+everything there to help you in your
+journey, just head to
+realvision.com/join
+for the best financial intelligence out
+there and the pure alpha that's within
+the platform.

@@ -1,0 +1,275 @@
+Hola, buenos días.
+Hoy vamos a ver cómo rellenar las casillas 
+principales, relacionadas con la inversión, de  
+la declaración del IRPF de 2025, que 
+es la que se hace ahora entre abril  
+y junio de 2026. Veréis que rellenar la 
+declaración con los datos de las acciones,  
+fondos y demás es fácil. Otra cosa es que habría 
+que pagar menos, ya lo sé. Sobre las nuevas  
+cuentas de bajos impuestos no hay ninguna novedad 
+reciente. esperemos que las lancen ya en 2026.
+Si sois nuevos en el canal y no me conocéis, 
+os cuento que me llamo Gregorio Hernández,  
+y llevo desde 2007 explicando cómo 
+conseguir la independencia financiera  
+gracias a los dividendos con este canal 
+de Youtube, libros, webs, y más cosas.
+Empezamos con la pantalla de los rendimientos 
+del capital mobiliario. Esto son los  
+dividendos, y también los intereses de las cuentas 
+remuneradas y depósitos, y cosas parecidas.
+En la casilla 027 tenéis que poner los 
+intereses que hayáis cobrado de cuentas  
+remuneradas y depósitos, bonos y similares. 
+También se ponen aquí los regalos que hacen  
+los bancos y los brokers por domiciliar 
+la nómina, abrir una cuenta, o lo que sea.
+En la casilla 029 se ponen los dividendos. 
+Y también los derechos que se vendan al  
+precio fijo que marcan las empresas 
+en los dividendos flexibles. Vamos  
+a poner un ejemplo suponiendo que hemos 
+cobrado 500 euros de empresas españolas,  
+otros 500 de empresas de EEUU y 
+otros 500 de empresas alemanas.
+Las retenciones que nos hacen 
+son estas que veis en pantalla.
+Si no sabéis por qué se hacen estas retenciones  
+en cada país os dejo por aquí 
+un vídeo en el que lo explico.
+El total retenciones que nos hace España son 
+246,05 euros = 95 + 80,75 + 70,30 = 246,05
+En la casilla 029 tenemos que poner 
+los dividendos brutos cobrados en  
+total (1.500 euros) y las retenciones 
+que nos han hecho en España (246,05). 
+Y aquí ponéis también todos los gastos de 
+administración y custodia, y otros similares, que  
+hayáis tenido en vuestro broker. He puesto 10 
+euros para que veáis dónde se ponen estos gastos.
+Las comisiones de compra y de venta de acciones no 
+van aquí, sino en otra casilla que ahora veremos.
+Las retenciones que nos han hecho en 
+EEUU y en Alemania tampoco se ponen  
+aquí. Más adelante veremos dónde las ponemos, 
+para que nos devuelvan lo que corresponda.
+En la casilla 030 se ponen las 
+ventas de Letras del Tesoro.
+Si habéis vendido títulos de renta fija como 
+bonos y similares, eso va en la casilla 031.
+Lo cobrado por seguros de 
+vida va en la casilla 032,  
+y en la casilla 033 van las rentas vitalicias.
+Y con esto acabamos la parte de 
+las rentas, que son los dividendos,  
+intereses, y todo lo que hemos visto.
+Las ventas de fondos de inversión se ponen en la 
+casilla 311. Aquí os he puesto el ejemplo de un  
+fondo en el que invertimos 1.000 euros, al vender 
+conseguimos 1.100, y nos han retenido 19 euros. 
+Si no hubiérais respetado la regla de los 
+2 meses al vender un fondo con pérdidas,  
+ahí tenéis también la casilla de "No imputación 
+de pérdidas por recompra de valores homogéneos". 
+Y también veis ahí el enlace en el 
+que hay que pinchar si tenéis derecho  
+a los coeficientes reductores, por ser 
+fondos comprados antes del 31-12-1994.
+Las ventas de acciones van en la casilla 328. 
+También van aquí la venta de los ETF. En el  
+ejemplo os he puesto una venta de acciones de 
+Danone que compramos por 1.010 euros y vendimos  
+por 1.490 euros. He puestas estas cifras para que 
+se vea más claro que aquí es dónde se ponen las  
+comisiones de compra y de venta de acciones.
+Es decir, en el ejemplo he supuesto que la  
+comisión de compra y de venta han sido 10  
+euros en cada caso. En pantalla 
+os pongo los cálculos exactos. 
+Si tenéis muchas operaciones de venta podéis 
+poner el total de todas ellas en una sola casilla,  
+poniendo en "Entidad emisora" algo 
+así como "Operaciones en el broker X".
+Y si habéis hecho alguna venta de acciones con 
+pérdidas y sin respetar la regla de los 2 meses  
+entonces es aquí donde tenéis que marcar la 
+casilla de "No imputación de pérdidas por  
+recompra de valores homogéneos", para que esas 
+pérdidas queden bloqueadas hasta que las vendáis  
+respetando la regla de los 2 meses, y las podáis 
+compensar. No hay límite de años para que podáis  
+desbloquear estas pérdidas y compensarlas, así 
+que las podéis desbloquear cuando más os interese. 
+También tenéis ahí el enlace en el que 
+hay que pinchar si habéis vendido acciones  
+compradas antes del 31-12-1994, y tenéis 
+derecho a los coeficientes reductores.
+Las ventas a mercado de los derechos de 
+suscripción, de los dividendos flexibles,  
+o de la ampliación de capital que sea, 
+se ponen en la casilla 343, y os pongo  
+el ejemplo de que hayamos vendido derechos por 
+100 euros en dividendos flexibles de Ferrovial,  
+por ejemplo, en los que nos han cobrado 2 euros 
+de comisión por la venta de esos derechos y  
+nos han retenido el 19% de los 98 euros netos.
+Si los derechos los vendéis a la empresa al precio  
+fijo que se marca en cada 
+dividendo flexible entonces  
+se ponen en la misma casilla que los 
+dividendos, que es la 029, como vimos antes.
+Las operaciones con derivados (opciones, futuros, 
+CFDs, divisas, etc) se ponen en la casilla 1626,  
+seleccionando el Tipo 4 en la casilla "Otros 
+elementos patrimoniales no afectos a actividades  
+económicas", que os saldrá al pinchar en 
+la casilla 1626. Los importes y las fechas  
+de compra que metáis en la casilla 1626 
+aparecerán en la 1a casilla 1631 y siguientes.
+Las ventas de inmuebles se 
+ponen en la casilla 1817.
+Ahora vamos a ver la compensación 
+de pérdidas de años anteriores.
+En las casillas 439 a 442 compensamos 
+las pérdidas de 2021 a 2024 que aún  
+estén pendientes de compensar con las 
+ganancias que hayamos tenido en 2025. 
+En la pantalla veis que las 
+ganancias de 2025 son 678 euros,  
+porque en nuestro ejemplo hemos hecho 
+estas 3 ventas, todas con ganancias:
+1) Acciones de Danone: 480 euros
+2) Fondo de inversión: 100 euros 
+3) Derechos de Ferrovial en su 
+dividendo flexible: 98 euros
+Y en las casillas 449 a 452 podemos compensar las  
+pérdidas de años anteriores 
+con los dividendos de 2025. 
+En la pantalla veis que las rentas de 
+2025 son 1.490 euros, porque cobramos  
+unos dividendos de 1.500 euros y pagamos unas 
+comisiones de mantenimiento al broker de 10 euros.
+Y si en años anteriores tuvisteis pérdidas que 
+no pudísteis compensar porque no respetásteis  
+la regla de los 2 meses, pero en 2025 
+habéis desbloqueado la compensación de  
+esas pérdidas y ya las podéis compensar, 
+las tenéis que poner en la casila 395.
+Antes de seguir con el resto de las 
+casillas os recuerdo que en mi libro  
+"Independencia Financiera de la A a 
+la Z" concentro al máximo mi forma de  
+invertir por dividendos, para que aprendáis 
+a conseguir vuestra Independencia Financiera.
+Además de eso, ya sabéis que en el Club de la 
+Independencia Financiera uno la teoría y la  
+práctica, con ejemplos reales de forma continua, 
+tanto de empresas concretas que veo baratas como  
+de la forma de interpretar la situación general. 
+Creo que esta es la mejor forma de que aprendáis  
+los conocimientos técnicos y la mentalidad 
+adecuada para invertir bien, y con tranquilidad  
+y seguridad, el resto de vuestra vida. Porque se 
+trata de que vosotros aprendáis a ver qué empresas  
+están baratas, para que seáis independientes 
+de verdad el resto de vuestra vida. El Club  
+ya está cerca de su tercer año, y la gente 
+que está dentro está encantada. Porque además  
+en el Club tenéis muchas más cosas además de la 
+inversión por dividendos. Si tenéis alguna duda  
+sobre el Club de la Independencia Financiera 
+podéis agendar una llamada para resolverla.
+En la descripción de este vídeo os dejo los 
+enlaces para comprar cualquiera de mis libros,  
+y también para el Club de 
+la Independencia Financiera,  
+donde podéis ver cómo agendar una llamada para 
+resolver las dudas que tengáis sobre el Club.
+Seguimos con las casillas que nos faltan.
+Las retenciones a los dividendos que nos han hecho 
+en EEUU y Alemania las ponemos en la casilla 588. 
+En esta casilla ponemos el dividendo bruto 
+que hemos cobrado de las empresas extranjeras,  
+y la retención que nos han hecho en esos 
+países, con el límite del 15% de cada dividendo. 
+Recordad que en EEUU nos habían 
+retenido 75 euros, que es justo el  
+15%. Así que aquí ponemos esos 75 euros.
+En Alemania nos retienen más, el 26%,  
+así que en nuestro ejemplo de los 500 euros de 
+dividendos cobrados en Alemania, nos retuvieron  
+130 euros. De esos 130 euros sólo podemos 
+poner aquí 75 euros, y los otros 55 euros  
+hasta llegar a los 130 euros que nos han retenido 
+en Alemania ahora veremos qué hacemos con ellos.
+Así que en esta casilla 588 podemos poner 75 
+euros de los dividendos de EEUU y 75 euros  
+de los dividendos de Alemania, que suman 
+los 150 euros que veis en la pantalla. 
+Estos 150 euros os los devolverán total 
+o parcialmente, dependiendo del resto de  
+datos de vuestra declaración. En la mayoría 
+de los casos os los devolverán totalmente,  
+y esto se hace de una forma tan sencilla como 
+que el resultado final de la declaración ya  
+incluirá estos 150 euros (o la parte que sea).
+Por ejemplo, supongamos que si dejais esta  
+casilla en blanco pagaríais 400 euros. 
+Entonces al rellenarla el resultado  
+final será que pagaréis 250 euros.
+Y si la declaración sale a devolver,  
+suponiendo que al dejar esta casilla en blanco 
+el resultado fuera de 300 euros a vuestro favor,  
+entonces al rellenarla os devolverán 450 euros.
+Los otros 55 euros que nos retuvieron en Alemania 
+son los que hay que pedir directamente a Alemania,  
+aunque esto parece que se va a resolver a finales 
+de 2026 y 2027 con esa iniciativa de la UE,  
+que se llama FASTER, que os comento desde 
+hace un par de años, aproximadamente. Y,  
+aunque no lo han dicho expresamente, 
+entiendo que entonces podremos pedir  
+fácilmente la devolución de la doble 
+retención de los 4 años anteriores.
+Si como resultado de esta declaración 
+tenéis pérdidas que compensar para  
+los próximos años las cantidades exactas os 
+aparecen en las casillas 1258 y siguientes.
+Y ya por último, en esta pantalla podéis 
+ver cuánto pagáis realmente a Hacienda. 
+Lo que pagáis realmente a Hacienda 
+es la suma de las casillas 570 y 571. 
+La atención de todo el mundo se va a la casilla 
+695, que es la que nos dice si al presentar la  
+declaración tenemos que pagar aún más de 
+lo que ya hemos pagado a lo largo del año,  
+o nos devuelven un poco de todo lo que 
+hemos ido pagando a lo largo del año. 
+Pero esto es poco importante, lo que de verdad 
+importa es la suma de las casillas 570 y 571,  
+que es lo que de verdad habeís pagado a Hacienda.
+No puede ser que todavía haya gente a la que la  
+declaración le salga a devolver 100 euros, y se 
+crea que Hacienda le está regalando 100 euros.
+Recordad que todo lo que hemos visto de 
+cómo rellenar las casillas del IRPFes  
+algo imprescindible, pero lo realmente importante  
+es que sepáis qué decisiones tomar 
+antes del 31 de diciembre de 2026,  
+para pagar lo mínimo posible cuando hagás la 
+próxima declaración entre abril y junio de 2027.
+En este vídeo no voy a responder 
+las preguntas del vídeo anterior,  
+porque es muy específico 
+sobre la declaración del IRPF.
+Dejad todas las preguntas que queráis 
+en los comentarios de este vídeo,  
+y os las responderé en el próximo 
+vídeo, junto con las del vídeo anterior.
+Si me ayudáis compartiendo este vídeo, 
+dándole al "me gusta" y todo lo demás,  
+os lo agradezco mucho. Yo me despido ya 
+hasta el próximo vídeo, y nos seguimos  
+viendo en las redes sociales y en el 
+Club de la Independencia Financiera.
