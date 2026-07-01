@@ -34,13 +34,15 @@ warnings.filterwarnings("ignore")
 # ── Config ────────────────────────────────────────────────────────────────────
 
 BASE_DIR    = os.path.dirname(os.path.abspath(__file__))
-DOCS_DIR    = os.path.join(BASE_DIR, "docs")
-DATA_CSV    = os.path.join(BASE_DIR, "fred_data.csv")
-CHART_PNG   = os.path.join(DOCS_DIR, "liquidity_chart.png")
-HTML_FILE   = os.path.join(DOCS_DIR, "index.html")
-ENV_FILE    = os.path.join(BASE_DIR, ".env")
-START_DATE  = "2020-01-01"
-CHART_YEARS = 3
+DOCS_DIR      = os.path.join(BASE_DIR, "docs")
+DATA_CSV      = os.path.join(BASE_DIR, "fred_data.csv")
+CHART_PNG     = os.path.join(DOCS_DIR, "liquidity_chart.png")
+CHART_3M_PNG  = os.path.join(DOCS_DIR, "liquidity_chart_3m.png")
+HTML_FILE     = os.path.join(DOCS_DIR, "index.html")
+ENV_FILE      = os.path.join(BASE_DIR, ".env")
+START_DATE    = "2020-01-01"
+CHART_YEARS   = 3
+CHART_MONTHS  = 3
 
 os.makedirs(DOCS_DIR, exist_ok=True)
 
@@ -142,15 +144,15 @@ COLORS = {
     "Bitcoin":   "#ff9500",
 }
 
-def style_ax(ax, show_xticks=False):
+def style_ax(ax, show_xticks=False, locator=None, date_fmt="%b %Y"):
     ax.set_facecolor(BG)
     ax.tick_params(colors=LABEL, labelsize=8.5)
     for spine in ax.spines.values():
         spine.set_color("#2a2a3e")
     ax.grid(axis="y", color=GRID, linewidth=0.6)
     ax.grid(axis="x", color=GRID, linewidth=0.3)
-    ax.xaxis.set_major_locator(mdates.MonthLocator(interval=6))
-    ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %Y"))
+    ax.xaxis.set_major_locator(locator or mdates.MonthLocator(interval=6))
+    ax.xaxis.set_major_formatter(mdates.DateFormatter(date_fmt))
     if show_xticks:
         plt.setp(ax.xaxis.get_majorticklabels(), rotation=30, ha="right", color=LABEL)
     else:
@@ -279,6 +281,123 @@ def plot(df: pd.DataFrame):
     plt.close()
     print(f"[OK] Gráfica guardada → {CHART_PNG}")
 
+
+def plot_zoom(df: pd.DataFrame):
+    """Gráfica de alta resolución para los últimos CHART_MONTHS meses."""
+    cutoff = pd.Timestamp.today() - pd.DateOffset(months=CHART_MONTHS)
+    d = df[df.index >= cutoff].copy()
+
+    biweekly = mdates.WeekdayLocator(byweekday=0, interval=2)  # cada 2 lunes
+    date_fmt  = "%d %b"
+
+    fig, axes = plt.subplots(
+        4, 1, figsize=(15, 12),
+        gridspec_kw={"height_ratios": [3, 1.8, 1.8, 2.2]},
+        facecolor=BG,
+    )
+    fig.subplots_adjust(hspace=0.06, left=0.07, right=0.93, top=0.94, bottom=0.09)
+
+    last_date = d.index[-1]
+
+    # ── Panel 1: Net Liquidity + SP500 ──────────────────────────────────────
+    ax0 = axes[0]
+    style_ax(ax0, locator=biweekly, date_fmt=date_fmt)
+
+    nl = d["net_liq"].dropna()
+    ax0.plot(nl.index, nl, color=COLORS["net_liq"], linewidth=2, label="Net Liquidity", zorder=3)
+    ax0.fill_between(nl.index, nl, alpha=0.15, color=COLORS["net_liq"])
+    ax0.set_ylabel("Net Liquidity (T$)", color=LABEL, fontsize=9)
+    ax0.yaxis.set_major_formatter(mticker.FuncFormatter(fmt_T))
+    annotate_last(ax0, nl.index[-1], nl.iloc[-1], f"${nl.iloc[-1]:.2f}T", COLORS["net_liq"])
+
+    ax0r = ax0.twinx()
+    ax0r.set_ylabel("Índice (base=100)", color=LABEL, fontsize=9)
+    ax0r.tick_params(colors=LABEL, labelsize=8.5)
+    ax0r.spines[:].set_color("#2a2a3e")
+    ax0r.yaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: f"{x:.0f}"))
+
+    indices_legend = []
+    for key, ls in [("SP500", "--"), ("MSCI_World", ":")]:
+        if key not in d.columns:
+            continue
+        s = d[key].dropna()
+        base = s.iloc[0]
+        idx  = (s / base) * 100
+        pct  = (s.iloc[-1] / base - 1) * 100
+        label = f"{key.replace('_',' ')}  {s.iloc[-1]:,.0f}  ({pct:+.1f}%)"
+        ax0r.plot(idx.index, idx, color=COLORS[key], linewidth=1.6,
+                  alpha=0.9, linestyle=ls, label=label)
+        annotate_last(ax0r, idx.index[-1], idx.iloc[-1],
+                      f"  {idx.iloc[-1]:.0f}", COLORS[key])
+        indices_legend.append(plt.Line2D([0], [0], color=COLORS[key], lw=1.5, ls=ls, label=label))
+
+    lines0 = [plt.Line2D([0], [0], color=COLORS["net_liq"], lw=2, label="Net Liquidity")]
+    ax0.legend(handles=lines0 + indices_legend, loc="upper left",
+               facecolor="#1a1a2e", labelcolor="white", fontsize=8.5, framealpha=0.7)
+
+    ax0.set_title(
+        f"Liquidez Global & Mercados — Últimos {CHART_MONTHS} meses  ·  {last_date:%d %b %Y}",
+        color="white", fontsize=13, pad=10, loc="left", fontweight="bold",
+    )
+
+    # ── Panel 2: Reverse Repos ───────────────────────────────────────────────
+    ax1 = axes[1]
+    style_ax(ax1, locator=biweekly, date_fmt=date_fmt)
+    rrp = d["RRPONTSYD"].dropna()
+    ax1.plot(rrp.index, rrp, color=COLORS["RRPONTSYD"], linewidth=1.8, label="Reverse Repos (RRP)")
+    ax1.fill_between(rrp.index, rrp, alpha=0.18, color=COLORS["RRPONTSYD"])
+    ax1.set_ylabel("T$", color=LABEL, fontsize=9)
+    ax1.yaxis.set_major_formatter(mticker.FuncFormatter(fmt_T))
+    annotate_last(ax1, rrp.index[-1], rrp.iloc[-1], f"${rrp.iloc[-1]:.3f}T", COLORS["RRPONTSYD"])
+    ax1.legend(loc="upper right", facecolor="#1a1a2e", labelcolor="white", fontsize=8.5, framealpha=0.7)
+
+    # ── Panel 3: M2 ──────────────────────────────────────────────────────────
+    ax2 = axes[2]
+    style_ax(ax2, locator=biweekly, date_fmt=date_fmt)
+    m2 = d["M2SL"].dropna()
+    ax2.plot(m2.index, m2, color=COLORS["M2SL"], linewidth=1.8, label="M2 (oferta monetaria)")
+    ax2.fill_between(m2.index, m2, alpha=0.18, color=COLORS["M2SL"])
+    ax2.set_ylabel("T$", color=LABEL, fontsize=9)
+    ax2.yaxis.set_major_formatter(mticker.FuncFormatter(fmt_T))
+    annotate_last(ax2, m2.index[-1], m2.iloc[-1], f"${m2.iloc[-1]:.2f}T", COLORS["M2SL"])
+    ax2.legend(loc="upper left", facecolor="#1a1a2e", labelcolor="white", fontsize=8.5, framealpha=0.7)
+
+    # ── Panel 4: Oro + Bitcoin (indexados a 100) ─────────────────────────────
+    ax3 = axes[3]
+    style_ax(ax3, show_xticks=True, locator=biweekly, date_fmt=date_fmt)
+
+    legends4 = []
+    for asset, color in [("Gold", COLORS["Gold"]), ("Bitcoin", COLORS["Bitcoin"])]:
+        if asset not in d.columns:
+            continue
+        s = d[asset].dropna()
+        base = s.iloc[0]
+        indexed = (s / base) * 100
+        ax3.plot(indexed.index, indexed, color=color, linewidth=1.8, label=asset)
+        ax3.fill_between(indexed.index, indexed, 100, alpha=0.1, color=color)
+        val_last = s.iloc[-1]
+        pct = (s.iloc[-1] / base - 1) * 100
+        label = f"${val_last:,.0f}  ({pct:+.1f}%)"
+        annotate_last(ax3, indexed.index[-1], indexed.iloc[-1], f"  {label}", color)
+        legends4.append(plt.Line2D([0], [0], color=color, lw=1.5, label=f"{asset}  {label}"))
+
+    ax3.axhline(100, color="#444455", linewidth=0.8, linestyle=":")
+    ax3.set_ylabel("Índice (base=100)", color=LABEL, fontsize=9)
+    ax3.yaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: f"{x:.0f}"))
+    if legends4:
+        ax3.legend(handles=legends4, loc="upper left",
+                   facecolor="#1a1a2e", labelcolor="white", fontsize=8.5, framealpha=0.7)
+
+    fig.text(
+        0.5, 0.01,
+        "Net Liquidity = Fed Balance − TGA − RRP  ·  Fuente: FRED (St. Louis Fed) + Yahoo Finance",
+        ha="center", color="#444455", fontsize=8,
+    )
+
+    plt.savefig(CHART_3M_PNG, dpi=180, bbox_inches="tight", facecolor=BG)
+    plt.close()
+    print(f"[OK] Gráfica 3m guardada → {CHART_3M_PNG}")
+
 # ── HTML ─────────────────────────────────────────────────────────────────────
 
 def generate_html(df: pd.DataFrame):
@@ -322,7 +441,14 @@ def generate_html(df: pd.DataFrame):
             font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; }}
     .container {{ max-width:1300px; margin:0 auto; padding:2rem; }}
     h1 {{ color:#fff; font-size:1.7rem; font-weight:700; }}
-    .updated {{ color:#555; font-size:0.85rem; margin-top:.3rem; margin-bottom:1.8rem; }}
+    .updated {{ color:#555; font-size:0.85rem; margin-top:.3rem; margin-bottom:1.4rem; }}
+    .tabs {{ display:flex; gap:.5rem; margin-bottom:1rem; }}
+    .tab {{ padding:.45rem 1.1rem; border-radius:6px; border:1px solid #2a2a3e;
+            background:#1a1a2e; color:#888; font-size:.85rem; cursor:pointer;
+            transition:all .15s; }}
+    .tab.active {{ background:#00d4ff22; border-color:#00d4ff66; color:#00d4ff; font-weight:600; }}
+    .chart-panel {{ display:none; }}
+    .chart-panel.active {{ display:block; }}
     .chart {{ width:100%; border-radius:10px; display:block; }}
     .metrics {{ display:grid;
                 grid-template-columns:repeat(auto-fit,minmax(160px,1fr));
@@ -344,7 +470,19 @@ def generate_html(df: pd.DataFrame):
     <h1>Market Liquidity Dashboard</h1>
     <p class="updated">Actualizado: {last:%d %b %Y} &nbsp;·&nbsp;
        Net Liquidity = Fed Balance Sheet − TGA − RRP</p>
-    <img class="chart" src="liquidity_chart.png" alt="Liquidity Chart">
+
+    <div class="tabs">
+      <button class="tab active" onclick="showTab('3y', this)">3 años</button>
+      <button class="tab"        onclick="showTab('3m', this)">3 meses</button>
+    </div>
+
+    <div id="panel-3y" class="chart-panel active">
+      <img class="chart" src="liquidity_chart.png" alt="Liquidity Chart 3 años">
+    </div>
+    <div id="panel-3m" class="chart-panel">
+      <img class="chart" src="liquidity_chart_3m.png" alt="Liquidity Chart 3 meses">
+    </div>
+
     <div class="metrics">{cards}</div>
     <footer>
       Datos: <a href="https://fred.stlouisfed.org">FRED (St. Louis Fed)</a>
@@ -352,6 +490,14 @@ def generate_html(df: pd.DataFrame):
       &nbsp;·&nbsp; Actualización diaria automática vía GitHub Actions
     </footer>
   </div>
+  <script>
+    function showTab(id, btn) {{
+      document.querySelectorAll('.chart-panel').forEach(p => p.classList.remove('active'));
+      document.querySelectorAll('.tab').forEach(b => b.classList.remove('active'));
+      document.getElementById('panel-' + id).classList.add('active');
+      btn.classList.add('active');
+    }}
+  </script>
 </body>
 </html>"""
 
@@ -381,6 +527,7 @@ def main():
             print(f"  {asset:10s}  : {v:,.2f}")
 
     plot(df)
+    plot_zoom(df)
     generate_html(df)
 
 
