@@ -11,7 +11,14 @@
             font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; }
     .container { max-width:1300px; margin:0 auto; padding:2rem; }
     h1 { color:#fff; font-size:1.7rem; font-weight:700; }
-    .updated { color:#555; font-size:0.85rem; margin-top:.3rem; margin-bottom:1.8rem; }
+    .updated { color:#555; font-size:0.85rem; margin-top:.3rem; margin-bottom:1.4rem; }
+    .tabs { display:flex; gap:.5rem; margin-bottom:1rem; }
+    .tab { padding:.45rem 1.1rem; border-radius:6px; border:1px solid #2a2a3e;
+            background:#1a1a2e; color:#888; font-size:.85rem; cursor:pointer;
+            transition:all .15s; }
+    .tab.active { background:#00d4ff22; border-color:#00d4ff66; color:#00d4ff; font-weight:600; }
+    .chart-panel { display:none; }
+    .chart-panel.active { display:block; }
     .chart { width:100%; border-radius:10px; display:block; }
     .metrics { display:grid;
                 grid-template-columns:repeat(auto-fit,minmax(160px,1fr));
@@ -31,13 +38,25 @@
 <body>
   <div class="container">
     <h1>Market Liquidity Dashboard</h1>
-    <p class="updated">Actualizado: 01 Jul 2026 &nbsp;·&nbsp;
+    <p class="updated">Actualizado: 02 Jul 2026 &nbsp;·&nbsp;
        Net Liquidity = Fed Balance Sheet − TGA − RRP</p>
-    <img class="chart" src="liquidity_chart.png" alt="Liquidity Chart">
+
+    <div class="tabs">
+      <button class="tab active" onclick="showTab('3y', this)">3 años</button>
+      <button class="tab"        onclick="showTab('3m', this)">3 meses</button>
+    </div>
+
+    <div id="panel-3y" class="chart-panel active">
+      <img class="chart" src="liquidity_chart.png" alt="Liquidity Chart 3 años">
+    </div>
+    <div id="panel-3m" class="chart-panel">
+      <img class="chart" src="liquidity_chart_3m.png" alt="Liquidity Chart 3 meses">
+    </div>
+
     <div class="metrics">
         <div class="metric">
           <div class="metric-label">Net Liquidity</div>
-          <div class="metric-value">$5.79T</div>
+          <div class="metric-value">$5.82T</div>
           <div class='metric-sub'>Fed Balance − TGA − RRP</div>
         </div>
         <div class="metric">
@@ -47,27 +66,27 @@
         </div>
         <div class="metric">
           <div class="metric-label">Reverse Repos</div>
-          <div class="metric-value">$0.027T</div>
+          <div class="metric-value">$0.001T</div>
           <div class='metric-sub'>Liquidez aparcada en Fed</div>
         </div>
         <div class="metric">
           <div class="metric-label">SP500</div>
-          <div class="metric-value">7,499</div>
+          <div class="metric-value">7,483</div>
           
         </div>
         <div class="metric">
           <div class="metric-label">MSCI World ETF</div>
-          <div class="metric-value">$202.64</div>
+          <div class="metric-value">$202.08</div>
           <div class='metric-sub'>URTH</div>
         </div>
         <div class="metric">
           <div class="metric-label">Oro</div>
-          <div class="metric-value">$4,038/oz</div>
+          <div class="metric-value">$4,078/oz</div>
           <div class='metric-sub'>GC=F</div>
         </div>
         <div class="metric">
           <div class="metric-label">Bitcoin</div>
-          <div class="metric-value">$58,529</div>
+          <div class="metric-value">$61,205</div>
           <div class='metric-sub'>BTC-USD</div>
         </div></div>
     <footer>
@@ -76,5 +95,13 @@
       &nbsp;·&nbsp; Actualización diaria automática vía GitHub Actions
     </footer>
   </div>
+  <script>
+    function showTab(id, btn) {
+      document.querySelectorAll('.chart-panel').forEach(p => p.classList.remove('active'));
+      document.querySelectorAll('.tab').forEach(b => b.classList.remove('active'));
+      document.getElementById('panel-' + id).classList.add('active');
+      btn.classList.add('active');
+    }
+  </script>
 </body>
 </html>
