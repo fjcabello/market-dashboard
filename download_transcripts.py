@@ -31,7 +31,9 @@ def load_channels(csv_path: str) -> list[dict]:
 
 # Cuántos vídeos recientes revisar por canal en cada ejecución.
 # 3 cubre el caso de que no se ejecute el script un día.
-VIDEOS_TO_CHECK = 3
+# Se puede aumentar puntualmente con la env var VIDEOS_TO_CHECK para
+# recuperar huecos (p.ej. tras una caída del workflow de varios días).
+VIDEOS_TO_CHECK = int(os.environ.get("VIDEOS_TO_CHECK", "3"))
 
 PREFERRED_LANGS = ["es", "es-419", "en"]
 
