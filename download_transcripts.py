@@ -6,12 +6,14 @@ Los archivos se guardan como YYYY-MM-DD-NombreCanal.txt
 """
 
 import csv
-import subprocess
 import os
+import re
 import sys
 import logging
+import xml.etree.ElementTree as ET
 from datetime import datetime
 
+import requests
 from youtube_transcript_api import YouTubeTranscriptApi
 from youtube_transcript_api._errors import NoTranscriptFound, TranscriptsDisabled
 
@@ -46,36 +48,63 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
-YTDLP = os.path.join(os.path.dirname(sys.executable), "yt-dlp")
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    )
+}
+# Evita la pantalla de consentimiento GDPR que bloquea el parseo del HTML en la UE.
+COOKIES = {"CONSENT": "YES+1", "SOCS": "CAI"}
+ATOM_NS = "http://www.w3.org/2005/Atom"
+YT_NS   = "http://www.youtube.com/xml/schemas/2015"
 
 # ── Funciones ────────────────────────────────────────────────────────────────
 
+def resolve_channel_id(channel_url: str) -> str | None:
+    """Obtiene el channel_id (UC...) a partir de una URL de canal (handle, /c/ o /channel/)."""
+    match = re.search(r"/channel/(UC[\w-]{22})", channel_url)
+    if match:
+        return match.group(1)
+
+    try:
+        resp = requests.get(channel_url, headers=HEADERS, cookies=COOKIES, timeout=15)
+        resp.raise_for_status()
+    except requests.RequestException as exc:
+        log.error("  No se pudo resolver channel_id de %s: %s", channel_url, exc)
+        return None
+
+    match = re.search(r'"externalId":"(UC[\w-]{22})"', resp.text)
+    return match.group(1) if match else None
+
+
 def get_recent_videos(channel_url: str, n: int) -> list[tuple[str, str]]:
-    """Devuelve lista de (fecha YYYY-MM-DD, video_id) para los n últimos vídeos."""
-    result = subprocess.run(
-        [
-            YTDLP,
-            "--skip-download",
-            "--playlist-end", str(n),
-            "--print", "%(upload_date)s %(id)s",
-            "--no-warnings",
-            channel_url,
-        ],
-        capture_output=True,
-        text=True,
-    )
-    if result.returncode != 0:
-        log.error("yt-dlp error: %s", result.stderr.strip())
+    """Devuelve lista de (fecha YYYY-MM-DD, video_id) para los n últimos vídeos.
+
+    Usa el feed RSS público de YouTube en lugar de yt-dlp: los runners de
+    GitHub Actions comparten IPs que YouTube bloquea con "Sign in to confirm
+    you're not a bot" para el listado vía yt-dlp, mientras que el feed RSS
+    no requiere autenticación ni pasa por esa detección.
+    """
+    channel_id = resolve_channel_id(channel_url)
+    if not channel_id:
         return []
 
+    feed_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
+    try:
+        resp = requests.get(feed_url, headers=HEADERS, cookies=COOKIES, timeout=15)
+        resp.raise_for_status()
+    except requests.RequestException as exc:
+        log.error("  Error al leer feed RSS de %s: %s", channel_id, exc)
+        return []
+
+    root = ET.fromstring(resp.content)
     videos = []
-    for line in result.stdout.strip().splitlines():
-        parts = line.strip().split(" ", 1)
-        if len(parts) == 2:
-            raw_date, video_id = parts
-            if len(raw_date) == 8 and raw_date.isdigit():
-                date_fmt = f"{raw_date[:4]}-{raw_date[4:6]}-{raw_date[6:]}"
-                videos.append((date_fmt, video_id))
+    for entry in root.findall(f"{{{ATOM_NS}}}entry")[:n]:
+        video_id = entry.findtext(f"{{{YT_NS}}}videoId")
+        published = entry.findtext(f"{{{ATOM_NS}}}published")
+        if video_id and published:
+            videos.append((published[:10], video_id))
     return videos
 
 
