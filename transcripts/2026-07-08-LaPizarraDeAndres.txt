@@ -1,0 +1,463 @@
+Hola a todos y bienvenidos un día más a
+mi canal, La Pizarra Andrés. En el día
+de hoy vamos a hablar de órdenes de
+ejecución y es que, como bien sabéis, yo
+intento que en este canal hagáis una
+inversión a largo plazo menos centrada
+en la operativa, menos centrada en
+comprar, vender, en potenciar o
+maximizar esas órdenes. Y en muchos
+casos, si la inversión es a través de
+fondos, nada de esto aplicaría porque
+simplemente en un fondo no existe eh los
+tipos de órdenes. Tú compras, al final
+de cierto momento se te ejecuta.
+Normalmente al final de la tarde se te
+ejecuta todas en al mismo precio a todos
+los que salen del fondo ese día y a
+todos los que compran ese día y por
+tanto no te afecta nada el o no existe
+un tipo de orden. Ahora bien, ¿qué es lo
+que pasa cuando invertís en ETFs y en
+acciones? Ahí el tipo de orden sí
+importa. Para ello, ahora que tenemos el
+el mercado abierto, vamos a abrir un eh
+el libro de órdenes en el que os voy a
+explicar un poco todas las diferencias o
+los tipos de órdenes que podría haber y
+para qué funcionaría cada uno y así lo
+vemos en tiempo real lo que está
+pasando, ¿no? Aquí vemos, pues, por
+ejemplo, aquí tengo un un libro de
+órdenes, ¿vale? Como otro cualquiera.
+¿Qué es lo que tenemos que entender en
+un libro de órdenes? Bueno, eh siempre
+vamos a ver un una primera columna que
+son las órdenes de compra. Si os fijáis,
+las órdenes de compra, el precio siempre
+es descendente. Y luego vamos a ver la
+otra columna que son las órdenes de
+venta, ¿vale? Esto, insisto, aplicaría
+exactamente igual para acciones que para
+ETFs, ¿no? Para fondos. Entonces, en la
+orden en en la columna de compras, esto
+es lo que se llama un libro de órdenes.
+El libro de órdenes tiene dos columnas o
+o dos dos partes, eh, la parte de la
+compra y la parte de la venta, ¿vale? La
+parte de la compra siempre por motivos
+obvios será descendente, es decir, hay
+gente demandando comprar a diferentes
+precios, siempre cada vez menor. Y la
+orden de venta, pues lo mismo, hay gente
+eh queriendo vender siempre a diferentes
+precios, ¿vale? Las eh en este caso eh
+cada mitad tiene dos columnas, ¿vale?
+Tiene la cantidad, es decir, el número
+de acciones que se están pidiendo a ese
+precio o que se están queriendo vender a
+ese precio y el precio, ¿vale? Con lo
+cual, aquí lo primero que podemos decir
+es que hay 5445
+eh peticiones de compra a 1092, ¿vale? Y
+por otro lado hay eh 5472
+eh peticiones de venta o ofertas para
+vender a 1096. La diferencia entre 1092
+y 1096 es lo que llamaríamos spread,
+¿vale? Eh, no es un spread muy alto,
+pero eh casi siempre en todas las
+acciones vais a ver un spread e que es
+la diferencia entre precio de compra y
+precio de venta. Eh, si es una acción
+tremendamente líquida, como pueda ser
+Tesla o Apple, pues el spread es muy
+reducido y si es una una empresa eh
+menos eh
+menos tradeada o con menos con menos
+volumen, es cuando los spreads se hacen
+más grande. Cuidado con el spread,
+porque si tú ahora mismo metieras una
+orden de compra a mercado, estarías
+comprando 1098 cuando el precio real,
+bueno, ahora está cambiando. Esto es
+esto es bonito de ver porque así lo
+vamos lo vamos viendo en tiempo real,
+pero si tú ahora mismo metieras una
+orden de compra, automáticamente, como
+hay 203,000 eh títulos que se quieren
+vender a 110, automáticamente tú podrías
+llegar a comprar hasta 203,000 títulos a
+110, ¿vale? Eh, automáticamente si
+quisieras comprar más de 203,000 títulos
+a mercado, ya tendrías que comprar toda
+la toda la la el nivel de 110 y te irías
+al nivel de 112. Por lo tanto, si
+alguien quisiera comprar 250,000 títulos
+aproximadamente, cogería 204,000 a 110,
+eh 40,000 a 102 y 44,000, ¿vale? si
+fueran 300,000 títulos a 1104, es decir,
+tu precio medio no sería 110 exacto,
+sería a lo mejor 111 porque sería la
+media de estas tres compras, ¿no? Eso
+sería una orden a mercado. Por otro
+lado, vale, ya hemos descubierto la
+primer el primer tipo de orden. Por otro
+lado, tendríamos la orden limitada. ¿Qué
+hace la orden limitada? La orden
+limitada te pone a la cola para comprar
+al precio que tú quieras. Por ejemplo,
+imagínate que dices, "Oye, yo no quiero
+comprar a 110, quiero comprar a 1096,
+que es donde está el el el precio de
+compra. donde la gente está esperando,
+pues en estos 19,000 o 20,000 que hay
+ahora pidiendo, eh, pues tú a lo mejor
+podrías poner otros 20,000, otros
+30,000, otros 50,000, lo que sea, y te
+pondrías a la espera para que alguien
+decida vender venderte a este precio. Es
+cierto que cuando estás en la primera
+fila del precio, por cierto, esta página
+se llama Equiduct para el que la quiera
+ver y es gratis, eh, cuando te pones a
+este precio, lo normal es que tarde o
+temprano en un by B del mercado, pues te
+acaben dando el precio que tú deseas. Es
+decir, si tú te pones aquí 40.000
+títulos a 1096 para comprar, lo más
+normal es que a lo largo de los próximos
+minutos se te ejecute. ¿Qué es lo que
+pasa? Que al ser una orden limitada y tú
+poner aquí, por ejemplo, 40,000 títulos,
+e
+existe la posibilidad de que solo peguen
+20.000 y te hagan la mitad de la orden y
+luego que el mercado suba y solo te haya
+hecho la mitad de la orden, ¿no? O
+existe la posibilidad de que el mercado
+nunca vuelva a retroceder, nunca ocurra
+que se tradee de nuevo el 1096 y por
+tanto el mercado suba y te lo pierdas.
+Es decir, la diferencia principal entre
+la orden de mercado y la orden limitada
+es que la orden de mercado se te
+garantiza, pero a cambio pagas este
+spread, la diferencia entre el 1096 y el
+1.10. Y la orden limitada en este caso,
+eh, se queda esperando para comprar a un
+mejor precio, pero dependes de que
+alguien en el mercado eh decida vender a
+este precio con una orden a mercado, por
+ejemplo, ¿no? Entonces, lo normal es que
+eh sobre todo en empresas poco líquidas
+e en en empresas donde el spread sea muy
+grande, en empresas donde no tengas
+ninguna prisa, lo normal en esas
+empresas es eh poner orden limitada. Lo
+normal en empresas grandes donde el
+sprete es muy pequeño y encima vais a
+largo plazo, eh, es comprar a mercado.
+Tener mucho cuidado cuando compréis
+ETFs. Yo particularmente no invierto en
+ETFs, ya lo sabéis, y esto con fondos no
+ocurre, pero tener muo cuidado cuando
+cuando vayáis a comprar un ETF, porque
+si no podéis ver el orderbook, el libro
+de órdenes, eh tenéis la posibilidad de
+que la lo que es eh eh la liquidez sea
+muy mala y aunque tú estés viendo un
+precio de 110, si aquí solo hay una una
+acción a la venta en 110 y en 112 hay 10
+más y en 104 hay 10 más y tú quieres
+comprar 50, cuando tú crees que estás
+comprando a 110, en realidad acabas
+comprando a precio medio 116, es decir,
+te puedes dejar muchísimo dinero en la
+mesa si compras a mercado algo que tiene
+poca liquidez, con lo cual, mucho
+cuidado, aquí no hay problema, porque si
+tú ahora mismo quisieras comprar 150,000
+€ esta acción y lo compraras a mercado,
+el único spread que te comes es el que
+ves, que es esto de aquí, ¿no? La
+diferencia entre este 1096 y este 110.
+¿Por qué? Porque hay suficiente volumen.
+Sin embargo, si quisieras comprar
+300,000 sería una barbaridad comprar
+esto a mercado, porque ya no es que
+asumas este spread de 10.96 96 a 110 es
+que asumes este más esto más esto más
+esto, es decir, va empeorando tu precio
+y al final pues lo inteligente, si tú
+estuvieras dispuesto a comprar 150,000 €
+a lo mejor estarías dispuesto a pagar
+este spread, pero eh no lo pagarías por
+el resto de dinero superior a esto de
+aquí, ¿no? Eh, también la otra opción
+sería directamente ponerte en e a
+comprar aquí con esa con esa con esa
+orden limitada diciendo, "Oye, quiero
+comprar 150,000." te pones ahí y poco a
+poco debería ir rellenándose la orden si
+el mercado pues eh sigue ejecutándose,
+¿no?, en en estos niveles. Entonces, eh
+¿qué más cosas podemos? Bueno, cosas ya
+más complejas eh que la que a la gente
+le cuesta entender. Muchas veces, bueno,
+aquí podemos ver aquí arriba en trades
+lo que se va ejecutando. Por ejemplo,
+actualmente acaban de pegar 5900 títulos
+en 1096, ¿vale? Pues aquí en 1096
+alguien eh ha vendido a mercado 5,904
+títulos, de tal forma que aquí antes
+habría 17,000 a la compra y ahora hay 12
+porque alguien ya ha comprado 5,000,
+¿vale? Más o menos. Eh, lo dicho
+anteriormente, si estos 17,000 fueran de
+una sola persona, esa persona de momento
+solo ha ejecutado pues más o menos un
+tercio de la orden. Mira, y aquí lo
+vemos. Es más, estaba en 1096, de
+repente el nivel ha subido, es decir,
+hay alguien que está dispuesto a comprar
+más arriba y si tú pusiste una orden
+aquí de 17,000 títulos, de momento solo
+se está ejecutado más o menos un tercio,
+con lo cual ahora tienes, ¿no? Un
+problema, pero simplemente se te ha dado
+una orden que se llama parcialmente. Has
+tenido eh un eh una parte de tu orden
+limitada rellena, pero la otra no y
+sigue aquí esperando con esos 12,000.
+Bueno, esto lo vais viendo que cambia a
+menudo. El caso es que hay alguien que
+ahora está dispuesto a ha cerrado lo que
+se llama el spread. Si os fijáis, este
+1096 a 110 ha pasado a 1098 110, es
+decir, el spread se ha reducido. Ahora
+hay gente que tiene más prisa por lo que
+sea y está dispuesto a comprar a 1098 si
+alguien le vende, ¿no? Eh, entonces
+siempre se va jugando con eh con esto,
+¿no? El libro de órdenes va cambiando en
+función de los participantes. Volviendo
+a los trades, ¿vale? Mucha gente se
+piensa, ¿vale? Eh, que eh bueno, aquí lo
+vamos a ver. Mucha gente se piensa que
+eh en 110 eh que es aquí vemos 152,000
+títulos eh la única posibilidad es que
+llegue alguien y compre 152,000 títulos
+para que el 110 pase a ser 112, ¿no?
+Como ya hemos visto anteriormente, lo
+primero aquí muchas veces hay máquinas,
+¿vale? Eh, hay algoritmos que por ya sea
+por marketming, por creación de mercado,
+dar liquidez a los mercados o bien
+porque especulan o lo que sea, muchas
+veces estos volúmenes no son del todo
+reales, es decir, no tienen por qué ser
+158,000 órdenes de una persona que sí o
+sí está dispuesta a vender a 110. Vale,
+os explico, muchas veces vais a ver, por
+ejemplo, el nivel de 11, no sé si lo
+veremos en directo. En este caso se han
+ejecutado 765 títulos de volumen, que es
+muy poquito, y el 110 no se ha inmutado,
+pero probablemente si hubiera máquinas
+aquí metidos o o personas haciendo
+especulando, si tú ahora metieras 50.000
+o o 100,000 eh títulos de golpe, a lo
+mejor el resto que está en el nivel se
+caga y decide retirar la orden y
+automáticamente con una orden grande
+pasamos de tener 158,000 aquí a tener
+cero y a saltarse el nivel al próximo
+nivel 112. Es decir, que esto, como
+habéis podido ver durante el vídeo, esto
+va cambiando continuamente. No es eh
+necesario que se lleven todo el volumen,
+porque aquí os fijáis, mira, ha pasado
+de 158 a 157, es decir, ha habido 1000
+títulos que antes se quería vender,
+mira, siguen bajando. O se ha habido
+6,000 títulos que antes se querían
+vender a este precio que ya no se
+quieren vender, con lo cual no es
+necesario llevarte el nivel eh
+satisfaciendo toda la la oferta en este
+caso, porque normalmente cuando ejecutas
+eh una parte a lo mejor eh las máquinas
+o las personas reaccionan quitando el
+resto de la orden porque ven que el
+nivel lo van a perder. Tanto es así,
+tanto es así que existen, eh, yo las he
+utilizado en en mis inicios cuando
+trabajaba en el en la prop trading. Eh,
+existen órdenes min ball. ¿Qué es
+minball? Eh, es una abreviatura de
+minimum volume. Eso significa que tú
+puedes poner aquí una orden de, oye,
+quiero vender eh, quiero ponerme aquí a
+la venta, si creo que es un nivel fuerte
+y quiero vender 30,000 títulos, por
+ejemplo, pero siempre y cuando eh haya
+como mínimo otros 30.000 a la venta. Es
+decir, no quiero ser yo el único que
+sostenga el nivel si el nivel tiene
+fuerza, es decir, tiene mínimo 30,000
+títulos. Encima de esos 30,000 pon otros
+30,000 míos, de tal forma que pongo 60 o
+o el nivel se queda en 60,000 60,000
+títulos mínimo, pero si el volumen cae
+drásticamente automáticamente la orden
+me desaparece. Eso se llama una orden
+minimum volume. Es una orden, digamos,
+de especulador que solo quiere estar en
+el nivel si el nivel es fuerte, no
+quiere estar en el nivel si el nivel es
+débil, ¿vale? Entonces, por ejemplo,
+esas órdenes minimum volume al final son
+de esas órdenes que desaparecen
+rápidamente si el mercado le atiza
+bastante al nivel, por ejemplo, eh, de
+tal forma que normalmente como aquí hay
+un prorrateo a la hora, aquí hay
+diferentes colas a la hora porque
+alguien podría decir, "Andrés, si aquí
+hay 148,000 eh personas o o títulos
+vendiendo y uno tiene 30, ¿cuál es el
+orden en que en que golpean a ese
+título?" Vale, pues dependiendo del
+mercado suele haber dos formas, o bien
+por por cola, ¿vale? Es decir, hay una
+lista y si tú te pusiste el primero,
+pues el primero al que te van a dar el
+el la venta, ¿eh? O bien por rateo, es
+decir, a los que más tienen les dan más.
+Entonces, si tú consigues, si tú
+estableces, por ejemplo, eh un nivel
+como muy fuerte que crees que va a
+tardar un día, un día o varios días en
+que se [carraspeo] lo lleven y que el
+mercado va a estar rebotando ahí eh
+considerablemente, pues por ejemplo,
+pues eh me lo invento, este 110 que
+parece bastante fuerte en relación al
+resto de de de del papel, eh pues a lo
+mejor tú puedes estar aquí jugando con
+esa orden de mínimo en volume, teniendo
+ahí 30,000 puestos a la venta, esperando
+que te vayan dando títulos de vez en
+cuando y irte poniendo a un lado y a
+otro, de tal forma que vas comprando
+ando aquí y lo va soltando aquí, ¿vale?
+Eso en una acción parece algo loco y así
+es, pero en otro tipo de activos, por
+ejemplo, tipos de interés es algo muy
+habitual, ¿vale? El trading de tipos de
+interés se ejecuta en gran parte de esta
+medida, ¿vale? Se como es un trading eh
+con muy poco movimiento, los niveles son
+muy resistentes, los tipos de interés se
+mueven muy poco en el día a día y por
+tanto eh esas órdenes minimum volume se
+pueden dar. Con esto lo que quiero decir
+es que oye, que normalmente en estos
+147,000 títulos no hay estrictamente
+147,000 títulos que se quieren vender
+aquí, simplemente hay unas cuantas
+órdenes que si se dan ciertos ciertos
+casos les interesa estar, pero antes,
+por ejemplo, hemos visto cómo se
+llevaban un nivel entero, un nivel de
+estos de 40,000 solo ejecutando 3,000
+títulos. Es decir, de repente han
+ejecutado 3,000 títulos en el nivel y el
+nivel ha desaparecido y automáticamente
+ha pasado al nivel siguiente. Y sin
+embargo habíaado 40,000. ¿Por qué? por
+lo que sea, ha habido gente o máquinas
+que han decidido retirar eh su eh orden
+de ahí, ¿no? Entonces, esto es como
+funciona un orderbook, no hace falta que
+esta parte eh seáis consciente de ella.
+Esto es simplemente pues para que
+tengáis conocimientos. Eh, pero lo que
+sí que tenéis que tener en cuenta es,
+oye, si yo voy a meter una orden a,
+bueno, en primer lugar la la cantidad de
+las cosas, ¿no? Porque si
+estamos hablando de ejecutar 1000, 2000,
+3,000 € a priori todo esto que he
+contado no tendría eh por qué tener un
+impacto importante, porque aunque te
+comas un spread decidiendo comprar ahora
+mismo mercado a 110, por ejemplo, no
+pasa nada en 3,000 € ¿vale? El el el
+impacto de de este spread es muy
+pequeño, ¿no? Pero, ¿qué pasa si tienes
+30,000, 50,000, 100,000 €? Pues ya es
+otra cosa. Es cierto que aquí ahora
+mismo para 147,000
+€ más o menos, eh, bueno, en este caso
+es 11 más o menos, ¿vale? No, no, no
+cotiza uno. Si fuera uno, en este caso,
+pues serían como 160,000 € en 160,000 €
+eh eh tienes el mismo impacto comprando
+a mercado que que en 3,000, que en 5000,
+que en 10,000 o 20,000 porque hay papel
+de sobra, pero eh hay que tener cuidado
+porque en otras horas del día, otro tipo
+de activos, eh e acciones con con menos
+volumen, etcétera, etcétera, o ETFs, que
+también es bastante común. Alguna vez
+veréis un gráfico de de un ETF donde
+veréis movimientos muy bruscos en el
+ETF. Eso no es porque el subyacente, lo
+que replique es ETF, eh, se ha caído o
+ha subido mucho. Eso es porque alguien
+dibujó en el gráfico o por culpa de una
+compra desmedida o una venta desmedida
+dibujó en el gráfico una eh un pues como
+un ese error de de de haber ejecutado
+con con un spread demasiado alto, ¿no?
+En en esta acción, pues por lo menos
+como vemos que este 110 es muy robusto y
+tiene 147.000, Pues justo estamos en un
+momento en el que comprara mercado
+solamente te penalizaría el spread
+normal y corriente, ¿no? Insisto, sé que
+son muchas cosas, eh, no es algo que
+todo el mundo necesite saber, pero sí
+que creo que, oye, entender que es una
+orden limitada, que es una orden a
+mercado, que es eh e que es el spread,
+etcétera, etcétera, eh o que o que sepa
+eh por lo menos leer este orderbook, que
+creo que es bastante sencillo, eh creo
+que sería un mínimo eh obligatorio para
+todos aquellos que quieran tener
+acciones en carteras o ETFs. Oh, qué
+pena, tío. No ha salido en el vídeo,
+tío.
+Y se llevan el 110 y el 112, tú. Y se va
+116 directito. Y no hay papel.
+Y no hay papel, chat.
+Y se llevan el 112, tío, justo cuando
+cierro el este, ¿eh? Qué mala suerte,
+macho. Fijaros con que se la Mira, mira
+la prueba. Mirad la prueba, ¿eh? El 110
+se la han llevado con 6000 y 121 y dos.
+Se la han llevado con 20.000 títulos el
+11, chicos. Miradlo, justo lo que he
+dicho en el vídeo, tío, qué pena, habría
+sido espectacular. O sea, había 140,000
+a la venta y se lo ha llevado con
+20,000. Miradlo, con 20,000. Así que
+nada, chicos, eh, esto ha sido en tiempo
+real todo lo para que lo sepáis, estos
+son los directos que hago en el día a
+día. Espero que os haya gustado. Si
+tenéis dudas, me las podéis dejar en
+comentarios y nosotros nos vemos en el
+en el siguiente vídeo.
