@@ -1,0 +1,372 @@
+Hola a todos y bienvenidos un día más a
+mi canal, La Pizarra de Andrés. En el
+día de hoy os voy a explicar eh cómo la
+megainversora Nancy Pelosi, ya sabéis
+que esta persona consigue retornos muy
+superiores a los mercados, ha tomado una
+posición bastante curiosa en Intel
+eh una opción. Como sé que para muchos
+de vosotros es muy complejo entender qué
+es esto de las opciones, etcétera,
+etcétera, os voy a explicar con un
+ejemplo práctico cómo podéis tener
+acceso también al eh al en este caso,
+las acciones sin hacer la compra propia
+de la acción, sino comprando un derivado
+financiero o lo que es un producto eh
+apalancado, como podrían ser las
+opciones. ¿Vale? Os voy a poner el
+ejemplo práctico de Intel para que
+entendáis todo lo que conforma una
+opción y por qué esto podría llegar a
+ser interesante. ¿Vale? Antes de empezar
+quiero deciros que tenéis un vídeo, ya
+sé que es un poco duro de digerir, de 1
+hora 40, en el que os hago un curso
+totalmente gratis, ya sabéis, los tenéis
+gratis en mi canal de YouTube, en el que
+os explico todo sobre los derivados
+financieros. Dentro de los derivados
+financieros hay un un concreto, aquí lo
+vemos, que son las opciones financieras.
+Es cierto que este curso es bastante
+teórico y lo que vamos a hacer ahora es
+un poquito más práctico, con lo cual el
+objetivo del de hoy no es tanto teoría,
+sino que en 10 minutos entendáis cómo se
+puede obtener eh exposición a una acción
+sin eh la necesidad de comprar la misma
+acción, ¿no? Para ello, bueno, esto es
+Intel, ¿vale? Aparentemente eh Nancy
+Pelosi en mayo, aproximadamente cuando
+Intel estaba a 100 más o menos, ¿vale?
+Eh, decidió comprar opciones sobre
+Intel, ¿vale?
+Ella habitualmente compra la propia
+acción. En este caso ha decidido comprar
+una opción. ¿Qué es la opción? Bueno, ya
+os anticipo que es tener eh en este caso
+una apuesta larga en la compañía.
+Simplemente lo hace sin comprar las
+acciones y lo hace con este derivado.
+¿Cómo funciona este derivado? Bueno, las
+opciones hay de muchos tipos, ¿vale?
+Existe una call, bueno, hay dos tipos,
+la call y la put. Y las dos pueden estar
+compradas y vendidas. En este caso vamos
+a ir con la más sencilla de todas, que
+sería comprar una call. Comprar una col
+es apostar a que un subyacente sube,
+apostar a que una acción sube, ¿vale?
+Eh, lo primero que tienen las opciones
+eh es un vencimiento, es decir, oye, yo
+puedo decir, "Oye, esto sube hasta tal
+fecha." Es decir, tú puedes hacer una
+call a un año. Ahora vamos a hacer el
+ejemplo de una col a un año. Una col es
+apostar a que suba un subyacente, una
+acción y en este caso vamos a determinar
+que es a un año, ¿vale? Lo segundo, eh,
+hay que notificar cuántos contratos
+vamos a hacer. Normalmente, aquí lo
+pone, bueno, aquí os lo os lo os lo he
+preguntado ya. Eh, normalmente un
+contrato equivale a 100 acciones, ¿vale?
+Con lo cual en este caso, el valor del
+contrato, muy importante, esto vale 100
+por el precio de la acción. Intel cotiza
+110 a día de hoy un contrato de opciones
+call sobre Intel te estaría exponiendo,
+cuidado, ahora vamos a entrar con el
+apalancamiento, te estaría exponiendo a
+11,000 de subyacente, es decir, es como
+si estuvieras haciendo una inversión de
+$,000. Cuidado, no significa que vayamos
+a depositar los 11,000, ¿vale? Estamos
+hablando de que me está exponiendo,
+digamos, 11000. ¿Cómo funciona una call?
+Una col es una apuesta como si fuera una
+apuesta de fútbol, exactamente igual, en
+la que tú pagas una prima, la prima es
+por abrir el contrato, pagas una prima y
+te expones a la subida. En caso de que
+vaya mal, pierdes la prima, ¿vale? Es
+tan sencillo como eso. Entonces, en
+lugar de ser una acción en la que si
+sube ganamos y si baja perdemos, aquí
+entramos y ya sabemos si sale mal lo que
+perdemos, que es la prima que hemos
+pagado. ¿Vale? Entonces, en este caso y
+lo más curioso de todo es que Nancy
+Pelosi ha puesto un precio objetivo de
+Intel de 50. Esto es lo que se llama
+strike 50, ¿vale? En este caso, como
+Intel cotiza 110, un strike de 50
+significa que el precio ya está muy por
+encima de 50, con lo cual la call, lo
+que es la opción, va a ser tremendamente
+cara. ¿Vale? ¿Qué es lo que tenemos
+nosotros? Vale, en este caso vamos a
+ponéroslo fácil, un contrato de 100
+acciones de Intel que nos va a exponer a
+11,000, a 11,000 digamos de de a esas
+100 acciones, pero que nos va a costar
+un dinero porque eh hemos decidido que
+mientras la empresa suba, esté por
+encima de 50, yo gano dinero. Ojo, gano
+quiere decir recupero. Por otro lado,
+como tengo algo tan bueno, que es que
+algo que vale 110 por encima de 50 gano
+dinero, acordaros, strike es el precio
+mínimo al que tiene que estar para yo
+ganar dinero. Lo que quiere decir que si
+yo tengo un strike de 50 y la empresa
+está a 100 a día de hoy,
+mucho dinero tengo que pagar para tener
+un producto tan bueno, porque es muy
+difícil que yo pierda dinero en esa en
+esa opción, ¿no? Entonces, lo primero
+que hay que preguntarle aquí es, oye,
+Gémini, ¿cuánto me cuesta la prima?
+Vale, la prima, insisto, es lo que te
+cuesta adelantar. Por eso son vehículos
+apalancados, porque tú vas a tener
+acceso a 11,000 de exposición, pero tú
+no pones 11,000, tú pagas el producto
+con la prima, con lo que es entrar a esa
+puesta, ¿vale? Entonces, ¿cuánto me
+cuesta la prima?
+En este caso vamos a poner de una opción
+call, que en este caso es la opción de
+compra, opción call, de una opción call
+a un año
+sobre Intel, hay que decirle subyacente,
+con strike. Strike es el precio mínimo
+en el que yo al que yo a partir del cual
+yo empiezo a ganar dinero con strike de
+50 USD. nos dice que que el contrato
+vale $1,000, como hemos dicho
+anteriormente. Y vale, aquí lo primero
+que vemos es nos lo calcula y nos dice,
+"Entrar en este contrato vale $6,300."
+Alguien puede empezar, "Andrés, pero
+entonces esta chica por cada por cada
+10,000 € que queda de de exposición a
+Intel va a perder un 60% porque tiene
+que pagar 6300." Cuidado, lo que estamos
+diciendo aquí es, "Oye, esta esta opción
+va poco apalancada." ¿Por qué? Porque yo
+estoy apostando por Intel al alza. con
+6,000 y pico dólares para para exponerme
+a 11,000 de o a 10,000 de acciones,
+¿vale? Con lo cual el apalancamiento
+sería lo que vemos entre 6,000 y 10,000,
+que es como 1,5 veces. Es un
+apalancamiento pequeño. ¿Por qué es un
+apalancamiento pequeño? Porque hay muy
+poco riesgo en el subyacente de que
+caiga por debajo 50. ¿Por qué? Porque
+está a 109. Entonces, alguien podría
+decir, "Andrés, pero entonces, ¿cómo va
+a ganar dinero esta persona si yo
+empiezo palmando, empiezo pagando una
+prima? de 6,000 y pico, ¿cómo voy a
+ganar dinero? Muy sencillo, ganas dinero
+a partir de $50. Entonces, yo ahora le
+puedo preguntar, ¿y qué pasa si a
+vencimiento, por ejemplo, cae? A
+vencimiento,
+yo lo he hecho a 100, pero la empresa
+cae y dentro de un año vale 80, pero
+vale 80 y yo mi strike lo puse a 50, con
+lo cual le iba a preguntar, "Oye, está
+en 80, mi salvación es 50, quiere decir
+que de 50 80 he ganado dinero, algo
+tengo que recuperar de la prima.
+Entonces, le preguntamos esto,
+¿vale? Y nos va a decir que recuperamos
+dinero, ¿vale? Aquí nos dice la
+diferencia, lo calcula y dice, "Estamos
+recuperando $3,000 como pusimos en ,400
+me cuesta." Es decir, que Intel baje de
+110 a 80, si os fijáis, me cuesta un 30
+y pico%. En este caso, no es un 30 y
+pico%, es un 30 y pico% sobre el
+nocional, pero un 50% sobre el dinero
+que puse, porque yo puse 6,400. ¿Vale?
+Esto es la la eh las ventajas y los
+inconvenientes del apalancamiento. Es
+decir, yo me he expuesto a algo muy
+similar a h 11,000 € de Intel, eh pero
+me he expuesto con 6,400. Me ha salido
+mal porque Intel ha bajado, yo lo hice a
+110 y ahora está 80, dentro de un año
+está 80, con lo cual solamente rescato
+$3,000 de ganancia, que es la ganancia
+que me da la opción entre 50 y 80,
+¿vale? Eh, y por lo tanto, mi apuesta al
+final sobre dinero puesto sería un -50 y
+pico -60%. Sobre el subyacente que te
+jugaste al final perdiste
+algo similar a lo que a lo que hubiera
+eh perdido la acción, ¿no? ¿Qué pasa?
+Sin embargo, en el que hago break even
+dentro de un año, es decir, le quiero
+preguntar o vale, muy bien, pues me
+estás diciendo que en 80 pierdo dinero,
+recupero, pero pierdo un poco, sigo
+perdiendo. ¿Cuál es el precio por
+encima, probablemente de 110 en el que
+yo empiezo a ganar dinero y me cubro
+esos 6000 y pico que ha adelantado?
+¿Vale? Pues le hacemos esta pregunta.
+Quiere decir, oye, ¿qué es lo que pasa
+con esta opción? que esto ya es
+contenido más complejo, que como está
+muy in the money, in the money significa
+que la opción está muy a tu favor. ¿Por
+qué está muy a tu favor? Porque mientras
+esté por encima de 50 dentro de un año,
+tú recuperas dinero. Eso se llama
+inemoney. Es decir, tiene que pasar un
+desastre para que tú no recuperes
+dinero. Por eso es tan cara. Es una
+empresa, es una opción donde te cuesta
+por cada 11,000 de subyacente te cuesta
+6,000 de prima, pero qué pasa que lo
+normal es que dentro de un año recuperes
+algo porque es muy difícil que Intel
+carga un 50 y pico%. Ahora bien, que
+Intel mañana vale 40, tú has perdido los
+6,000 y picos, ¿vale? Eh, también es
+cierto que si compraras la acción a día
+de hoy y compraras 10,000 € e si se te
+va 40 también pierdes un 60 o 70%.
+Entonces, ¿qué es lo que pasa con esta
+opción? Que está tan in the money que
+tiene un perfil de ganar y de perder
+similar al de una al de una acción,
+¿vale? Eh, también hay muchas cosas más.
+Una opción, las americanas, bueno, hay
+varios tipos de opciones, pero muchas
+opciones se pueden cerrar antes de, es
+decir, a ti te puede ir bien el primer
+mes, Intel sube a 130 y tú puedes cerrar
+tu opción de la misma forma que alguien
+que tiene una apuesta hecha en un
+partido a que gana un equipo, ese equipo
+ganando 2-0 al descanso puede cerrar la
+apuesta. Pues esto es lo mismo. ¿Vale?
+Entonces, e en este caso, ¿dónde ganas
+dinero? Pues le puedes decir, "Oye, ¿y
+cuánto gano? ¿Y cuánto gano si Intel en
+un año
+vale 160 USD?" ¿Vale? Por ejemplo, pues
+lo mismo, le puedes preguntar. Entonces,
+¿qué es lo que pasa? Que al ser un
+producto, en este caso, que sigo sin
+entender mucho por qué la quería decir,
+hacer así pelos me imagino que por el
+apalancamiento, ¿no? Eh, bueno, aquí te
+lo dice, a 160, eh, en este caso
+ganarías $4,600. Si os fijáis, 4600
+habiendo puesto 11, pues es más o menos
+un 40 y pico por algo muy similar a si
+la a si la acción compraras la acción y
+se te fuera de 110 a 160, ¿no? Que hemos
+puesto aquí. ¿Vale? Entonces, ¿qué es lo
+que pasa? que cuando una opción está muy
+dentro del dinero se le parece muchísimo
+a una acción con la diferencia de que en
+una acción para tener eh en este caso
+sería una acción apalancada con la
+diferencia que en una acción para tú
+poder tener 11,000 de
+subyacente tienes que depositar 11,000 €
+que es comprar acciones por valor de
+11,000 € y sin embargo, eh cuando tú e
+quieres eh hacer esto, pero con la
+opción tú solo pones 6,000 y pico euros,
+con lo cual el retorno final es 72%.
+Vale, pero es 72% porque se compara en
+contra la prima que pusiste, no se te
+compara contra el subyacente. Si
+comparáramos contra el subyacente, el
+resultado es similar. En este tipo de de
+opciones que están tan indey, el
+comportamiento euro por euro, ¿no?, del
+nocional es muy similar al de una
+acción. ¿Qué pasa? Que como hacer las
+opciones van apalancadas y cuesta menos
+dinero, la subida, es decir, esta
+ganancia de $4,600 sobre 6,400 que
+pusiste es un 72%. ¿Por qué es un 72?
+Porque pusiste en $,400, no pusiste los
+10, 11,000 que tendría que poner alguien
+con acciones. Con lo cual, en este caso,
+eh, el, bueno, aquí lo veis, ¿no? Dinero
+recuperado al final son 11,000. Como
+pusiste 6,400 de prima, ganas $4,600.
+$4,600, me imagino que dividido entre
+6,400, te da un 72% de revalorización
+sobre dinero puesto, que es lo que
+buscamos cuando calculamos la
+rentabilidad, ¿no? Y esto ha sido un
+ejemplo que me lo ha pedido la gente de
+lo que sería comprar una opción.
+Por lo general, la opción tiene algo muy
+tricky, que es lo que la gente no
+entiende, que no es solo apostar a que
+algo va a hacer x, sino es apostarlo en
+un periodo de tiempo. Eso complica las
+cosas muchísimo más. Es decir, cuando tú
+compras una acción, tú eres el tiempo.
+Tú decides cuando te quedas, cuo, cuándo
+te vas, cuando, lo que sea. Cuando tú
+tienes una opción, eh, el tiempo va va
+yendo en tu contra. El tiempo es malo
+para el comprador de una opción, ¿vale?
+Porque se va cada vez que se va agotando
+el tiempo y el precio no va donde tú
+quieres, tu opción va perdiendo valor,
+¿vale? Si la quieres cerrar antes de
+tiempo, esto es como si tú estás
+apostando a que un equipo va a ganar
+2-0, van en el minuto 60 y sigue 0-0,
+pues en el minuto 70 tu apuesta valdrá
+menos. En el minuto 75 tu apuesta valdrá
+menos. ¿Por qué? Porque es menos
+probable que se cumpla lo que tú has
+dicho. Con lo cual cuando estás comprado
+de opciones, el tiempo, que es la griega
+teta, eh, va en tu contra, ¿vale?
+Entonces, ya es difícil de por sí
+acertar que algo va a subir como para
+encima acertar que algo va a subir en un
+periodo de tiempo determinado, ¿no?
+También es cierto que cuando compras una
+opción muy inem dinero como esta, se
+parece tanto a una acción eh, y está tan
+dentro del dinero, tan a favor, que el
+tiempo te impacta menos o te importa
+menos, ¿no? Pero bueno, aquí habría
+mucho que explicar, simplemente quería
+traeros a la tierra esto. Creo que la
+mayoría de vosotros debiera estar
+haciendo esto, pero simplemente para que
+entienda que esto es una una forma que
+es lo que habrá hecho Pelosi de entrar a
+una acción con eh apalancamiento y
+teniendo algo muy similar en este caso
+cuando decides comprar una opción tan in
+the money, teniendo algo muy similar al
+retorno de del de la acción, pero
+simplemente de forma apalancada. Espero
+que os haya servido, chicos. Sé que es
+un contenido un poquito complejo. Los
+que tengáis más ganas de aprender sobre
+esto, que sepáis que tenéis el curso
+gratis de derivados en YouTube. Si os ha
+gustado, me podéis dejar un comentario y
+nosotros nos vemos en el siguiente
+vídeo. Despide la pizarra, Andrés.
