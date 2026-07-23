@@ -1,6 +1,7 @@
 venv/
 .env
-*.log
+transcripts/*.log
+transcripts/cron.log
 __pycache__/
 *.pyc
 .DS_Store

@@ -1,0 +1,649 @@
+Hola a todos y bienvenidos un día más a
+mi canal, La Pizarra Andrés. En el día
+de hoy vamos a hacer un ejercicio de
+análisis de fondos. si es que en esta
+ocasión uno de mis clientes me ha pedido
+que por favor le examine los fondos que
+tiene en otras entidades. En este caso
+vamos a hacer, digamos que eh un
+ejercicio de por un lado entender qué
+hace cada fondo, algo que ya la mayoría
+de vosotros deberíis saber, y por otro
+lado compararlo en mayor o menor medida
+con otros fondos de la categoría si
+hiciera falta. Ya sabéis que hay una
+parte de esto que siempre eh será
+subjetiva y que en algunos casos pueda
+derivar a usar unos fondos u otros, pero
+siempre y cuando riesgo beneficio estén
+en puntos similares a otros de la
+categoría que puedan estar eh buscando
+eh o operando de forma similar, pues eh
+no estaría mal. Con lo cual, el objetivo
+no es solo e ver si el fondo ha ganado
+recientemente o no, sino más bien eh
+compararlos con los de la categoría.
+Para ello he creado este Excel de aquí,
+¿vale? Donde en este caso pues eh hay
+dos entidades, ¿no? Esta persona luego
+tendría una tercera, digamos, que es
+donde eh dispongo yo de su de su
+capital. Ya sabéis que mi capital, para
+los que no lo sepáis, podéis eh o mejor
+dicho mis carteras podéis revisarlas en
+eh esta página web de aquí, ¿vale?
+Anbank boutique hub la pizarra Andrés,
+¿vale? Y aquí veis mis carteras o las
+carteras de altos patrimonios. En este
+caso, eh, bueno, he separado por colores
+los dos diferentes bancos que utiliza
+mirando, ¿no? Por ejemplo, aquí lo
+primero que tenemos es una mundie
+Euroioliquidity. Esto la mayoría de
+vosotros ya deberíais saber lo que es
+porque eh cuando vemos algo que se llama
+liquidity, ¿vale?, ya sabemos que
+estamos hablando de algo muy cercano a
+una monetario y si vemos la recta ya
+vemos que es totalmente un monetario,
+¿no? Con lo cual en este caso es un
+monetario y si viéramos un poco los
+retornos, pues podríamos h ver si si es
+un monetario aceptablemente bueno o no.
+A priori no parece malo. Este caso, si
+me voy a Grupama, eh, Grupama tiene
+mejores retornos, 238, 118. Aquí lo
+vemos, ¿vale?, que es superior a esto.
+Eh, pero es que aquí estamos hablando de
+gobis. Esto quiere decir que
+probablemente lo que haya debajo sean
+solo letras del tesoro de países, ¿vale?
+O sea, bueno, letras del tesoro, eh,
+deuda deuda de países. Entonces, por
+supuesto que cuando construyes un
+monetario con solo deuda de países, el
+retorno es menor y la volatilidad
+probablemente también menor, ¿no? Eh, de
+hecho, 004, 003, bueno, ahí lo veis,
+¿no? E para mí compensa eh el hacer un
+monetario solo exclusivamente con con
+renta fija gubernamental, ¿no? Dicho
+esto, hay mucha diferencia entre ganar
+un 118 este año o un
+095, no mucha, ¿no? Con lo cual aquí
+pues podemos poner
+aceptable, ¿no? E insisto, no es nada
+del otro mundo, tampoco eh nada que nos
+asuste, ¿no? Siguiente fondo, ¿vale?
+Este es el floating rates, aquí lo
+vemos. Es prácticamente un monetario.
+Este es un buen fondo de la categoría.
+lo que hace por lo que hace, eh, pues es
+e está muy bien, ¿vale? Es un fondo que
+si lo comparamos con Grupama, aquí vemos
+como ya tiene un poquito más de
+rentabilidad, pero por otro lado, pues
+sí que es cierto que e
+sí que asumes un ligerísimo riesgo,
+prácticamente un riesgo bajo. Este
+también podríamos ponerlo aceptable o
+este incluso podríamos ponerlo bueno.
+Creo que dentro de lo que hace tiene
+pocos rivales, ¿no? Con lo cual sería un
+fondo más de lo mismo, hiperconservador,
+eh, pero totalmente válido, ¿no?
+Siguiente. Global Evolutions, Frontier
+Markets. Vale, esto parece,
+como podemos ver aquí, esto parece
+mercados frontera y parece renta
+variable, ¿no? En este caso es mercados
+frontera, pero renta fija, con lo cual
+sería un renta fija high y, ¿vale? Eh,
+aquí vemos por retornos a 5 años es un
+66. Eh, ya vemos que son bonos, nada
+mainstream, ¿vale? También podemos ver e
+eh si yo pongo aquí mis mis fondos, yo
+en esta categoría eh uso este Emerging
+Markets Fan. Vale, el MG, eh, que no es
+lo mismo, pero sí que nos podemos hacer
+un poco una idea de de algo que podría
+llegar a ser similar, ¿no? Este,
+eh, sí que es cierto que el la
+disparidad de cómo se consiguen los
+retornos nos hace ver que los fondos no
+tienen nada que ver uno con otro, ¿vale?
+porque este tiene su fuerte en los
+últimos años, eh, y el mío en 2022, ¿no?
+Eh, también es cierto que este es eh
+renta variable, renta fija de mercado de
+mercado frontera, no mercado emergente.
+Esto es renta esto es renta fija de
+mercado de mercado emergente, ¿no? Eh,
+con lo cual el suyo lo hace bastante
+bien, con lo cual voy a aunque no son
+comparables, insisto, estoy comparando
+mercados emergentes con mercados
+fronteras, el suyo es bastante bueno, no
+conocía este fondo, eh, pero está
+bastante bien. De hecho, me lo voy medio
+a apuntar porque el fondo lo hace
+bastante bien. Entonces, a este, que
+insisto, no tengo un benchmark con el
+que compararlo porque esto mercado
+fronteras y yo de esto no hago, eh, pues
+no, este lo vamos a poner como bueno, no
+tengo cómo comparar, pero a juzgar por
+los retornos que tiene eh está bastante
+bien, ¿no? [resoplido] El siguiente que
+tenemos aquí es que es emergentes de eh
+Vale, a este lo que le falta es que le
+falta histórico, lo que le pasa es que
+le falta histórico, con lo cual es
+difícil de ver. A priori,
+renta fija emergente, comisiones 065,
+que está bastante bien. Yo uso uno con
+mucho más tras récord, eh, y también en
+renta fija emergente. Es difícil
+comparar este de aquí. Yo pondría aquí
+falta histórico como para saber si el
+fondo está al nivel o no, ¿vale? Con lo
+cual en ese no podía. Nordic cross yo lo
+uso, ¿vale? O sea, este es bueno
+directamente. Esto, insisto, los que lo
+quieran ver, tenéis aquí en la pizarra
+Andrés los fondos que yo utilizo y aquí
+está el Paret Nordic Cross, con lo cual
+este es un muy buen fondo. E Storm Bond,
+yo creo que todos lo conocéis, esto es
+un muy buen fondo. A valor Iberia es un
+muy buen fondo, lo que pasa que renta
+variable española, española y
+portuguesa. Eh, dicho esto, pues bueno,
+no me disgusta, ¿vale? O sea, alguien
+podría podría comprobarlo que además en
+los últimos años lo ha hecho
+increíblemente bien. Yo no sé si España
+lo va a seguir haciendo bien los
+próximos años, pero por supuesto todo el
+que haya invertido en España, aquí lo
+vemos, eh lo ha hecho increíblemente
+bien recientemente. Es cierto que ahora
+está corrigiendo un poquillo, ¿vale?
+Pero aquí vemos un poco los los
+resultados y al final eh es marca de la
+casa porque es valor y los resultados
+son tan buenos como en el internacional,
+aunque insisto, son tan buenos en los
+últimos 5 años. Si no fuéramos a todo el
+histórico, creo que A valor
+internacional es mejor que Liberia, ¿no?
+Pero este fondo sería bastante bueno.
+Eh, Gesconsul corto plazo yo también lo
+uso, ¿vale? Es un muy buen fondo también
+conservador. Eh, Magallanes Iberian.
+Aquí es donde tendría quizá la primera
+eh pregunta que me haría es porque un
+gestor compra dos fondos de ibéricos.
+¿Vale? O sea, que aquí bueno, pero sí
+que aquí yo lo primero que diría es,
+"Oye, ¿qué hago yo teniendo dos fondos
+eh
+ibéricos?" Vale, no no me termina de
+cuadrar, eh, pero bueno. Y este este es
+el SH ahorro, que también es buen fondo,
+¿vale? Que es un fondo eh conservador,
+¿vale? Eh, que esto vendría a competir
+más o menos con con Neuber, ¿vale? Eh,
+es cierto que tiene menos riesgo que
+Neverger. Eh, yo uso Neuber que me gusta
+más, eh, pero también tiene un este,
+como digo, tiene un poquito más de
+riesgo. Aquí lo vemos. Este es el reto,
+este es el el que habría que comparar
+con este de aquí, que podríamos
+directamente venir aquí a compararlo y
+eh para saber si es qué tal lo hace
+contra el que yo utilizo a menudo en
+esta categoría. En esta categoría hay
+más y tengo más fondos que esos. Digo,
+la cartera mag aquí lo vemos como a un
+año es prácticamente eh pues bueno, aquí
+lo vemos un + 2,08 contra +15. A 3 años
+es bastante mejor Neuverger, pero a
+cinco, que es donde viene la caída, lo
+vamos a ver ahora, sigue siendo mejor,
+¿no? Con lo cual creo que este es
+mejorable, ¿vale? Creo que Neverger a
+todas luces, aquí lo vemos, es superior,
+¿vale? Entonces, eh podría poner
+podríamos ponerlo por aceptable, ¿vale?
+Eh, lo que quiero recalcar es que,
+bueno, esta gestión que le están
+haciendo aquí, eh, quitando uno que le
+falta histórico, quitando dos que tienen
+aquí lo mismo comprado en dos sitios
+diferentes, Avalor y y Magallanes, y
+quitando este, que creo que es
+mejorable, creo, por lo general, incluso
+este de Amundi de aquí, creo que por lo
+general es una buena gestión, ¿vale? O
+sea, esto es un ejemplo de, oye, yo
+cuando hablé con este cliente le voy a
+decir, lo que te están haciendo no está
+mal, ¿vale? opinable, como he dicho
+muchas veces y como he dicho en la
+presentación o la o en el inicio de este
+vídeo, hay unas partes de aquí que son
+subjetivas y pues en mi opinión tener
+dos fondos de Iberia, no sé en qué
+punto, o sea, una cosa es que quieras
+sobreponderar o tener eh eh renta
+variable española y otra que que no
+tenga renta variable mundial, porque no
+he visto aquí renta variable mundial y
+sin embargo tengas de renta variable
+española principalmente dos fondos.
+Entonces, yo aquí lo que me plantearía
+es, oye, si tengo rentarl, ¿por qué no
+tengo rentador Lundial? Habría que
+preguntarle al gestor o al o al
+banquero, eh, y porque tengo, pues, por
+ejemplo, este fondo creo que es un poco
+mejorable, pero en general está bastante
+bien, ¿vale? Los fondos en general son
+bastante buenos, no me voy a meter ya en
+el en el en el en los porcentajes de set
+location, es decir, cuánto tiene de cada
+cosa, porque eso no es mi no es mi
+intención.
+Yo no no sé exactamente qué le ha pedido
+el cliente a eh al banquero, ¿vale?
+Entonces, aquí luego habría otra parte
+que sería entender cuánto tiene de cada
+cosa, ¿no? Que sería importante también,
+¿no? Eh, de primeras, si la cartera es
+muy grande también normalmente hm 10
+fondos diría que son tirando a pocos,
+¿vale? Eh, si la cartera es muy grande,
+si la cartera es de 5, 6, 8 millones,
+normalmente pues te diría que 10 fondos
+son pocos. Yo para estas cantidades a lo
+mejor usaría 20 y pico, ¿no? Eh, pero eh
+bueno, lo mismo hecho aquí de menos el
+tener algo de renta variable que no sea
+solo española, que solo hay dos fondos
+de renta variable que son estos dos, eh,
+y poco más, la verdad. Este fondo me ha
+sorprendido para bien. Este de aquí, el
+Frontier Markets. Hm. Eh, no me he
+puesto a mirarlo, no sé dónde saca tan
+buena rentalidad, no sé si es que ha
+invertido en Polonia o dónde, pero por
+lo demás creo que está bastante bien.
+Vale, vamos con la segunda, ¿vale? La
+segunda, en este caso hay bastante más
+fondos y vamos a ir pues lo mismo,
+viendo uno por uno, eh, así de primeras
+para ver qué hay. Este al final he
+conseguido encontrarlo, ¿vale? este que
+vemos aquí acabado en 68 Franklin
+Europea Total Return. Así viendo de
+primera su histórico desde 2016 podemos
+decir que el fondo no parece nada del
+otro mundo. Es cierto que la renta fija
+ha tenido periodos en el pasado bastante
+complicados, con lo cual no vamos a
+juzgar solo esto, pero es que eh es
+cierto que las comisiones son bajas,
+cosa que honra al al banquero, la
+persona que esté que esté utilizándolo,
+pero habría que preguntarle un poco por
+qué confía en esta estrategia, ¿vale?
+cuando este año lleva un 05. Es cierto
+que este año no está siendo fácil, pero
+estos dos años fueron buenos. Y si nos
+aplicamos el concepto de Total Return,
+esto de Total Return nada porque 2021 y
+2022 eh son pésimos, ¿no? Eh, la
+volatilidad a eh a 5 años del 559 no es
+poco y la máxima caída es de -16. Yo
+este fondo si tuviera que catalogarlo,
+diría que es tirando a malo, ¿vale? O
+sea, esto es mejor, esto es, no sé cómo
+quiero ser de crítico con todo esto,
+pero aquí podríamos decir que esto hm
+vamos a poner por no ser muy hater
+subóptimo, ¿vale? Este es Verman
+Euroshore, que ya os he demostrado
+antes, que es uno de los que yo utilizo,
+con lo cual este es bueno, ¿vale? Este
+está bien. Eh, esto de aquí, Santander
+sostenible, no tengo ni idea qué es,
+pero lo vamos a averiguar ahora y vamos
+a ver si está un poco a la altura. renta
+fija, ahorro, cartera. Eh, esto parece
+que es un renta fija a corto plazo,
+efectivamente.
+Vale. Eh,
+y una vez más
+parece que mejorable, ¿vale? Eh, este
+probablemente habría que compararlo con
+el BH
+eh BH deuda. Lo digo por no comparar
+otra vez con el Neuber, pero si hablamos
+este fondo tiene baja volatilidad.
+Estamos hablando de 1,81, ¿vale? Eh,
+este tiene una volatilidad del 2,4 1,4 a
+3 años, no sé cuánto tiene estos 1,3. Es
+decir, creo que lo más comparable a este
+de aquí Santander sería, por ejemplo,
+este BH deuda. Lo digo por usar fondos
+similares a los que yo utilizo. Eh, este
+no lo tengo en las carteras actualmente,
+pero sí que lo he usado bastante. Eh, y
+habría que ver un poco qué tal el
+comportamiento. Aquí vemos como el BH lo
+hace significativamente mejor en todos
+los escenarios, ¿no? Con lo cual a 10
+años
+una haya hecho un 9 y otra haya hecho un
+29. Para mí gustó. Es cierto que el el
+que el que tenga este fondo de este
+Santander pues puede argumentar que es
+que este tiene menos riesgo y sí estoy
+de acuerdo, tiene un poquito menos
+riesgo que el que he enseñado, pero los
+retornos son bastante inferiores a este
+que ya de por sí es un fondo bastante
+conservador, ¿vale? Aquí lo vemos que
+incluso eh por años en el año mal 2022
+cayó un 2,3%, este cayó un 4, con lo
+cual, ¿de qué me sirve que este tenga
+menos volatilidad si cuando vienen
+maldadas este por ejemplo responde
+mejor? Entonces yo esté, por lo menos en
+comparación con los fondos que yo
+utilizo, me parece mejorable, ¿vale?
+Entonces, lo voy a poner como subóptimo.
+No quiero decir que sea pésimo, pero no
+me da para ponerlo como aceptable. Creo
+que esos creo que para alguien que
+invierte con riesgo, esos retornos
+tienen que ser mejor. Estos retornos
+tienen que ser mejorables para alguien
+que invierte con riesgo, ¿no? Este de
+aquí, esto hay que ver lo que es. Esto,
+renta fija global emergente. Esta
+comisión es altísima. Si esto de verdad
+se lo están cobrando a mi cliente, esto
+es carísimo, esto es un desastre. Eh, es
+cierto que los retornos no son malos en
+ese aspecto. No, no, no son malos.
+Tampoco me parecen nada del otro mundo.
+Yo es cierto que de renta fija, está por
+aquí el mío, creo, eh, emergente, no soy
+experto. Eh, aquí yo soy el primero que
+que he puesto el fondo que mejor me han
+sabido explicar y demás. Tampoco sé en
+vamos a, bueno, lo vamos a comparar tal
+cual, ¿vale? No soy experto en esta
+categoría. Eh, este es el
+Y al final en carteras grandes pues
+estás obligado a meter de todo,
+incluyendo algo de esto, ¿no? Entonces,
+eh, vamos a compararlo un poco con el
+que yo uso, a ver si está más o menos en
+línea, porque yo de esta categoría, que
+es lo que es renta fija, bueno, aquí
+vemos que son muy muy similares, eh, a
+un año, a 3 años, incluso a 5 años,
+incluso la a con todo el histórico, este
+de aquí, el que usáis, el que usan aquí
+está bastante bien. O sea, parece que
+dentro de la categoría incluso lo hace
+mejor que el que yo utilizo, con lo cual
+este lo vamos a dar por bueno, aunque
+vuelva a lo mismo, que yo en esta
+categoría tengo muy poco dinero y es una
+categoría que yo entiendo menos que
+renta fija e
+emergente, ¿no? Que además hemos visto
+que en el pasado no lo ha hecho
+especialmente bien. E bueno, Carminar
+Portfolio Flexible Bond, este es un buen
+fondo, ¿vale? Yo no lo uso, prefiero el
+Carmin porfolio credit, pero es un buen
+fondo. Los gestores llevan toda la vida
+haciendo esto y bueno, aquí está un poco
+el el histórico, ¿no? Con lo cual este
+que se queda a medio camino entre el
+entre el Securité y el portfolio, pues
+es válido, ¿no? Eh, el PMC GIS este no
+soy muy fan de él, o sea, pues es lo que
+digo, mejora esto a otros fondos de la
+categoría, pues está ahí, ¿no? por
+ejemplo, a 5 años, un 1 y medio con 568
+volatilidad, creo que el castigo de 2022
+es demasiado grande para los retornos de
+después. E incluso este año está rojo.
+Eh, dicho esto, no es mal fondo y si lo
+usa todo el mundo, entiendo que que es
+porque el equipo gestor es es reputado y
+demás, ¿no? Eh, yo en esta categoría
+casi cualquiera de los que conocéis, eh,
+ya sea Abaco o ya sea e Gama, por
+ejemplo, o Brightgate, ¿vale? Sin ir más
+lejos, pues si ponemos por aquí
+Brightgate, por ejemplo, Bright Gate
+Global Income, eh, y lo comparamos con
+este, eh, a, si os nos fijamos a 3 años,
+la diferencia abismal [resoplido] y a 5
+años es una locura. Con lo cual no
+entiendo bien el uso de de Es cierto que
+aquí la caída tuvo menos caída,
+etcétera, etcétera, pero eh a priori
+creo que hay fondos mejores, ¿no?
+Entonces, lo voy a poner como aceptable.
+Em,
+pero insisto, creo que hay otros
+mejores, ¿vale? Algo parecido le pasa a
+este. Lo he visto muchas veces. No soy
+fan tampoco. Hay mucha gente que le
+gusta, lo utiliza el DW WS Concept
+Calder Morgen. E es cierto que, bueno,
+para empezar ya es un mixto. Yo mixtos
+uso uso menos, ¿no? Eh, y es cierto que
+ha encadenado aquí un un mix de de años
+buenos, ¿no? Eh, no me parece nada del
+otro mundo. 4% de rentabilidad con 5% de
+volatilidad los últimos 5 años. del otro
+mundo. Es cierto que yo mixtos uso muy
+pocos, pero entiendo que es un fondo que
+sea pues un poco todo terreno, que es lo
+que mucha gente eh eh utiliza, ¿no? Con
+lo cual podemos dentro de de una
+categoría que yo uso poco, podemos darlo
+como aceptable. Eh, aquí tiene uno de
+defensa, ¿vale? Con lo cual, h voy a
+ponerlo directamente como aceptable
+porque yo no sé nada del sector defensa.
+Ya sabéis que no me gusta mucho apostar
+por nichos o por mercados, eh,
+en concreto porque creo que requieren un
+conocimiento muy alto sobre la materia,
+cosa que creo que la mayoría de
+banqueros no tienen. Eh, esto es el MG
+Strategic Value. Sigo pensando que es
+algo mejor que los algo peor que los
+value españoles, pero la verdad es que
+lo revientan también, ¿vale? O sea, este
+este estos últimos 5 años son
+buenísimos, ¿no? Yo creo que prefiero
+quizá por el histórico que no se ve, que
+es el histórico previo a Cobas y a Z
+valor, pues prefiero Cobas Z valor, pero
+este esfondo es de los mejores, ¿no? Con
+lo cual aquí este sin duda eh que yo
+tenga un sesgo hacia quizá todos esos
+fondos que han han
+eh han funcionado muy bien durante
+tantos años en España, no significa que
+no haya cosas en el extranjero igual de
+buenas. Este es el Robeco Premium
+Equities, más de lo mismo, no es mal
+fondo, yo prefiero otros. Vale, aquí
+veis un poco su histórico. A 5 años se
+ha quedado un poco atrás y yo creo que
+esto no justifica al tener gestión
+activa. Como bien sabéis, es cierto que
+no es un fondo tremendamente caro. Me
+imagino que está la clase limpia, eh,
+pero este histórico de aquí creo que lo
+sitúa por debajo de otros fondos de
+gestión activa, que si habéis visto aquí
+las carteras mías de Danbank, pues en
+este caso estaríamos hablando de oros,
+eh, incluso my investor value, a valor o
+COVAS, ¿no? Eh, por hacer una
+comparativa, por ejemplo, con oros,
+¿cierto? A un año están igualados. a 3
+años bastante mejor oros y a 5 años
+mucho mejor oros, ¿no? Incluso con todo
+el histórico también, ¿no? Entonces, eh
+que si fuera pagar gestión activa eh me
+gusta bastante más eh oros, por ejemplo,
+que este. Sin embargo, me parece que es
+buen fondo. Eh lo vamos a poner como
+aceptable, pero podría ser podría llegar
+a ser bueno, ¿no? Eh aquí hay uno de
+Japón. Hm en este caso sí que conozco un
+fondo bueno de Japón, con lo cual lo voy
+a comparar en un momento. Sí que hay un
+fondo, esto es Arcus Japán. Insisto, no
+lo he visto mi vida. Yo lo invierto en
+Japán en en Japón eh, exclusivamente en
+este caso. Bueno, y creo que a todo el
+mundo le sirve un poco lo que esté
+haciendo. Vamos a darlo como aceptable.
+No puedo compararlo con el de Japón. Eh,
+bueno, aquí Japón. Eh, esto es un
+Bangward US 500, ¿vale? Con lo cual esto
+es buen fondo, es un indexado del SP. Me
+me sirve. Eh, aquí es un emergentes de
+Asia. La pena es que no tenga
+probablemente este emergentes de Asia,
+eh, sea peor que que Robé con Mergying
+Markets, que es el que yo utilizo. Dudo
+mucho que haya un fondo que esté a la
+altura, eh, pero bueno, lo podemos ver
+un poco a 5 años. Sí, correcto. Un 717,
+eh, estoy seguro
+que es probablemente que sea peor que
+este,
+que es un 1315, ¿no? Con lo cual, si
+hablamos de mercados emergentes, este lo
+pondría como mejorable o subóptimo. Sí
+que es cierto que lo que digo antes,
+habría que saber un poquito más de este
+fondo, ¿vale? Lo estoy haciendo un poco
+de andar por casa porque si no el vídeo
+eh se va a hacer muy muy largo, ¿no? Eh,
+este que es el New Perspective, yo
+también lo uso, creo que es un buen
+fondo, creo que es válido dentro de la
+gestión activa. Fidelity Global
+Technology es un buen es un buen fondo
+también. Eh, Vangware Global Stock,
+habría que habría que preguntar por qué
+usan Bw Global Stock y Bw. Están
+repitiendo lo mismo,
+pero eh los dos son buenos, ¿vale? Con
+lo cual, eso sin problema. E Santander,
+gestión dinámica. Esto habría que ver
+que es ah es un alternativo global macro
+y le falta histórico, pero eh ya sabéis
+que a los alternativos se les exige o se
+les pide ganar dinero todos los años y
+este lo lo hace. Podríamos ponerle
+directamente falta histórico, pero por
+lo que hemos visto parece un fondo lo
+suficientemente bueno. Si yo pudiera
+compararlo y no tiene nada que ver,
+simplemente son alternativos, por
+ejemplo, un fondo que podría ir en esta
+categoría, riesgo beneficio, sería
+Helium, ¿vale? Elium es un 527
+540 227. Bueno, aquí le falta histórico.
+A 3 años esto es un 430 209 y esto es un
+612 un 82. Es decir, seguramente haya
+alternativas mejores. Dicho esto, parece
+que lo hace bastante bien. Eh, de
+commodities no voy a decir nadie nada, o
+sea, no puedo comparar. Yo no utilizo de
+commodities. Y en este caso aquí eh otro
+de precious metals, con lo cual en estos
+dos no voy a no voy a pronunciarme, ¿no?
+Entonces, la moraleja de esto, ¿qué es?
+Bueno, lo primero de todo es que cuando
+tienes dinero eh ya hay un incentivo
+claro a hacerte las cosas más o menos
+bien, ¿vale? Es decir, ninguna gestión
+me parece, hay algunas cosas opinables,
+eh, la mayoría de las cosas son
+decentemente buenas y los gestores saben
+o los banqueros saben que o lo hacen un
+poco bien o el cliente se va a ir se va
+a ir a otro lado donde no le tomen el
+pelo y donde y donde le le sobre todo si
+están en competencia, como así lo
+estamos, ¿no? Esta cartera de aquí, esta
+de aquí y la mía, eh, pues van a
+comparar unas cosas con otras y entonces
+es ahí donde se va a ver eh si hay
+alguno que desentona un poco, ¿no?
+Entonces, más o menos est está bien. Hay
+una parte que, como ya he dicho
+anteriormente, que es subjetiva y que
+cada uno usa los fondos que usa. Yo, por
+ejemplo, este fondo no lo uso, no me
+gusta este fondo, estos dos fondos, por
+ejemplo, creo que son mejorables,
+etcétera, etcétera, pero es opinión. Y
+por lo demás, pues oye, se ve claramente
+como no hay prácticamente ningún fondo
+malo, ¿no? Opinables estos tres de aquí
+que he puesto, que creo que podrían ser
+mejorables, pero me falta contexto, me
+faltaría analizar un poco más a fondo,
+etcétera, etcétera. Eh, y eh luego
+faltaría lo más importante, que saber
+cuánto tiene de cada cosa para de verdad
+que se ajuste la cartera al riesgo de lo
+que busca el cliente, ¿no? Pero en
+general pues creo que es un análisis más
+o menos de andar por casa, sencillo,
+donde todos, todo el mundo puede ir
+recogiendo algo, algo nuevo de
+contenido, eh, para que el día de mañana
+cuando tenga que un fondo, tal y como
+hecho yo aquí, aunque yo pues son muchos
+años de experiencia, eh pues pueda abrir
+una ficha y rápidamente ver qué está
+pasando ahí, ¿no? Ver incluso ir
+directamente ya a compararlo contra otro
+que sepa que en esa categoría lo hace
+bastante bien. Entonces, chicos, espero
+que este tipo de vídeos os sirvan. Para
+mí son un vídeos un poco rollo, pero que
+estoy seguro que a vosotros os os trae a
+eh a la tierra eh todo este contenido
+fresco de eh saber analizar un poco
+fondos sobre la marcha, aunque sea en 3
+minutos, ¿no? Entonces, eh chicos, si os
+ha gustado, pues yo agradezco que me
+dejéis un comentario, un like, eh que le
+paséis este vídeo a vuestro amigo, el
+que tiene fondos de un banco así un poco
+eh dudoso. Y eh nosotros nos vemos en el
+siguiente vídeo. Se despide la pizarra
+Andrés. Yeah.

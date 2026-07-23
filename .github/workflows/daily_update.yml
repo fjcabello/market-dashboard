@@ -27,6 +27,11 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Download transcripts
+        env:
+          WEBSHARE_API_KEY: ${{ secrets.WEBSHARE_API_KEY }}
+        run: python download_transcripts.py
+
       - name: Generate chart & HTML
         env:
           FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
@@ -36,7 +41,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/ fred_data.csv
+          git add docs/ fred_data.csv transcripts/
           git diff --staged --quiet || \
             git commit -m "dashboard: update $(date -u +%Y-%m-%d)"
           git push

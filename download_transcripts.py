@@ -6,23 +6,40 @@ Los archivos se guardan como YYYY-MM-DD-NombreCanal.txt
 """
 
 import csv
+import glob
 import os
 import re
+import subprocess
 import sys
 import logging
+import tempfile
 import xml.etree.ElementTree as ET
 from datetime import datetime
 
 import requests
 from youtube_transcript_api import YouTubeTranscriptApi
 from youtube_transcript_api._errors import NoTranscriptFound, TranscriptsDisabled
+from youtube_transcript_api.proxies import GenericProxyConfig
 
 # ── Configuración ────────────────────────────────────────────────────────────
 
 BASE_DIR     = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_DIR   = os.path.join(BASE_DIR, "transcripts")
 CHANNELS_CSV = os.path.join(BASE_DIR, "channels.csv")
+ENV_FILE     = os.path.join(BASE_DIR, ".env")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+
+def _load_env_key(name: str) -> str:
+    """Lee una variable del entorno o del fichero .env."""
+    val = os.environ.get(name, "")
+    if val:
+        return val
+    if os.path.exists(ENV_FILE):
+        for line in open(ENV_FILE, encoding="utf-8"):
+            if line.strip().startswith(f"{name}="):
+                return line.split("=", 1)[1].strip()
+    return ""
 
 
 def load_channels(csv_path: str) -> list[dict]:
@@ -50,6 +67,10 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
+YTDLP   = os.path.join(os.path.dirname(sys.executable), "yt-dlp")
+BROWSER = "safari"   # cookies del navegador para esquivar bloqueos de IP
+IN_CI   = os.environ.get("CI", "false").lower() == "true"
+
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -60,6 +81,31 @@ HEADERS = {
 COOKIES = {"CONSENT": "YES+1", "SOCS": "CAI"}
 ATOM_NS = "http://www.w3.org/2005/Atom"
 YT_NS   = "http://www.youtube.com/xml/schemas/2015"
+
+# ── Proxy Webshare ───────────────────────────────────────────────────────────
+
+def build_proxy_config() -> GenericProxyConfig | None:
+    """Obtiene credenciales de Webshare y devuelve un GenericProxyConfig, o None."""
+    api_key = _load_env_key("WEBSHARE_API_KEY")
+    if not api_key:
+        return None
+    try:
+        resp = requests.get(
+            "https://proxy.webshare.io/api/v2/proxy/config/",
+            headers={"Authorization": f"Token {api_key}"},
+            timeout=10,
+        )
+        resp.raise_for_status()
+        data   = resp.json()
+        user   = data["username"]
+        pwd    = data["password"]
+        # p.webshare.io:80 es el gateway rotativo de Webshare
+        proxy  = f"http://{user}:{pwd}@p.webshare.io:80"
+        log.info("Proxy Webshare activo (%s@p.webshare.io:80)", user)
+        return GenericProxyConfig(http_url=proxy, https_url=proxy)
+    except Exception as exc:
+        log.warning("No se pudo configurar proxy Webshare: %s", exc)
+        return None
 
 # ── Funciones ────────────────────────────────────────────────────────────────
 
@@ -110,20 +156,78 @@ def get_recent_videos(channel_url: str, n: int) -> list[tuple[str, str]]:
     return videos
 
 
-def fetch_transcript(video_id: str) -> str:
-    """Descarga el transcript de un vídeo y devuelve el texto plano."""
-    api = YouTubeTranscriptApi()
-    try:
-        transcript = api.fetch(video_id, languages=PREFERRED_LANGS)
-    except NoTranscriptFound:
-        # Intenta con cualquier idioma disponible
-        transcript_list = api.list(video_id)
-        available = list(transcript_list)
-        if not available:
-            raise NoTranscriptFound(video_id, PREFERRED_LANGS, {})
-        transcript = available[0].fetch()
+def _parse_srt(text: str) -> str:
+    """Convierte texto SRT a texto plano eliminando marcas de tiempo y etiquetas HTML."""
+    lines, prev = [], ""
+    for line in text.splitlines():
+        line = line.strip()
+        if not line or line.isdigit() or "-->" in line:
+            continue
+        line = re.sub(r"<[^>]+>", "", line)   # quitar etiquetas HTML/VTT
+        if line and line != prev:              # deduplicar líneas consecutivas
+            lines.append(line)
+            prev = line
+    return "\n".join(lines)
 
-    return "\n".join(entry.text for entry in transcript)
+
+def fetch_transcript_ytdlp(video_id: str) -> str:
+    """Descarga subtítulos automáticos via yt-dlp usando cookies del navegador."""
+    url = f"https://www.youtube.com/watch?v={video_id}"
+    with tempfile.TemporaryDirectory() as tmpdir:
+        out_tmpl = os.path.join(tmpdir, "%(id)s")
+        for lang in ("es", "es-419", "en", ".*"):
+            subprocess.run(
+                [
+                    YTDLP,
+                    "--skip-download",
+                    "--write-auto-subs",
+                    "--sub-langs", lang,
+                    "--convert-subs", "srt",
+                    "--cookies-from-browser", BROWSER,
+                    "--no-warnings",
+                    "--output", out_tmpl,
+                    url,
+                ],
+                capture_output=True, text=True,
+            )
+            srt_files = glob.glob(os.path.join(tmpdir, "*.srt"))
+            if srt_files:
+                with open(srt_files[0], encoding="utf-8") as f:
+                    text = f.read()
+                parsed = _parse_srt(text)
+                if parsed:
+                    return parsed
+    raise NoTranscriptFound(video_id, PREFERRED_LANGS, {})
+
+
+def fetch_transcript(video_id: str, proxy_config: GenericProxyConfig | None = None) -> str:
+    """Descarga el transcript de un vídeo y devuelve el texto plano.
+
+    Orden de intento:
+      1. youtube-transcript-api con proxy Webshare (si está configurado)
+      2. youtube-transcript-api sin proxy (si no hay proxy)
+      3. yt-dlp con cookies de Safari (solo fuera de CI)
+    """
+    api = YouTubeTranscriptApi(proxy_config=proxy_config)
+    try:
+        try:
+            transcript = api.fetch(video_id, languages=PREFERRED_LANGS)
+        except NoTranscriptFound:
+            transcript_list = api.list(video_id)
+            available = list(transcript_list)
+            if not available:
+                raise NoTranscriptFound(video_id, PREFERRED_LANGS, {})
+            transcript = available[0].fetch()
+        return "\n".join(entry.text for entry in transcript)
+    except TranscriptsDisabled:
+        raise
+    except NoTranscriptFound:
+        raise
+    except Exception as exc:
+        if IN_CI:
+            raise
+        log.warning("  [youtube-transcript-api] %s — reintentando con yt-dlp (%s)", video_id, exc)
+        return fetch_transcript_ytdlp(video_id)
 
 
 def target_path(date: str, channel_name: str, suffix: str = "") -> str:
@@ -131,7 +235,7 @@ def target_path(date: str, channel_name: str, suffix: str = "") -> str:
     return os.path.join(OUTPUT_DIR, filename)
 
 
-def process_channel(channel: dict) -> tuple[int, int]:
+def process_channel(channel: dict, proxy_config: GenericProxyConfig | None = None) -> tuple[int, int]:
     """Procesa un canal y devuelve (descargados, errores)."""
     url  = channel["url"]
     name = channel["name"]
@@ -147,19 +251,17 @@ def process_channel(channel: dict) -> tuple[int, int]:
     for date, video_id in videos:
         path = target_path(date, name)
 
-        # Si ya existe un archivo para esa fecha y canal, se omite
         if os.path.exists(path):
             log.info("  [SKIP] %s", os.path.basename(path))
             continue
 
-        # Si hay más de un vídeo el mismo día, añade el ID como sufijo
         suffix = ""
         if any(os.path.exists(target_path(date, name, f"-{i}")) for i in range(1, 10)):
             suffix = f"-{video_id}"
         path = target_path(date, name, suffix)
 
         try:
-            text = fetch_transcript(video_id)
+            text = fetch_transcript(video_id, proxy_config=proxy_config)
             with open(path, "w", encoding="utf-8") as f:
                 f.write(text)
             log.info("  [OK]   %s  (%d caracteres)", os.path.basename(path), len(text))
@@ -180,12 +282,14 @@ def process_channel(channel: dict) -> tuple[int, int]:
 def main():
     log.info("=== Inicio descarga de transcripts (%s) ===", datetime.now().strftime("%Y-%m-%d"))
 
+    proxy_config = build_proxy_config()
+
     channels = load_channels(CHANNELS_CSV)
     log.info("Canales cargados: %d", len(channels))
 
     total_ok = total_err = 0
     for channel in channels:
-        ok, err = process_channel(channel)
+        ok, err = process_channel(channel, proxy_config=proxy_config)
         total_ok  += ok
         total_err += err
 
