@@ -235,8 +235,10 @@ def target_path(date: str, channel_name: str, suffix: str = "") -> str:
     return os.path.join(OUTPUT_DIR, filename)
 
 
-def process_channel(channel: dict, proxy_config: GenericProxyConfig | None = None) -> tuple[int, int]:
-    """Procesa un canal y devuelve (descargados, errores)."""
+def process_channel(
+    channel: dict, proxy_config: GenericProxyConfig | None = None
+) -> tuple[int, int, int, list[str], list[str]]:
+    """Procesa un canal y devuelve (descargados, skips, errores, nuevos_ficheros, errores_ids)."""
     url  = channel["url"]
     name = channel["name"]
     log.info("Canal: %s", name)
@@ -244,15 +246,18 @@ def process_channel(channel: dict, proxy_config: GenericProxyConfig | None = Non
     videos = get_recent_videos(url, VIDEOS_TO_CHECK)
     if not videos:
         log.warning("  No se obtuvieron vídeos para %s", name)
-        return 0, 0
+        return 0, 0, 0, [], []
 
-    downloaded = errors = 0
+    downloaded = skips = errors = 0
+    new_files: list[str] = []
+    error_ids: list[str] = []
 
     for date, video_id in videos:
         path = target_path(date, name)
 
         if os.path.exists(path):
             log.info("  [SKIP] %s", os.path.basename(path))
+            skips += 1
             continue
 
         suffix = ""
@@ -266,34 +271,80 @@ def process_channel(channel: dict, proxy_config: GenericProxyConfig | None = Non
                 f.write(text)
             log.info("  [OK]   %s  (%d caracteres)", os.path.basename(path), len(text))
             downloaded += 1
+            new_files.append(f"{os.path.basename(path)} ({len(text):,} chars)")
         except TranscriptsDisabled:
             log.warning("  [SKIP] %s — transcripts desactivados", video_id)
+            skips += 1
         except NoTranscriptFound:
             log.warning("  [SKIP] %s — no hay transcript disponible", video_id)
+            skips += 1
         except Exception as exc:
             log.error("  [ERR]  %s — %s", video_id, exc)
             errors += 1
+            error_ids.append(f"{video_id} — {exc}")
 
-    return downloaded, errors
+    return downloaded, skips, errors, new_files, error_ids
+
+
+def write_github_summary(
+    date: str,
+    channels: list[dict],
+    results: list[tuple],
+    total_ok: int,
+    total_skip: int,
+    total_err: int,
+) -> None:
+    summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
+    if not summary_path:
+        return
+
+    lines = [
+        f"## Transcripts — {date}",
+        "",
+        f"**{total_ok} nuevos · {total_skip} skip · {total_err} errores**",
+        "",
+        "| Canal | Nuevos | Skip | Errores |",
+        "|-------|-------:|-----:|--------:|",
+    ]
+    for ch, (ok, skip, err, _, _) in zip(channels, results):
+        lines.append(f"| {ch['name']} | {ok} | {skip} | {err} |")
+
+    all_new = [f for _, _, _, files, _ in results for f in files]
+    if all_new:
+        lines += ["", "### Nuevos transcripts", ""]
+        lines += [f"- `{f}`" for f in all_new]
+
+    all_errs = [e for _, _, _, _, errs in results for e in errs]
+    if all_errs:
+        lines += ["", "### Errores", ""]
+        lines += [f"- `{e}`" for e in all_errs]
+
+    with open(summary_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines) + "\n")
 
 
 # ── Main ─────────────────────────────────────────────────────────────────────
 
 def main():
-    log.info("=== Inicio descarga de transcripts (%s) ===", datetime.now().strftime("%Y-%m-%d"))
+    date_str = datetime.now().strftime("%Y-%m-%d")
+    log.info("=== Inicio descarga de transcripts (%s) ===", date_str)
 
     proxy_config = build_proxy_config()
 
     channels = load_channels(CHANNELS_CSV)
     log.info("Canales cargados: %d", len(channels))
 
-    total_ok = total_err = 0
+    results = []
+    total_ok = total_skip = total_err = 0
     for channel in channels:
-        ok, err = process_channel(channel, proxy_config=proxy_config)
-        total_ok  += ok
-        total_err += err
+        res = process_channel(channel, proxy_config=proxy_config)
+        results.append(res)
+        total_ok   += res[0]
+        total_skip += res[1]
+        total_err  += res[2]
 
-    log.info("=== Fin — descargados: %d  errores: %d ===", total_ok, total_err)
+    log.info("=== Fin — descargados: %d  skip: %d  errores: %d ===", total_ok, total_skip, total_err)
+    write_github_summary(date_str, channels, results, total_ok, total_skip, total_err)
 
 
 if __name__ == "__main__":
