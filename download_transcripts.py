@@ -94,7 +94,7 @@ def build_proxy_config() -> GenericProxyConfig | None:
     global _REQUESTS_PROXIES
     api_key = _load_env_key("WEBSHARE_API_KEY")
     if not api_key:
-        log.warning("WEBSHARE_API_KEY no encontrada — sin proxy")
+        log.info("WEBSHARE_API_KEY no configurada — descarga sin proxy")
         return None
     try:
         resp = requests.get(
@@ -111,9 +111,12 @@ def build_proxy_config() -> GenericProxyConfig | None:
         _REQUESTS_PROXIES = {"http": proxy, "https": proxy}
         log.info("Proxy Webshare activo (%s@p.webshare.io:80)", user)
         return GenericProxyConfig(http_url=proxy, https_url=proxy)
+    except requests.HTTPError as exc:
+        log.error("WEBSHARE_API_KEY inválida o expirada (HTTP %s) — abortando", exc.response.status_code)
+        sys.exit(1)
     except Exception as exc:
-        log.warning("No se pudo configurar proxy Webshare: %s", exc)
-        return None
+        log.error("No se pudo contactar con Webshare: %s — abortando", exc)
+        sys.exit(1)
 
 # ── Funciones ────────────────────────────────────────────────────────────────
 
