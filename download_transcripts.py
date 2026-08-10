@@ -84,10 +84,17 @@ YT_NS   = "http://www.youtube.com/xml/schemas/2015"
 
 # ── Proxy Webshare ───────────────────────────────────────────────────────────
 
+# Diccionario de proxies para requests (se rellena al inicio si hay clave).
+_REQUESTS_PROXIES: dict = {}
+
+
 def build_proxy_config() -> GenericProxyConfig | None:
-    """Obtiene credenciales de Webshare y devuelve un GenericProxyConfig, o None."""
+    """Obtiene credenciales de Webshare, configura el proxy global y devuelve
+    un GenericProxyConfig para youtube-transcript-api, o None si falla."""
+    global _REQUESTS_PROXIES
     api_key = _load_env_key("WEBSHARE_API_KEY")
     if not api_key:
+        log.warning("WEBSHARE_API_KEY no encontrada — sin proxy")
         return None
     try:
         resp = requests.get(
@@ -96,11 +103,12 @@ def build_proxy_config() -> GenericProxyConfig | None:
             timeout=10,
         )
         resp.raise_for_status()
-        data   = resp.json()
-        user   = data["username"]
-        pwd    = data["password"]
+        data  = resp.json()
+        user  = data["username"]
+        pwd   = data["password"]
         # p.webshare.io:80 es el gateway rotativo de Webshare
-        proxy  = f"http://{user}:{pwd}@p.webshare.io:80"
+        proxy = f"http://{user}:{pwd}@p.webshare.io:80"
+        _REQUESTS_PROXIES = {"http": proxy, "https": proxy}
         log.info("Proxy Webshare activo (%s@p.webshare.io:80)", user)
         return GenericProxyConfig(http_url=proxy, https_url=proxy)
     except Exception as exc:
@@ -116,7 +124,8 @@ def resolve_channel_id(channel_url: str) -> str | None:
         return match.group(1)
 
     try:
-        resp = requests.get(channel_url, headers=HEADERS, cookies=COOKIES, timeout=15)
+        resp = requests.get(channel_url, headers=HEADERS, cookies=COOKIES,
+                            proxies=_REQUESTS_PROXIES or None, timeout=15)
         resp.raise_for_status()
     except requests.RequestException as exc:
         log.error("  No se pudo resolver channel_id de %s: %s", channel_url, exc)
@@ -140,7 +149,8 @@ def get_recent_videos(channel_url: str, n: int) -> list[tuple[str, str]]:
 
     feed_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
     try:
-        resp = requests.get(feed_url, headers=HEADERS, cookies=COOKIES, timeout=15)
+        resp = requests.get(feed_url, headers=HEADERS, cookies=COOKIES,
+                            proxies=_REQUESTS_PROXIES or None, timeout=15)
         resp.raise_for_status()
     except requests.RequestException as exc:
         log.error("  Error al leer feed RSS de %s: %s", channel_id, exc)

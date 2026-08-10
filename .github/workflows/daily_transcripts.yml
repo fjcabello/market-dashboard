@@ -33,6 +33,7 @@ jobs:
       - name: Download transcripts
         env:
           VIDEOS_TO_CHECK: ${{ github.event.inputs.videos_to_check || '3' }}
+          WEBSHARE_API_KEY: ${{ secrets.WEBSHARE_API_KEY }}
         run: python download_transcripts.py
 
       - name: Commit changes
