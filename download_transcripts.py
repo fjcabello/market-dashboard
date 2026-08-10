@@ -353,6 +353,31 @@ def write_github_summary(
 
 # ── Main ─────────────────────────────────────────────────────────────────────
 
+def resolve_exit_code(total_ok: int, total_skip: int, total_err: int) -> int:
+    """Decide si la ejecución debe reportar éxito.
+
+    La distinción clave es entre "hoy no había nada nuevo" y "lo intenté y falló
+    todo". Sin ella, una tubería rota es indistinguible de un día tranquilo: es
+    lo que permitió que la descarga estuviera 17 días terminando en verde con
+    cero transcripts desde el 2026-07-24.
+
+      - Algo descargado          -> éxito, aunque haya errores sueltos. Un fallo
+                                    parcial no debe impedir publicar el resto.
+      - Nada descargado, 0 errores -> éxito. Todos los vídeos ya estaban o no
+                                    tenían subtítulos: es un día normal.
+      - Nada descargado, con errores -> fallo. No se produjo ningún dato y hubo
+                                    motivo para pensar que debería haberse
+                                    producido.
+    """
+    if total_ok == 0 and total_err > 0:
+        log.error(
+            "Ningún transcript descargado y %d errores: la descarga está rota, "
+            "no es un día sin novedades", total_err
+        )
+        return 1
+    return 0
+
+
 def main():
     date_str = datetime.now().strftime("%Y-%m-%d")
     log.info("=== Inicio descarga de transcripts (%s) ===", date_str)
@@ -373,7 +398,8 @@ def main():
 
     log.info("=== Fin — descargados: %d  skip: %d  errores: %d ===", total_ok, total_skip, total_err)
     write_github_summary(date_str, channels, results, total_ok, total_skip, total_err)
+    return resolve_exit_code(total_ok, total_skip, total_err)
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

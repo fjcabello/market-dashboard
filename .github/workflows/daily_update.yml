@@ -27,7 +27,12 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # continue-on-error para que un fallo en los transcripts no impida
+      # publicar el dashboard. El job se marca en rojo igualmente en el último
+      # step, así que el fallo sigue siendo visible.
       - name: Download transcripts
+        id: transcripts
+        continue-on-error: true
         env:
           WEBSHARE_API_KEY: ${{ secrets.WEBSHARE_API_KEY }}
         run: python download_transcripts.py
@@ -45,3 +50,9 @@ jobs:
           git diff --staged --quiet || \
             git commit -m "dashboard: update $(date -u +%Y-%m-%d)"
           git push
+
+      - name: Marcar el fallo de transcripts
+        if: steps.transcripts.outcome == 'failure'
+        run: |
+          echo "::error::La descarga de transcripts falló. El dashboard sí se ha publicado."
+          exit 1

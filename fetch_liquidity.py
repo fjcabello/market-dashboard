@@ -45,6 +45,7 @@ DOCS_DIR      = os.path.join(BASE_DIR, "docs")
 DATA_CSV      = os.path.join(BASE_DIR, "fred_data.csv")
 CHART_PNG     = os.path.join(DOCS_DIR, "liquidity_chart.png")
 CHART_3M_PNG  = os.path.join(DOCS_DIR, "liquidity_chart_3m.png")
+MACRO_PNG     = os.path.join(DOCS_DIR, "macro_chart.png")
 HTML_FILE     = os.path.join(DOCS_DIR, "index.html")
 ENV_FILE      = os.path.join(BASE_DIR, ".env")
 START_DATE    = "2020-01-01"
@@ -497,9 +498,193 @@ def plot_zoom(df: pd.DataFrame):
     plt.close()
     print(f"[OK] Gráfica 3m guardada → {CHART_3M_PNG}")
 
+# ── Gráfica macro ─────────────────────────────────────────────────────────────
+
+MACRO_COLORS = {
+    "DGS2": "#00e676", "DGS10": "#00d4ff", "DGS30": "#b388ff", "T10Y2Y": "#ff6b6b",
+    "cpi_yoy": "#f7b731", "core_pce_yoy": "#ff9500", "CORESTICKM159SFRBATL": "#b388ff",
+    "payems_chg": "#00e676", "UNRATE": "#ff6b6b",
+    "DTWEXBGS": "#00e676", "DEXJPUS": "#b388ff",
+    "BAMLH0A0HYM2": "#ff6b6b", "DCOILWTICO": "#f7b731",
+}
+
+
+def _has(d: pd.DataFrame, *cols: str) -> bool:
+    return all(c in d.columns and d[c].notna().any() for c in cols)
+
+
+def _legend(ax, loc="upper left"):
+    ax.legend(loc=loc, facecolor="#1a1a2e", labelcolor="white",
+              fontsize=8.5, framealpha=0.7)
+
+
+def _p_curva(ax, d):
+    for col, label in (("DGS2", "2 años"), ("DGS10", "10 años"), ("DGS30", "30 años")):
+        if not _has(d, col):
+            continue
+        s = d[col].dropna()
+        ax.plot(s.index, s, color=MACRO_COLORS[col], linewidth=1.5,
+                label=f"{label}  {s.iloc[-1]:.2f}%")
+    ax.set_ylabel("Rendimiento (%)", color=LABEL, fontsize=9)
+    _legend(ax)
+
+    if _has(d, "T10Y2Y"):
+        # El signo del spread es la señal: por debajo de cero, curva invertida.
+        axr = ax.twinx()
+        s = d["T10Y2Y"].dropna()
+        axr.fill_between(s.index, s, 0, alpha=0.07,
+                         color=MACRO_COLORS["T10Y2Y"], zorder=0)
+        axr.plot(s.index, s, color=MACRO_COLORS["T10Y2Y"], linewidth=1.2,
+                 alpha=0.9, zorder=1)
+        axr.axhline(0, color="#666677", linewidth=0.8, linestyle=":")
+        axr.set_ylabel("Spread 10Y-2Y (%)", color=LABEL, fontsize=9)
+        axr.tick_params(colors=LABEL, labelsize=8.5)
+        axr.spines[:].set_color("#2a2a3e")
+        axr.legend(handles=[plt.Line2D([0], [0], color=MACRO_COLORS["T10Y2Y"], lw=2,
+                                       label=f"Spread 10Y-2Y  {s.iloc[-1]:+.2f}%")],
+                   loc="lower right", facecolor="#1a1a2e", labelcolor="white",
+                   fontsize=8.5, framealpha=0.7)
+
+
+def _p_inflacion(ax, d):
+    for col, label in (("cpi_yoy", "CPI interanual"),
+                       ("core_pce_yoy", "PCE subyacente"),
+                       ("CORESTICKM159SFRBATL", "Sticky CPI (Atlanta)")):
+        if not _has(d, col):
+            continue
+        s = d[col].dropna()
+        ax.plot(s.index, s, color=MACRO_COLORS[col], linewidth=1.5,
+                label=f"{label}  {s.iloc[-1]:.2f}%")
+    ax.axhline(2, color="#00e676", linewidth=1.0, linestyle="--", alpha=0.7)
+    ax.annotate("objetivo 2%", xy=(d.index[0], 2), xytext=(4, 3),
+                textcoords="offset points", color="#00e676", fontsize=7.5)
+    ax.set_ylabel("Interanual (%)", color=LABEL, fontsize=9)
+    _legend(ax)
+
+
+def _p_empleo(ax, d):
+    if _has(d, "payems_chg"):
+        # La serie viene ffilleada a diario; una barra por día repetiría el mismo
+        # valor todo el mes. Se toma un punto por mes.
+        s = d["payems_chg"].resample("MS").first().dropna()
+        colors = ["#ff6b6b" if v < 0 else MACRO_COLORS["payems_chg"] for v in s]
+        ax.bar(s.index, s, width=20, color=colors, alpha=0.85,
+               label="Nóminas, cambio mensual (miles)")
+        ax.axhline(0, color="#666677", linewidth=0.8)
+        lo, hi = min(s.min(), 0), max(s.max(), 0)
+        ax.set_ylim(lo - abs(lo) * 0.25 - 20, hi * 1.35 + 20)
+        ax.set_ylabel("Nóminas (miles)", color=LABEL, fontsize=9)
+        _legend(ax)
+    if _has(d, "UNRATE"):
+        axr = ax.twinx()
+        s = d["UNRATE"].dropna()
+        axr.plot(s.index, s, color=MACRO_COLORS["UNRATE"], linewidth=1.5)
+        axr.set_ylabel("Paro (%)", color=LABEL, fontsize=9)
+        axr.tick_params(colors=LABEL, labelsize=8.5)
+        axr.spines[:].set_color("#2a2a3e")
+        axr.legend(handles=[plt.Line2D([0], [0], color=MACRO_COLORS["UNRATE"], lw=2,
+                                       label=f"Tasa de paro  {s.iloc[-1]:.1f}%")],
+                   loc="upper right", facecolor="#1a1a2e", labelcolor="white",
+                   fontsize=8.5, framealpha=0.7)
+
+
+def _p_dolar(ax, d):
+    if _has(d, "DTWEXBGS"):
+        s = d["DTWEXBGS"].dropna()
+        ax.plot(s.index, s, color=MACRO_COLORS["DTWEXBGS"], linewidth=1.5)
+        ax.set_ylabel("Índice dólar amplio", color=LABEL, fontsize=9)
+        ax.legend(handles=[plt.Line2D([0], [0], color=MACRO_COLORS["DTWEXBGS"], lw=2,
+                                      label=f"Índice dólar  {s.iloc[-1]:.1f}")],
+                  loc="upper left", facecolor="#1a1a2e", labelcolor="white",
+                  fontsize=8.5, framealpha=0.7)
+    if _has(d, "DEXJPUS"):
+        axr = ax.twinx()
+        s = d["DEXJPUS"].dropna()
+        axr.plot(s.index, s, color=MACRO_COLORS["DEXJPUS"], linewidth=1.4, linestyle="--")
+        axr.set_ylabel("Yen por dólar", color=LABEL, fontsize=9)
+        axr.tick_params(colors=LABEL, labelsize=8.5)
+        axr.spines[:].set_color("#2a2a3e")
+        axr.legend(handles=[plt.Line2D([0], [0], color=MACRO_COLORS["DEXJPUS"], lw=2, ls="--",
+                                       label=f"Dólar-Yen  {s.iloc[-1]:.1f}")],
+                   loc="lower right", facecolor="#1a1a2e", labelcolor="white",
+                   fontsize=8.5, framealpha=0.7)
+
+
+def _p_riesgo(ax, d):
+    if _has(d, "BAMLH0A0HYM2"):
+        s = d["BAMLH0A0HYM2"].dropna()
+        ax.plot(s.index, s, color=MACRO_COLORS["BAMLH0A0HYM2"], linewidth=1.5)
+        ax.set_ylabel("Spread High Yield (%)", color=LABEL, fontsize=9)
+        ax.legend(handles=[plt.Line2D([0], [0], color=MACRO_COLORS["BAMLH0A0HYM2"], lw=2,
+                                      label=f"Spread High Yield  {s.iloc[-1]:.2f}%")],
+                  loc="upper left", facecolor="#1a1a2e", labelcolor="white",
+                  fontsize=8.5, framealpha=0.7)
+    if _has(d, "DCOILWTICO"):
+        axr = ax.twinx()
+        s = d["DCOILWTICO"].dropna()
+        axr.plot(s.index, s, color=MACRO_COLORS["DCOILWTICO"], linewidth=1.4)
+        axr.set_ylabel("WTI ($/barril)", color=LABEL, fontsize=9)
+        axr.tick_params(colors=LABEL, labelsize=8.5)
+        axr.spines[:].set_color("#2a2a3e")
+        axr.legend(handles=[plt.Line2D([0], [0], color=MACRO_COLORS["DCOILWTICO"], lw=2,
+                                       label=f"WTI  ${s.iloc[-1]:.2f}")],
+                   loc="lower right", facecolor="#1a1a2e", labelcolor="white",
+                   fontsize=8.5, framealpha=0.7)
+
+
+MACRO_PANELS = [
+    ("Curva de tipos",            _p_curva,     ("DGS10",)),
+    ("Inflación",                 _p_inflacion, ("cpi_yoy", "core_pce_yoy",
+                                                 "CORESTICKM159SFRBATL")),
+    ("Empleo",                    _p_empleo,    ("payems_chg", "UNRATE")),
+    ("Dólar",                     _p_dolar,     ("DTWEXBGS", "DEXJPUS")),
+    ("Crédito y crudo",           _p_riesgo,    ("BAMLH0A0HYM2", "DCOILWTICO")),
+]
+
+
+def plot_macro(df: pd.DataFrame) -> bool:
+    """Gráfica de tipos, inflación, empleo, divisas y crédito.
+
+    Sólo dibuja los paneles con datos: si FRED falla para un bloque entero, el
+    resto de la gráfica sigue saliendo. Devuelve False si no hay nada que pintar,
+    para que el HTML no enlace una imagen inexistente.
+    """
+    cutoff = pd.Timestamp.today() - pd.DateOffset(years=CHART_YEARS)
+    d = df[df.index >= cutoff].copy()
+
+    panels = [(t, fn) for t, fn, cols in MACRO_PANELS if any(_has(d, c) for c in cols)]
+    if not panels:
+        print("[--] Sin datos macro todavía: se omite macro_chart.png")
+        return False
+
+    fig, axes = plt.subplots(len(panels), 1, figsize=(15, 2.6 * len(panels) + 1),
+                             facecolor=BG, squeeze=False)
+    axes = axes[:, 0]
+    fig.subplots_adjust(hspace=0.28, left=0.07, right=0.93, top=0.93, bottom=0.06)
+
+    for i, ((title, fn), ax) in enumerate(zip(panels, axes)):
+        style_ax(ax, show_xticks=(i == len(panels) - 1))
+        fn(ax, d)
+        ax.set_title(title, color="#cccccc", fontsize=10, loc="left",
+                     pad=6, fontweight="bold")
+
+    # suptitle y no set_title sobre el primer eje: eso borraría "Curva de tipos".
+    fig.suptitle(
+        f"Macro EEUU  ·  Actualizado {d.index[-1]:%d %b %Y}",
+        color="white", fontsize=13, x=0.07, ha="left", fontweight="bold",
+    )
+    fig.text(0.5, 0.005, "Fuente: FRED (St. Louis Fed)",
+             ha="center", color="#444455", fontsize=8)
+
+    plt.savefig(MACRO_PNG, dpi=150, bbox_inches="tight", facecolor=BG)
+    plt.close()
+    print(f"[OK] Gráfica macro guardada → {MACRO_PNG}")
+    return True
+
+
 # ── HTML ─────────────────────────────────────────────────────────────────────
 
-def generate_html(df: pd.DataFrame):
+def generate_html(df: pd.DataFrame, has_macro: bool = False):
     last  = df.index[-1]
     nl    = df["net_liq"].dropna().iloc[-1]
     m2    = df["M2SL"].dropna().iloc[-1]
@@ -526,6 +711,35 @@ def generate_html(df: pd.DataFrame):
       + (card("Oro",            f"${gold:,.0f}/oz",    "GC=F")     if gold else "")
       + (card("Bitcoin",        f"${btc:,.0f}",        "BTC-USD")  if btc  else "")
     )
+
+    # Tarjetas macro: se omite en silencio cualquier serie que FRED no haya dado.
+    def macro_card(col, label, fmt, sub=""):
+        if col not in df.columns or not df[col].notna().any():
+            return ""
+        s = df[col].dropna()
+        when = LAST_OBS.get(col, s.index[-1])
+        return card(label, fmt.format(s.iloc[-1]), sub or f"{when:%d %b %Y}")
+
+    macro_cards = (
+        macro_card("DGS10",        "Treasury 10Y",   "{:.2f}%")
+      + macro_card("DGS30",        "Treasury 30Y",   "{:.2f}%")
+      + macro_card("T10Y2Y",       "Spread 10Y-2Y",  "{:+.2f}%")
+      + macro_card("cpi_yoy",      "CPI interanual", "{:.2f}%")
+      + macro_card("core_pce_yoy", "PCE subyacente", "{:.2f}%")
+      + macro_card("payems_chg",   "Nóminas (mes)",  "{:+,.0f}k")
+      + macro_card("UNRATE",       "Paro",           "{:.1f}%")
+      + macro_card("DTWEXBGS",     "Índice dólar",   "{:.2f}")
+      + macro_card("DEXJPUS",      "Dólar-Yen",      "{:.2f}")
+      + macro_card("BAMLH0A0HYM2", "Spread High Yield", "{:.2f}%")
+      + macro_card("DCOILWTICO",   "WTI",            "${:.2f}")
+    )
+
+    macro_tab   = ('<button class="tab" onclick="showTab(\'macro\', this)">Macro</button>'
+                   if has_macro else "")
+    macro_panel = ('<div id="panel-macro" class="chart-panel">'
+                   '<img class="chart" src="macro_chart.png" alt="Macro EEUU">'
+                   f'<div class="metrics">{macro_cards}</div>'
+                   '</div>') if has_macro else ""
 
     html = f"""<!DOCTYPE html>
 <html lang="es">
@@ -573,16 +787,18 @@ def generate_html(df: pd.DataFrame):
     <div class="tabs">
       <button class="tab active" onclick="showTab('3y', this)">3 años</button>
       <button class="tab"        onclick="showTab('3m', this)">3 meses</button>
+      {macro_tab}
     </div>
 
     <div id="panel-3y" class="chart-panel active">
       <img class="chart" src="liquidity_chart.png" alt="Liquidity Chart 3 años">
+      <div class="metrics">{cards}</div>
     </div>
     <div id="panel-3m" class="chart-panel">
       <img class="chart" src="liquidity_chart_3m.png" alt="Liquidity Chart 3 meses">
+      <div class="metrics">{cards}</div>
     </div>
-
-    <div class="metrics">{cards}</div>
+    {macro_panel}
     <footer>
       Datos: <a href="https://fred.stlouisfed.org">FRED (St. Louis Fed)</a>
       &amp; <a href="https://finance.yahoo.com">Yahoo Finance</a>
@@ -682,7 +898,8 @@ def main():
 
     plot(df)
     plot_zoom(df)
-    generate_html(df)
+    has_macro = plot_macro(df)
+    generate_html(df, has_macro=has_macro)
 
 
 if __name__ == "__main__":
