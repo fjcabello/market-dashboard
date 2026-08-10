@@ -216,34 +216,43 @@ def fetch_transcript_ytdlp(video_id: str) -> str:
     raise NoTranscriptFound(video_id, PREFERRED_LANGS, {})
 
 
+def _fetch_with_api(video_id: str, proxy_config: GenericProxyConfig | None) -> str:
+    api = YouTubeTranscriptApi(proxy_config=proxy_config)
+    try:
+        transcript = api.fetch(video_id, languages=PREFERRED_LANGS)
+    except NoTranscriptFound:
+        available = list(api.list(video_id))
+        if not available:
+            raise NoTranscriptFound(video_id, PREFERRED_LANGS, {})
+        transcript = available[0].fetch()
+    return "\n".join(entry.text for entry in transcript)
+
+
 def fetch_transcript(video_id: str, proxy_config: GenericProxyConfig | None = None) -> str:
     """Descarga el transcript de un vídeo y devuelve el texto plano.
 
     Orden de intento:
       1. youtube-transcript-api con proxy Webshare (si está configurado)
-      2. youtube-transcript-api sin proxy (si no hay proxy)
+      2. youtube-transcript-api sin proxy (fallback si el proxy falla)
       3. yt-dlp con cookies de Safari (solo fuera de CI)
     """
-    api = YouTubeTranscriptApi(proxy_config=proxy_config)
-    try:
+    configs = [proxy_config, None] if proxy_config else [None]
+    last_exc: Exception | None = None
+
+    for config in configs:
+        label = "con proxy" if config else "sin proxy"
         try:
-            transcript = api.fetch(video_id, languages=PREFERRED_LANGS)
-        except NoTranscriptFound:
-            transcript_list = api.list(video_id)
-            available = list(transcript_list)
-            if not available:
-                raise NoTranscriptFound(video_id, PREFERRED_LANGS, {})
-            transcript = available[0].fetch()
-        return "\n".join(entry.text for entry in transcript)
-    except TranscriptsDisabled:
-        raise
-    except NoTranscriptFound:
-        raise
-    except Exception as exc:
-        if IN_CI:
+            return _fetch_with_api(video_id, config)
+        except (TranscriptsDisabled, NoTranscriptFound):
             raise
-        log.warning("  [youtube-transcript-api] %s — reintentando con yt-dlp (%s)", video_id, exc)
+        except Exception as exc:
+            log.warning("  [transcript-api %s] %s — %s", label, video_id, exc)
+            last_exc = exc
+
+    if not IN_CI:
+        log.warning("  Reintentando con yt-dlp %s", video_id)
         return fetch_transcript_ytdlp(video_id)
+    raise last_exc  # type: ignore[misc]
 
 
 def target_path(date: str, channel_name: str, suffix: str = "") -> str:
