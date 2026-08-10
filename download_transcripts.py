@@ -117,15 +117,25 @@ def build_proxy_config() -> GenericProxyConfig | None:
 
 # ── Funciones ────────────────────────────────────────────────────────────────
 
-def resolve_channel_id(channel_url: str) -> str | None:
-    """Obtiene el channel_id (UC...) a partir de una URL de canal (handle, /c/ o /channel/)."""
+def resolve_channel_id(channel_url: str, cached_id: str = "") -> str | None:
+    """Obtiene el channel_id (UC...) a partir de una URL de canal.
+
+    Prioridad: 1) cached_id del CSV, 2) extracción directa de la URL,
+    3) scraping del HTML (solo fuera de CI para no depender de IPs de GitHub).
+    """
+    if cached_id and re.match(r"UC[\w-]{22}", cached_id):
+        return cached_id
+
     match = re.search(r"/channel/(UC[\w-]{22})", channel_url)
     if match:
         return match.group(1)
 
+    if IN_CI:
+        log.error("  No se puede resolver channel_id de %s en CI sin caché", channel_url)
+        return None
+
     try:
-        resp = requests.get(channel_url, headers=HEADERS, cookies=COOKIES,
-                            proxies=_REQUESTS_PROXIES or None, timeout=15)
+        resp = requests.get(channel_url, headers=HEADERS, cookies=COOKIES, timeout=15)
         resp.raise_for_status()
     except requests.RequestException as exc:
         log.error("  No se pudo resolver channel_id de %s: %s", channel_url, exc)
@@ -135,22 +145,18 @@ def resolve_channel_id(channel_url: str) -> str | None:
     return match.group(1) if match else None
 
 
-def get_recent_videos(channel_url: str, n: int) -> list[tuple[str, str]]:
+def get_recent_videos(channel_url: str, n: int, cached_id: str = "") -> list[tuple[str, str]]:
     """Devuelve lista de (fecha YYYY-MM-DD, video_id) para los n últimos vídeos.
 
-    Usa el feed RSS público de YouTube en lugar de yt-dlp: los runners de
-    GitHub Actions comparten IPs que YouTube bloquea con "Sign in to confirm
-    you're not a bot" para el listado vía yt-dlp, mientras que el feed RSS
-    no requiere autenticación ni pasa por esa detección.
+    Usa el feed RSS público de YouTube en lugar de yt-dlp.
     """
-    channel_id = resolve_channel_id(channel_url)
+    channel_id = resolve_channel_id(channel_url, cached_id)
     if not channel_id:
         return []
 
     feed_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
     try:
-        resp = requests.get(feed_url, headers=HEADERS, cookies=COOKIES,
-                            proxies=_REQUESTS_PROXIES or None, timeout=15)
+        resp = requests.get(feed_url, headers=HEADERS, cookies=COOKIES, timeout=15)
         resp.raise_for_status()
     except requests.RequestException as exc:
         log.error("  Error al leer feed RSS de %s: %s", channel_id, exc)
@@ -253,7 +259,7 @@ def process_channel(
     name = channel["name"]
     log.info("Canal: %s", name)
 
-    videos = get_recent_videos(url, VIDEOS_TO_CHECK)
+    videos = get_recent_videos(url, VIDEOS_TO_CHECK, cached_id=channel.get("channel_id", ""))
     if not videos:
         log.warning("  No se obtuvieron vídeos para %s", name)
         return 0, 0, 0, [], []
