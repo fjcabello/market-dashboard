@@ -2,11 +2,18 @@
 """
 Descarga diaria de liquidez global (FRED) + mercados (yfinance) y genera gráfica.
 
-FRED:
+FRED (liquidez, se reescalan a trillones):
   WALCL      — Balance sheet Fed    (millones USD)
   WTREGEN    — TGA Tesoro EEUU      (millones USD)
   RRPONTSYD  — Reverse Repos        (billones USD)
   M2SL       — Oferta monetaria M2  (billones USD)
+
+FRED (macro, en unidad nativa — ver FRED_MACRO):
+  Curva      — DGS2, DGS10, DGS30, T10Y2Y, T10YIE, DFII10, DFF
+  Inflación  — CPIAUCSL, PCEPILFE, CORESTICKM159SFRBATL
+  Empleo     — PAYEMS, UNRATE, CIVPART, ICSA
+  Otros      — DTWEXBGS, DEXJPUS, BAMLH0A0HYM2, DCOILWTICO
+  Derivadas  — payems_chg, cpi_yoy, core_pce_yoy
 
 yfinance:
   ^GSPC      — SP500
@@ -53,6 +60,46 @@ FRED_SERIES = {
     "M2SL":      "M2 (B USD)",
 }
 
+# Series macro adicionales. A diferencia de FRED_SERIES, estas NO se reescalan:
+# FRED ya las entrega en su unidad natural (% para tipos, índice para precios).
+# freq indica la frecuencia nativa y se usa para calcular derivadas (YoY, cambio
+# mensual) sobre la serie original, antes de reindexar a diario.
+FRED_MACRO = {
+    # Curva de tipos
+    "DGS2":                 ("Treasury 2Y (%)",            "D"),
+    "DGS10":                ("Treasury 10Y (%)",           "D"),
+    "DGS30":                ("Treasury 30Y (%)",           "D"),
+    "T10Y2Y":               ("Spread 10Y-2Y (%)",          "D"),
+    "T10YIE":               ("Breakeven 10Y (%)",          "D"),
+    "DFII10":               ("Tipo real 10Y / TIPS (%)",   "D"),
+    "DFF":                  ("Fed Funds efectivo (%)",     "D"),
+    # Inflación
+    "CPIAUCSL":             ("CPI general (índice)",       "M"),
+    "PCEPILFE":             ("PCE subyacente (índice)",    "M"),
+    "CORESTICKM159SFRBATL": ("Sticky CPI Atlanta (%)",     "M"),
+    # Empleo
+    "PAYEMS":               ("Nóminas no agrícolas (miles)", "M"),
+    "UNRATE":               ("Tasa de paro (%)",           "M"),
+    "CIVPART":              ("Tasa de participación (%)",  "M"),
+    "ICSA":                 ("Peticiones de desempleo",    "W"),
+    # Divisas, crédito y materias primas
+    "DTWEXBGS":             ("Índice dólar amplio",        "D"),
+    "DEXJPUS":              ("Dólar-Yen",                  "D"),
+    "BAMLH0A0HYM2":         ("Spread High Yield (%)",      "D"),
+    "DCOILWTICO":           ("WTI ($/barril)",             "D"),
+}
+
+# Fecha de la última observación real de cada serie macro, antes del ffill.
+# La rellena fetch_fred_macro y la consume print_macro_summary.
+LAST_OBS: dict[str, pd.Timestamp] = {}
+
+# Derivadas que se calculan sobre la frecuencia nativa (ver fetch_fred_macro).
+DERIVED_LABELS = {
+    "payems_chg":   "Cambio mensual de nóminas (miles)",
+    "cpi_yoy":      "CPI interanual (%)",
+    "core_pce_yoy": "PCE subyacente interanual (%)",
+}
+
 MARKET_TICKERS = {
     "SP500":      "^GSPC",
     "MSCI_World": "URTH",    # iShares MSCI World ETF
@@ -91,6 +138,58 @@ def fetch_fred(fred: Fred) -> pd.DataFrame:
     df["M2SL"]      = df["M2SL"]      / 1_000
     df["net_liq"]   = df["WALCL"] - df["WTREGEN"] - df["RRPONTSYD"]
     return df
+
+# ── Fetch FRED macro ──────────────────────────────────────────────────────────
+
+def fetch_fred_macro(fred: Fred) -> pd.DataFrame:
+    """Descarga tipos, inflación, empleo, divisas y crédito.
+
+    Las derivadas (interanuales, cambio mensual) se calculan sobre la serie en
+    su frecuencia nativa. Hacerlo después de reindexar a diario daría resultados
+    sin sentido, porque el ffill repite el mismo valor durante todo el mes.
+
+    Un fallo en una serie no aborta el resto: esto corre a diario en CI y es
+    preferible publicar el dashboard incompleto a no publicarlo.
+    """
+    LAST_OBS.clear()
+    raw: dict[str, pd.Series] = {}
+    for sid in FRED_MACRO:
+        try:
+            s = fred.get_series(sid, observation_start=START_DATE).dropna()
+            if s.empty:
+                print(f"  [FRED] {sid}: sin datos")
+                continue
+            raw[sid] = s
+            LAST_OBS[sid] = pd.Timestamp(s.index[-1])
+        except Exception as exc:
+            print(f"  [FRED] {sid} error: {exc}")
+
+    if not raw:
+        return pd.DataFrame()
+
+    derived: dict[str, pd.Series] = {}
+    if "PAYEMS" in raw:
+        # El titular de nóminas es la variación mensual, no el nivel.
+        derived["payems_chg"] = raw["PAYEMS"].diff()
+    if "CPIAUCSL" in raw:
+        derived["cpi_yoy"] = raw["CPIAUCSL"].pct_change(periods=12) * 100
+    if "PCEPILFE" in raw:
+        derived["core_pce_yoy"] = raw["PCEPILFE"].pct_change(periods=12) * 100
+
+    for name, src in (("payems_chg", "PAYEMS"), ("cpi_yoy", "CPIAUCSL"),
+                      ("core_pce_yoy", "PCEPILFE")):
+        if name in derived:
+            LAST_OBS[name] = LAST_OBS[src]
+
+    frames = []
+    for name, s in {**raw, **derived}.items():
+        s = s.copy()
+        s.name = name
+        frames.append(s)
+
+    df = pd.concat(frames, axis=1).sort_index()
+    df.index = pd.to_datetime(df.index)
+    return df.ffill()
 
 # ── Fetch yfinance ────────────────────────────────────────────────────────────
 
@@ -506,6 +605,55 @@ def generate_html(df: pd.DataFrame):
     print(f"[OK] HTML guardado → {HTML_FILE}")
 
 
+# ── Resumen macro ─────────────────────────────────────────────────────────────
+
+MACRO_SUMMARY = [
+    ("Curva de tipos", [
+        ("DGS2",   "2 años",          "{:.2f}%"),
+        ("DGS10",  "10 años",         "{:.2f}%"),
+        ("DGS30",  "30 años",         "{:.2f}%"),
+        ("T10Y2Y", "Spread 10Y-2Y",   "{:+.2f}%"),
+        ("DFII10", "Real 10Y (TIPS)", "{:.2f}%"),
+        ("T10YIE", "Breakeven 10Y",   "{:.2f}%"),
+        ("DFF",    "Fed Funds",       "{:.2f}%"),
+    ]),
+    ("Inflación", [
+        ("cpi_yoy",              "CPI interanual",   "{:.2f}%"),
+        ("core_pce_yoy",         "PCE subyacente",   "{:.2f}%"),
+        ("CORESTICKM159SFRBATL", "Sticky CPI",       "{:.2f}%"),
+    ]),
+    ("Empleo", [
+        ("payems_chg", "Nóminas (mes)",  "{:+,.0f}k"),
+        ("UNRATE",     "Paro",           "{:.1f}%"),
+        ("CIVPART",    "Participación",  "{:.1f}%"),
+        ("ICSA",       "Peticiones",     "{:,.0f}"),
+    ]),
+    ("Divisas, crédito y crudo", [
+        ("DTWEXBGS",     "Índice dólar",     "{:.2f}"),
+        ("DEXJPUS",      "Dólar-Yen",        "{:.2f}"),
+        ("BAMLH0A0HYM2", "Spread High Yield","{:.2f}%"),
+        ("DCOILWTICO",   "WTI",              "${:.2f}"),
+    ]),
+]
+
+
+def print_macro_summary(df: pd.DataFrame) -> None:
+    """Imprime el último valor de cada serie macro.
+
+    La fecha mostrada es la de la observación real (LAST_OBS), no la del índice
+    diario: tras el ffill una serie mensual aparentaría ser un dato de hoy.
+    """
+    for title, rows in MACRO_SUMMARY:
+        available = [(c, lbl, f) for c, lbl, f in rows if c in df.columns and df[c].notna().any()]
+        if not available:
+            continue
+        print(f"\n  {title}")
+        for col, label, fmt in available:
+            s = df[col].dropna()
+            when = LAST_OBS.get(col, s.index[-1])
+            print(f"    {label:18s}: {fmt.format(s.iloc[-1]):>12s}   ({when:%Y-%m-%d})")
+
+
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
@@ -513,8 +661,12 @@ def main():
 
     fred     = Fred(api_key=load_api_key())
     df_fred  = fetch_fred(fred)
+    df_macro = fetch_fred_macro(fred)
     df_mkt   = fetch_markets()
-    df       = update_csv(df_fred, df_mkt)
+
+    if not df_macro.empty:
+        df_fred = df_fred.join(df_macro, how="outer")
+    df = update_csv(df_fred, df_mkt)
 
     last = df.index[-1]
     print(f"\n  Último dato   : {last:%Y-%m-%d}")
@@ -525,6 +677,8 @@ def main():
         if asset in df.columns:
             v = df[asset].dropna().iloc[-1]
             print(f"  {asset:10s}  : {v:,.2f}")
+
+    print_macro_summary(df)
 
     plot(df)
     plot_zoom(df)
