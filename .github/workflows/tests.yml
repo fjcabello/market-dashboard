@@ -1,0 +1,35 @@
+name: Tests
+
+# Este es el único workflow que se dispara con pull_request. Los demás son
+# tareas programadas: sin esto, nada verificaba un cambio antes de mergearlo.
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  smoke:
+    name: Humo de la tubería
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # 3.12 es la versión con la que corren las tareas diarias.
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # Sin red: FRED, YouTube y Yahoo van sustituidos por dobles.
+      - name: Run smoke tests
+        run: python tests/test_pipeline.py
+
+      - name: Compile all sources
+        run: python -m compileall -q fetch_liquidity.py download_transcripts.py tests/
