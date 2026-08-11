@@ -19,7 +19,7 @@ from datetime import datetime
 import requests
 from youtube_transcript_api import YouTubeTranscriptApi
 from youtube_transcript_api._errors import NoTranscriptFound, TranscriptsDisabled
-from youtube_transcript_api.proxies import GenericProxyConfig
+from youtube_transcript_api.proxies import GenericProxyConfig, WebshareProxyConfig
 
 # ── Configuración ────────────────────────────────────────────────────────────
 
@@ -88,6 +88,47 @@ YT_NS   = "http://www.youtube.com/xml/schemas/2015"
 _REQUESTS_PROXIES: dict = {}
 
 
+WEBSHARE_HOST = "p.webshare.io"
+WEBSHARE_PORT = 80
+ROTATE_SUFFIX = "-rotate"
+
+
+def rotating_username(user: str) -> str:
+    """Usuario tal y como lo exige el gateway rotativo de Webshare.
+
+    El endpoint p.webshare.io rechaza con 407 el usuario sin sufijo, aunque las
+    credenciales sean correctas. Es idempotente porque la API puede devolverlo
+    ya sufijado según la configuración de la cuenta, y duplicarlo también falla.
+    """
+    return user if user.endswith(ROTATE_SUFFIX) else user + ROTATE_SUFFIX
+
+
+def verify_proxy(proxy_url: str) -> bool:
+    """Comprueba de verdad que el túnel HTTPS funciona, y lo deja en el log.
+
+    Sin esto, un proxy mal configurado sólo se manifiesta más abajo como
+    decenas de errores por vídeo, mezclado con los bloqueos legítimos de
+    YouTube. Una línea que diga si el proxy responde ahorra ese diagnóstico.
+
+    Nunca aborta: si la sonda falla se sigue intentando la descarga, porque el
+    fallo puede estar en el servicio de comprobación y no en el proxy.
+    """
+    try:
+        resp = requests.get(
+            "https://ipv4.webshare.io/",
+            proxies={"http": proxy_url, "https": proxy_url},
+            timeout=15,
+        )
+        resp.raise_for_status()
+        log.info("  Proxy verificado — IP de salida: %s", resp.text.strip())
+        return True
+    except Exception as exc:
+        log.error("  Proxy NO operativo: %s", exc)
+        log.error("  La descarga continuará sin proxy y YouTube bloqueará "
+                  "la IP del runner")
+        return False
+
+
 def build_proxy_config() -> GenericProxyConfig | None:
     """Obtiene credenciales de Webshare, configura el proxy global y devuelve
     un GenericProxyConfig para youtube-transcript-api, o None si falla."""
@@ -106,11 +147,24 @@ def build_proxy_config() -> GenericProxyConfig | None:
         data  = resp.json()
         user  = data["username"]
         pwd   = data["password"]
-        # p.webshare.io:80 es el gateway rotativo de Webshare
-        proxy = f"http://{user}:{pwd}@p.webshare.io:80"
+
+        # El gateway rotativo p.webshare.io exige el usuario con sufijo
+        # "-rotate". Sin él la autenticación se rechaza con 407 aunque las
+        # credenciales sean correctas, que es lo que rompió la descarga desde
+        # el 2026-07-24: la llamada a la API funcionaba y el túnel no.
+        rotate_user = rotating_username(user)
+        proxy = f"http://{rotate_user}:{pwd}@{WEBSHARE_HOST}:{WEBSHARE_PORT}"
         _REQUESTS_PROXIES = {"http": proxy, "https": proxy}
-        log.info("Proxy Webshare activo (%s@p.webshare.io:80)", user)
-        return GenericProxyConfig(http_url=proxy, https_url=proxy)
+
+        # WebshareProxyConfig añade el sufijo por su cuenta (se le pasa el
+        # usuario crudo) y además desactiva keep-alive, necesario para que el
+        # gateway entregue una IP distinta en cada petición.
+        proxy_config = WebshareProxyConfig(proxy_username=user, proxy_password=pwd)
+
+        log.info("Proxy Webshare configurado (%s@%s:%s)",
+                 rotate_user, WEBSHARE_HOST, WEBSHARE_PORT)
+        verify_proxy(proxy)
+        return proxy_config
     except requests.HTTPError as exc:
         log.error("WEBSHARE_API_KEY inválida o expirada (HTTP %s) — abortando", exc.response.status_code)
         sys.exit(1)

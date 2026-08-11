@@ -99,6 +99,7 @@ def install_stubs():
         err.TranscriptsDisabled = type("TranscriptsDisabled", (Exception,), {})
         prox = types.ModuleType("youtube_transcript_api.proxies")
         prox.GenericProxyConfig = object
+        prox.WebshareProxyConfig = object
         yta._errors, yta.proxies = err, prox
         sys.modules["youtube_transcript_api"] = yta
         sys.modules["youtube_transcript_api._errors"] = err
@@ -191,6 +192,13 @@ def test_exit_code() -> None:
           dt.resolve_exit_code(5, 10, 3) == 0)
     check("descarga limpia -> éxito",
           dt.resolve_exit_code(7, 20, 0) == 0)
+
+    # El sufijo -rotate es lo que distingue el gateway rotativo del proxy
+    # directo. Sin él, Webshare devuelve 407 con credenciales válidas.
+    check("se añade el sufijo -rotate al usuario",
+          dt.rotating_username("abc123") == "abc123-rotate")
+    check("no se duplica si ya lo trae",
+          dt.rotating_username("abc123-rotate") == "abc123-rotate")
 
 
 def test_channels() -> None:
