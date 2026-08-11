@@ -99,6 +99,7 @@ def install_stubs():
         err.TranscriptsDisabled = type("TranscriptsDisabled", (Exception,), {})
         prox = types.ModuleType("youtube_transcript_api.proxies")
         prox.GenericProxyConfig = object
+        prox.WebshareProxyConfig = object
         yta._errors, yta.proxies = err, prox
         sys.modules["youtube_transcript_api"] = yta
         sys.modules["youtube_transcript_api._errors"] = err
@@ -191,6 +192,23 @@ def test_exit_code() -> None:
           dt.resolve_exit_code(5, 10, 3) == 0)
     check("descarga limpia -> éxito",
           dt.resolve_exit_code(7, 20, 0) == 0)
+
+    # El sufijo -rotate es lo que distingue el gateway rotativo del proxy
+    # directo. Sin él, Webshare devuelve 407 con credenciales válidas.
+    check("se añade el sufijo -rotate al usuario",
+          dt.rotating_username("abc123") == "abc123-rotate")
+    check("no se duplica si ya lo trae",
+          dt.rotating_username("abc123-rotate") == "abc123-rotate")
+
+    # Un canal cuyo feed falla debe contar como error. Si devuelve 0 errores,
+    # once canales caídos suman 0 y la ejecución sale en verde sin datos.
+    dt.get_recent_videos = lambda *a, **k: []
+    ok, skip, err, _, errs = dt.process_channel({"name": "X", "url": "u"})
+    check("un canal sin vídeos cuenta como error",
+          (ok, skip, err) == (0, 0, 1) and len(errs) == 1,
+          f"devolvió {(ok, skip, err)}")
+    check("y por tanto la ejecución falla",
+          dt.resolve_exit_code(0, 0, err) == 1)
 
 
 def test_channels() -> None:
