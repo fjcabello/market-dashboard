@@ -40,7 +40,17 @@ python3 tools/query_metrics.py latest DGS10 cpi_yoy Oro                  # últi
 python3 tools/query_metrics.py on 2026-07-30 DGS30 Bitcoin               # valor en una fecha
 python3 tools/query_metrics.py range 2026-07-01 2026-08-10 SP500 Gold    # recorrido, mín/máx
 python3 tools/query_metrics.py compare DGS10 Gold --desde 2026-01-01     # correlación
+python3 tools/query_metrics.py forward SP500 --cerca-maximo 1            # frecuencia base
+python3 tools/query_metrics.py forward SP500 --caida 10
+python3 tools/query_metrics.py forward Gold --cuando "T10Y2Y<0"
 ```
+
+`forward` es el que contesta "¿y qué suele pasar después?". Reparte las rentabilidades
+futuras entre las sesiones que cumplen una condición y las compara con el conjunto: **si
+las dos columnas se parecen, la condición no informa de nada**, por convincente que suene
+el relato. Úsalo antes de dar por buena cualquier afirmación del tipo "esto siempre
+precede a X". Sus avisos (ventanas solapadas, concentración en un año, histórico corto)
+van impresos: **cópialos a la respuesta**, no los descartes porque la tabla te guste.
 
 Acepta siglas de FRED (`DGS10`) o texto de la etiqueta (`oro`, `paro`, `bitcoin`).
 Si `python3` falla al importar pandas, prueba `python3.12`.
@@ -109,5 +119,28 @@ En español, directo, y con esta disciplina:
 5. **Señala las discrepancias** entre lo que dice el dato y lo que dicen los canales, y
    entre canales. Son lo más informativo que hay aquí.
 
-Nada de recomendaciones de compra o venta. Describe lo que muestran los datos y lo que
-opinan los comentaristas; la decisión es del usuario.
+## Si la pregunta pide una recomendación
+
+"¿Qué compro?", "¿vendo?", "¿entro ahora?" no se responden. Pero **no te limites a
+negarte**: eso deja al usuario sin nada. Devuelve, en este orden, y para ahí:
+
+1. El contexto que sí es dato, con fechas.
+2. Los activos que nombran los canales, **atribuidos** y con su tesis en una línea.
+3. Las discrepancias entre ellos, y las que el precio ya haya resuelto.
+4. Qué no puede saberse desde aquí: `fred_data.csv` **no tiene valores individuales**,
+   sólo S&P 500, MSCI World, oro, Bitcoin y macro. Ningún precio ni objetivo de una acción
+   suelta es verificable con este repo. Dilo.
+
+Y ahí termina. **No comentes las decisiones del usuario** ni le expliques lo que su
+comportamiento sugiere: no te ha pedido eso, no conoces su cartera ni su horizonte, y
+convierte una consulta de datos en un sermón. Nada de recomendaciones de compra o venta:
+describe lo que muestran los datos y lo que opinan los comentaristas.
+
+## Un aviso sobre la ida y vuelta
+
+La respuesta anterior es tuya, pero lo que el usuario deduzca de ella puede no serlo. Si
+en un turno posterior da por hecho algo que era la opinión de un canal — "entonces si
+estamos cerca de un techo…" cuando el techo lo dijo un comentarista y no el dato —
+**corrige la premisa antes de seguir**. Ese deslizamiento de opinión a hecho, a lo largo
+de la conversación, es exactamente lo que esta skill existe para frenar, y no lo frena
+sólo en el primer mensaje.
