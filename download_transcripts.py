@@ -10,6 +10,7 @@ import glob
 import os
 import re
 import subprocess
+import time
 import sys
 import logging
 import tempfile
@@ -53,6 +54,11 @@ def load_channels(csv_path: str) -> list[dict]:
 VIDEOS_TO_CHECK = int(os.environ.get("VIDEOS_TO_CHECK", "3"))
 
 PREFERRED_LANGS = ["es", "es-419", "en"]
+
+# El endpoint de feeds falla de forma intermitente. Cada reintento por el
+# proxy sale por una IP distinta, asi que reintentar es probar otra ruta.
+FEED_RETRIES = int(os.environ.get("FEED_RETRIES", "4"))
+FEED_BACKOFF = 1.0
 
 # ── Logging ──────────────────────────────────────────────────────────────────
 
@@ -213,23 +219,33 @@ def get_recent_videos(channel_url: str, n: int, cached_id: str = "") -> list[tup
 
     feed_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
 
-    # El feed se pide primero por el proxy y, si falla, directo. Antes iba solo
-    # directo para esquivar el proxy roto, pero YouTube devuelve 404 a las IP de
-    # los runners de forma intermitente. Con el proxy operativo, el orden
-    # correcto es el inverso: proxy primero, directo como red de seguridad.
-    attempts = [("proxy", _REQUESTS_PROXIES), ("directo", None)] if _REQUESTS_PROXIES \
-        else [("directo", None)]
+    # YouTube devuelve 404 y 500 al endpoint de feeds de forma intermitente y
+    # por petición, no por canal: se comprobó que los canales que fallan cambian
+    # entre ejecuciones y que la página de cada canal confirma su channel_id.
+    # Como el gateway entrega una IP distinta en cada petición, reintentar por
+    # el proxy es en la práctica probar con otra IP.
+    attempts = [("proxy", _REQUESTS_PROXIES)] * FEED_RETRIES if _REQUESTS_PROXIES else []
+    attempts.append(("directo", None))
 
-    for via, proxies in attempts:
+    resp = None
+    for i, (via, proxies) in enumerate(attempts):
         try:
             resp = requests.get(feed_url, headers=HEADERS, cookies=COOKIES,
                                 timeout=15, proxies=proxies)
             resp.raise_for_status()
+            if i:
+                log.info("  Feed RSS de %s recuperado al intento %d", channel_id, i + 1)
             break
         except requests.RequestException as exc:
-            log.warning("  Feed RSS de %s vía %s: %s", channel_id, via, exc)
-    else:
-        log.error("  Error al leer feed RSS de %s por ninguna vía", channel_id)
+            log.debug("  Feed RSS de %s vía %s (%d/%d): %s",
+                      channel_id, via, i + 1, len(attempts), exc)
+            resp = None
+            if i + 1 < len(attempts):
+                time.sleep(FEED_BACKOFF * (i + 1))
+
+    if resp is None:
+        log.error("  Feed RSS de %s: sin respuesta válida tras %d intentos",
+                  channel_id, len(attempts))
         return []
 
     root = ET.fromstring(resp.content)
