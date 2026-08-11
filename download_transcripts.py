@@ -212,11 +212,24 @@ def get_recent_videos(channel_url: str, n: int, cached_id: str = "") -> list[tup
         return []
 
     feed_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
-    try:
-        resp = requests.get(feed_url, headers=HEADERS, cookies=COOKIES, timeout=15)
-        resp.raise_for_status()
-    except requests.RequestException as exc:
-        log.error("  Error al leer feed RSS de %s: %s", channel_id, exc)
+
+    # El feed se pide primero por el proxy y, si falla, directo. Antes iba solo
+    # directo para esquivar el proxy roto, pero YouTube devuelve 404 a las IP de
+    # los runners de forma intermitente. Con el proxy operativo, el orden
+    # correcto es el inverso: proxy primero, directo como red de seguridad.
+    attempts = [("proxy", _REQUESTS_PROXIES), ("directo", None)] if _REQUESTS_PROXIES \
+        else [("directo", None)]
+
+    for via, proxies in attempts:
+        try:
+            resp = requests.get(feed_url, headers=HEADERS, cookies=COOKIES,
+                                timeout=15, proxies=proxies)
+            resp.raise_for_status()
+            break
+        except requests.RequestException as exc:
+            log.warning("  Feed RSS de %s vía %s: %s", channel_id, via, exc)
+    else:
+        log.error("  Error al leer feed RSS de %s por ninguna vía", channel_id)
         return []
 
     root = ET.fromstring(resp.content)
@@ -327,8 +340,13 @@ def process_channel(
 
     videos = get_recent_videos(url, VIDEOS_TO_CHECK, cached_id=channel.get("channel_id", ""))
     if not videos:
-        log.warning("  No se obtuvieron vídeos para %s", name)
-        return 0, 0, 0, [], []
+        # Cuenta como error, no como canal vacío. Un canal siempre tiene vídeos:
+        # llegar aquí significa que falló el feed o la resolución del id. Sin
+        # contarlo, once canales caídos sumaban 0 errores y la ejecución salía
+        # en verde con cero descargas, que es el fallo silencioso que ya nos
+        # costó 17 días.
+        log.error("  No se obtuvieron vídeos para %s — feed o channel_id KO", name)
+        return 0, 0, 1, [], [f"{name}: sin vídeos del feed"]
 
     downloaded = skips = errors = 0
     new_files: list[str] = []
