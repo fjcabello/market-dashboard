@@ -1,0 +1,50 @@
+name: Verificar channel_id
+
+# Solo manual: no tiene sentido a diario y toca channels.csv.
+on:
+  workflow_dispatch:
+    inputs:
+      write:
+        description: "Aplicar las correcciones a channels.csv y commitear"
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Verificar channel_id
+        env:
+          WEBSHARE_API_KEY: ${{ secrets.WEBSHARE_API_KEY }}
+        run: |
+          python tools/verify_channels.py \
+            ${{ inputs.write && '--write' || '' }}
+
+      # Corre aunque el paso anterior falle: puede haber corregido unos canales
+      # y haber dejado otros sin solución, y esas correcciones hay que guardarlas.
+      - name: Commit channels.csv
+        if: ${{ always() && inputs.write }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add channels.csv
+          git diff --staged --quiet || \
+            git commit -m "channels: corregir channel_id verificados contra el feed"
+          git push
