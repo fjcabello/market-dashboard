@@ -1,0 +1,113 @@
+---
+name: pregunta
+description: Responde preguntas de economía y mercados usando los datos del repo — las métricas macro de fred_data.csv y lo que dicen los comentaristas en resumenes/ y transcripts/. Cita siempre fichero y fecha, y separa lo que dice el dato de lo que opina un canal. Úsalo con /pregunta ¿está invertida la curva? o /pregunta qué piensan mis canales del oro.
+---
+
+# Responder una pregunta con los datos del repo
+
+Este repositorio tiene dos fuentes que no son intercambiables:
+
+| Fuente | Qué es | Autoridad |
+|---|---|---|
+| `fred_data.csv` (30 series) | Observaciones de FRED y de mercado | **Hechos** |
+| `resumenes/*.md`, `transcripts/*.txt` | Lo que dijeron 11 comentaristas de YouTube | **Opiniones**, con fecha y autor |
+
+**Regla que gobierna todo lo demás:** nunca presentes una opinión como dato ni un dato
+como opinión. Si un canal dice "la inflación va a bajar" y el CPI de FRED está subiendo,
+la respuesta correcta incluye las dos cosas y señala la discrepancia. Ese caso es real: en
+agosto de 2026 varios canales daban por hecha la desinflación mientras el `cpi_yoy` de FRED
+seguía en 3,73%, más de un punto por encima del 2,66% de febrero.
+
+## Paso 1 — Clasifica la pregunta
+
+- **De dato** ("¿a cuánto está el 10 años?", "¿está invertida la curva?", "¿cuánto ha
+  subido el oro este mes?") → sólo métricas. No hace falta tocar los transcripts.
+- **De opinión** ("¿qué piensan mis canales de Bitcoin?", "¿alguien avisó de la caída?")
+  → sólo resúmenes.
+- **Mixta** ("¿tienen razón en lo del dólar?", "¿qué está pasando con la inflación?")
+  → las dos, y contrástalas explícitamente.
+
+Ante la duda, trátala como mixta: el valor de este repo está en el contraste.
+
+## Paso 2 — Consulta las métricas
+
+Usa `tools/query_metrics.py`. **Nunca leas `fred_data.csv` entero**: son 30 columnas y
+~2.400 filas, y se lleva el contexto por delante.
+
+```bash
+python3 tools/query_metrics.py series                                    # qué hay disponible
+python3 tools/query_metrics.py latest DGS10 cpi_yoy Oro                  # último valor
+python3 tools/query_metrics.py on 2026-07-30 DGS30 Bitcoin               # valor en una fecha
+python3 tools/query_metrics.py range 2026-07-01 2026-08-10 SP500 Gold    # recorrido, mín/máx
+python3 tools/query_metrics.py compare DGS10 Gold --desde 2026-01-01     # correlación
+```
+
+Acepta siglas de FRED (`DGS10`) o texto de la etiqueta (`oro`, `paro`, `bitcoin`).
+Si `python3` falla al importar pandas, prueba `python3.12`.
+
+Tres cosas al leer la salida:
+
+- **La fecha entre paréntesis es la de la observación real, no la de hoy.** El CSV está
+  rellenado hacia delante para meter series mensuales en un índice diario. Cuando aparece
+  `[dato de hace N días]`, dilo en la respuesta: un CPI de hace 71 días no describe hoy.
+- En `compare`, la **correlación de variaciones** es la que significa algo. La de niveles
+  sale alta entre cualquier par de series con tendencia.
+- Si una serie no está en el CSV, dilo y para. No la estimes de memoria.
+
+## Paso 3 — Busca en los resúmenes, no en los transcripts
+
+`resumenes/` tiene ficheros de ~1 KB con formato fijo (`# YYYY-MM-DD — Canal`, tesis,
+puntos clave, activos, tono). `transcripts/` tiene ficheros de 15–80 KB. Empieza siempre
+por los resúmenes.
+
+```bash
+grep -ril "oro\|gold" resumenes/ | sort | tail -20      # qué resúmenes tocan el tema
+ls resumenes/ | grep "^2026-08"                          # qué hay en un periodo
+```
+
+Lee sólo los resúmenes que el grep devuelva, y prioriza los más recientes: para una
+pregunta sobre el estado actual, 10 resúmenes recientes valen más que 40 repartidos por
+el año.
+
+Baja al transcript crudo **sólo** cuando la respuesta necesite una **cita literal** o el
+resumen sea ambiguo en algo decisivo. Cuando lo hagas, busca dentro del fichero en vez de
+leerlo entero:
+
+```bash
+grep -n -i -C2 "tipo real" transcripts/2026-08-07-Canal.txt
+```
+
+## Paso 4 — Comprueba la cobertura antes de generalizar
+
+Sólo hay resumen de 112 de los 191 transcripts. La cobertura no es uniforme:
+
+- **2026-07 en adelante: casi completa.** Preguntas sobre las últimas semanas son fiables.
+- **2026-06 y anteriores: escasa** (3 de 34 en junio, casi nada antes).
+
+Si la pregunta cae en un periodo mal cubierto, compruébalo y **avísalo en la respuesta**:
+
+```bash
+# transcripts sin resumen en el periodo que te interesa
+for f in transcripts/2026-06-*.txt; do b=$(basename "$f" .txt); \
+  [ -f "resumenes/$b.md" ] || echo "$b"; done
+```
+
+Di algo como *"de junio sólo hay 3 resúmenes de 34 transcripts, así que esto no es
+representativo del mes"*. No presentes una muestra parcial como si fuera el consenso.
+
+## Paso 5 — Responde
+
+En español, directo, y con esta disciplina:
+
+1. **El dato primero**, si la pregunta lo admite, con su fecha de observación.
+2. **Luego la opinión**, atribuida: *"Canal X, el 2026-08-07, sostiene que…"*.
+3. **Cita fichero y fecha** en cada afirmación que venga del repo, de forma que se pueda
+   ir a comprobarla: `resumenes/2026-08-07-Canal.md`, `fred_data.csv` vía `query_metrics`.
+4. **Marca lo que no sabes.** Si el repo no tiene con qué responder, dilo en una frase y
+   ofrece qué sí puedes contestar. No rellenes con conocimiento general presentado como
+   si saliera de los datos.
+5. **Señala las discrepancias** entre lo que dice el dato y lo que dicen los canales, y
+   entre canales. Son lo más informativo que hay aquí.
+
+Nada de recomendaciones de compra o venta. Describe lo que muestran los datos y lo que
+opinan los comentaristas; la decisión es del usuario.
