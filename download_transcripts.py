@@ -166,11 +166,15 @@ def build_proxy_config() -> GenericProxyConfig | None:
         verify_proxy(proxy)
         return proxy_config
     except requests.HTTPError as exc:
-        log.error("WEBSHARE_API_KEY inválida o expirada (HTTP %s) — abortando", exc.response.status_code)
-        sys.exit(1)
+        status = exc.response.status_code
+        if status in (401, 403):
+            log.error("WEBSHARE_API_KEY inválida o expirada (HTTP %s) — abortando", status)
+            sys.exit(1)
+        log.warning("Webshare no disponible (HTTP %s) — descarga sin proxy", status)
+        return None
     except Exception as exc:
-        log.error("No se pudo contactar con Webshare: %s — abortando", exc)
-        sys.exit(1)
+        log.warning("No se pudo contactar con Webshare: %s — descarga sin proxy", exc)
+        return None
 
 # ── Funciones ────────────────────────────────────────────────────────────────
 
