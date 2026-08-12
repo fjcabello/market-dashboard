@@ -281,6 +281,40 @@ def test_query_metrics() -> None:
     check("una condición inválida aborta en vez de no marcar nada", ok)
 
 
+def test_summarize() -> None:
+    print("\nsummarize_transcripts")
+
+    sys.path.insert(0, os.path.join(BASE, "tools"))
+    import summarize_transcripts as st
+
+    def parse(base):
+        m = st.NOMBRE.match(base)
+        return (m.group(1), m.group(2)) if m else None
+
+    check("separa fecha y canal",
+          parse("2026-06-25-LaPizarraDeAndres") == ("2026-06-25", "LaPizarraDeAndres"))
+    # Algunos ficheros llevan el id de vídeo pegado al final. Si no se quita, el
+    # canal pasa a ser "Canal-dQw4w9WgXcQ" y deja de agrupar con los suyos.
+    check("descarta el id de vídeo del final",
+          parse("2026-06-25-LaPizarraDeAndres-dQw4w9WgXcQ")
+          == ("2026-06-25", "LaPizarraDeAndres"))
+    check("rechaza nombres sin fecha",
+          parse("LaPizarraDeAndres") is None)
+    check("no confunde la fecha con un id",
+          parse("2026-06-25-Canal")[1] == "Canal")
+
+    # El nombre del resumen tiene que coincidir con el del transcript, o
+    # pendientes() no lo encuentra y se regenera —y se paga— cada día.
+    faltan = st.pendientes()
+    todos = [f[:-4] for f in os.listdir(st.TRANSCRIPTS) if f.endswith(".txt")]
+    hechos = [f[:-3] for f in os.listdir(st.RESUMENES) if f.endswith(".md")]
+    check("los pendientes son transcripts sin resumen",
+          len(faltan) == len([t for t in todos if t not in hechos]),
+          f"{len(faltan)} pendientes de {len(todos)} transcripts")
+    check("ningún pendiente tiene ya resumen",
+          not any(os.path.basename(r)[:-4] in hechos for r, _, _ in faltan))
+
+
 def main() -> int:
     install_stubs()
     with tempfile.TemporaryDirectory() as tmp:
@@ -288,6 +322,7 @@ def main() -> int:
     test_exit_code()
     test_channels()
     test_query_metrics()
+    test_summarize()
 
     print()
     if FAILURES:

@@ -37,6 +37,17 @@ jobs:
           WEBSHARE_API_KEY: ${{ secrets.WEBSHARE_API_KEY }}
         run: python download_transcripts.py
 
+      # El límite acota el gasto diario y hace que el atraso se drene solo: si
+      # quedan 77 sin resumir, se van haciendo 15 al día en vez de gastar los
+      # cuatro dólares de golpe el primer día. Se salta entero si no hay clave,
+      # porque no tener resúmenes no es motivo para romper el dashboard.
+      - name: Resumir transcripts nuevos
+        id: resumenes
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python tools/summarize_transcripts.py --limit 15 --sin-clave-salir-ok
+
       - name: Generate chart & HTML
         env:
           FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
@@ -46,7 +57,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/ fred_data.csv transcripts/
+          git add docs/ fred_data.csv transcripts/ resumenes/
           git diff --staged --quiet || \
             git commit -m "dashboard: update $(date -u +%Y-%m-%d)"
           git push
@@ -55,4 +66,10 @@ jobs:
         if: steps.transcripts.outcome == 'failure'
         run: |
           echo "::error::La descarga de transcripts falló. El dashboard sí se ha publicado."
+          exit 1
+
+      - name: Marcar el fallo de los resúmenes
+        if: steps.resumenes.outcome == 'failure'
+        run: |
+          echo "::error::Falló el resumen de algún transcript. Los que sí salieron están commiteados."
           exit 1
