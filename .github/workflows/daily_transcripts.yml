@@ -21,20 +21,14 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-          cache: pip
-
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: python3 -m pip install -r requirements.txt
 
       - name: Download transcripts
         env:
           VIDEOS_TO_CHECK: ${{ github.event.inputs.videos_to_check || '3' }}
           WEBSHARE_API_KEY: ${{ secrets.WEBSHARE_API_KEY }}
-        run: python download_transcripts.py
+        run: python3 download_transcripts.py
 
       - name: Commit changes
         run: |

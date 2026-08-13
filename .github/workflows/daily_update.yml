@@ -18,14 +18,8 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-          cache: pip
-
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: python3 -m pip install -r requirements.txt
 
       # continue-on-error para que un fallo en los transcripts no impida
       # publicar el dashboard. El job se marca en rojo igualmente en el último
@@ -35,12 +29,12 @@ jobs:
         continue-on-error: true
         env:
           WEBSHARE_API_KEY: ${{ secrets.WEBSHARE_API_KEY }}
-        run: python download_transcripts.py
+        run: python3 download_transcripts.py
 
       - name: Generate chart & HTML
         env:
           FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
-        run: python fetch_liquidity.py
+        run: python3 fetch_liquidity.py
 
       - name: Commit changes
         run: |
