@@ -1,0 +1,1649 @@
+We had a period of extraordinary change
+in our space like extraordinary
+transformation. So we had a new
+administration which brought in a new
+SEC. We got guidance from DFTC SEC. All
+of a sudden 2.0 is being rolled back. It
+was being investigated. We had all the
+pieces for institutional participation.
+I think that we have hit a point where
+much of traditional finance is beginning
+to understand and see the functionality
+that has developed in crypto markets
+that would be phenomenal to introduce to
+traditional markets. I mean, think about
+the way mainstream people are getting
+excited about perks, right? They want to
+get up to speed. It's been like one sort
+of inbound, hey, somebody from a board
+called and they want to know if you can
+come do a teaching on tokenization. And
+I have been surprised by how much the
+sort of pace picked up very very
+quickly.
+>> Hi, I'm Ralph Pal and welcome to my
+show, The Journeyman. That journey is
+that journey of understanding at the
+nexus of macro crypto and the
+exponential age of technology.
+For me, one of the things I'm lucky with
+is, you know, I came out of the
+investment banking, institutional, hedge
+fund space, and I know a lot of people
+in that space and a lot of people trust
+Real Vision and myself with their
+stories because we don't sensationalize
+it. We ask them proper questions, and we
+really want to find out what's going on.
+And they come to also find out how
+people think about the world and where
+it's going. So, this time is a new guest
+for me, Blue. She's coming in from Tro
+Price and she runs crypto there. She
+also has a institutional background and
+a hedge fund background. So we speak the
+same language. We have the same kind of
+understanding. And so I really wanted to
+pick her brains on what she's seeing
+from the institutional perspective,
+markets in general, and how she can
+apply her own trading past to these
+markets. It's going to be a fascinating
+conversation. Enjoy.
+Join me, Ral Pal, as I go on a journey
+of discovery through the macro, crypto,
+and exponential age landscapes. In the
+journey, man, I talk to the smartest
+people in the world so we can all become
+smarter together.
+Blue, fantastic to have you on Real
+Vision.
+>> Thanks for having me. Great to be here.
+>> So, give me as ever. I love everybody's
+journey into this crazy space. How the
+hell did you get here? Give me your
+story.
+>> So, I am trained as an economist um and
+had always done emerging markets um
+fixed income rates FX. I was at Lehman
+uh in London in 2008 when we went
+bankrupt.
+>> Oh, wow.
+>> Uh yeah. And then I went to Elliot where
+I did like liquid emerging markets,
+which is probably not everyone else's
+version of liquid. Um and and had always
+just primarily done distressed debt. um
+and a lot of sovereigns. Uh and in 2017,
+I was uh living in Brazil. My husband
+was the deputy governor of the central
+bank there. So, we moved to Brazil and I
+was working in private equity,
+distressed private equity. And I had a
+friend who said, "Oh, if you if you need
+to be sending money back to the States,
+the best way to do it is since you're
+dual resident, you should do it using
+Bitcoin and then you can go hedge your
+exposure."
+Uh, and I did that. I hit Bloomberg mid
+and it took 60 minutes and I didn't have
+to go to a towel in person. It didn't
+take 5 days. I didn't, you know, um, see
+those kinds of spreads and fees. Uh, and
+the light just went off and I said, "Oh
+my, why isn't everyone doing this?" Um,
+and so that's how I got into crypto. and
+uh and coming from emerging markets debt
+like I I know what a sovereign balance
+sheet should look like and I know what a
+sovereign balance sheet shouldn't look
+like and uh and so I resigned from a top
+10 global private equity fund to go
+launch a market neutral crypto fund in
+2018 and that's haven't looked back
+>> and also I found there's a lot of um EM
+FX traders and option traders who've
+moved to crypto because they understand
+gap risk ill liquidity volatility
+information asymmetry all skew I mean
+all of it right it's a very similar
+skill set to some of that stuff
+>> yeah it's interesting because you get
+people from all different like finance
+backgrounds so like you got the equities
+guys and they look at it a certain way
+and then you got the commodities guys
+and they're like they make fantastic
+traders in this space um but I always I
+always think that the people who pick it
+up the fastest are like our FX guys.
+>> Yeah, that's right. And to think of it
+as a currency is pretty useful. And as
+you said, the commodity guys because
+they also have to deal with volatility
+and that kind of stuff. It kind of works
+for them. But why the stupid idea of a
+market neutral fund? I mean, that was
+quite a big mix from what you were doing
+to that. And what kind of trades were
+you doing then back then?
+>> Yeah. So, um, I always joke I'm like the
+only person in crypto from the class of
+2017 who's not either retired or in
+jail. Um but uh but um but basically uh
+it was
+sort of cross exchange ARB. It was cross
+exchange ARB. It was cross exchange ARB.
+Um and then basis um which back then the
+spreads were so big that you could drive
+a truck through them, right? Uh and this
+is before you could do onshore basis and
+and we were registered in Brazil and
+with the CBM. Um, but why market
+neutral? Um, I started out as somewhat
+of a crypto skeptic. Um, and I I liked
+that
+crypto is the first like when you look
+at crypto assets, when you look at
+tokens, they are the very first truly
+100% fungeable spot commodities that can
+be traded simultaneously anywhere in the
+world. Wheat, well, there's there's
+Ukrainian red wheat and there's Kansas
+and you right and same with oil. you get
+these very small there. I actually think
+of crypto market neutral as probably the
+only true like market neutral out there
+because the assets are fungeible. Um and
+so even though I had only ever done the
+most directional things like almost
+activist restructuring that you could
+do, I actually really liked being able
+to do this market neutral. Um and then
+made the transition to Tro once I felt
+like the space had become robust enough,
+we had enough chains that you could do
+true directional like you could model,
+you could build um you could
+really take different views on on chains
+and tokens um which up until then have
+been a little bit like throwing darts at
+a board to some extent you know.
+>> Yeah. And so Tro what did you come on to
+do and what are you doing now? So I
+joined to build out all of the digital
+assets business. So I started we had no
+infrastructure. Um and so I built the
+entire sort of endtoend um we have an
+entirely cryptonnative setup. We don't
+use any two row existing systems except
+for Microsoft Outlook. Uh so we use so
+we do we have the same sort of operating
+engine and endto-end experience um as
+you would expect from a from a totally
+cryptonative um outfit. And so built all
+of that and then uh by 2023 we were
+trading 20 plus tokens internally in a
+portfolio.
+but there just wasn't a regulatory
+framework or a path to bringing
+something to market for retail. Um, and
+that really only came into came into
+play in the way that we needed it to to
+be able to do active investing, active
+multi-token investing, you know,
+probably a year ago with the generic
+listing standards was a big
+breakthrough.
+>> And what when you first joined Turo,
+what was the attitude there? Were you
+kind of stuck in the closet and hidden
+away and like don't talk to these
+people, they're bad people. I mean, how
+was it? What was the attitude? Because
+it's different at different firms.
+>> It is. Um, so I my first day at TERO was
+like July 31st, 2022.
+So that that's like six, eight weeks
+before the FTX debacle began, right? And
+I remember I remember the very first
+question that I got in an all hands
+meeting when I sort of did the
+introduction and then there was silence
+afterwards and then someone raised their
+hand and they said isn't bitcoin just
+for drug dealers and I was like so it's
+you know um that's not really the case
+anymore and uh it's actually more
+transparent to be able to trace things
+on chain and it's it's not that
+effective a tool for criminal activity
+because you can see everywhere that your
+token went. Um, but I have to say the
+thing that amazed me the most was the
+open-mindedness
+of people at Tro. So, it's like it's a
+very researchoriented shop. And so, when
+you sit down and you sort of they are
+willing to be, you know, sit there and
+have a conversation and you lay out the
+case for, you know, this is what Salana
+does, this is the case for Bitcoin, this
+is what Hyperlid does. People will
+follow you through that journey. And if
+you lay the case out and you support it
+with evidence, the guy who asked me if
+Bitcoin was for drug dealers, um, is the
+holder of tokens, our new ETF, and is
+like one of the biggest proponents and
+keeps asking me when we're going to
+bring all these different things on
+chain. So like there was a willingness
+to learn and have an open-mindedness to
+like really think about um changing a
+viewpoint, right? they weren't biased
+and that was really important
+>> and actually very useful time for you to
+be setting up when things are blowing
+up. A you've lived that before a hundred
+times because you understand distress
+assets, you understand how it works. You
+know your job has been essentially to
+capture those opportunities but also
+building your risk systems and your
+custody systems. It's super useful to
+say like this is why we need kind of
+best-in-class in what we do because
+these are the kinds of crazy that
+happens in these markets. Yeah. And and
+I had already sort of laid out the
+architecture for what we were going to
+do and how we were going to be treated
+and and all the different pieces and I
+was able to go my first introduction to
+the equities Monday morning meeting was
+the the Monday after FTX and they said
+can you can you come in and explain what
+happened um and I was able to say based
+on the architecture that we've already
+presented we would have had we obviously
+would have had price market exposure to
+like the drop in value of assets but we
+would have had zero counterparty
+exposure or vendor exposure.
+um even through January, even through
+everything we saw. that daisy chain of
+of bankruptcies and stuff through um
+through December, January and that was
+really important and they they say build
+in a bare market and this was build in a
+bare market and Tro stuck it out right a
+lot of what we see in every other cycle
+as institutions like you remember
+January 2018 I think the I think the
+Goldman shut their entire desk right um
+so you would have things like that those
+cycles and
+Tro didn't blink they just said you know
+keep building keep And that's an
+incredibly
+it's an incredibly unusual thing to be
+in a place where they are willing to
+support the platform.
+>> It's bizarre that firms that are cont
+considered sort of conservative Fidelity
+Tro
+have actually been the people who stuck
+it through. Goldman, JP Morgan,
+everybody else kind of built a business,
+pulled the plug. Built a business,
+pulled the plug. I mean, incredible.
+>> Yeah. I think I think we should cut the
+banks a little bit of slack in that they
+are the regulatory environment in the US
+became really hostile and it was very
+much directed towards banks um and asset
+managers still had a lot of freedom and
+autonomy to continue to build in the
+space and do things um and it became an
+incredibly restrictive environment for
+banks um for broker dealers you know in
+the US
+>> the other thing that I've observed about
+risk that you talk about counterparty
+risk
+I think the space doesn't have enough
+financial people who've been through
+this before and they don't understand
+that it's not necessarily your
+counterparty that's the problem. It's
+their counterparty that's the problem.
+>> Yeah. I think that um
+>> and that's in DeFi particularly you see
+this all the time is people don't
+understand that yeah sure you know it
+looks like your margins everything get
+sorted out in one go but systemic
+failure people don't understand it.
+>> Yeah. I I think that's absolutely true.
+I think we very much saw that post FTX.
+I think that people didn't understand
+and did have visibility onto the like
+sort of a look through onto the type of
+exposure that each entity had to all the
+other entities, right? Um and that it
+was a very small world of people lending
+to each other.
+>> I mean, I had exactly this with
+long-term capital when I was at Goldman
+and they blew up. Um
+basically everybody's biggest client was
+the same client. And in this time
+around, everybody's biggest client was
+Three Arrows Capital and nobody knew.
+>> Exactly. And I think um
+I think that we I feel like a lot of
+places didn't have proper risk managers,
+like they hadn't brought someone in who
+had done it. Um and uh and someone who
+had been through like a real serious
+everybody heads for the door at the same
+time crisis, right? Because when we
+think about liquidity is great, but if
+nobody, you know, but it correlation
+goes to one and the door gets really
+small on the way out when you have a
+crisis and you see it in EM, you see it
+to a lesser extent in equity markets,
+but like you see it in in EM and in
+macro and you saw it in long-term
+capital management, right? Um and and
+when you have a massive system that in
+large part a big portion of it is retail
+operating on auto liquidation.
+It just like it adds a bunch of
+surprises to the mix, right? Like it's
+like surprise, guess what? Guess what
+happened? You're not long. Like um so uh
+you know I I think that I think that
+people learned an incredible amount from
+what happened post FTX.
+What why do you think crypto's been
+struggling with attracting liquidity in
+this environment recently? It kind of
+part of it was
+1010. Whatever happened in October that
+left some residual scarring on the
+business overall, but since then it's
+never really captured any of the upside
+that it normally would have captured in
+this kind of macro environment. I think
+there's a couple things. One thing that
+still kind of gets under my skin and
+bothers me is that I don't feel like we
+really understand as a community what
+happened 10 10 like I don't I I've heard
+many sort of expost explanations
+because people always look for a reason
+and none of them have
+I don't feel like I I've heard something
+where I was like oh okay that was it
+that makes sense to me at the same time
+I think many people were waiting based
+from past experiences, past cycles.
+We're waiting for a lot of bodies to
+flow to the service and they didn't,
+right? So I and I and I think that we're
+far enough along that that really is the
+case. I think people were hurt. I think
+people, you know, funds were down,
+probably had a lot of withdrawals, but
+um it it didn't become this sort of um
+mass of bodies rising to the surface,
+which I think says a lot about the the
+maturity of the way that people and what
+people learned from the last time
+around. When we think about why crypto
+has been struggling so much um sort of
+since since the fall um I think it's a
+couple things. I think we had a period
+of extraordinary change in our space
+like extraordinary transformation. So we
+had a new administration which brought
+in a new SEC. We got guidance from CFTC
+SEC. All of a sudden 2.0 was being
+rolled back. It was being investigated.
+um we had all the pieces for
+institutional participation. Um many
+institutions started to understand it
+and and sort of get what was going to be
+happening in terms of tokenization or
+onchain finance, however you want to say
+it. Um but we had it, you know,
+basically from this from the launch of
+the first Bitcoin ETFs until sort of
+through last summer, we were on like a
+sugar high. We had like non-stop great
+news. Every time we turned around,
+something unprecedented was happening in
+crypto, right? It was this person's
+doing this or this, you know, um this
+rule has been, you know, rolled out. We
+got this type of guidance. Um
+and I think that it's impossible to
+sustain that type of constant
+transformational um news flow. Uh and
+and so I think that's part of what
+happened was like we kind of came down
+off the sugar high. And I think that to
+a certain extent uh
+even though most people in crypto I
+think have a very good sense of the
+intersection
+and the potential between crypto and AI,
+I think that for your marginal crypto
+buyer that AI sucked a lot of air out of
+the room. And um when we were watching
+sort of the SpaceX IPO, I think that
+internally we were sort of watching very
+carefully what was happening. He was
+like, "Yeah, I think the marginal buyer
+of the SpaceX IPO is like a Salana
+holder. I absolutely think that like
+that's a guy who's going to Right."
+>> Well, you can even see it on crypto
+Twitter. The people who used to be pure
+crypto people are now AI and crypto
+people or completely move to AI because
+it gets attention. You can make money
+and people in the end are you know
+they'll just choose where they can go to
+make money. Yeah. That's where capsule
+goes always.
+>> Yeah. And I but I also think it's been
+for that there's like I do think there's
+a whole subset of people who see the I
+hate this word but the synergy between
+the relationship between AI and crypto
+like machines can't use real American
+dollars like that's not on the table. Um
+and
+that's like kind of the tip of the
+iceberg. Um but I think that especially
+for those marginal buyers when they're
+thinking about you know adding risk high
+growth techreated risk they have been
+doing that in AI on the equity side
+rather than you know rather than in
+crypto the past year. Yeah, I just for
+some reason, you know, the liquidity mix
+wasn't good enough, I think, to have
+excess
+investment capital. So, um, you know, I
+look at sort of excess liquidity, which
+is liquidity growth above GDP growth and
+it hasn't been very strong. So any
+liquidity that's come into the market
+goes to the one focus of attention which
+has been AI which has been given a great
+return and we just not had that
+liquidity cycle and and you know price
+begets price and it brings in volume and
+everything else and you know so I think
+it's been an issue of that but when I
+step back and you look what's happening
+with the rise of stable coins and how
+fast it's growing the small but but
+growing RWA bucket that's coming and
+Then the very nent but gigantic
+um agentic
+you know payments and finance systems
+that are coming i.e. the TAM of of
+crypto has gone from 8 billion people to
+infinite agents.
+>> Yeah I think um
+>> so the underlying is really strong
+but the activity levels because retail
+is not really there is not great yet.
+every institutional player now is
+building something. They have an
+opinion. They want to do something. So,
+it's all there. It's all in place to
+happen.
+>> I think so. I also um
+I also think that the sort of the most
+many of the most popular or the broadest
+or most mainstream like AI sort of
+equity plays are still largely around
+the narrative is very much around core
+infrastructure. I don't think people
+have gotten to
+the potential or the application
+uh in the same way and I I think that
+follows. Um but I think it's very much
+about infrastructure uh and sort of
+hardware still. Um and I think and I
+think there's you know it's so new that
+I think there's a lot of people who
+don't understand yet what it means and
+so they're sort of doing that thing.
+It's like the taxi driver told me to buy
+Nvidia. like it's that sort of top layer
+of things and you have to let it mature
+>> at which point that sort of interplay
+between those things will become much
+more clear. I think on the crypto call
+it the crypto side and this is one of
+the things that I always find super
+interesting. It kind of puzzles me is
+sitting in the institutional seat that I
+sit in. I obviously there's a lot of
+tokenization discussion and then there's
+like the crypto investing side and the
+extent to which
+when I am having sort of industry
+trodify conversations around
+tokenization the extent to which people
+are still separating
+crypto and tokenization
+really surprises me. We think that
+there's going to be call it a trillion,
+call it five trillion, whatever your
+number is on stable coins. But like
+>> that's block space, right? Like so where
+where do we like to me it's just that's
+like an obvious connection.
+>> Well, because I think we we made a
+mistake because how we bootstrap Yeah.
+We me'd
+>> a$ two half trillion dollar industry
+into existence.
+>> Yeah.
+>> By
+being sort of divisive. It's like mine
+versus yours. All of this stuff built
+the network effects that built this
+space, but it ended up leaving a
+toxicity that people didn't like
+cryptocurrency but thought blockchain
+was a great technology. You're like
+actually one is just the payment rail
+for the use of the block space.
+>> Exactly. Yeah. and and Tradfi is going
+to and has to a large extent
+particularly on the asset management
+side going to go through
+like a journey where they they begin to
+understand that
+what we all learned in like in previous
+cycles which is why different
+blockchains are suited for different
+things and why interoperability is
+absolutely key like that this is needs
+to be a fully interoperable space that a
+a real estate land grab walled garden
+doesn't work. It doesn't sustain it.
+>> Do you think we're running into problems
+with this with the stable coin market?
+Because we're seeing this coalition of
+people on sort of their own sort of
+permission chains, then we're seeing the
+open- source ones. Then we're seeing it
+multi-chain and it's like I'm looking at
+this thinking this is a mess cuz it's
+not very easy to send you a dollar which
+was the whole idea because we're kind of
+losing the interoperability because
+people are trying to capture market
+share without realizing you'll all have
+market share just let it grow.
+>> Exactly. Um, and also without realizing
+that
+a difficult UX UI is is like the biggest
+hurdle to adoption. If we make this
+>> us crypto people are kings of queens of
+that. We've made the worst UX and UI in
+existence and we still have it.
+>> I know. I that I I like it. I'd say
+like, you know, like I, you know, I
+slept till 3:00 in the morning on GitHub
+like trying to figure out like Discord
+trying to figure out how to get that $20
+back that I like sent here by accident
+and I've just like now abandoned it.
+It's like no, we're not scaling like
+this. People regular people will not
+participate and do this. Um, like it's
+going to be a real issue with stable
+coins. We have to if if we're saying
+it's we say to people like this is
+amazing like you could just boom like
+you know pay it needs to feel like that
+for them and we need to make it like
+that and I think that we will get there.
+Um, I always, and this is like totally
+dating myself, but I feel like the way
+that I look at stable coins right now
+and the phase that we're in is that it's
+a lot like when we like went from cable
+to screen streaming and it was like
+cable, it was like you you just turn on
+the TV and you could go through the
+channels and it had a menu and you could
+see what was on and you could, you know,
+it was like super user friendly. Um, and
+then we went to super fragmented
+streaming and now it's like there'll be
+a show and I want to watch it and I
+can't remember which of the 12 streaming
+services like and I'm like oh but I
+canceled that but now I like now I need
+to sign back up for it because now it
+moves streaming services and that's what
+stable coins are like right now. That's
+not going to help us
+grow. And I think that and I think to a
+large extent the you know the winner is
+going to be the person who is able to
+abstract away the back end and bridging
+and all of the things that crypto people
+are willing to do that the average
+consumer is not. And that's how you're
+going to you know sort of become that
+market leader.
+>> Yeah. I mean I've talked about this is
+like I don't know what computer you're
+on, what Wi-Fi network you're on, what
+um
+>> operating system you're running. It
+doesn't matter. It just works. If I
+click, you know, open on the video and
+and you pop up and you don't know my
+end, it's like it needs to be that
+that's interoperable.
+>> Yeah. And it needs to be seamless. For
+the most part, crypto has matured to a
+point where everybody who's going to get
+here through code is already here.
+Everybody who is going to get here
+through like sort of hardcore attack,
+they're already here. Um, and they're
+willing to brave the, you know, Discord
+at 2 o'clock in the morning, whatever it
+is. Um, I totally get that. I'm not your
+typical crypto demographic. I'm okay
+with that. But, um,
+I'm a middle-aged mom of three and I'm
+pretty willing to show up and and try
+things. So, like I run my entire family
+cell phone plan. We moved it all to
+Helium. Like, you know, I have a
+Hivemapper and then Opair's car. Like,
+the whole thing. I'm about as scripted
+word as you get for, you know, Among the
+Mom set. Um, and
+you're not going to find that with the
+rest of the people. And so we are not
+making products,
+products, apps, utility, interface that
+brings the marginal non- tech
+hardcore tech person in like there is no
+path to adoption.
+>> No. No. because in the end it should be
+the rails for the entire financial
+system and a bunch of other things like
+identity and you know provenence and
+there's a whole bunch of things that
+we've kind of even stalled on right now
+because nobody's really talking about
+identity properly with all of the AI
+going on it should be top of mind people
+have stopped with the whole idea of web
+3 the readr write own idea that's
+stalled as well
+>> yeah um it's
+>> just a little sad I like I hope it picks
+back
+But um but yeah, no, we have s like we
+saw in a lot of those things. Um
+identity and often the way that I
+explain it internally is blockchain is
+not great for everything. It's not
+perfect for everything. Um there are
+plenty of things that can and should be
+done on a database, right? Yeah,
+>> blockchain is fantastic for anything
+that is complex, difficult
+um or needs to be securely moved,
+transferred and represented across
+internal and external parties, right?
+And that's a huge swath of things like
+the identity piece um is critical and
+like yeah I've become very I become
+increasingly concerned about a I just
+become more and more concerned about AI
+pretty much every day but um but I I
+just don't understand how we're not more
+you know more focused on identity.
+I I went through this
+>> realization what was coming in 2021 and
+I got together
+some of the kind of senior folks at
+Amazon
+Meta
+um LinkedIn Microsoft which is LinkedIn
+as well um who else a whole bunch of
+them and I I got them all on the call
+and said listen you're all kind of
+working on the crypto side in those ind
+in those bit Google as well and um I
+said listen AI is coming. We desperately
+need digital ID and it needs to be
+onchain. It needs to have the
+provenence. All of that they said
+absolutely. I said because what is going
+to happen is we're going to have fake
+content looking like me doing stuff that
+I've not sanctioned and it's going to be
+the wild west. It's going to be and you
+you guys are going to get sued like the
+banks did after 2008 and you'll be sued
+for a decade over this. And they're like
+yes. And I said, "So, let's get together
+and build a common standard." And they
+said, "We'd love to, but we're never
+going to agree each other's credentials.
+They don't want interoperability."
+So, Microsoft was saying, "We're not
+going to take Amazon's
+credentialization."
+And I'm like, "Can you not agree
+something?" No. So, I said, "Do you
+understand where this leads is you will
+end up getting sued?" And they're like,
+"Yeah."
+>> Yeah. I I mean, what that's really
+incredible. Um and that's kind of
+>> but not surprising right
+>> I will not surprising but I will add
+that to the list of other things that
+concern me right this growing list um
+but I also think it concerns me that I
+think many regular people who who are
+outside this industry or outside AI or
+maybe even outside finance um are not
+deeply and profoundly concerned about
+AI. I feel like people I Yeah, I feel
+like the general public hasn't gotten to
+the point where they know to sue yet.
+>> They just haven't no clue of how far
+this has gone and how how urgently
+important is. And government's too slow
+for for AI. I mean, this is I mean, we
+were used to metaf's law in crypto which
+was fast
+um you know to go through that
+exponential curve is quite something.
+This is that squared. It's Reed's law.
+The first example doesn't appear in
+biology. It's happening in AI. I mean,
+it's staggering. And so, no government
+can keep up with this.
+>> No. Especially not our government, not
+the US government. Um, but I Yeah, I
+think it's it's a little terrifying. Um,
+I I one of my co-portfolio managers
+who's like the lead analyst. It's It's
+good. We really balance each other out,
+but his he has a masters in AI and and
+probably every fourth phone call, you
+know, every fourth call, we wind up like
+steering off into AI. And then I'm like
+I like stop. We have to like we have to
+put a lid on it because I'm not going to
+be able to sleep tonight and I'm just
+going to be terrified about this like
+end of days and um
+you know and we saw the breakout. We saw
+that we saw the rogue attack and I was
+like so what you're saying is the the AI
+broke out broke out in order to cheat on
+its homework. I was like, "So tell me AI
+is like a teenager without telling me
+it's a teenager." But it's um
+the element of self-reporting that is
+required
+by the AI firms like like it's they
+share with us. Okay, this has happened.
+You know, some something's escaped the
+lab
+and and the fact that it's like sort of
+a voluntary self-reporting. Well, how
+else you going to do it? It's moving too
+fast.
+>> I mean, you see the new frontier model
+>> every two weeks right now.
+>> Yeah.
+>> And from my measurements compounding um
+intelligence is compounding.
+Uh it's like doubling every five months.
+Uh the efficiency of intelligence
+output, there's no way. We've never
+dealt with anything like this. I mean,
+the only way to do it is have a holy
+ moment. Guys, guys, this is what's
+happened to us, which is what they're
+doing. Elon spoke about this. I It was
+last week. He's like, what are we
+supposed to do here? All we can do is is
+kind of tell each other we've got a
+problem with something. Tell the US
+government and say, listen, or we've
+got, and you're seeing Open AI doing it
+now. And anthropically before is like,
+okay, we've got a new class of model.
+This is a lot more powerful. You guys
+need to check it out first. And in the
+end, the US government will get to use
+it for a month or three months first to
+use it for their own needs and then you
+release the model.
+>> Yeah. I I mean I think it just
+I but I I think that we should all be
+I'm going to sound like a crazy person.
+We should all be very suspicious, right?
+That that it is all sort of
+self-reported and the assumption is that
+they're reporting things that are like
+they're letting people know when
+something important has happened and
+something escaped the lab, right? Um,
+but there's a huge element of trust
+there that I don't I personally am don't
+really have at this point. Um, and I so
+I you know and I don't I don't know that
+there's a solution. I don't I don't
+think there's any way to successfully or
+coherently or intelligently regulate it
+at a government level. I mean I just
+don't think that that's a true option in
+a feasible way.
+>> And there's so much game theory at play
+here. here. I mean, don't forget
+anthropic is the largest fastest scaling
+of revenues in any company in human
+history.
+The game is so big and then it's the
+game of the US versus China that it
+becomes when I look at it from sort of
+game theory perspectives impossible to
+stop.
+>> And it's a horrible outcome from a game
+theory perspective. Like it it's getting
+to the worst possible place and as
+quickly as humanly as quickly as
+possible by machine, right? It's that
+that combination. So, knowing in like a
+game theory context, it's a terrifying
+outcome, which is one of the things that
+keeps me up at night. Um, but uh, you
+know, I so I I just um I think I
+selectively like choose to put my
+blinders back on and like go back to my
+like go back to my world because other
+you know what else what else do you do?
+>> I'm the opposite. I just kind of throw
+myself into it and say, "Well, we're
+along for the ride. It's going to
+happen. There's nothing I or you or any
+government or anybody can do about this.
+Even Elon said, he said, "I tried. I
+gave up. I just joined it." And it's
+like
+the So this is the most extraordinary
+time in human history to be alive. We've
+birthed intelligence that is beyond our
+own. And we're going to put
+AGI
+into physical form into robots.
+>> Yes. And we are not ready for this
+because we're going to have smarter,
+stronger, faster, cheaper
+intelligence carriers with dexterity
+and they're going to be scalable beyond
+anything we understand
+and that's three years away
+>> and no ethical no ethical boundaries,
+right? Um like optimizing without ethics
+is a terrifying idea. I mean, that's the
+piece that scares me, right? I mean, if
+if you could if there was a way to
+include the
+>> ethics. I mean, without going off the
+deep end of all of this, what are our
+ethics versus Chinese ethics versus
+somebody else's ethics?
+What ethics are these things going to
+have themselves?
+The point being, my my point being is
+I think all layers of intelligence are
+built upon each other and they you need
+a symbiosis. Like we if we destroy the
+planet, which is the layer of
+intelligence beneath us, we're dead and
+if AI kills us, it's dead
+because you need the kind of compute of
+all the other layers. It's a longer
+conversation about this stuff, but it is
+not going to kill us. Now, I one of the
+things um I remember sort of at the
+fairly early on during the Iran
+conflict, there was a um there was a an
+Imperial War College um study that was
+released on like AI across models
+participating in war games
+like nine out of 10 they like go nuclear
+like they event like and they get there
+within like three or four steps. that's
+like becomes the optimal outcome is
+always they just like go straight for
+the nuclear weapons. Um and it was
+across models. Um and and then even when
+you tried to input like you know this is
+bad for humans like like you would kill
+you know x many innocent people
+civilians that no didn't matter. And
+that to me is like is is that piece that
+you can't
+to me it's still a leap of faith that we
+don't we don't wind up killing off the
+intelligence layer underneath us which
+is a very like dark thing to say I
+think. So sorry pup.
+>> So a quick break in your regular
+programming. If you're serious about
+your future grab my free report called
+prepare for 2030. I think you've got 5
+years to make as much money as possible
+and this guide will help you navigate
+what's coming. The link is in the
+description. Download it now.
+>> Yeah. Yeah. I don't know. I just I'm
+much more optimistic about the whole
+thing.
+>> Whilst I while I see the risks, I think
+normally the good outcome is the one
+that prevails.
+>> Humans are pretty messy creatures
+anyway. Pretty messy compute. We like
+killing each other. We like taking each
+other's resources. We do all sorts of
+weird things anyway, which most other
+animals don't do, but we do.
+It's
+>> I mean I um
+>> but we haven't managed to destroy
+everything is the point we could
+>> correct. I was at Leman during the
+bankruptcy and then I went on to do
+distressed debt and I come from like a
+debt like a fixed income debt background
+not an equity equity people are like
+it's going to be okay look let's all
+look on the upside it'll be fantastic
+you know like everybody will have lots
+of extra time because the AI is doing
+your work and I'm like the machines are
+going to kill us all that's like the
+fixed income that's like where fixed
+income people go and especially
+distressed people are like you know like
+it's like Armageddon is where you go
+>> well Um,
+>> I was the same in in macro. I made all
+of my money in bare markets and I had to
+retrain my entire thinking process when
+I realized that this this kind of
+technological trend because I kind of
+scoffed at NASDAQ and stuff and like,
+oh, these guys are all kind of they're
+smoking the hopium. And then after a
+while, I realized that I was so wrong
+and that I actually had to flip my
+entire mindset from looking for crashes
+to looking for buying opportunities and
+looking forward to when the market fell.
+Uh it was hard.
+>> Exactly. Exactly. I um I had a CIO um
+Elliot and he used to always say the
+most expensive thing you can be in our
+business is rigid.
+And it's like it's so true. like you
+have to be able to sort of take the
+opposite view. You need to be able to
+push yourself. You cannot get wedded um
+to a position where you're a position or
+viewpoint or an outlook where you just
+can't like it's just too expensive to be
+rigid, right? Um that's the most
+important lesson I think that like I
+learned in that process. So when you're
+looking at out across crypto markets
+which have been kind of low volatility
+sort of boring sideways markets for a
+while now
+where are we where's the opportunity?
+So I think um
+>> on the investing side, not the building
+side. Yeah.
+>> Yeah. I think I very much like uh and
+continue to see a lot of opportunity uh
+in I'm going to call it onchain finance
+onchain rwa/to tokenizosation onchain
+finance like the whole umbrella.
+>> Yeah. Um and
+and this is also actually I think part
+of one of the reasons that markets
+haven't been great the past year is I
+think that we told told people for ages
+institutions are coming institutions are
+coming everybody's going to tokenize
+everything institutions are coming and
+then we said oh my god the institutions
+are here because we got like you know
+big announcements people are doing this
+people are doing that and and they
+haven't I think the average sort of
+investor or the person in the crypto
+market has not seen that translate into
+like increased network code increase,
+right? Um, which is tragically move
+super slow. Like institutions are here
+and institutions are building. We're
+just not fast, right? Um, and and crypto
+markets are not necessarily that
+patient. Um, and I think they've not
+known for their patience. They've um and
+so we haven't seen it translate. Um, but
+it is so clear to me the extent to which
+things are moving on chain. So all
+anybody wants to talk about is how we're
+getting to 247 trading in like US
+equities. And guess what? Like you know
+how that's going to happen? It's got to
+be on chain because
+of blockchain. People don't understand
+that the DTCC
+clears I don't know a quadrillion two
+quadrillion stupid numbers. This is
+what's coming for Blockspace
+is all of this
+>> and there's like there's a lot of work
+to be done, right? Like these are these
+are all sort of like people are figuring
+out the pilots and like the you know
+there's it's a slower process. Um
+especially when we talk about sort of
+functioning mainstream traditional
+markets being able to transition on
+chain everything has to be done as like
+a sidec car as a pilot because you can't
+mess with the stuff that actually works
+and like literally powers the global
+economy. So you can't tinker with it
+while it's in action. So it's got to be
+over here and separate and you have a
+bunch of firms again much like your
+example of all of those like big tech
+firms they have to come together and you
+have to agree industry standards right
+so you have you know dozens of broker
+dealers you have dozens of asset
+managers you have inter right you have
+so many different people who have to
+come together and agree on
+what that industry standard looks like
+and you know how we sort of do that
+collectively um in order to transition
+Um and so it's it's not going to be fast
+and it is not going to be incremental.
+It will be experimental
+and then sort of all at once but between
+that so it's like payments tokenization
+like chain suited for for tokenization.
+I love, you know, hyperlquid. Um I think
+the number of phone calls that I've
+gotten from sort of traditional hedge
+fund managers or CIOS are saying like,
+"Oh, yeah, like, oh, I hadn't spoken to
+them in six months." And they're like,
+"Hey, so I want watching this hype. What
+do you think about this hype stuff?" You
+know? Um so I I think that we have hit a
+point where much of traditional finance
+is beginning to understand and see the
+functionality that has developed in
+crypto markets that would be phenomenal
+to introduce to traditional markets. I
+mean, think about think about the way
+mainstream people are getting excited
+about perks, right? Think about the way,
+right? So, all of these like prediction
+markets. Um, and
+>> I mean, that's one good thing is I've
+seen
+>> to see the rate of um innovation and
+speed of adoption that Robin Hood has
+been doing. Vlad has done astonishing
+job there. Um, astonishing how fast
+they're moving and that's pushing
+everybody else to move faster. It's
+pushing Coinbase to try and move faster
+because they're pretty slow for a what
+should be a more nimble organization.
+Um, and then it's causing others to as
+well, which is good. And that was came
+from Vlad is obviously very aware of
+hype and everything else. But yeah, it's
+coming, but it's coming from retail
+again.
+>> It is. And I I'm a huge fan of Robin
+Hood and they what is fascinating is
+they are transforming like both sides of
+the aisle. So like they're coming like
+they're coming for everybody, right? So
+like they're they're coming for
+traditional Yeah. for your traditional
+platforms. They're coming for like
+they're coming for your crypto side. So
+they are applying pressure on both sides
+and have
+>> have accelerated movement on on both
+sides um on the Trady side and on like
+the sort of fintech crypto side
+>> and the wealth management side and the
+asset management all at the same time.
+It's like
+>> Yeah. and and their their customer base
+is maturing, right? So, they're starting
+to move into like, okay, well, how do we
+offer services for people who are now,
+you know, maybe married and have kids or
+like are actually thinking about
+retirement. And so, they are expanding
+into that territory historically very
+much dominated by more traditional shops
+um and more traditional platforms. Um,
+and like when you look at the numbers,
+um, like one of the things that's just
+absolutely amazing and it's consistent
+study after study after study is the way
+that the demographics split on sort of
+who has traditional brokerage accounts
+and who has like a fintech, right, app
+um, account. And as you skew younger or
+more people like their first experience
+is digital, they hold like more digital
+assets than they do um, you know, mutual
+funds. um all of these different things.
+Um and and it's been really interesting
+to see that
+demographic component sort of play out
+very much through Robin Hood and I think
+that the pressure it's putting on the
+rest of the industry in all directions
+is fantastic for the industry in terms
+of evolving. And what is it? What signal
+do you take from that from what you
+should be doing at TRO? You know,
+because you have retail, you have
+institutional products, you have all of
+the things. What signal do you get from
+all of this that you need to to do?
+Because on one hand, you're cryptonative
+and you'll want to move faster. The
+other hand, it's quite difficult to
+move, but there's product innovation can
+come. There's a lot of kind of
+complexity in this. it is um I think
+it's so we have um we're also sort of in
+the midst of of
+really being thoughtful about how we
+approach tokenization
+um and up until now so for the first
+several years when you're like 28 2018
+2019 like sort of all the way through
+probably last year um the the technology
+continued to get faster more efficient
+cheaper So essentially you could now
+tokenize something what would have cost
+you I don't $15 million a 100 people in
+two and a half years to do four years
+ago you can I always do it's like a
+build-a- bear workshop or whatever and
+it's like you can go to securitize you
+be like boop boop boop boop boop and
+this chain and it does this and boop
+boop and out pops the tokenized fund. So
+tokenization as a service has really
+advanced
+which makes it a really interesting
+question which is why are you tokenizing
+what you're tokenizing like who are you
+trying to reach? What do they want? It
+is a tool and so it is much more about
+thinking through who you are trying to
+reach and the right type of product for
+them rather than saying like oh it's
+like a huge it's not an ops
+conversation. It's not a tech
+conversation. It's a business strategy
+conversation.
+Um, and
+the other piece is is that
+much of the legacy sort of what is the
+bulk of business now and then ultimately
+over time becomes sort of the legacy
+business is not going to go away. You
+can still go out and write and mail a
+paper check in the mail if you want to.
+Like you could get out a checkbook and
+send someone a check. And the whole
+thing I mean I somebody asked like we
+were buying a house and I had to find a
+check and I was like oh my god I like I
+think I had to call the bank and be like
+can you issue me any new checks? Um but
+because who has that anymore?
+>> I can't remember the last time I wrote a
+check.
+>> Yeah. Exactly. Right. You're like
+where's my my checkbook? that I was like
+uh and
+you can still do that and banks it is
+still going to be probably decades
+before banks eliminate that capability
+even though nobody uses it but you you
+can't just mothball wallet so you have
+to maintain these things that sort of
+phase out as legacy modes of operation
+but
+what I one of the things I'm very much
+focused on is
+is thinking through
+what when people operate onchain and
+when people prefer a 24/7 onchain
+experience, people who are used to
+trading from their phone, who are used
+to settling instantly, who are surprised
+when they bought a mutual fund and the
+money's not there for 3 days, they think
+something went wrong and they're calling
+in, right? Um, what do those people want
+to invest in? But what's also weird is I
+see the other way round, which is what
+can I force down the throats of retail
+investors by tokenizing because I've run
+out of buyers for credit funds or
+private credit and stuff like that,
+right? And I worry there's a mismatch.
+It's like I've never met a real estate
+guy who has not said I'm interested in
+tokenization.
+But on the other side, I've never met a
+retail investor who really cares about
+buying tokens on a share of some illquid
+building in wherever, but they're just
+looking like they're, you know, they
+just want to dump their assets into a
+new market. So, we got to be careful. I
+think the point being is who you
+developing product for, why, and how.
+There's real innovation, real
+opportunity, but it's not just
+tokenizing everything that exists.
+No. And I I mean I do think that's
+important. I mean I think people people
+have since the dawn of time tried to
+introduce liquidity into things where
+there is no liquidity.
+>> Yeah. We see that a lot every time.
+Every time in fact it blows up in the
+end.
+>> Yes. And it just can't be done. I think
+um there is that question of like oh
+well this is you know this is how we
+reach these like additional marginal
+retail investors who want who want juicy
+yield. um and we put it in a tokenized
+format and it and one of two things
+happens.
+You either don't change the underlying
+terms and conditions of what is a
+non-marketable fund, i.e. like it's a
+quarterly or monthly redemption and
+there's a gating and that is how those
+funds work and that's how they should
+work and that's how they're able to
+generate the returns they do. It is that
+sticky capital structure. Um
+>> and you can put that in a smart
+contract. you you totally can but
+then people need to understand that that
+that is what they are getting. just
+because it it came on a blockchain
+doesn't mean that it changes the
+underlying or what's even more
+concerning is people will buy that right
+um and structure it in such a way that
+they are packaging the economic interest
+right and they are essentially trying to
+create a secondary market
+where you don't have an abstract every
+day where you don't know what the
+underlying value is um and I think I
+think we'll see that doesn't end Well,
+especially when you introduce right like
+infinite looping then it becomes like a
+real powder keg. Um but you are going to
+wind up this is like where people
+introduce counterparty risk that and
+take on counterparty risk that they
+don't know about or don't understand.
+Um, and
+the piece that I think is really
+interesting is if you talk to a
+portfolio manager at a private equity
+fund or an alternatives fund, they do
+not want their stuff to mark to market
+daily like this.
+>> No, right. Like that's the whole it's a
+big part of what they do.
+>> That's right. It is to have a zero
+volatility structure
+>> with things that actually volatile
+underneath is
+>> is the arbitrage. It's
+>> Exactly. And then they don't want to
+send an investor letter to like every
+guy who held the token for 30 seconds
+one day. I mean they don't like right
+like you get an investor letter is like
+stamped to you. Like they are very
+protective of that intellectual property
+of the underlying like of of what their
+activity is which is not nefarious. It's
+how it's how that type of investment
+works. Um and so I wonder if we at some
+point see push back from the actual PMs
+themselves. Um but you you just can't
+safely introduce liquidity where it
+doesn't exist.
+>> No. But anything with liquidity,
+anything fixed income related that's
+relatively liquid, you know, yield
+products, fantastic. You know, a lot of
+those products are going to be better
+than as you said the looped um you know
+yield farming products that are on DeFi.
+And people can then have a choice about
+where they get yield from, what the risk
+factor is. All of equities, anything
+basically homogeneous should be on
+chain. It's the fastest most efficient
+way of transferring and custodying
+assets, you know, all of that should
+come. Um, but we don't have to tokenize
+illquid real estate um as the first
+thing.
+>> Yeah. And it's funny because still when
+you see like still oftentimes people say
+um oh well like one of the main sort of
+compelling arguments for tokenization it
+brings like it brings greater
+accessibility and liquidity to illquid
+asset classes and it was like well it
+brings greater accessibility and the
+illusion of greater liquidity but it it
+doesn't actually create liquidity where
+there is none right
+>> and are you finding that there are now
+institutional clients who will take
+tokenized stuff so you know Like, you
+know, I talked to Sandy Call a lot.
+She's a good friend at Franklin. And,
+you know, it takes a while because you
+you tokenize some yield products and now
+you've got to get your customers to
+actually buy it because they're they're
+not retailled. They're institutionalled.
+So, they have to then build the crypto
+rails to actually get used to this
+stuff. I mean, everyone's doing it, but
+it's slow, right?
+>> It is slow. Um, it is slow and it's a
+lot of education, right? Um when you
+think about sort of the the due
+diligence rubric that that any of those
+sort of especially at the institutional
+level any of those firms would go
+through um it's a big lift. Um one of
+the things that I have found really
+interesting is I want to say over the
+past six months I have probably done 15
+or 20 board presentations
+on tokenization and stable coins. So
+what kind of companies
+>> like very like our large institutional
+um our large institutional clients. So
+we have a a very very big part of it. So
+we're $1.8 trillion asset manager. A
+large portion our retirement assets
+where we you know people have 401ks and
+we administer the retirement program.
+Um, and what is happening is that these
+companies, their boards are like hearing
+about tokenization and like it's become
+like a buzz word and they're sort of not
+really sure what it means and they want
+to get up to speed. Um, and there has
+been a real movement for different and
+it it's they're it's all independent of
+each other. It's been like one sort of
+inbound, hey, this somebody from a board
+called and they want to know if you can
+come do a teaching on tokenization.
+Um, and I have been surprised by
+how much the sort of pace picked up very
+very quickly. Like I was I had never
+been asked to do it six months ago was
+asked the first time and then it's just
+like
+>> I I imagine that the treasury operations
+of large corporations are also I mean
+I've I spoke to I don't know a whole
+bunch of them in the past and they were
+starting to get interested in in this
+and the other people who were so obvious
+to me and it's not really happened yet
+is the massive commodity trading firms
+because they have assets tied up in
+Angola to Tanzania to to you know French
+New Guinea all sorts of places and
+they've got council controls to get
+around. They got vast amounts of money
+slloshing around and they might as well
+just have an internal stable coin rails
+and they can move money around from
+entity to entity no problem. And I'm
+surprised that's not happened at scale
+yet.
+>> I that one does surprise me as well.
+>> Brazil has Brazil has started doing it.
+>> Brazil is actually unbelievably crypto
+forward. Yeah,
+>> like I mean it doesn't get it does not
+get enough um credit but incredibly
+crypto forward. Um but I I actually have
+um I have a friend who's a head trader
+for LAM for one of the like very big
+commodities firms. Um, and he he's in a
+trading role obviously and and a few
+different times I've been like why
+aren't you guys using like I what is the
+rationale? Like are you guys having
+conversations about it? Like are you
+like are you thinking about it but you
+just haven't gotten there or and and
+he's like nope nope we're not nobody's
+looking at it. Um
+>> well while Louis while Louis Drafus
+and a bunch of the soft commodity houses
+have did it in 20
+17 they basically or 16 they basically
+use smart contracts now for all the
+letters of credit the shipping the whole
+lot. So they can move this stuff around
+really fast but it's not taken off
+elsewhere yet. It's bizarre.
+>> Yeah. Um there was actually like a I
+don't know if you remember there was a
+really interesting
+>> it was city it was city and it was um
+trade financing
+>> and they had the smart contract
+triggered by I'm going to forget which
+canal but
+whatever canal it was um they like it
+was triggered by the GPS like
+essentially like the the oracle brought
+in that um the ship had passed through
+the canal based on like the GPS reading
+so that was like the verification and
+then the trade financing was released.
+And to me, um
+especially
+especially when you have um
+multi-jurisdictional pieces
+uh and the cost of capital is so high
+internally as a result.
+I I don't understand why there hasn't
+been greater adoption there. In my
+previous life as an equity derivative
+salesman early in my career, Cargill
+were one of our clients because they run
+this huge balance sheet and they have so
+much excess capital. And one of the
+things they were doing was doing
+something in South Africa and they get
+stuck with rand that they couldn't move
+at the time. There was the dual rand
+system, the financial run, the
+commercial. And so we used to do the
+index arb for them because they would be
+stuck with this capital and it was a way
+of getting capital out. All of these
+things they have to do. And like all of
+this could just go so quickly now.
+>> I know. And um yeah, I mean like you
+look at historically like Argentina with
+the blue ship swap raid, the same thing.
+Yeah, it's um
+it is interesting. I mean it
+>> I don't know why more firms haven't
+adopted it as a really effective
+internal cash management tool. And I
+I wonder if it's more so I wonder if
+it's more so that the people who are
+typically in those roles are not their
+coverage from like Southside Banks is
+just not in a position yet to be
+pitching those as products. Like there's
+not there's not an opportunity there
+that they can capitalize.
+>> There's always somebody being paid to
+therefore recycle the capital in a
+different way. So there's somebody
+making the money out of this arbitrage
+in South Africa or you know so I mean
+they're very smart people as we know
+they figure out how to get their cost of
+capital down as low as possible. So
+there's a bunch of people's jobs that
+don't want that to happen I guess as
+well.
+>> Yes. Exactly right. So I mean they'll be
+cannibalizing their own their own
+business. Um but yeah it's you know it's
+usually your especially when you have a
+huge like multi- so you know
+multinational global sort of
+conglomerate that does something that
+operates across so many different you
+know 20 different currencies and um they
+have enormous sellside relation like
+bank relationships um and those are the
+people who are you know sort of
+constantly coming through the door
+pitching them on cash management and all
+of the tools and I think that maybe it
+may be the case that stable coins are
+not in that arsenal that
+>> well because you make more money selling
+currency options.
+>> Of course.
+>> Exactly.
+>> Of course. So, so if you're watching
+from a large global multinational
+company, please call us and we will
+we'll do a walkthrough on why you should
+be doing this with uh open interoperable
+stable coins and you're going to save a
+ton of money and time.
+>> Blue, listen, fabulous conversation.
+Really enjoyed it. I think we could have
+talked a lot longer, but um but let's
+see where this goes. It would be nice to
+get a bit of liquidity back in crypto
+because I think we've all taken our
+penants for getting over excited um
+earlier as you said and uh maybe it's
+our time again soon.
+>> I think so. I think so. Um thank you so
+much for having me. It was such a a
+pleasure to talk today. So
+>> yeah, fantastic. We'll get you back on
+at some point and catch up with where
+you are.
+>> Oh, sounds good.
+>> What I love about somebody like Blue is
+this commonality of language of
+understanding. She's lived through the
+emerging market crisis. She understands
+the lens with which to look through
+crypto. It's volatile. It's nasonent.
+It's an emerging market itself. It's a
+frontier market. And so once you use
+that lens, you understand it better. But
+she's really understands the space
+itself and also where it should go,
+where it's going. She shares the
+frustrations and also the joy of seeing
+where it is today. But I really enjoy
+these conversations. I hope you did,
+too. And I'll see you next time. So, you
+obviously like this video enough that
+you've got to the end. That's quite a
+big task. But listen, do me a favor. Hit
+the like and subscribe button and also
+check out what videos next cuz I think
+you'll love it. But if you want even
+more, and when I'm talking more, I'm
+talking about memberergenerated ideas,
+incredible alpha research, everything
+there to help you in your journey, just
+head to realton.com/join
+for the best financial intelligence out
+there and the pure alpha that's within
+the platform.
