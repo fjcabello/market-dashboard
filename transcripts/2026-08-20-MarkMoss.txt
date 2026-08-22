@@ -1,0 +1,377 @@
+Some of the biggest names on Wall Street
+just laid out a plan that could extend
+the AI boom way further and much longer
+than most people expect. And if you have
+money in the market, you need to
+understand what they just changed.
+Because right now, there's two very
+different worlds out there. You see, in
+the first, the bears, they're right. AI
+spending outruns cash flow, financing
+gets harder, capex slows down, and the
+AI bubble, it blows up. It breaks. Now,
+in that world, you don't want to chase
+this. But in the second world, Wall
+Street opens new pools of capital. the
+funding moves farther away and the
+buildout keeps going keeps going higher
+faster and in that world waiting for the
+crash could be the biggest mistake. So
+the question becomes pretty obvious uh
+who funds the next dollar. This week
+Nvidia brought together some of the
+biggest names on Wall Street and they
+had a plan designed to mobilize more
+than $500 billion of outside capital
+just for AI infrastructure. And the head
+of Black Rockck, Larry Frink, he said
+something that was really interesting.
+He compared AI financing today to
+mortgage back securities. when [music]
+that market was just getting started
+back in the 1970s. Now, most people hear
+that and they hear mortgage back
+securities and they think of 2008, but I
+think that's the wrong chapter. You see,
+Larry Frink is pointing to what happened
+long before the crash. Wall Street
+changed who could finance housing. Now,
+it wants to change who can finance AI.
+And we got DC, we got Washington, and
+they're pushing things in the exact same
+direction. More data centers, more
+power, and more financing capacity. And
+if those forces reinforce each other,
+then the AI boom that people think is a
+bubble's going to blow up could run much
+longer than expected. Here's what we
+need to answer. All right. Is the
+funding wall real? What did Larry Frink
+actually change? If Wall Street succeeds
+with this, are the bears about to be
+years too early? You ready? Let's go.
+Okay. Now, uh before I show you why I'm
+bullish, right? Let me just get that
+clear. We need to take the bear case
+seriously. So let's take a look at the
+bare the bare case because it's not
+theoretical, right? For decades, big
+tech was mostly an asset light business,
+right? So they had software, cloud
+services, intellectual property, things
+like that. But AI is different. AI needs
+physical infrastructure. AI needs data
+centers and chips and power and cooling.
+So it's very capital intensive and that
+takes a lot of cash. PIMCO estimates
+that capex could absorb about 94% of
+hyperscaler operating cash flow this
+year and the next year. On epoch AI's
+current trend, capex overtakes operating
+cash flow somewhere in the second half
+of this year. Now, that doesn't mean
+that big tech is going broke, right?
+That's not the argument that the bears
+make. It just means that internal cash
+won't be enough to fund all of this. So,
+that means that more of the next dollar
+has to come from outside capital. And
+that's where the risk that they see, the
+bears, they they see that risk starting
+to change because AI doesn't actually
+have to stop growing, right? All it
+takes for the financing underneath it to
+get stressed is for growth to slow down,
+right? So if growth goes at like 60% to
+to then 40% to 25 to 15, the business is
+still growing and and it's growing
+really fast. But if you finance the
+project and you're expecting 50 or 60%
+growth and you get 15, that creates a
+problem. Not because AI failed, not
+because AI stopped growing, because the
+financial assumptions were built for
+something faster than what you're
+getting. And that's the part that I
+think the bears actually get right.
+Okay. So, now that we got that part
+covered, what I want to talk about is
+what Larry sees here, right? I mean,
+he's the head of the largest asset
+manager in the world, uh, we should
+listen to him. And so, to understand
+this, we got to go back to the 1970s.
+So, back then, mortgage lending was had
+basic limits. Okay? So imagine that you
+have a local bank and people deposit
+money with you and then you know you
+give them a little bit of interest but
+then you use that money to start making
+home loans. So when someone buys a house
+then you give them a mortgage and then
+you collect the payments for like 30
+years, right? It's pretty simple. But
+every mortgage you make it ties up some
+of your capital and so eventually you
+you run out of capital, right? You hit a
+limit. You can only make so many new
+loans before your balance sheet is full,
+right? Before all the money's out. So
+eventually that limits how many
+mortgages that the banking system can
+create. Wall Street changed that. They
+changed the entire system. In 1970,
+Jenny May issued the first mortgage back
+security or MBS. Over the next decade,
+the first decade, a new financing market
+started growing pretty fast. Instead of
+making a mortgage and then holding it
+for 30 years, the lender could now sell
+it. All right? This way, thousands of
+mortgages could be bundled together and
+they could be sold to investors. Now,
+the investors, they still receive the
+mortgage payments. That's fine. And the
+original lender, they got its capital
+back, which meant that it could start
+making more mortgage loans. It could do
+another and another and another. And
+that was the whole breakthrough. The
+same pool of capital could now get
+recycled into new loans. This is
+securization. Securization turned
+lending into a capital conveyor belt.
+And that's the market that Larry Frink
+entered, right? He didn't invent the
+mortgage back securities, but he helped
+build the market that followed. Now,
+when you hear mortgage back securities
+or MBS, you probably think about 2008.
+At least I do. Um, that's where the bad
+loans, that's where all the leverage
+that had built up in the banks, it all
+blew up and all that comes later. But
+before securization helped create
+excess, it solved a really a real
+problem. There was millions of people
+who wanted mortgages and we had all
+these individual banks and the balance
+sheets were full. The balance sheets
+could only finance so many of those
+houses. So, Wall Street connected the
+mortgages to a much bigger pool of
+money. And suddenly, the question wasn't
+just how much can this bank lend. It
+became how much mortgage exposure will
+investors buy. And then look at what
+happened. In 1970, the first Ginnie May
+MBS was 70 million. 8 years later, it
+was 15 billion a year and had more than
+50 billion outstanding. Then the market
+kept growing through the 80s. It kept
+growing through the '9s. The
+securization became one of the dominant
+ways America financed housing. Now, by
+the time the housing bubble blew blew
+up, it broke residential mortgage
+securities had grown to nearly half of
+US GDP. I mean, think about that $70
+million experiment became a massive
+global capital market. And that's why
+comparison to doing this with AI, it it
+matters. He's showing us how AI could
+tap a way bigger pool of capital than
+most people think. And the simplest way
+to understand this uh to understand what
+changed is this. Mortgage back
+securities didn't create more houses.
+They changed who could finance the
+houses. So if we take that idea and then
+we replace houses with AI
+infrastructure, we see something
+completely different. Because until now
+most of the buildout depended on big
+tech to fund it, right? And they do it
+with their cash debt. They could take on
+their balance sheets and things like
+that. And so then just the same way
+there was a limit, right? That's what
+the bears have been watching this whole
+time. But Wall Street is trying to
+change the entire structure like they
+did before. So instead of financing just
+the tech company, investors can finance
+the infrastructure itself. And that
+means the data centers, that means the
+equipment, the compute, but also the
+contracts that generate the cash flow,
+right? That's why Nvidia calls these
+independent compute financing platforms.
+And John Gray of Blackstone used an even
+simpler um phrase for this. He called
+compute a financable asset class. Now
+you can start to see the parallels that
+they're drawing to housing, right?
+Because for investors to finance the
+infrastructure, they need to know the
+asset still has value. I mean, even if
+something changes, like, you know, a
+customer leaves, can another customer
+come use it? If one operator fails, can
+another operator take it over? Jensen
+Wong from Nvidia says that's exactly the
+idea to make the compute transferable
+make it usable by somebody else. Now
+suddenly the question starts to change.
+It's not only uh how much can Microsoft
+spend or how much can Meta spend. It
+becomes how much AI infrastructure will
+global investors finance. It's a
+different question which is why I don't
+think the 500 billion is the real story.
+The financing market behind it is the
+real story and it's already happening.
+And Wall Street's not starting from
+zero. I mean, Meta's building its
+Hyperion data centers in Louisiana.
+Total development cost of that is 27
+billion, but Meta is not funding the
+whole thing. Blue Owl provides 80% and
+Meta owns 20%. Then Meta leases the
+campus back. Now, part of Blue Owl's
+capital, it comes from debt sold to
+outside investors. So, think about what
+just happened. Meta gets the
+infrastructure it needs, but outside
+investors provide most of the capital.
+Right? That's exactly the shift we've
+been talking about. And Wall Street's
+already taking this one step further.
+It's packaging data centers into
+securities investors can buy. Now, in
+2020, data center securization issuance
+was about 2.4 billion. Last year, 15.5
+billion. So, this financing market, it's
+not theoretical. It's already being
+built. Now, these aren't new Nvidia
+financing platforms. They're the pieces
+that are underneath them. And Nvidia's
+500 billion plan is an attempt to take
+what already exists and scale it around
+compute. I mean, I think that's the part
+that the bears are completely missing
+here. They're looking at big tech's
+balance sheets and they're asking like,
+where does, you know, where does the
+money come from? When does the money run
+out? But Wall Street's asking a
+different question. How much outside
+capital can we bring in? And Wall Street
+isn't doing this in a vacuum because
+Washington wants the buildout to happen,
+too. And they don't just want better AI
+models. They want more data centers.
+They want power. They want chips. They
+want more domestic infrastructure. They
+want jobs. The White House AI plan
+actually calls for improving the
+financial market for compute. And the US
+Treasury went even further. It said that
+the financial system needs to unlock
+hundreds of billions, potentially even
+trillions in new lending capacity for AI
+infrastructure. Now, look, I'm not
+saying Washington designed Nvidia's
+financing plan, right? That's not the
+point here. The point is the direction
+that we're going. Washington wants more
+AI capacity built. Wall Street wants
+ways to finance it. Big tech wants more
+compute. And of course, we all want to
+use it. So, all those incentives,
+they're lining up. And if they keep
+reinforcing each other, then the funding
+wall that the bears they're waiting for,
+the big crash, the bubble crash, it
+could move way further out into the
+future than they think. And that changes
+the decision for investors, which takes
+us back to the real question. What does
+all this mean for you? Now, the biggest
+question isn't whether AI eventually
+becomes a bubble. Maybe it does, right?
+We're always in a bubble, right? At some
+point, maybe, right? Every cycle turns.
+The real question, though, is when does
+the funding wall arrive? because that's
+when the bare case that's what the bear
+case depends on. The bears are assuming
+that big tech eventually runs out of
+room. Cash flow is going to get
+squeezed. The financing slows down. The
+capex rolls over and the boom breaks.
+But Larry Frink just showed us something
+completely different. The financing
+system doesn't have to stay the same.
+Wall Street can bring in new pools of
+capital, keep funding the buildout long
+after big tech hits its own limits.
+Which means that the bears could
+eventually be right. They could also
+still be years too early. And in markets
+being years too early can look exactly
+like being wrong. That's the risk I
+think investors are missing right now
+today. Right? You can spend the next few
+years waiting for a to break, waiting
+for capex to slow, waiting for the
+funding wall, waiting for the crash. But
+if Wall Street keeps moving that wall
+further and further out, then you could
+spend those same years underexposed and
+sitting on the sidelines. Now, Wall
+Street can extend financing, but it
+can't make bad economics work forever.
+Eventually, the returns have to justify
+all this spending. But that's not the
+question today. The question today is,
+how much longer can this run? How much
+longer can it run before that limit
+actually matters? And after what Larry
+Frink just showed us? I think the answer
+could be much longer than the bears
+expect. So, don't confuse these two
+ideas. AI may eventually become a bubble
+and the AI boom has to end right now,
+right? Th those aren't the same thing.
+And that distinction matters for
+investors because the risk isn't only
+being too long. When the cycle finally
+runs, when the cycle finally turns, the
+opposite risk is getting shaken out too
+early because you are waiting for a
+funding wall that Wall Street keeps
+pushing farther and farther away. The
+bears are waiting for AI to run out of
+money. Wall Street just changed where
+the money can come from. And if this
+finance machine works, which it looks
+like it will, the question you need to
+ask is, are you long enough while the
+boom keeps running? Now, let me know
+what you think about this. Are the bears
+right, or will Wall Street continue to
+innovate and find new ways to
+financialize the market? I'm on the side
+of innovation, as you know, but leave it
+in the comments. Let me know down below.
+And if you want to calculate your own
+portfolio to see if you're long enough,
+I have this free calculator app that I
+put together. It's pretty cool. I'll put
+a link to it down below if you want to
+calculate your own portfolio, see if
+you're long enough for this AI boom.
+Either way, let me know in the comments
+down below. And as I always say, to your
+success, I'm out.
