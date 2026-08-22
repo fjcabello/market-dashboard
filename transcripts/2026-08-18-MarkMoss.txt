@@ -1,0 +1,688 @@
+All right, guys. Something big is
+happening. We saw roughly 189,000
+Bitcoin that had been inactive all of a
+sudden start moving. Now, if you own
+Bitcoin or if you're thinking about
+buying Bitcoin, then the reason why it's
+moving should actually matter to you
+more than what the price is doing right
+now. Cuz one of the largest known
+hardware exploits just unfolded. We saw
+more than 1,800 Bitcoin [music]
+reportedly stolen, over 130, 140 million
+dollars. And if your Bitcoin depends on
+one exchange or one device or one seed
+phrase, then the same hidden dependency
+could already exist in your own setup.
+But there's a bigger question that
+almost nobody seems to be asking. Did
+the people who moved their Bitcoin
+actually [music] remove the danger? Or
+did they carry the same exposed seed
+into a brand new device? Now, this is a
+big deal because I had to learn the
+[music] lesson the hard way. I lost 17.8
+Bitcoin from a hot wallet. I lost more
+than 27 Bitcoin from an exchange. And
+back in 2021, I warned that one day a
+bug inside a hardware wallet could
+create exactly this kind of failure.
+[music]
+Now, one has. So, in this video, I want
+to show you what this mass movement
+proves, what it doesn't prove, what it
+doesn't mean, why changing hardware may
+not make you safe, and the single
+failure test that I use so one hidden
+dependency can't take everything from
+you. You ready? Let's go.
+All right. Now, look. This is a really
+important video. It's important for me
+because I lost a lot of Bitcoin. It's
+been super painful, and I don't want you
+to have to lose like I did. I had talked
+to a lot of people who lost a lot of
+Bitcoin in this last hack. And so, I
+don't want that to happen to you either.
+Now, to really understand what's going
+on here, first we have to separate the
+fact from assumptions and and from
+fiction, right? So, here's the facts. On
+July 30th,
+one of the top Bitcoin hardware wallet
+manufacturers called Coinkite, they
+published a security advisor, and it
+covered certain versions of their
+hardware wallet, which is the Coldcard.
+Now, the Coldcard firmware had a
+problem, and they warned that those
+versions could generate weak seed
+phrases. Now, what that means is that,
+you know, your Bitcoin is not stored
+inside this hardware wallet, this
+device. The hardware wallet only holds
+and protects the private key. The
+private key that controls your Bitcoin.
+Now those keys come from your seed
+phrases and the seed phrase, it needs
+like this enormous randomness for the
+encryption. Otherwise, if it's too
+simple, then someone or some powerful
+computer, some AI computer could could
+predict it. They could figure it out.
+Now many of these cold card wallets and
+the users, they created the security but
+they didn't use enough randomness. Then
+of course it makes it easier for certain
+keys to be able to predict that. And I I
+want to be just real clear about this
+first. Like Bitcoin did not break. This
+was not a break in Bitcoin. It was not a
+not a hack on the network. All it was
+was a hack on the key generation process
+for cold card users. Okay, that's it.
+Now once attackers could predict what
+those keys were, they didn't need the
+original device anymore because now they
+could rebuild the wallet somewhere else.
+Now the hardware, the device that you
+had could remain locked in your safe, in
+your bedroom safe deposit box, whatever,
+but the Bitcoin could still disappear
+off of that. Now CoinKite released
+corrected firmware for this and that
+protects seeds that are generated in the
+future with the new updated firmware.
+But of course the software can't go
+back. It can't repair like the old seed.
+It can't add randomness after the fact
+if there's no randomness there. Now it's
+been reported, we don't know exactly,
+but about a hundred thirty million
+dollars USD value of Bitcoin was stolen
+during this cold card wallet exploit.
+And now there's many people that moved
+their Bitcoin from the cold card to
+another wallet manufacturer, Trezor,
+Ledger, something like that. And they
+might not have fixed the problem at all,
+which I'm going to come back to. I'm
+going to talk about how we fix that
+problem. But what's also interesting to
+report right here is that around the
+same time Blockware reported unusual
+Bitcoin movement. We saw roughly a
+hundred and eighty-nine thousand
+inactive Bitcoin move all in a single
+week. Now we can't tell exactly but many
+of it appeared to be heading towards
+exchanges. And just because it's headed
+to an exchange wallet doesn't mean it's
+going to be sold. Um all we can do is
+see the movement, right? But we don't
+know, you know, the intention of the
+motive behind that. We also can't prove
+that every coin involved was on a cold
+card, right? But, the timing around it
+makes a custody response pretty
+reasonable, right? It Of course, it
+doesn't make it certain. The Bitcoin
+blockchain, it's open, right? It's open
+and it's anonymous, right? It's It's not
+private. It's open. It's anonymous. So,
+we can see that movement that's
+happening. We don't know who owns them,
+right? We don't know what wallet they
+were using. And we Of course, we don't
+know why they wanted to move them. But,
+what we can say is it's still pretty
+remarkable. Old Bitcoin became mobile
+during a custody crisis. And the
+response exposed a much bigger [music]
+problem. All right. Now, to understand
+how expensive this problem can become,
+let's go back to the lesson that I had
+to learn the hard way. The The lesson
+that cost me more than 2.8 million
+dollars. So, it was uh July 2017. I was
+down in Mexico with my family on a surf
+trip. And at the time, I was buying
+Bitcoin mining equipment. And I had to
+make one big one one large payment one
+single payment. Um at the time, I was
+restricted of how much I could actually
+transfer send from my account in a
+single day. So, what I was doing is
+every day I would move a little bit into
+the Bitcoin hot wallet that I was using.
+Um it was on my phone. So, that then I'd
+have enough and I could send it all in
+one transaction. And then one day, I
+opened it up as I was transferring more
+on there
+and I realized all the Bitcoin was gone.
+17.8 Bitcoin was gone.
+Now, it was worth about $40,000 back
+then.
+2017. Today, it's worth about 1.1
+million.
+But, the thing is I didn't lose dollars.
+I lost Bitcoin. I lost 17.8 Bitcoin.
+Bitcoin I would still own today cuz I
+haven't sold any of my Bitcoin. That's
+pretty bad. Now, that was on a hot
+wallet in a wallet that I controlled the
+keys for.
+Fast forward to October 2019, and I was
+using an exchange account. I was with I
+had an account with Bittrex. And I
+logged into the Bittrex account. And one
+day, I was there the Bitcoin was there.
+The next time I logged in, the Bitcoin
+balance was zero. More than 27 Bitcoin
+were gone. Now, Bittrex was founded by
+supposedly it was founded by a
+cybersecurity team, engineers, and
+supposedly they had the very best
+security in the world. That was their
+whole pitch, right? And they did the
+security for me, right? They controlled,
+they secured the private keys. I didn't
+have to deal with that. But that created
+a completely different risk. And this
+was a risk I couldn't control. They
+controlled access to my property. Now,
+they they they failed. I hired
+attorneys, I fought through the courts,
+you know, I tried to get my money back
+and I lost. The reason why is I had
+clicked the little box that said I
+accept their terms, and then that
+protected them and not me. So, now here
+we are 2021, and I had to learn the
+painful, expensive lesson twice, right?
+I learned the lesson that most people
+still refuse to accept. I lost Bitcoin
+in my own wallet that I controlled the
+keys. I lost Bitcoin on exchange that
+somebody else held the keys. Those two
+losses totaled nearly 45 Bitcoin. Now,
+today that's about $2.8 million.
+Now, of course, when Bitcoin gets to $1
+million for Bitcoin, that loss becomes
+nearly 45 million. That's the real cost
+of losing a scarce asset to early. You
+see, once a scarce asset leaves your
+control, you lose every future dollar
+that it could become, right? This is why
+I never build a retirement plan that
+requires selling the scarce asset in the
+first place. Now, speaking of retiring
+uh and and with Bitcoin, I recently just
+rebuilt my entire retire off Bitcoin
+toolkit. More than 100,000 people have
+already gone through the original one.
+Now, the new calculator answers two
+questions: What could your Bitcoin
+support? And when could it make work
+optional? I'm going to show you where to
+get it um at the end of the video, or
+I'll just put a link down in the
+description down below. It's all free.
+But let's get back to losing and
+securing Bitcoin, right? Because the
+bigger lesson was this:
+There is no choice between risk and no
+risk. There's no such thing as no risk,
+like risk or no risk. No.
+There's only trade-offs.
+Leaving Bitcoin on an exchange, there's
+risk.
+I can trade key risk for company risk
+over here. I can hold the one seed
+myself and I remove the company risk,
+but if I have one device, one backup, or
+I make one mistake, then it becomes
+fatal. You know, in Bitcoin we say not
+your keys, not your coins, and it's
+true, but it's sort of incomplete. You
+see, self-custody gives you control,
+but it also makes your mistakes
+permanent. Sovereignty and
+responsibility, they have to work
+together. Now, back in 2021, I made a
+video talking about this. I described
+the hidden dependency
+uh this way. Let's play the clip. Is
+because what if, and I'm not accusing
+anybody, but what if a developer at one
+of these companies, Trezor, Ledger,
+Coldcard, etc., what if one of those
+developers put in a backdoor?
+And, you know, when Bitcoin gets to a
+million dollars, they decide to exit
+scam everybody.
+Uh what if what if it wasn't malicious?
+What if they just had a bug that they
+didn't know about? And so, you don't
+want to have all of that dependent on
+one device. And like I said, it's super
+mess a super super messy and
+complicated. All right. Now, I I wasn't
+predicting this very specific incident,
+obviously, but I was naming a class of
+risk that I was worried about. And the
+answer was not finding the perfect
+device, it was changing the failure
+condition altogether, right? That's why
+I moved off of a single security device
+to a multi-signature device. Not because
+multi-sig eliminates risk, right? We
+can't get rid of it. Because one
+compromised key should not be enough to
+lose everything. So, we want to stop
+asking is this safe? Cuz nothing's
+perfectly safe. And we want to ask a
+better question instead. And the better
+question is, what failure am I depending
+on never happening?
+Now, that might sound terrifying. It is.
+Don't lose your Bitcoin like I did.
+Fear's not the solution, right? We have
+to architect the solution. We have to
+learn how to mitigate the risk. The goal
+is not eliminating risk, the goal is
+making sure that one failure can't take
+everything. Now, the first step is
+finding a hidden master key. All right,
+so the answer the hidden master key is
+to diversify the risk, right? I don't
+believe there's one perfect manufacturer
+out there. So instead, we have to
+change, we have to diversify the failure
+condition. Now, this is why most of my
+Bitcoin was moved towards multi-sig
+devices, which basically means that I
+need multiple keys to sign a
+transaction, multiple signatures, right?
+So this way I have three different
+hardware wallets by three different
+manufacturers all on three keys, you
+know, in different locations. That way
+there's no single point of failure,
+right? This is the conclusion I came to
+back in 2021, the one I talked about in
+that video, and I've been using it ever
+since. This way, if one hardware wallet
+has a I don't know a malicious actor,
+right? In inside the company or maybe
+they don't know what they're doing, they
+have oversight on the code, something
+like that, someone breaks into my house
+and steals the hardware wallet,
+whatever, hacker gets into it, whatever,
+I'm still protected because they would
+only get access to one key, but they
+would need two of the three keys to do
+anything. So that's the bigger solution,
+but we still need to be addressing the
+mistake that may still be putting people
+in danger right now today because people
+think the physical device is the wallet,
+but that's not true, right? Because the
+Bitcoin exists on the blockchain, like
+like in the cloud. The hardware device
+is a tool that creates and uses those
+keys, right? So then the recovery words
+are the master instructions that can
+recreate those keys on another
+compatible device, you know, if or or
+when need be. All right, as long as I
+know those words, typically 12 words, I
+can go anywhere in the world, plug those
+12 words in, and I can have it back. We
+have to understand this chain, it's
+pretty simple. Your seed phrase, the
+words, it produces your private keys.
+Those keys control the addresses, and
+control of those addresses controls the
+Bitcoin. So if the original seed was
+exposed, then loading it onto a new
+device doesn't create new keys, right?
+All it does is recreate the old ones. So
+you can move into, you know, I don't
+know, say say move into a new house. You
+can install beautiful new lock, but if
+you keep using a master key that maybe
+everyone already has copies to, the new
+house is still exposed, right? You
+change the lock, but you kept the copied
+master key. So the same thing is true if
+you generate a new address from the same
+seed, it may look new on, you know, the
+blockchain, but it still comes from the
+same root dependency.
+And so a new device with an old seed is
+an old wallet wearing like new hardware.
+So the real migration requires a
+genuinely new, independently generated
+seed. So new keys, a new verified
+address, on-chain transfer from the old
+keys to the new one. So what what does
+this mean?
+It means that if I had a Coldcard and I
+took my seed phrase and I just went to a
+new wallet, another brand, whatever
+brand you want, and I used that seed
+phrase to move my funds to the new
+wallet, I'm still exposed. What I want
+to do is I want to get a new wallet and
+set up a new seed phrase in the new
+wallet. And then I transfer the funds
+from the Coldcard over to the new
+wallet. That way the new wallet and the
+new seed phrase, it's all protected,
+right? Also, just really quick, um I
+know this sounds complex and and it kind
+of is, but so are other financial
+transactions, right? So like buying a
+house is pretty complex, buying a
+business, um opening an investment
+account, it can be, you know, um
+difficult. So we use professionals and
+those professionals help us make it
+easy, but more importantly, they make
+sure that we don't screw it up. Now,
+I've been using Unchained Capital for
+myself, I use it for my parents, my
+sisters, my family, I've been using them
+for years, long before they sponsor my
+podcast, The Mark Moss Show. They don't
+check that out, I'll put the podcast
+link down below, but they sponsor my
+podcast, but that's who I use. And
+Unchained Capital, they help Bitcoin
+holders build collaborative two of three
+multi-signature custody. And then they
+have professional service, they have
+concierges, one-on-one assistance, they
+make it fast, they make it easy, so you
+don't screw it up. Now, Unchained can
+also help with with succession plans,
+like if something were to happen to you,
+your spouse, whatever, to make sure your
+kids get the Bitcoin. Um and again, like
+I said, I've been a customer for years,
+ever since I lost the Bitcoin both ways.
+And I think it's the best way to secure
+your Bitcoin. So, I'm going to put a
+link in the description down below if
+you want to save some money and get it
+set up. Same service I use, I'll link to
+it down below. But, let's keep talking
+about what you need to understand about
+the hardware wallets, because it's
+important to understand that owning
+three hardware wallets doesn't
+automatically give you three layers of
+security. Right? So, even if I have this
+multi-sig setup, if all three devices
+use the same seed, then I don't I don't
+haven't diversified the risk, right? If
+they're all with Coldcard, all three
+keys are Coldcard, then they all three
+can be exploited. You can't have three
+devices holding one seed, right? It's
+just the same dependency. So, the
+architecture changes only when the keys
+are independently generated, and one key
+is not enough to move the money. And
+especially, like I said, I want them
+from all different manufacturers. Now,
+back to a standard single signature
+wallet, one seed produces the key system
+that can spend. And if that seed is
+predicted, if it's stolen, exposed,
+whatever, destroyed, without a backup,
+then the entire balance could be at
+risk.
+If two of three multi-signature wallets,
+then there's three independent keys.
+Now, any two are required to spend that
+transaction. So, there's key A and key
+B, they can sign. Key A and key C, they
+can sign. Or key B and C, they can sign,
+right? But, one key can't enough. It's
+like the movies, you know, it's like
+where they send the nuclear submarine or
+whatever, and like the admiral and the
+president have to put the keys in turn
+at the same time. Now, for that
+independence to be real though,
+each seed should be generated
+independently. And you should not clone
+one seed across three devices.
+Uh that's not diversification. And like
+I said, I want different manufacturers,
+right? That way it reduces the chance
+that one, you know, bug implementation
+or one code defect or one malicious
+actor isn't enough to lose everything.
+And then separating the keys
+geographically and operationally. That
+can reduce the the chance of one theft
+or a fire or a we call it a wrench
+attack, a course of events of someone
+breaking into your house trying to steal
+it. And you got to preserve the wallet
+configuration and the recovery
+instructions, not just the seed phrase,
+right? You also need to plan for
+incapacity, right? Like I said, for
+inheritance, because security that
+nobody else can recover, it becomes a
+permanent loss, right? And this is where
+the Coldcard incident becomes a powerful
+teaching example.
+I hope you didn't lose money in it. I
+know a lot of people who did, but as we
+say, uh smooth seas never made a skilled
+sailor. So, we learn from these things
+and hopefully you can learn from other
+people's mistakes, but what we learned
+is if one key
+in a properly constructed two of three
+vaults was generated by an affected
+Coldcard, an attacker who recovered that
+one key would still need a second
+independent key to spend. They couldn't
+do it.
+The affected key should still be
+replaced, of course, but one compromised
+dependency would not automatically
+become a total loss. It required two
+keys from the same vulnerable process,
+or if the same seed was copied across
+devices, the apparent redundancy could
+be an illusion. Now, I also just want to
+say real quick, it doesn't mean that
+everybody should just rush into a
+multi-sig setup. Every custody model
+removes some risks, but it also adds
+others, right? A hot wallet gives you
+convenience. It can make uh sense for,
+you know, walking around, spending
+money, things like that, but it creates
+more exposure. It's a poor place for
+your life-changing savings. In exchange,
+it reduces their key management, right?
+Because now they're doing it, but it
+adds counterparty risk, legal risk,
+withdrawal, account security risk,
+things like that. A single signature
+hardware wallet removes exchange
+custody, but now concentrates
+responsibility in you, and there's only
+one seed uh to worry about. Okay?
+Then I go to multi-sig self-custody, or
+we call it collaborative custody, and
+then that can tolerate the failure of
+one key, but it adds setup,
+coordination, backup, inheritance
+complexity, things like that. I could
+leave it in a brokerage, I could buy
+like Bitcoin through an ETF, and then I
+get the convenient price exposure to
+Bitcoin in the brokerage account, and I
+don't really have to worry about it
+being stolen. But,
+all I own is like an IOU from my
+brokerage. I don't really actually own
+Bitcoin, right? Now, I don't publish my
+allocations. I don't publish my key
+locations,
+but I don't force every dollar of every
+Bitcoin through one custody rail,
+either. So, I have multiple bank
+accounts, and at each bank uh I have
+multiple banks, and at each bank I have
+multiple bank accounts.
+And so, I keep money across all those
+banks, and then I have money in my
+brokerage accounts, and I have money on
+PayPal and Venmo, and and we have it
+diversified, right? And so, I think
+about Bitcoin sort of the same way. And
+so, you can have Bitcoin um on an
+exchange, you can have Bitcoin through
+your brokerage account, you can have
+Bitcoin through a hardware wallet,
+through a multi-sig, or whatever you
+want to do. You can diversify that. So,
+if one gets lost,
+you don't lose it all. Now,
+I do want to read it one more time, cuz
+this is super important. "Bitcoin did
+not break. The network kept enforcing
+valid signatures exactly as designed.
+The failure was in how some keys were
+generated before those signatures ever
+reached Bitcoin. So, this is not an
+argument against self-custody. It's an
+argument against lazy certainty. Now, if
+your entire security analysis is, you
+know, 'I bought a hardware wallet,
+then I guess I'm safe,' then you haven't
+analyzed the risk. You've repeated the
+marketing. So, self-custody gives you
+sovereignty, but sovereignty without
+competence, without responsibility,
+without backing it up, without
+redundancy, becomes fragility. Okay, and
+I also want to be clear that don't
+respond to this video by panic moving
+Bitcoin. Don't do that. You don't Don't
+don't don't move it until you've fully
+thought through this, right? Respond by
+running a single failure test. Let me
+walk you through it.
+Ask one question.
+What is the one thing that could fail
+and take everything with it? Then you
+got to work through five questions, all
+right? Question one, what actually
+controls my Bitcoin? So, is it an
+exchange account? Is it one seed phrase?
+Is it a two of three signing quorum? Or
+is it a brokerage claim? Question two.
+What single failure could create a total
+loss? So, could it be a compromised
+seed? Um could it be one inaccessible
+custodian? Um maybe one email account?
+Was it one device manufacturer? Or one
+person who has never practiced recovery?
+Question three. If I changed hardware,
+did I create a new independent key?
+Right? Cuz restoring the old words is
+not a new security boundary. A genuinely
+new seed requires verified on-chain
+move. Okay, question four. Can the
+system survive me? Right? Could a
+trusted successor, my wife, my kids,
+whatever, uh could they recover it if I
+were unavailable? If I was dead or
+incapacitated? Or have I created so much
+complexity that nobody else could even
+execute the plan? Question five. Does
+the security match the consequence? See,
+spending money and life-changing savings
+should not require the same custody
+architecture.
+More complexity is justified only when
+it removes more risk than it creates.
+Think about like you can maybe carry
+money around in in your wallet or your
+billfold, right? But like you don't have
+your life savings in there. You have
+enough for spending walking around. I
+don't have to secure it that much. I can
+leave it on my nightstand or dresser.
+Um
+and with a little bit of Bitcoin, maybe
+you have it in your hot wallet, you can
+do that. More requires more security.
+So, what changes after this event is not
+that everyone needs the same wallet.
+What changes that cold storage can no
+longer be the end of the security
+conversation.
+What does not change is the value of
+self-custody. For the right person with
+the right process, it remains one of
+Bitcoin's most powerful properties. What
+you should reconsider though is any
+arrangement where one company, one seed,
+one device, or one mistake could cost
+you everything. Security should scale
+with consequence. Okay, so look, 189,000
+Bitcoin moved in one week. And of
+course, like I said, we can't prove that
+all of it came from the cold card users,
+but the movement exposed something
+bigger. Owning your keys does not
+eliminate trust or responsibility, it
+only relocates them. Leave your Bitcoin
+on an exchange and you depend on the
+institution, its security, its terms,
+and your access to that. Hold one seed
+yourself, you depend on your ability to
+generate it, protect it, back it up, and
+recover it. Use multi-sig and you reduce
+one key risk, but now you accept more
+complexity and coordination. You see,
+every choice is a trade.
+After losing more than 44 Bitcoin, I
+stopped asking which wallet has no risk
+cuz that wallet does not exist. I
+started just asking a better question.
+What single failure could wipe me out?
+And how do I design a system so that
+failure is survivable? Because moving
+Bitcoin is not the same thing as
+removing risk, right? The goal is not to
+eliminate every dependency, that's
+impossible.
+The goal is just to make sure no single
+dependency has the power to destroy you.
+So, that was my expensive mistake. I
+don't want you to make the same
+expensive mistakes, but if you have,
+drop in the comments, let me know if you
+made some expensive mistakes. Also, man,
+calculate what it's going to take for
+you to retire off of Bitcoin with the
+brand new calculator. 100,000 people got
+the past one, it's all free, it's in the
+link in the description down below. And
+as I always say, to your success.
+I'm out.
