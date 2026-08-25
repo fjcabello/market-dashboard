@@ -9,3 +9,4 @@ liquidity_chart.png
 .github/agents/
 actions-runner/
 /download_transcripts.log
+.secrets/
