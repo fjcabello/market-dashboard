@@ -1,0 +1,53 @@
+name: Periodic Synthesis
+
+# Comprueba cada semana (sin usar ningún modelo) si han pasado >= 15 días
+# desde la última síntesis en conclusiones/. Si toca, invoca Claude Code en
+# modo no interactivo (con la suscripción del propio runner, sin API key)
+# para generar los resúmenes nuevos y la síntesis cruzada, y sube el
+# resultado. Si no toca, el job no llega a invocar a Claude.
+
+on:
+  schedule:
+    - cron: "0 8 * * 1"     # comprobación semanal, lunes 8:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  synthesize:
+    runs-on: self-hosted
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Comprobar si toca síntesis
+        id: range
+        run: |
+          RESULT=$(python3 tools/next_synthesis_range.py)
+          if [ "$RESULT" = "SKIP" ]; then
+            echo "No toca todavía (menos de 15 días desde la última síntesis)."
+            echo "due=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "due=true" >> "$GITHUB_OUTPUT"
+            echo "start=$(echo "$RESULT" | cut -d' ' -f1)" >> "$GITHUB_OUTPUT"
+            echo "end=$(echo "$RESULT" | cut -d' ' -f2)" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Generar síntesis con Claude Code
+        if: steps.range.outputs.due == 'true'
+        run: |
+          ~/.npm-global/bin/claude -p "/analyze-transcripts ${{ steps.range.outputs.start }} ${{ steps.range.outputs.end }}" \
+            --permission-mode acceptEdits \
+            --allowedTools "Read,Write,Glob,Grep,Skill"
+
+      - name: Commit changes
+        if: steps.range.outputs.due == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add resumenes/ conclusiones/
+          git diff --staged --quiet || \
+            git commit -m "resumenes: síntesis automática ${{ steps.range.outputs.start }} a ${{ steps.range.outputs.end }}"
+          git push
