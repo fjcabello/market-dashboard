@@ -1,0 +1,34 @@
+# 2026-06-18 — PeterSchiff
+
+**Tesis principal:** Análisis de la **primera reunión del FOMC presidida por Kevin Warsh**, que dejó tipos sin cambios pero salió mucho más dura de lo esperado. Su tesis doble: si Warsh cumple lo que insinúa, **el mercado tiene que caer mucho más**; pero cree que no cumplirá — "cuando llegue el momento, elegirá inflación como todos sus predecesores".
+
+**Puntos clave:**
+- **La decisión:** tipos sin cambios en el **3,50-3,75%**, por **voto unánime 12-0**, con Powell todavía en el comité y votando a favor
+- **Su primera observación, sobre la forma:** el comunicado es **el más corto que recuerda haber leído**. Lo interpreta como que la Fed quiere dar **menos información, no más**. Warsh además ha eliminado la **orientación futura** y se abstuvo de aportar su propio punto al diagrama
+- **La contradicción que señala en el propio comunicado:** promete "entregar estabilidad de precios" pero reafirma a la vez el compromiso de **mantener reservas amplias** en el sistema bancario. Para él, "**las reservas amplias son la inflación**" — no puede tener las dos cosas
+- **El diagrama de puntos ahora apunta a dos subidas de 25 pb** antes de fin de año. Ya no se habla de recortes. Su matiz: aunque suban 50 puntos básicos, **es demasiado poco y demasiado tarde** — harían falta varios cientos de puntos básicos, algo que nadie contempla
+- **Su crítica a los cinco grupos de trabajo de Warsh**, con la analogía política: un comité es lo que se crea cuando **no se quiere resolver un problema** pero se quiere aparentar que se hace algo. Los cinco son: comunicación, **balance de la Fed**, **datos y sus fuentes**, empleo y productividad, y **marco de inflación**
+  - Sobre el del balance: "no hace falta estudiarlo — el balance es demasiado grande y tiene que ser mucho más pequeño"
+  - Sobre el de los datos, su sospecha: "o buscan datos más fiables, o buscan **cómo falsearlos**" — es decir, encontrar una métrica nueva con la que declarar victoria
+  - Sobre el de inflación: "el motor de la inflación **es la propia Fed**, más el Congreso, el gasto deficitario y el crédito fácil. No hay nada que estudiar"
+- **Su desarrollo del "la inflación es una elección"**, frase que Warsh reiteró en la rueda de prensa y con la que Schiff coincide: la Fed elige inflación **porque la alternativa le parece peor** — desplome bursátil e inmobiliario, recesión, y forzar al gobierno a recortar gasto o subir impuestos. "Para ahorrarles a los políticos esa decisión, la Fed crea inflación"
+- **Su explicación de la caída del mercado:** lo que asustó no fue la decisión sino la posibilidad de que **ya no haya "Fed put"**. Y da los movimientos del día: **oro cerró unos 70 dólares abajo**, llegando a caer 110 en mínimos, **pese a que media hora antes del comunicado subía 45**. Cayeron también el Dow, el Nasdaq y las criptomonedas
+- **Su pregunta favorita de la rueda de prensa**, hecha por una periodista británica: *si tan comprometido está con la estabilidad de precios, ¿por qué no sube los tipos ahora mismo?* Warsh **se negó a responder** y remitió al comunicado. Su lectura: **no puede responder, porque no van en serio**
+- Coincide con Warsh en el rechazo a la **curva de Phillips** y en que crecimiento, empleo y precios bajos no son excluyentes — pero añade que eso **lo entrega el mercado libre**, no la política monetaria. Y una precisión suya: en capitalismo de mercado libre "no hay estabilidad de precios, hay **precios que bajan**, que es mejor"
+- Su crítica al objetivo del 2%: Warsh dice fijarse "en lo que está a la izquierda del decimal". Schiff: "¿y si a la derecha hay un nueve? 2,9 es casi tres"
+- **Su objeción institucional:** el Secretario del Tesoro desayuna **cada semana** con el presidente de la Fed, y han publicado fotos. "No quiero que sean amigos" — el Tesoro es "la Secretaría de la Deuda" y presionará por dinero barato, cuando el papel de la Fed debería ser el freno. Menciona déficits de **3,5 a 4 billones anuales**
+- **SpaceX, el otro gran bloque:** salió a **125** y llegó a superar los **200 por acción**, con una capitalización superior a **3 billones**, antes de un retroceso del 5% hoy. Cotiza a unas **120 veces ingresos**
+  - **Su explicación del precio: el float.** Fue la mayor OPV de la historia con **75.000 millones captados**, pero **sólo se vendió el 4% de la compañía** —lo normal es 10-20%—, así que el 96% sigue en manos de insiders y primeros inversores. "El público puja por una oferta minúscula". Su predicción: cuando caiga, será un desplome grande, y mientras tanto **está chupando el aire de otros activos especulativos, sobre todo cripto**
+  - Menciona que **Cathie Wood** ha comprado mucho SpaceX, "lo cual es en sí mismo una razón para evitarlo"
+- **MicroStrategy y STRC, su argumento más elaborado y el reverso exacto del de Mark Moss:**
+  - Bitcoin en **64.150** mientras graba
+  - Por **segunda semana consecutiva**, Strategy ha comprado 100 millones en Bitcoin y captado otros 100 en efectivo **vendiendo acciones ordinarias con descuento sobre el NAV** — lo contrario de su plan original, que era vender acciones con prima. Resultado: **el Bitcoin por acción ha bajado dos semanas seguidas**
+  - **STRC cerró en 89**, su mínimo. Quien compró a 100 hace un mes **ya pierde un 11%, casi el cupón de todo un año**. Recuerda que Saylor decía que los jubilados podían meter ahí su dinero por el 11,5%
+  - **La trampa que describe, y es lo más fino del análisis:** para devolver STRC a 100 tendría que **subir el cupón al 13%**, que es el rendimiento corriente a 89. Pero si lo sube, **quema más a los accionistas ordinarios** y hace la obligación más difícil de sostener. Y si no lo sube, **no puede emitir más** porque nadie compra a 100 lo que se puede comprar a 89
+  - **Por qué no puede salir vendiendo Bitcoin:** "lo intentó con 32 y el mercado implosionó. Si eso era una prueba, la suspendió". No puede vender Bitcoin, no puede emitir más preferentes, así que **sólo le queda sacrificar al accionista ordinario**
+  - Su conclusión: es la **espiral de la muerte** que anunció, "desenrollándose ahora mismo, y casi nadie está hablando de ello"
+- Su respuesta a quienes le recuerdan sus errores pasados con Bitcoin: "sí, lo dije a mil y a diez mil. Pero **Bitcoin no ha hecho nada en cinco años**". Y devuelve el golpe: los expertos que predecían 250.000, 500.000 o un millón "llevan cinco años equivocados — no eran predicciones, era hablar de su propio libro"
+
+**Activos mencionados:** Tipos de la Fed (3,50-3,75%; dos subidas de 25 pb previstas), oro (-70 en el día, tras subir 45 antes del comunicado), Dow, Nasdaq, SpaceX (OPV a 125, máximo >200, capitalización >3 billones, 120x ingresos, float del 4%), Bitcoin (64.150), MicroStrategy/Strategy, STRC/Stretch (89; cupón 11,5%, rendimiento corriente 13%).
+
+**Tono:** bajista en bolsa, Bitcoin, MicroStrategy y SpaceX; escéptico con que la Fed vaya en serio; alcista de fondo en oro pese a la caída del día
