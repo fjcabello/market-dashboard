@@ -1,0 +1,25 @@
+# 2026-07-09 — TradingLatino
+
+**Tesis principal:** La caída a 61.500 se cumple casi al dólar y se acerca la zona de compra, pero pide una vela roja más antes de entrar. El bloque más sustancioso del vídeo no es técnico: argumenta que **a Hyperliquid le quedan los días contados por motivos regulatorios**, y recomienda salir con antelación.
+
+**Puntos clave:**
+- **Bitcoin en 61.818.** El mínimo del día ha sido **61.550** frente a los 61.500 que proyectó: "me equivoqué por 50 pesos". El te-joden de 64.600 y la flecha bajista del lunes se han cumplido
+- **No entra todavía.** La zona de compra la sitúa entre **61.000 y 61.500**, pero quiere ver una vela roja más y el patrón confirmado en el gráfico de una hora — mañana por la mañana, no a la hora del streaming. Su matiz: si sale una vela verde grande aquí, "no sirve ahí; la buena es la siguiente roja"
+- **Su condición para que la tesis alcista siga viva:** el retroceso **no debe perder el mínimo anterior** de 58.000-59.000, y en 4 horas no debe perder los 61.000 —con 500 de margen, 60.100-60.500—. Si eso se cumple, es un quiebre de estructura hacia lateral y luego impulso alcista, con las medias de 10 y 55 estrechándose antes de romper
+- **Repite la fecha:** el **lunes 13 de julio en negro**, con caída esperada. Lo tiene anotado desde días atrás
+- Reconoce el escenario que no le gusta: en diario ve una pauta plana de continuación bajista, y admite que un ABC completo llevaría a **50.000 o menos**. Pero se niega a adelantarlo: "primero tiene que llegar aquí, ¿cómo va a llegar abajo sin pasar por aquí?"
+- **Su consejo de acumulación a un espectador con precio medio de 58.000:** no comprar **nada** de Bitcoin por encima de **40.000**. La siguiente zona de compra tiene que ser por debajo de 40.000. Él dice tener precio medio 58.000
+- **Materias primas, todo mantenido alcista:** oro alcista en diario y 4 horas —admite que "pareciera que me voy a equivocar" y no le gusta la fuerza bajista que está cogiendo, pero mantiene—; plata alcista; **crudo alcista pero ya con aviso**: puso la flecha en **69** y ya toca **75**, así que cuanto más cerca de la media de 55, mayor el riesgo. "Ya va un poquito tarde"
+- **Índices alcistas:** Nasdaq y SP500 arriba. Su resumen: "oro, plata, petróleo alcistas; Nasdaq y SP para arriba; Bitcoin para abajo"
+- **Nvidia, cambio de opinión relevante:** ya no espera la caída a **186** que había marcado antes. La onda C está completa, el precio está por encima del área de resistencia por volumen y "no va a llegar ya". Desde donde está, sigue subiendo. No tiene posición
+- **Tesla:** lateral sin fuerza en ninguna dirección. Compra válida sólo a meses, "definitivamente no" a corto plazo. Quien tenga acciones tardará en ponerse a ganar
+- **El bloque sobre Hyperliquid, lo más argumentado del vídeo:** cita a CZ, el ex-CEO de Binance, que señaló que a él lo encarcelaron por un KYC débil y que Hyperliquid, siendo un exchange descentralizado, **no tiene KYC ninguno**. Su conclusión: la idea es "la máxima expresión de la descentralización" y precisamente por eso no le conviene a quien tiene poder. Recomienda aprovecharlo mientras exista y **salir con antelación**, porque cuando pase, el token "se va a la esquina". Menciona MiCA en Europa como ejemplo de la dirección regulatoria
+- Distingue explícitamente su caso del de Terra: **Hyperliquid no es una estafa**, el riesgo es regulatorio, no fraudulento
+- Cuenta el caso **BONK** como ejemplo de gobernanza mal diseñada: un atacante gastó **4,4 millones** en comprar suficiente token para alcanzar el quórum y aprobó una propuesta que transfirió **20 millones** de la tesorería del DAO a su propia cartera. Su comentario: "a este hombre hay que contratarlo"
+- Aviso sobre HYPE a quien pregunta si llegará a 100: cuidado con creer en un 40% más **después de que ya ha subido un 262%**
+- **Altcoins:** DOT alcista en 4 horas, aunque avisa de que la tendencia de fondo es bajista y los vendedores tienen el control total; **AVAX** bajista hacia **6,15-6,20**; **HYPE** buscar largo en **65**; **TAO** aún con recorrido bajista; **UNI** en resistencia, caída esperada el 13; **CRM/Salesforce** lateral entre 177 y el gap de 160, luego ruptura al alza hacia 185; **USD/COP** bajando en todas las temporalidades
+- Su observación sobre los ciclos, en respuesta a quien pregunta por el mínimo de ciclo: **"los ciclos del mercado ya desaparecieron"**, porque entraron grandes participantes que vienen por el negocio y no por la tecnología
+
+**Activos mencionados:** Bitcoin (61.818; compra 61.000-61.500; no comprar spot sobre 40.000; riesgo a 50.000), oro, plata, crudo (75, alcista tardío), Nasdaq, SP500, Nvidia (sigue subiendo, olvidar 186), Tesla (lateral), DOT, AVAX (6,15-6,20), HYPE (largo en 65, riesgo regulatorio), TAO, UNI, Salesforce/CRM (185), USD/COP, BONK, Hyperliquid.
+
+**Tono:** paciente y bajista a muy corto en Bitcoin sin abandonar el alcismo de fondo; alcista en índices y materias primas; abiertamente preocupado por el riesgo regulatorio de Hyperliquid
