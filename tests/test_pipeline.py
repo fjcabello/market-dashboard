@@ -226,12 +226,66 @@ def test_channels() -> None:
           len({c["name"] for c in canales}) == len(canales))
 
 
+def test_query_metrics() -> None:
+    print("\nquery_metrics")
+    import argparse
+
+    sys.path.insert(0, os.path.join(BASE, "tools"))
+    import query_metrics as qm
+
+    # El CSV va rellenado hacia delante para meter series mensuales en un índice
+    # diario. Si eso llega a los cálculos, los fines de semana cuentan como
+    # sesiones y un horizonte de 21 pasa a ser mes de calendario, no de mercado.
+    idx = pd.date_range("2026-01-01", periods=6, freq="D")
+    s = pd.Series([100.0, 100.0, 101.0, 101.0, 101.0, 102.0], index=idx)
+    check("trading_days quita el relleno hacia delante",
+          list(qm.trading_days(s).values) == [100.0, 101.0, 102.0])
+    check("trading_days conserva la primera observación",
+          qm.trading_days(s).index[0] == idx[0])
+
+    # last_change es lo que evita presentar un dato de hace seis semanas como
+    # si fuera de hoy.
+    check("last_change ignora la cola rellenada", qm.last_change(s) == idx[5])
+
+    df = pd.DataFrame({
+        "SP500": [10.0, 11.0, 12.0, 9.0, 13.0],
+        "T10Y2Y": [0.5, -0.2, -0.3, 0.1, 0.4],
+    }, index=pd.date_range("2026-01-01", periods=5, freq="D"))
+
+    a = argparse.Namespace(cerca_maximo=1.0, caida=None, cuando=None)
+    mask, _ = qm.build_condition(df, df["SP500"], a)
+    # Máximo acumulado: 10, 11, 12, 12, 13. Sólo la fila de 9 queda a más del 1%.
+    check("--cerca-maximo marca las sesiones en máximos",
+          list(mask.values) == [True, True, True, False, True])
+
+    a = argparse.Namespace(cerca_maximo=None, caida=20.0, cuando=None)
+    mask, _ = qm.build_condition(df, df["SP500"], a)
+    check("--caida marca sólo las que están un 20% abajo",
+          list(mask.values) == [False, False, False, True, False])
+
+    a = argparse.Namespace(cerca_maximo=None, caida=None, cuando="T10Y2Y<0")
+    mask, _ = qm.build_condition(df, df["SP500"], a)
+    check("--cuando aplica la condición de otra serie",
+          list(mask.values) == [False, True, True, False, False])
+
+    # Una expresión mal escrita tiene que parar, no colarse como "nada cumple"
+    # y devolver una tabla vacía que parecería un resultado.
+    a = argparse.Namespace(cerca_maximo=None, caida=None, cuando="chorrada")
+    try:
+        qm.build_condition(df, df["SP500"], a)
+        ok = False
+    except SystemExit:
+        ok = True
+    check("una condición inválida aborta en vez de no marcar nada", ok)
+
+
 def main() -> int:
     install_stubs()
     with tempfile.TemporaryDirectory() as tmp:
         test_fetch_liquidity(tmp)
     test_exit_code()
     test_channels()
+    test_query_metrics()
 
     print()
     if FAILURES:

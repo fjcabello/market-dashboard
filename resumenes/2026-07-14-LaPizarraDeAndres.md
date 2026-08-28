@@ -1,0 +1,86 @@
+# 2026-07-14 — LaPizarraDeAndres
+
+**Tesis principal:** Jornada íntegra de un evento presencial con **nueve ponentes** entrevistados por Andrés. No hay una tesis única: el valor está en las discrepancias entre gestores. El eje que atraviesa el día es el **shock energético por el cierre de Ormuz**, y la división entre quienes ven burbuja de IA y quienes no.
+
+*(Transcripción muy larga —unas seis o siete horas de evento— con nueve intervenciones. Este resumen recoge lo sustantivo de cada una.)*
+
+## 1. Gabriela Guerrero (BlackRock / iShares) — indexación
+- BlackRock gestiona **14 billones de dólares**; iShares superó hace dos semanas los **6 billones**. Llevan 25 años indexando
+- **Datos de participación:** en EE.UU. invierte el **80%** de las familias; en Europa **no se llega al 40% (36%)**, y sólo **uno de cada tres adultos** invierte. En Europa se pasó de 102 a **117 millones de inversores** entre 2022 y 2025
+- **España:** los inversores en ETFs crecieron un **169%** desde 2022, de menos de un millón a **2,5 millones**. Más de **un millón de españoles** planea invertir en ETFs en los próximos 12 meses. El perfil que más crece: **18-34 años** y mujeres. Las tres razones que declaran para no invertir: **FOMO** al revés, creer que no se tiene suficiente dinero, y **desconocimiento**
+- **Cómo elegir un ETF, su parte más útil:** el error es pensar que todos son iguales. Lo primero es el ***tracking difference*** —cómo de bien replica— y depende del tipo de réplica (física completa, muestreo o **sintética**, que es un derivado), del tratamiento de dividendos, de los costes operativos, de la fiscalidad (un ETF domiciliado en **Irlanda** tributa mejor) y del **préstamo de valores**, que no es un coste sino un ingreso que *reduce* el tracking difference
+- Insiste en el **coste total de posesión**, no sólo el TER: hay que sumar el **spread**. Y en la liquidez en dos capas: la del propio ETF y la del **activo subyacente**
+- **Su desmontaje del argumento de la burbuja indexada:** según BCG, a cierre de 2024 había **128 billones** en activos gestionados y **sólo el 20% era gestión indexada**; los fondos indexados son el **15%** de la capitalización del mercado y los ETFs el **10%**. Además, el **80% de la negociación de un ETF es en secundario** —sólo se crean o destruyen participaciones el **2% de las veces** en Europa—, y **la gestión activa negocia 22 veces más** que la indexada
+- Sobre la concentración: la reconoce —las 10 mayores de EE.UU. duplicaron su peso de 2013 a 2023— pero apunta que **explican casi el 50% de los beneficios** del índice, y que la concentración no es nueva (Coca-Cola, McDonald's, IBM, Disney en los 60-70)
+- Su dato sobre liquidez en crisis: en marzo de 2020 el ETF de *high yield* americano **negoció 90.000 veces**, mientras sus cinco bonos subyacentes mayores negociaron **37 veces** en un día
+
+## 2. Lola Solana (Santander Small Caps España)
+- **22 años del fondo, sólo 4 en negativo** (2008, 2011, 2018, 2022). Rentabilidad anualizada **del 8% neta de más del 2% de comisiones**, frente al 4% del *benchmark*, el 6,3% del Ibex y el 5,8% de la media de competidores incluidos ETFs. A 5 años, **17% anualizado**; a 10 años, 12%; a 3 años, 30%
+- Su proceso: **250 reuniones con equipos directivos y 50 visitas a fábricas en 2025**. Su motivo para ir a las fábricas: "te dicen que están al 100% de capacidad y resulta que están al 70"
+- **Alineación de intereses:** obliga a su equipo a meter su dinero en el fondo. El bonus es **50% batir al benchmark y 50% hacerlo mejor que el resto de fondos que cotizan en España**, incluidos ETFs
+- **Sus motivos para vender, por orden:** primero **fraude** — "con la mínima sensación de que me maquillan los números, vendo"; cita **Pescanova** y Gowex como casos que le pillaron. Segundo, valoración pico. Tercero, burbuja. Cuarto, factores externos
+- **Su posicionamiento actual:** cartera cíclica apostando por **defensa, inteligencia artificial, energía, materiales y bancos**. Aguantó la caída de marzo sin vender y recuperó
+- Sobre los flujos: llegó a tener **1.300 millones en 2018**, cayó a 200 tras el COVID cuando "la gente salió de España y se fue a indexados, a EE.UU. y a tecnología", y ahora está en **600 millones**. Los fondos españoles pasaron de 190 a 130 cotizadas
+- **Su dato sobre España, que es el más revelador:** el ratio capitalización/PIB era del **110% antes de 2008** y hoy está en el **60%**, tras haber estado en el 40%. "España va bien, crecemos en PIB, pero nuestro mercado de capitales no se hace eco". Su explicación: **no salen empresas a bolsa** —Mercadona y El Corte Inglés no cotizan—, y los empresarios prefieren "el 80% de una compañía pequeña al 30% de una multinacional"
+- Prefiere **empresas familiares** con buen gobierno corporativo, por el *skin in the game*. Su primera pregunta a un equipo directivo es siempre **cómo está estructurada su remuneración**
+
+## 3. Javier Ruiz (Horos AM) — value
+- Sus cinco filtros: no invertir donde no sabe dónde estará la compañía en 5-7 años —descarta **tecnología cambiante, banca y farma**, su círculo de competencia—; **balance muy sólido**, con caja neta o muy poca deuda; equipo directivo alineado; **foso competitivo**; y buscar situaciones especiales
+- Su lección sobre la deuda, que Andrés subraya como patrón común entre veteranos: "**si tardas 5 años en acertar, es lo mismo que equivocarte**", y ahí la deuda va en tu contra
+- Sobre analizar directivos: le importa **más el histórico de decisiones de los últimos 10 años** —sobre todo de asignación de capital— que lo que le cuenten en una reunión. "Las palabras se las lleva el viento"
+- **Su caso de inversión reciente: Booking.** Estuvieron dentro de 2014 a 2019 y han vuelto **este primer trimestre**. La acción llegó a caer **cerca del 40%** por el miedo a la IA, en un contexto donde el software cayó **hasta un 60-70%**. Su tesis: la amenaza de la IA no es tan real aquí, y se parece a lo que pasó con Google — "es un mal necesario para captar clientes; pago al Claude de turno o al OpenAI de turno para que me encuentren, **pero la relación con el hotelero es mía**". Compran a **9,5 veces** flujo de caja creciente con recompras, y le ven un **80% de potencial**
+- **Su técnica favorita, tomada de Charlie Munger ("invert"):** en vez de calcular el potencial, **coger el modelo y ver qué tiene que pasar para que el precio actual sea el correcto**. Con Booking en 2014, el mercado descontaba un **2% de crecimiento** cuando la compañía venía creciendo al 15-20% — "no sé si es un 10 o un 15, pero un 2 no es"
+
+## 4. Ponente sobre regulación y certificación
+- Bloque sobre MiFID, la protección al inversor no sofisticado y la **guía 7/2014 de la CNMV**: para asesorar financieramente en España hace falta certificación reconocida, con horas lectivas, evaluación y **mantenimiento periódico**
+
+## 5. Javier López (Bright Capital) — renta fija corporativa
+- Objetivo del fondo: **Euríbor + 300 puntos básicos**, sin benchmark. Es **el número uno de su categoría a 10 años** en la clasificación de Citywire
+- **Su frase del día:** "estamos en **los mercados más estúpidos de la historia**, con mayúsculas". Más que 2021, que al menos se corrigió — y añade que la corrección de 2022 "no ocurrió por nada real: se pusieron unos señores a subir tipos del 0 al 4 y la gente se asustó"
+- Recuerda que en 2021 el volumen de **SPACs** llegó a representar algunas semanas **el 10% del PIB americano**
+- **Su comparación con el año 2000, contra el consenso:** rechaza el mito de que estas empresas son mucho mejores que las de entonces. **"La Microsoft del año 2000 era un monopolio que no se gastaba un duro"**, frente a unos que van a gastar 300.000 millones en capex sin saber cómo rentabilizarlo. Y **"Intel en el año 2000 era una empresa mucho mejor que Nvidia"**, porque estaba verticalmente integrada — fabricaba, diseñaba y era dueña de la arquitectura **x86**
+- **Su posicionamiento, que es la prueba de que se lo cree:** durante 2025 tuvo **el 16% del fondo en efectivo**, algo insólito en renta fija
+- **Su indicador único: el diferencial crediticio.** El *high yield* ha pagado históricamente unos **400 puntos básicos** de media; el año pasado estuvo en **200 y pico**, uno de los mínimos históricos. Su lectura: "el mercado te está diciendo que es **el peor momento de tu vida para asumir riesgo de crédito**, porque está mal remunerado"
+- **Su aviso conceptual más importante:** la rentabilidad a vencimiento **es una promesa, no un hecho** — requiere mantener el bono, reinvertir cupones y que la empresa no quiebre. "Lo que veis en el bolsillo son **rendimientos realizados**"
+- Su consejo a los jóvenes: leer, y publicar tesis propias en plataformas como **SumZero, Seeking Alpha o Value Investors Club**, donde el sistema es meritocrático y a veces salen ofertas de trabajo. "El mejor currículum son vuestras propias tesis de inversión"
+
+## 6. Agustín Márquez (HWK Tech Investment) — la visión alcista de la tecnología
+- HWK es **la única gestora española no bancaria especializada íntegramente en tecnología**
+- **La cifra del capex:** **750.000 millones de dólares**, "algo parecido a dos tercios del PIB español". Su pregunta: ¿de dónde sale el beneficio que justifique eso, si una suscripción son 20 €?
+- **Su respuesta —la monetización está en las empresas, no en los particulares— con datos:** ChatGPT reconoce que a finales de 2025 **uno de cada cinco americanos lo usaba a diario** y el **80%** lo había usado al menos una vez en seis meses, con ~500 millones de usuarios. Los ingresos de cloud de Google crecieron un **65% interanual** en el último trimestre
+- **Su ejemplo más concreto:** Microsoft **canceló su acuerdo con Anthropic** porque su factura se desbordaba — había pasado a pagar decenas de miles de millones anuales por Claude para programar. Lo lee como prueba de que **las empresas ya están monetizando los modelos**
+- **Su matiz clave contra la tesis de burbuja:** la mayor parte de estas inversiones se hacen **con liquidez propia, no con deuda**. El endeudamiento que hay es **endógeno entre ellos** (OpenAI con Microsoft, Anthropic con Google), no bancario ni emisión, "donde los tipos te pueden subir de un día para otro". Su conclusión: "puede haber burbuja, puede, **pero hoy los síntomas son positivos**"
+- Sobre el cambio de los modelos en un año: razonamiento, multimodalidad y lo **agéntico**. Su ejemplo: dos españoles con **1.500 €** hicieron un cortometraje de animación con **Runway**
+- Cita a **Larry Page** respondiendo a la pregunta de la burbuja: **"prefiero quebrar que perderme esta carrera"**
+- **El 80% de su cartera** está en el *stack* de IA en sus distintas capas
+
+## 7. Nicolás Ginés (Carmignac) — la visión del shock energético
+- Carmignac gestiona unos **40.000 millones de euros**
+- **Su relato del año:** a finales de 2025 y principios de 2026 todo pintaba bien — crecimiento moderado, bancos centrales vigilantes, inflación controlada y **el petróleo en 50-60 en enero**. Entonces EE.UU. interviene en Irán, se cierra Ormuz y desaparece **el 20% del tránsito mundial de petróleo**
+- **El resultado:** el Brent por encima de **100**, llegando a **110-115**, con el spot aún peor. **"Hemos doblado el precio de la energía"**. Y subraya el error de consenso: todos los *research* decían que el estrecho reabriría en días o semanas porque "el ejército iraní eran cuatro y el del tambor" — y sigue cerrado
+- **Su tesis contra el consenso desinflacionista:** la IA es **inflacionista**, no lo contrario, porque los centros de datos "chupan energía" y la electricidad no es barata. Suma la demografía y la expulsión de mano de obra migrante — "las fresas con nata de este verano las va a recoger alguien que cobra más". Y remata: **"el mercado no lo está descontando"**
+- **Su aviso de posicionamiento, que es el más operativo del día:** ahora mismo **las inversiones de casi todo el mundo están en dos cosas, energía y tecnología/IA**. Si la inflación tira y los bancos centrales vuelven a subir tipos, **esas compañías van a sufrir**. Su umbral: **a partir del 5% en el bono americano empieza la tensión** — "si el Tesoro me paga un 5 libre de riesgo, ¿para qué me arriesgo?"
+- **La contradicción que señala:** el bono americano a 20 años paga **5,10-5,20%** y un bono "medio basurilla" paga un 6. Su explicación: exceso de liquidez y gestión pasiva obligada a comprar. Eso no se corrige hasta que llegue una recesión y suban los impagos
+- **Su dato sobre la demanda extranjera de deuda americana:** lleva **cuatro años cayendo sin parar**. "Los inversores americanos no han perdido la fe; el extranjero sí"
+
+## 8. Beltrán Parages (azValor)
+- Socio fundador en 2015 con Álvaro Guzmán de Lázaro, Fernando Bernad y Sergio Fernández-Pacheco, tras Bestinver
+- **Su tesis del cobre, contada de principio a fin:** la formularon en **2017-2018**, antes de que existiera el discurso de la IA. Su argumento: un coche eléctrico lleva **cinco veces más cobre** que uno de combustión, y los aerogeneradores y la digitalización también lo consumen — pero el mercado descontaba el cobre a 4.000 de forma permanente
+- **Su explicación de por qué existía esa oportunidad, que es lo más interesante:** el **riesgo de agencia**. "Si inviertes en cobre en 2017 y te equivocas trabajando para un tercero con un consejo de administración, quedas mal". Nadie quería estar ahí porque **no estaba socialmente bien visto**: "todos queremos electricidad y datos en casa, pero no nos gusta que se abran las minas"
+- **El resultado:** compraron **Freeport-McMoRan** con el equity en 8.000 millones y 10.000 de deuda; en 2021 ganó 5.000-6.000 millones y repitió al siguiente. "Se hizo largo, perdí un poco de pelo ahí, pero pagó muy bien". El fondo lleva un **13% anualizado a 10 años**
+- Su filosofía sobre errores, ilustrada con *Moneyball*: **"esto no va de pelotazos"**, va de rentabilidades razonables recurrentes con poco riesgo, minimizando las colas negativas. Los *home runs* —Consol Energy comprada a 30, caída a 3 y luego a 120; Cameco desde 5,47— "los regala el mercado"
+- Su anécdota sobre la burbuja del 2000: la señora que limpiaba la oficina les decía "ustedes serán muy listos, pero yo con Terra me estoy forrando". **Terra pasó de 140 a 3**
+- Cita a **John Bogle** reconociendo que la gestión indexada deja de tener sentido a partir de cierto punto — y matiza que llamarla "pasiva" es impreciso, porque **el peso de las compañías en el índice es una decisión muy activa**
+
+## 9. Carlos Val-Carreres — small caps
+- **Su tesis, con datos de consenso de Bloomberg, no opinión propia:** los analistas esperan que las **pequeñas compañías americanas**, con márgenes operativos en torno al **6%** durante diez años, mejoren hasta el **12%** — es decir, **doblar** —, mientras esperan seis puntos de mejora para el S&P, que va de 16 a 22. "La mejora se espera para el conjunto de la economía, pero pasar de 6 a 12 es doblar"
+- **Valoración:** el S&P cotiza a casi **22 veces** y, si se cumple todo el crecimiento, a **17 veces beneficios de 2028**. Las pequeñas, europeas y americanas, a **poco más de 11 veces**. Su conclusión: misma mejora de márgenes en porcentaje **al doble**, pagando cinco o seis veces menos
+- Su cartera: **10 veces beneficios, casi sin deuda**, compañías que reparten sólo el **35%** del beneficio y reinvierten el resto. Le ve **más del 100% de potencial**
+- **Su matiz sobre riesgo:** "las pequeñas tienen más **volatilidad**, pero yo veo menos **riesgo** estando invertido aquí"
+- **Su concepto propio, "VETAM"** (*value enhancement through active management*): crear valor con la rotación. Con la guerra, sus compañías de energía subieron por encima de su precio objetivo, **vendieron y rotaron** a otras — su índice interno de potencial pasó del 18 al 31 pese a que la cartera está un 30% arriba. "O me he vuelto muy idiota y he llenado la cartera de *value traps*, o hemos incrementado el potencial"
+- Su duda abierta sobre **Booking** —justo lo contrario de la tesis de Horos—: si los agentes de IA pueden reservar hotel directamente, ¿qué pasa con las intermediarias que se llevan el 15-20%? **"No lo sé. Lo que sé es que yo no quiero estar en esa guerra"**
+- Cierra con un bloque sobre gurús, ilustrado con **Cathie Wood**: "ella se ha hecho multimillonaria, pero sus inversores…"
+
+**Activos y temas mencionados:** ETFs e indexados (iShares, tracking difference, réplica sintética), small caps españolas (Santander Small Caps), defensa, IA, energía y materiales, bancos, Booking (9,5x, +80% potencial según Horos; duda estructural según Val-Carreres), Freeport-McMoRan, Consol Energy, Cameco, cobre, Brent (100-115), Nvidia frente a Intel del año 2000, Microsoft, Google/Alphabet (cloud +65%), OpenAI, Anthropic, Runway, bono americano a 20 años (5,10-5,20%), high yield (spread 200 pb frente a 400 histórico), S&P 500 (22x; 17x sobre 2028), small caps americanas y europeas (11x), Terra, Pescanova, Gowex, Cathie Wood/ARK.
+
+**Tono:** plural y deliberadamente contradictorio. HWK claramente alcista en IA; Bright Capital y Carmignac abiertamente escépticos con las valoraciones y preocupados por la inflación energética; azValor y Val-Carreres alcistas en materias primas y en pequeñas compañías; BlackRock defendiendo la indexación con datos

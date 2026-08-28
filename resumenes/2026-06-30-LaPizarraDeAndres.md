@@ -1,0 +1,37 @@
+# 2026-06-30 — LaPizarraDeAndres
+
+**Tesis principal:** Reacciona a una entrevista de **Jeremy Grantham** en *The Diary of a CEO* —5,6 millones de visitas en cuatro días— donde sostiene que estamos en **la mayor burbuja de inversión de la historia**. Andrés comparte el diagnóstico de valoración pero matiza el catastrofismo, y avisa desde el principio de que el material está sesgado.
+
+*(Vídeo de comentario sobre contenido ajeno: la tesis es de Grantham, los matices son de Andrés.)*
+
+**Puntos clave de Grantham:**
+- Su credencial: su firma (GMO) llegó a gestionar **165.000 millones** y hoy gestiona unos 85.000. Dice donar el 90-95% de su patrimonio
+- **Su definición de burbuja, que es su mejor aportación:** la gente cree que una burbuja es un fraude, y es justo lo contrario — **las grandes burbujas ocurren siempre alrededor de ideas muy importantes y reales**. El ferrocarril iba a cambiar el mundo, y por eso todos metieron su dinero. El problema no es la idea, es la **sobreinversión**
+- Su ejemplo canónico: **Amazon subió 607 veces y luego cayó un 92%** en el pinchazo tecnológico — "y de los restos heredó el mundo del comercio minorista"
+- **Su historial de precedentes:** ferrocarriles, coches, transistores, internet. El Nasdaq cayó un **82%** en la puntocom. Y la mayor de todas para él fue **Japón**, que llegó a valer más que EE.UU. con un **PER de 65** frente al máximo estadounidense de 35
+- **Su pronóstico:** las que más han subido caerían "no sería raro" un **70%**. Andrés añade su lectura: eso implicaría un Nasdaq cayendo entre un 40 y un 50%
+- **Su crítica al sector, que es la parte más incómoda:** "nunca recibirás de un asesor el consejo de salirte del mercado, porque es mal negocio". Y lo ilustra con una anécdota: en un congreso ante **1.200 personas**, pidió que levantaran la mano los que se consideraban expertos a tiempo completo — **400 manos**. Les preguntó si un S&P pasando de 31 a 17 veces beneficios garantizaría un mercado bajista mayor: **los 400 dijeron que sí**. Y si creían que pasaría: **el 99%**. Mientras tanto, quienes los representaban comercialmente estaban en el estrado diciendo "Jeremy, no te emociones, saldremos del paso"
+  - Su explicación del incentivo: "en un mercado bajista todo el mundo se queda paralizado; **en uno alcista te despiden al instante** porque tu colega del fondo de pensiones está ganando dinero y tú no"
+- **Sobre las Siete Magníficas, su argumento más original:** mirando atrás, cada una **dominaba un negocio distinto, casi en monopolio y a escala global** — Tesla en eléctricos, Apple en el smartphone, Microsoft en software, Meta en redes, Google en búsqueda. Mirando adelante, **las siete están peleando en el mismo mercado, la IA**, y se cree que todo será para el primero que llegue. "No podría ser más diferente: siete monopolios ordenados convertidos en siete peleando en el mismo ring"
+- **SpaceX, su ejemplo de techo de euforia:** declara ser **inversor desde muy pronto** —entró cuando valía en torno a 30.000 millones y hoy vale un billón, unas 30 veces—, y aun así dice que **su folleto describe un mercado direccionable de un cuarto del PIB mundial** y habla de minería de asteroides: "dentro de 50 o 100 años se contarán historias sobre el folleto de SpaceX como se cuentan de la Burbuja de los Mares del Sur". Su tesis original al invertir era **Starlink**, no la IA
+  - **Su descripción del método de Musk**, que Andrés destaca: infla la acción a cuatro o cinco veces lo que vale sobre el papel, **vende un paquete grande a ese precio**, usa el dinero para construir una gigafactoría, sigue contando la historia, la acción vuelve a subir cinco veces, vende otro paquete. Andrés lo compara con lo que intentó MicroStrategy
+- **Su cartera recomendada, y es lo más accionable:** renta variable **no estadounidense**, sólo un **30% de renta variable americana**, un **5-10% en metales** (le da igual oro o plata), algo de inmobiliario y el resto en bonos. Andrés lo traduce: una cartera equilibrada tipo 60/40, pero con la parte de renta variable deliberadamente fuera de EE.UU.
+- **Sobre vivienda:** está cara por estándares históricos — de las **3-4 veces el ingreso familiar anual** de antaño a **más de 10 hoy**. No descarta caídas del 30%, y aun así "seguiría siendo cara: bajaría a siete veces el ingreso familiar". Su pregunta al entrevistador: con **formación de familias en descenso** y casas carísimas, ¿qué crees que va a pasar?
+- **Sobre cripto, muy tajante:** un sinsentido que **no facilita nada salvo mover dinero de delincuentes**, y que puede irse a cero. Reconoce que "sirve maravillosamente para especular"
+- **Sobre la IA:** cree que **cambiará todo**, pero lo que le llama la atención es la **ausencia total de consenso** — los premios Nobel discrepan violentamente entre sí, y los expertos corporativos también
+- **Su consejo a un joven de 33 años que quiera hacerse rico:** entrar en una firma líder de la ola que viene, **asumir mucho riesgo, no ser conservador, trabajar duro y pensar fuera de lo común**. Y a los fundadores: **levantar todo el capital posible ahora**, porque cuando llegue el colapso no se podrá
+
+**Los matices de Andrés, que es donde aporta él:**
+- Avisa dos veces de que el material es **catastrofista y es sólo una opinión**, aunque de alguien con mucho recorrido
+- **Su discrepancia principal:** cree que la caída sería **menor que en los precedentes** porque muchas de las líderes de la IA **son buenas empresas y no están tan caras** — cita Amazon y Microsoft. "Habrá empresas que no van a caer un 80%"
+- **Está de acuerdo en lo esencial:** el mercado estadounidense está lo bastante caro como para **no ser la parte fundamental de una cartera**. Y añade su versión más suave: ir 100% S&P 500 "no tiene sentido ni siquiera dentro de la parte de renta variable", aunque **algo de americana sí hay que llevar por si uno se equivoca**
+- Sobre cripto: comparte la dirección pero no el tono — no diría que se van a cero, pero sí que **hoy se paga una volatilidad altísima por una utilidad prácticamente nula**
+- **Su corrección a Grantham:** no es del todo cierto que nadie avise; recuerda un estudio de una gran casa —Goldman o JP Morgan— que proyecta el **S&P subiendo apenas un ~3% anual a diez años**
+- Sobre inmobiliario: si se compra, tiene que ser **donde la demanda siga alta y haya entrada neta de población**. Menciona que en España la vivienda media está en torno a **12 veces el salario familiar anual**
+- **Su preferencia declarada:** prefiere el **value internacional**, porque un gestor value rara vez se va a EE.UU. y el mandato internacional le permite comprar en Europa, Asia o Australia
+- Añade un aviso propio sobre emergentes: **también tienen un componente tecnológico importante**, sobre todo Corea, que es lo que los ha hecho subir
+- Comenta con ironía el bajo nivel del entrevistador, que pregunta qué es un bono y cómo se compra: "esto te indica el conocimiento promedio"
+
+**Activos mencionados:** S&P 500 (caro; recomienda máximo 30% de la renta variable), Nasdaq, Siete Magníficas (Tesla, Apple, Microsoft, Meta, Amazon, Google), SpaceX (~1 billón; Grantham entró en ~30.000 M), Tesla, Amazon (+607x y luego -92%), oro y plata (5-10%), bonos (10 años americano ~4,46%, Apple ~4,7%), inmobiliario, Bitcoin y cripto, Japón (PER 65 en su burbuja), emergentes.
+
+**Tono:** prudente y de valoración; escéptico con la renta variable estadounidense y con cripto; constructivo con las grandes tecnológicas de calidad frente al catastrofismo de Grantham

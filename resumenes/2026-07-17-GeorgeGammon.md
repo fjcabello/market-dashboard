@@ -1,0 +1,25 @@
+# 2026-07-17 — GeorgeGammon
+
+**Tesis principal:** Mientras todo el mundo mira a Oriente Medio, el crédito privado sigue ahí y es mejor indicador de la economía. Comenta un artículo de Ed Dowd: el crédito privado es el nuevo mercado de bonos basura, pero **sin transparencia, sin liquidez y sin valoración diaria** — y está a punto de someterse a un test de estrés.
+
+**Puntos clave:**
+- Su marco: lo que se vendió como ventaja del crédito privado —menos volatilidad reportada— **no es una virtud sino un defecto**, porque esa menor volatilidad viene de que **no hay valoración diaria a mercado**, es decir, no hay descubrimiento de precios
+- **Su analogía central**, tomada de *The Big Short*: cuando preguntan a los de Goldman cómo pueden valorar algo a 100 centavos por dólar con todo el subyacente deteriorándose, la respuesta es "porque es nuestro precio y lo ponemos donde queramos". Su punto: **el precio se queda en 100 hasta que deja de estarlo**, y entonces no baja a 99 sino a 50, 40, 30, 20
+- **Cómo nació el problema, y su tesis política:** el crédito privado nace de las cenizas de la crisis financiera. Los reguladores —nombra a Dodd y Frank— prohibieron a los bancos prestar a los malos deudores. La respuesta del sistema fue añadir un escalón: **el banco presta al fondo de crédito privado, que tiene "buena calificación", y el fondo presta al deudor de 500 de scoring**. Su formulación: los pirómanos y los bomberos son los mismos
+- **El dato que dice que le voló la cabeza:** la calidad crediticia media del mercado público de bonos basura **ha mejorado** — y eso es mala noticia, no buena. No porque las empresas hayan mejorado, sino porque **la basura se ha mudado del mercado transparente a la caja negra**. Las peores compañías son precisamente las que huyen de la luz
+- **Su argumento sobre por qué el contenido tiene que ser malo:** los fondos apuntan a empresas medianas con ingresos de entre 10 y 100 millones, pero la cantidad de dinero que entra en el sector supera con mucho el número de buenas operaciones disponibles. Y a los gestores les importa el **2% de comisión de gestión, no el 20% de éxito**, así que su incentivo es acumular activos bajo gestión, no acertar
+- **El gráfico que califica de más importante que ha visto en el último mes:** entre 2021 y 2024 el motor del crédito bancario fue el inmobiliario y los préstamos comerciales e industriales; **desde 2023 esa partida se ha desplomado a niveles de recesión**, mientras crece "el resto de préstamos y arrendamientos". Su lectura: el crecimiento de M2 del que todos hablan **no va a la economía real, va a crédito privado y a deuda de margen** — subprime empresarial y especulación con ETFs apalancados sobre las Mag 7
+- Matiza sobre M2: sí está subiendo, pero **no más de lo normal**, simplemente parte de un nivel extremadamente bajo
+- Recuerda los concursos ya vistos desde el cuarto trimestre pasado — **First Brands y Tricolor** (subprime de automoción) — para insistir en que la exposición **no es sólo a empresas de software**: "si coges cualquier categoría de basura tóxica, está en la caja negra"
+- Nombra a los actores: BlackRock, **Blackstone, Apollo, Cliffwater, Blue Owl** y muchos más apareciendo cada semana
+- Cita a **PIMCO** diciendo que **"el ciclo de impagos ha comenzado"** y que las pérdidas serán mayores de lo esperado. Su comentario: mayores de lo esperado **por quién**; para él van por debajo de lo que esperaba
+- **El dato que dice desconocer y que le parece clave: el 50% de la construcción de centros de datos de IA se financió con crédito privado.** De ahí su escenario final: si el capital se retrae, **la financiación de la IA se vuelve prohibitivamente cara y se pausa**, con el impacto consiguiente en las cotizaciones
+- **El mecanismo de contagio que le preocupa:** las pérdidas acabarán en fondos de pensiones, aseguradoras, gestoras y grandes patrimonios. Y como los propios fondos **apalancan el dinero del inversor pidiendo prestado al banco**, un recorte del 5% en el activo no es un 5% de pérdida. Eso eleva el riesgo de contraparte, los bancos reducen su disposición a prestar, se seca la liquidez — y **una crisis financiera es exactamente eso: que se detiene la circulación de dinero y crédito**
+- Menciona de pasada la **divergencia entre el Dow y el Nasdaq** como señal, y un indicador propio con datos desde 1971 que daría un **67% de probabilidad de mercado bajista** frente a un 33% de que no lo haya
+- Aclara explícitamente su posición: **no está corto en el mercado**. Y su regla de conducta: "hay que montar la cartera para el mundo tal como es, no como te gustaría que fuera"
+
+**Activos mencionados:** Crédito privado (BlackRock, Blackstone, Apollo, Cliffwater, Blue Owl), bonos basura públicos, M2, deuda de margen, ETFs apalancados sobre las Mag 7, First Brands, Tricolor, centros de datos de IA, Dow y Nasdaq (divergencia).
+
+**Tono:** bajista de fondo sobre crédito y economía, sin posición corta; alerta sistémica más que llamada operativa
+
+*(El vídeo es un comentario sobre un artículo de Ed Dowd publicado en Zero Hedge y en su Substack, "Beyond the Narrative".)*
