@@ -1,0 +1,38 @@
+name: Daily Resumenes
+
+# Genera diariamente, justo después de la descarga de transcripts (09:00 UTC),
+# los resúmenes que falten en resumenes/ con el mismo detalle que los
+# existentes. No genera ninguna síntesis cruzada (eso lo hace
+# periodic_synthesis.yml por separado, cada ~15 días). Corre en el runner
+# propio con la suscripción de Claude Code ya autenticada, sin coste de API.
+
+on:
+  schedule:
+    - cron: "0 10 * * *"     # 10:00 UTC, 1h después de daily_transcripts.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  resumenes:
+    runs-on: self-hosted
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generar resúmenes con Claude Code
+        run: |
+          ~/.npm-global/bin/claude -p "/daily-resumenes" \
+            --permission-mode acceptEdits \
+            --allowedTools "Read,Write,Bash,Glob,Grep,Skill"
+
+      - name: Commit changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add resumenes/
+          git diff --staged --quiet || \
+            git commit -m "resumenes: generación diaria automática $(date -u +%Y-%m-%d)"
+          git push
