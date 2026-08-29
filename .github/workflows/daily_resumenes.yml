@@ -22,6 +22,12 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      - name: Diagnóstico de cobertura
+        run: |
+          echo "HEAD: $(git rev-parse HEAD)"
+          echo "transcripts: $(ls transcripts/*.txt | wc -l)"
+          echo "resumenes: $(ls resumenes/*.md | wc -l)"
+
       - name: Generar resúmenes con Claude Code
         run: |
           ~/.npm-global/bin/claude -p "/daily-resumenes" \
