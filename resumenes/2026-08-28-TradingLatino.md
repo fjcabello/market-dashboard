@@ -31,7 +31,7 @@
 - **ABGO:** operó él mismo — entrada en **368, salida en 373-374**. Objetivo de rebote hacia **380** para vender
 - **Snowflake:** fuerza alcista clara, sin divergencia relevante en diario
 - **LMT (Lockheed Martin):** tras una caída rápida del ~9% (onda 2), la deja alcista de nuevo
-- **Walmart:** fuera todavía, en lateral bajista en 4 horas
+- **Walmart:** fuera todavía, en lateral bajista en 4 horas *(el clip del 2026-08-29 amplía este razonamiento: bajista también en 1 hora, dentro de un lateral de fondo en semanal)*
 - **Nasdaq:** rebote alcista esperado dentro del lateral
 - **Uber:** divergencia bajista en una hora; en 4 horas bajista, objetivo de caída en zona **71-73**
 - **Caterpillar:** bajista en diario y 4 horas, pero **alcista en una hora** para quien opera esa temporalidad específicamente, y alcista también en semanal
