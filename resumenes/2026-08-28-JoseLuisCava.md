@@ -30,3 +30,5 @@
 **Tono:** cínico con la coordinación entre Bessent, Warsh y Druckenmiller, a la que considera puro teatro; escéptico con el argumento de subir tipos; y constructivo de fondo con bolsas y bonos largos a través del *short squeeze* que espera en los CTA
 
 *(Vídeo de opinión y especulación sobre motivaciones políticas, publicado el mismo día del discurso de Warsh en Jackson Hole; sus previsiones sobre lo que diría Warsh esa tarde no están verificadas en esta transcripción.)*
+
+**Nota cruzada:** retoma y desarrolla esta misma tesis, con cifras concretas del balance de la Fed, en [[2026-08-31-JoseLuisCava]].
