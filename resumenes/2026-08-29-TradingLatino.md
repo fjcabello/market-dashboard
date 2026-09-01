@@ -10,4 +10,6 @@
 
 **Activos mencionados:** Bitcoin (crítica de sentimiento sobre 80.000, sin nivel operativo nuevo), Walmart (fuera, bajista en 4h y 1h dentro de un lateral).
 
+**Nota cruzada:** confirma la misma postura de no operar Walmart en [[2026-09-01-TradingLatino]].
+
 **Tono:** neutro/cauto — sin posicionamiento nuevo, solo advertencia sobre sentimiento de mercado y confirmación de estar fuera de Walmart.
