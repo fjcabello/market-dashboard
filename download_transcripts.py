@@ -18,7 +18,11 @@ from datetime import datetime
 
 import requests
 from youtube_transcript_api import YouTubeTranscriptApi
-from youtube_transcript_api._errors import NoTranscriptFound, TranscriptsDisabled
+from youtube_transcript_api._errors import (
+    NoTranscriptFound,
+    TranscriptsDisabled,
+    VideoUnplayable,
+)
 from youtube_transcript_api.proxies import GenericProxyConfig, WebshareProxyConfig
 
 # ── Configuración ────────────────────────────────────────────────────────────
@@ -382,6 +386,17 @@ def process_channel(
         except NoTranscriptFound:
             log.warning("  [SKIP] %s — no hay transcript disponible", video_id)
             skips += 1
+        except VideoUnplayable as exc:
+            reason = exc.reason or ""
+            if "will begin in" in reason:
+                # Directo programado que aún no ha empezado: no es un fallo,
+                # se recuperará solo en una ejecución posterior.
+                log.warning("  [SKIP] %s — directo aún no empezado (%s)", video_id, reason)
+                skips += 1
+            else:
+                log.error("  [ERR]  %s — %s", video_id, exc)
+                errors += 1
+                error_ids.append(f"{video_id} — {exc}")
         except Exception as exc:
             log.error("  [ERR]  %s — %s", video_id, exc)
             errors += 1
