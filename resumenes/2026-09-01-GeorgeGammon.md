@@ -28,3 +28,5 @@
 **Activos mencionados:** Petróleo WTI (+5,5% en el día, sobre 90 $/barril), diésel EE.UU. (3,45 $ → 5,59 $/galón, con riesgo de superar 6 $), crack spread del diésel (máximo histórico, >100 $), S&P 500 (retorno esperado a 10 años negativo según PER, sin nivel concreto).
 
 **Tono:** bajista sobre la economía real (recesión probable por la combinación de petróleo/diésel al alza y empleo débil), cauteloso/escéptico sobre la bolsa a medio plazo (cita el indicador Buffett y PER elevados), aunque reconoce explícitamente que bolsa y economía están "divorciadas" y no se compromete con una dirección de corto plazo para el mercado.
+
+**Nota cruzada:** en [[2026-09-02-GeorgeGammon]] retoma directamente esta tesis con el dato ADP de agosto (38.000, por debajo de lo esperado) como confirmación adicional de la debilidad laboral, y actualiza los precios de diésel (5,68 $/galón, con proyección a 6-6,50 $) frente a los 5,59 $ citados aquí.

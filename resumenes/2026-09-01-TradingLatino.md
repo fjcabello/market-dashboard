@@ -46,3 +46,5 @@
 **Activos mencionados:** Bitcoin (spot y futuros; zonas 75.200-81.000), Ethereum (2.100-3.000), oro/petróleo (petróleo objetivo 90 $, ver nota de posible confusión de nombres arriba), Walmart, PayPal (48 $), GAL (43-50 $), RKLB (63-100 $), RI, OXI, QQQ, Apple (325-327 $), UNI, Litecoin, Delta Airlines (75 $), SoFi, Micron, Tesla, Intel (93,82-95 $), ABGO, Nvidia.
 
 **Tono:** técnico, informal y muy centrado en el corto plazo operativo; de fondo constructivo con Bitcoin en el mensual pero táctico y cauteloso en el spot/diario (vende por encima de 90.000 $, no compra en 80.000 $); bajista en oro; alcista con objetivo final en petróleo antes de un giro bajista; sin tesis macro explícita más allá de la gestión activo por activo.
+
+**Nota cruzada:** en [[2026-09-03-TradingLatino]] confirma que la zona de liquidación de apalancados marcada aquí en 77.700-77.766 $ se cumplió exactamente esa misma noche, y mantiene la misma disciplina de no comprar Bitcoin en 80.000 $ ni petróleo por encima de 90 $.
