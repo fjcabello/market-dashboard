@@ -1,0 +1,5 @@
+# 2026-09-07 — JoseLuisCava
+
+**Vídeo sin contenido de mercado (clase técnica sin tesis).** Grabado con Wall Street cerrado por el Día del Trabajo en EE. UU., Cava dedica el vídeo (130 líneas) a explicar de forma genérica uno de los "trucos" de especulación del equipo de OPLA (su firma): un patrón de ruptura al alza de un movimiento lateral, seguido de retroceso que reconoce como soporte los máximos previos y giro violento al alza, confirmado por comportamiento del volumen (expansión en la ruptura, contracción en el retroceso, expansión de nuevo en el giro) y aplicado únicamente cuando la tendencia de medio/largo plazo es alcista. Insiste en que la pauta "no funciona al 100%", que "el mercado es un demonio" y que el uso de stop es la única forma de sobrevivir aunque la probabilidad de acierto sea solo del 40-50%. No menciona ningún activo, ticker ni nivel de precio concreto — es una lección de metodología, no un análisis de mercado del día.
+
+**Tono:** didáctico y metodológico, sin tesis de mercado; insiste en la gestión de riesgo (stop, tamaño de probabilidad) por encima de la convicción en la señal misma.
