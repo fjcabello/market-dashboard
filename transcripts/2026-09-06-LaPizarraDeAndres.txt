@@ -1,0 +1,441 @@
+Hola a todos y bienvenidos un día más a
+mi canal, La Pizarra Andrés. En el día
+de hoy traigo otro de esos vídeos que
+tanto me pedís, que es saber identificar
+si un fondo es bueno o malo. Esta vez
+edición fondos mixtos. Como bien sabéis,
+un fondo mixto requiere un tipo de
+inversión mixta, como su nombre implica,
+entre renta variable y renta fija. Es
+cierto que los fondos mixtos, en función
+de la cantidad de renta variable, de
+renta fija que puedan tener, los
+podríamos llegar a considerar como en
+dos subgrupos, que podrían ser mixtos
+defensivos o incluso tres subgrupos
+mixtos defensivos, mixtos moderados y
+mixtos agresivos. Y esto va a ir en
+función, evidentemente, como su nombre
+indica, en el porcentual que tengan de
+más de renta variable o menos de renta
+fija, ¿no? En este caso, eh he cogido
+tres ejemplos, os los voy un poco a
+diferenciar y eh os voy a enseñar a que
+no os tomen el pelo y a que entendáis si
+vuestro fondo mixto es lo
+suficientemente bueno o por el contrario
+os están tomando el pelo. En primer
+lugar, bueno, he cogido fondos que son
+muy obvios. En este caso he cogido un
+fondo que parece mentira ni que exista.
+Vale, no voy a no voy a dar el nombre
+aunque se le dais en pantalla. Si
+vosotros veis un fondo que es un mixto
+flexible que pone aquí, bueno, también
+hay mixtos flexibles en los que se le
+permite al gestor jugar un poco con las
+cantidades de renta fija y renta
+variable, esos son un poco más difícil
+de reconocer si son mejores o peores,
+porque siempre existe la duda de, oye,
+durante estos retornos del pasado
+tuvo más o menos renta variable, tuvo
+más o menos renta fija, con lo cual es
+más complicado. Pero bueno, el primer
+tipo de fondo mixto que quiero del que
+quiero hablar es aquel fondo mixto en el
+que pues se ve muy obvio. En este caso,
+me cuesta creer que esto exista. Eh, he
+tenido que incluso, bueno, no la tengo
+por aquí la ficha, he tenido que incluso
+bajarme la ficha para ver que esto fuera
+verdad. Si veis un fondo que hace esto,
+pues evidentemente no hay mucho que
+mirar. Hay fondos. Evidentemente cogí un
+caso muy claro, pero si tú ves un eh
+mixto agresivo, por ejemplo, y en un
+entorno tan bueno de los mercados como
+el que hemos visto recientemente, eh no
+veis unos retornos eh alcistas
+consistentes, pues dices, "Oye, esto es
+un mixto agresivo, esto tiene que tener
+una parte importante de renta variable."
+Sin embargo, los últimos 5 años ha
+ganado un un 3% analizado. Pues oye, si
+veis eso, salir corriendo. Es decir, hay
+algunos fondos y quiero usar este de
+ejemplo, donde no se necesita mucho
+conocimiento para ver si eh ha cumplido
+un poco, ¿no? También es cierto que con
+el conocimiento que os voy a dar en el
+resto de fondos, los podéis extrapolar a
+más o menos haceros una idea de si ese
+fondo que no da tantas señales porque es
+un mixto flexible
+o o porque es un mixto donde no
+encuentras bien la distribución de del
+fondo, pues podéis hacer un haceros un
+poco la idea siempre y cuando sepáis si
+es un mixto más tirando agresivo, más
+defensivo, lo que sea. ¿Vale? El segundo
+fondo que vamos a ver, que creo que os
+va a dar los conocimientos mínimos para
+ya empezar a entender cómo se hace esto,
+es este de aquí, un fondo de VVA normal
+y corriente. Me lo pasaron recientemente
+en un directo, me dijeron, "Andrés, ¿qué
+opinas de este fondo?" Dije, yo dije,
+"Oye, voy a hacer un vídeo para
+explicaros y deciros a ciencia cierta si
+este fondo es bueno o malo. A priori,
+este equality inversión moderada, pues
+ya vemos que es un mixto moderado, con
+lo cual ya podríamos llegar a asumir que
+probablemente tenga algo entre el 30, el
+40 o el 50% de renta variable, ¿vale? y
+vemos que tiene unos retornos más o
+menos aceptables. Es decir, en este
+caso, pues de primeras nadie puede
+decirte si este fondo es bueno o malo.
+Es decir, hay que hacer una pequeña
+comprobación eh para saber si es bueno o
+malo. ¿Cómo se puede hacer? Normalmente
+yendo yéndote para atrás, aunque es lo
+que vamos a hacer ahora, aunque también
+se podría hacer pues con el year to
+date, que es esto de aquí, los últimos
+12 meses, o eh bueno, en este caso los
+últimos 12 meses, el year to date, que
+sería lo que lleva de año, que es este
+544 de aquí, o los últimos 3 años, por
+ejemplo, por comodidad vamos a 3
+años, ya que me parece una eh un un
+histórico lo suficientemente alto como
+para asumir que el fondo no ha cambiado
+mucho en esa en esa en esa distribución
+de activos durante estos últimos 3 años.
+¿Cómo sabemos en este caso, eh este es
+el tipo de fondo número dos, eh, cómo
+sabemos si es bueno o malo? Lo mejor que
+nos puede pasar es que en Finect o en
+cualquier otro sitio, en una ficha del
+fondo donde sea, nos den lo que llaman
+aquí benchmark. Ya sabéis que el
+benchmark es el índice de referencia, es
+con lo que se va a comparar el fondo.
+Entonces, sabiendo cuál es el benchmark,
+puedo irme yo y decidir, oye, ¿cómo
+haría yo eh este índice de referencia
+con mis fondos preferidos o con fondos
+lo más parecido a indexados posibles
+para no tener ese sesgo de yo lo hubiera
+hecho mejor con estos fondos? Y voy a
+compararlo. Entonces, ¿qué es lo que
+tenemos aquí? Bueno, pues podemos, por
+ejemplo, a 3 años y venir, cogemos
+un Excel y decir, "Vale, tenemos aquí
+una rentabilidad del 6,98%, ¿vale?
+Eh, vamos a compararlo solo por la parte
+de la rentabilidad, porque asumimos que
+si el benchmark es este, la volatilidad
+será parecida. Es decir, el riesgo que
+emplee este benchmark y el riesgo que
+emplea este fondo con esta volatilidad,
+pues asumimos que sea parecido. ¿Qué es
+lo que tenemos aquí? 25% Eonia. Para los
+que no lo sepáis, pues simplemente le
+preguntáis a la IA que es Leonia, ya os
+lo digo yo, es el eh euro overnight
+rate, digamos, o sea, el tipo de interés
+eh digamos que el eurivo era un día, el
+tipo de interés interbancario de
+préstamos de un día, es decir, eh lo que
+sería mercado monetario similar. Hay
+muchos fondos monetarios que si os
+fijáis en las fichas ponen que tienen
+cash. No es que sea cash, es que son
+préstamos de un día y te permiten en la
+ficha poner cash cuando son préstamos de
+un día. Entonces, esto equivale a
+monetario, con lo cual aquí lo que
+tendremos es 25%
+monetario. ¿Vale? Vale. Entonces, lo que
+vamos a hacer primero es, oye, ¿qué
+tengo? Un 25% monetario, ¿vale? Me voy a
+mi monetario de confianza, por ejemplo,
+Grupama. Podéis el que queráis, me
+da igual, ¿vale? Y nos vamos, por
+ejemplo, al resultado de 3 años, que es
+un 3,06, ¿vale? Pues en este caso, en
+los últimos 3 años, este esta categoría
+tendría que haber dado un 3,6%. Si lo
+multiplicamos por el peso que tiene en
+este caso el benchmark, sabemos que hay
+077 puntos que tendrían que provenir del
+monetario. ¿Vale? ¿Qué es lo siguiente
+que tiene? Nos lo pone muy sencillito.
+Bueno, cerramos ya Grupama y lo
+siguiente que tiene es 40 MSC wall.
+Vaya, este nos suena a todos, ¿no? Pues
+en este caso nos vamos a Fiderite MSC,
+nos vamos al retorno de los últimos 3
+años, que es un 16,91. Aquí es donde se
+van a empezar a ver un poco las costuras
+y decimos, oye, 40%.
+Aquí ponemos MSC World,
+¿vale? Y en este caso estamos hablando
+de que esto tiene una rentabilidad a 3
+años del 16,91.
+16,91%,
+¿vale? [resoplido] En este caso, esto le
+daría una aportación de 6,76%
+a ese fondo, que sería un fondo que
+podríamos haber creado nosotros con muy
+poquito conocimiento. De momento con
+solamente Grupama y con MSC World. Ya
+sabemos que el fondo, este fondo en
+concreto no es bueno. ¿Por qué? Porque
+la suma de estas dos categorías, es
+decir, solo he sumado un 65%
+de la eh de lo que sería la composición
+de este fondo y yo ya sumaría un 7,53%
+eh solamente eh con la eh suma de estos
+dos fondos, con lo cual lo que lo que a
+priori o en principio parecía un fondo
+decente, que podría ser esto que no
+parece un fondo malo, ya sabemos de
+primeras que es malo. Ahora queremos ver
+cómo de malo, ¿vale? Pues muy sencillo,
+seguimos con el mismo con el mismo eh
+con las mismas preguntas. De momento he
+sacado un 65% de la comparación con el
+benchmark y ahora me voy a ir al 35
+restante. Esto, por si no lo sabéis, es
+un índice de bonos de entre 1 y 10 a de
+entre 1 a 10 años, ¿vale? Entonces, 35%
+esto sería yo, yo pondría aquí bonos,
+eh, esto sería corto medio, ¿vale? Eh,
+esto es lo más complicado de sacar
+porque aquí, oye, eh, Andrés, ¿cómo vas
+a sacar esto sin barrer mucho para casa?
+Porque yo podría decir, oye, con mis con
+mis fondos preferidos, este, este y
+este, estos fondos están haciendo X,
+¿vale? [resoplido] Lo que voy a hacer es
+sin barrer para casa, es decir, cogiendo
+el peor fondo que puedo de esta
+categoría, que sería el Bward Global
+Bond, que es el que peor lo ha hecho
+porque es deuda gubernamental durante 3
+años. Esto sería lo peor de lo peor,
+sería un 2%, es decir, como mínimo, como
+mínimo esto a 3 años ha hecho un 1,98%,
+esto sería lamentable. yo no tendría una
+cartera de 35% Banguard Global Bond, que
+son solo bonos gubernamentales. Y en
+este caso, eh, aún así, si cogiera la
+peor opción posible, el fondo que
+hubiéramos hecho de una forma regulera
+con Grupama, con MSC World y Comangware
+Global Bond, sería 1822 la rentabilidad
+esperada, incluyendo las comisiones de
+esos fondos, de sus respectivos fondos.
+Con lo cual, en el peor de los
+escenarios, este fondo nos está dejando
+de ganar o nos está haciendo perder un 1
+con 24%, que sería la diferencia entre
+esto y esto, ¿vale? Es lo que nos están
+quitando por una gestión que no hacemos
+nosotros adecuadamente. ¿Cuál es en mi
+opinión lo realista? Pues si tú cogieras
+fondos del estilo los que pues un poco
+los que conocéis todos, ¿vale? Voy a
+ Carmiña portfolio credit, que por
+ejemplo este año está bastante flojo
+para no barrer para casa. ¿Vale? Si
+cogemos Carmina por folio crédit que
+este año lo está haciendo bastante mal,
+028, a 3 años tiene un 7% de
+rentabilidad. Si juntáramos Carmiña
+Portfelo Credit con otros fondos de
+renta fija gubernamental que lo han
+hecho peor, a lo mejor esta categoría
+debería estar dando como mínimo, ¿vale?
+como mínimo un 4,5%,
+lo que haría que un fondo mixto creado
+por nosotros con fondos más o menos
+conocidos por todos vosotros, uno de
+ellos monetario, otro de ellos indexado
+y otro una cartera de dos o tres fondos
+de renta fija de riesgo intermedio, de
+los que ya conocemos, como mínimo esta
+suma de de fondos en estos porcentuales
+debería dar un 9 un 9,10% analizado, lo
+que equivale a un 2,12% anualizado en
+los últimos 3 años, con lo cual estamos
+hablando de más de un 6 y pico%. Eh,
+¿qué es lo que nos estamos dejando de eh
+de llevar? Si esto fuera lo que para mi
+gusto son los las los fondos óptimos eh
+en esta categoría. Probablemente, como
+habéis visto con con Carmilla Portfolio
+esta categoría creo que en un entorno de
+normalidad deberías tardar un cco un 5
+y5 una cosa así, ¿vale? Y creo que es
+hasta un 2,5% lo que estamos dejando de
+ganar, en mi opinión en este fondo. Con
+lo cual, una vez hecho este cálculo,
+podemos concluir que este fondo está muy
+lejos de ser óptimo, ¿vale? Eh, entonces
+esta es la forma sencilla de hacerlo
+porque, digamos, asumiendo que este
+benchmark sea correcto, que habría que
+indagar un poquito más, quizá con la IA
+poder confirmar que este fondo más o
+menos tiene un 35% de renta variable,
+tiene un 25% de liquidez o más o menos
+liquidez y tiene un 35% de bonos, ¿vale?
+Eh, asumiendo eso, pues podríamos
+concluir que este fondo es subóptimo. Yo
+no me voy a poner a investigar si lo que
+ponen aquí de benchmark está
+perfectamente buscado o no. Esto,
+insisto, no creo que un fondo de este
+estilo mainstream con unas comisiones
+altas y tal sea buen fondo, con lo cual
+lo que me sale me puede cuadrar bastante
+con lo que yo tenía en mi cabeza.
+¿Qué es lo complicado? Lo complicado es
+cuando buscas otro fondo. En este caso
+querido buscar un buen fondo, que es
+este de aquí, Advantage Fan. Es un
+fondo, yo diría que mixto, agresivo,
+¿vale? Aquí no sé cómo lo catalogan, lo
+catalogan como mixto flexible. ¿Por qué
+mixto agresivo? Porque si te fijas un
+poco en el histórico, la volatilidad que
+tiene a 5 años del 925 es una
+volatilidad más o menos eh alegre,
+¿vale? Y la volatilidad de 3 años es de
+1863, que también es una volatilidad ya
+pues por lo menos te diría de tener un
+60% de renta variable y alguna cosa así.
+¿Qué es lo que pasa? que cuando no nos
+dan el benchmark directamente porque
+ponen not benchmark, eh, hay que buscar
+la ficha del fondo. Me he ido aquí a su
+página, me he buscado su ficha y me he
+encontrado que tiene 72% renta variable
+y asumamos que el resto, que más o
+menos, bueno, tiene un poco de liquidez.
+En este caso, pues me imagino que 72 +
+25 más los picos son 98. Con lo cual en
+este caso, ¿qué es lo que tendríamos?
+Pues si quisiéramos hacer un cálculo
+parecido
+para darnos un poco idea de de si este
+fondo lo hace bien o no, este es un buen
+fondo, pues sería más o menos 72% de
+MSCW. Sería más o menos 26%
+podemos bonos corto medio, ¿vale?
+No especifica mucho qué tipo de renta
+fija tiene. Tampoco he investigado
+mucho, esto es un ejercicio para
+entenderlo. Y podríamos poner más o
+menos 2% monetario, ¿vale? Que sería
+liquidez. ¿Vale? En este caso, una vez
+ya hemos reconocido más o menos a qué se
+enfrenta este fondo, es un poco injusto
+lo que estoy haciendo porque estoy
+asumiendo que la cartera actual que he
+visto la ficha eh es la que se ha
+llevado a cabo en los últimos 3 años,
+pero sí que nos sirve para hacernos una
+idea, ¿vale? Pues en este caso
+cogeríamos monetario 3%, lo pondríamos
+aquí. En este caso la aportación del
+monetario es poquísima, ¿vale? Lo vamos
+a ver, es un 006 a lo que sería el
+retorno de los últimos 3 años. La
+aportación del MSC World en este caso es
+de 16,91%, no cambia nada, ¿vale? En
+este caso, a ver, vale, ahí lo vemos. La
+aportación sería un 12,18 en nuestra
+cartera y la aportación de los bonos de
+corto medio, esto sería también
+opinable, pues más o menos pues si no
+queremos barrer mucho para casa, pues
+podríamos poner un 4%. De tal forma
+que la rentabilidad que le tendríamos
+que exigir a este fondo a 5 años es de
+un 13,28. No sé cuánto sale. Nos vamos a
+Finec, miramos a 3 años y vemos que
+efectivamente la rentabilidad es de un
+13,50, que es más o menos la
+rentabilidad esperada. Es decir, este me
+[carraspeo] constaba que era un buen
+fondo y acabo de demostraros como es un
+buen fondo. Ya sería opinable pues
+muchas cosas, ¿no? No sé si alguien del
+fondo llegará a ver este vídeo, pero si
+por ejemplo durante ese periodo el el
+fondo ha mantenido una posición más
+defensiva y aún así ha conseguido esta
+rentabilidad, pues el fondo sería
+significativamente mejor. No sé tampoco
+si la volatilidad del 863%
+equivale a la volatilidad de lo que yo
+he calculado aquí. y tiene una
+volatilidad mejor eh menor, pues
+entonces estamos hablando de que el
+fondo también es significativamente
+mejor, pero así sobre un poco sobre eh
+sobre lo calculado. Si alguien quisiera,
+yo ya sabéis que prefiero que las
+carteras, como os estoy enseñando aquí,
+os las construyáis vosotros y la cartera
+acabe siendo mixta en el sentido de que
+juntéis renta variable y renta fija con
+lo mejor de cada categoría, porque rara
+vez se encuentra fondos buenos donde más
+o menos no te tomen el pelo, pero en
+este caso, pues por ejemplo, este tipo
+de fondos para gente así un poco más
+vaga o un poco menos con menos de
+conocimiento que quiere tener en este
+caso, pues imaginemos un fondo de riesgo
+intermedio alto, pues este podría valer.
+Entonces, este pequeño truco nos sirven
+para que no nos tomen el pelo y para
+saber si un fondo mixto, de los cuales
+yo uso más bien pocos, está bien hecho,
+eh tiene unas unos retornos adecuados o
+no. Es cierto que esto es una forma de
+calcularlo, de andar por casa. Habría
+que tener muchísimo más conocimiento,
+sobre todo del pasado del fondo, de las
+ponderaciones que tuvo el fondo en el
+pasado, si lo que queremos es comparar
+el eh ese retorno de reciente. Eh, pero
+más o menos pues para hacernos una idea
+nos sirve. La moraleja, ¿cuál es? Pues
+que hay tres tipos de fondos, unos donde
+claramente se ve que son malos, otros
+donde haciendo unos pequeños cálculos
+podréis ver si son malos o buenos y
+otros donde os tendréis que meter la
+ficha, ver la composición del fondo y
+entonces hacer un poco ese análisis por
+vuestra cuenta asumiendo, pues eso, que
+tenga sentido lo que estáis poniendo
+para descubrir si son buenos y malos.
+Estos serían quizá los más complicados.
+Y con este pequeño ejercicio, pues ya
+sabréis o lo lo podéis pasar a aquel
+amigo vuestro que tiene eh fondos
+mixtos, pues ya podréis saber si un
+fondo es bueno o malo y si os están
+tomando el pelo o no. Espero que os haya
+gustado el vídeo. Si tenéis dudas me las
+podéis poner en comentarios y nosotros
+nos vemos en el siguiente vídeo.
