@@ -1,0 +1,894 @@
+Hello fellow Rebel Capitalists. Hope
+you're well. So, we had the big short
+investor. Not talking about Michael Bur
+this time. It's Steve Eisman who is
+warning that the AI bubble if it goes
+bust could lead not really could but
+will lead to a recession in the United
+States. So, I want to go over to this
+video where he discusses this in depth
+and I want to give you my thoughts on
+it. We'll just go through maybe three or
+four minute clip of the video and then I
+want to go over some charts. I want to
+go back in time. I want to look at
+history and then I want to look at those
+historical charts and compare them to
+where we are today. And I want to go
+over charts of not just the S&P 500,
+but I want to go over charts of gold
+and Bitcoin
+because although the gold bugs and the
+Bitcoiners think that there's absolutely
+no correlation whatsoever and as long as
+I'm in gold or Bitcoin, then I have no
+exposure, no risk to an AI bubble.
+[snorts] I think you could be wrong. But
+fortunately, there are very, very, very
+simple strategies
+to avoid being roadkill in the AI bubble
+blowup, [laughter] regardless of what
+asset you own. So, we'll discuss all
+these things here. First and foremost,
+let's go over to this video
+from Steve Eisman. This on his YouTube
+channel. Pretty cool. He's got a a
+YouTube channel. I don't know why on
+earth he wears a hoodie with a sport
+coat over it, but uh I I guess when
+you're this rich and at his age, he
+doesn't really care. [laughter] So,
+let's let's play a clip.
+Not yet. So, let me point out.
+>> So, Josh, can you hear that?
+>> Yep.
+>> Okay. where the points of weakness
+reside because it's time to consider how
+the unwind could could occur, what the
+catalysts are and what the impact could
+could be. Now, there is no question that
+the large
+>> Now, before we go on, I want you to
+notice the title of this video because
+you know what I'm saying here, I'm not
+using hyperbole. I'm not fear-mongering
+anything like this. Look, could open
+AI's collapse trigger a recession?
+Basically, the answer is yes. That's
+what he's talking about.
+>> Tech companies have transformed the
+dynamics of their businesses. They used
+to run businesses that threw off so much
+cash they didn't know what to do with
+it. But because of the hundreds of
+billions they are each spending on AI
+Capex, their cash flow has evaporated.
+and in some cases they are raising both
+debt and equity to fund that capex. This
+is a topic of great concern.
+>> Well, one thing I'd add is he's just
+talking about their cash flow.
+But what he failed to mention is that in
+a few cases their cash flow is negative.
+It's not even that it was positive and
+went down to zero. Now they got to issue
+equity and debt. It's the fact that
+their cash flow is literally negative.
+It gets a lot of press, but it is not
+necessarily the deathnell of the AI
+story. After all, if and it's a big if,
+AI generates new businesses and large
+returns on this capex investment, then
+the hyperscalers will be okay. Now
+there's also a great deal of circular
+financing going on mostly led by Nvidia
+and these transactions are very
+complicated and convoluted but
+essentially Nvidia is either lending
+money or making equity investments. The
+companies then take that cash and buy
+more Nvidia chips. Now I'm
+oversimplifying but that is essentially
+what is going on. Nvidia's potential
+investment in perplexity and the recent
+investment in poolside are only the most
+recent examples of such transactions.
+This financing circularity is also a
+topic of great concern. However, here
+too, if AI succeeds, then these
+financing techniques will probably turn
+out to be okay.
+>> Okay, so this is an important
+distinction to make. You said if AI
+succeeds.
+So what I see a lot of investors the
+mistake they make is their definition of
+success is just simply that there's
+demand or growing demand for AI.
+The reason that's a mistake, it goes
+back to what I say on this channel all
+the time. If you had a business where
+you're selling $20 bills for $10, you're
+always going to have demand. And the
+demand for that is likely going to
+increase quarter by quarter by quarter.
+But does that mean that you have a good
+business? No. Because you're selling $20
+bills for 10 bucks.
+So the the point here is is how are we
+defining success? It is not by demand
+going up.
+I don't think anybody disputes the fact
+that AI demand is going to continue to
+go up in the future just like the demand
+for the internet went up in 1999, 2000,
+2001, 2002 as the market was absolutely
+crashing more so in 2000 to 2003. You
+guys get what I'm saying? So, there's a
+big big big big big big big difference
+between AI demand and being able to make
+a profit from AI.
+The the just like you can't make a
+profit from selling $20 bills for 10
+bucks even though demand goes to the
+moon. Just because demand for AI goes to
+the moon doesn't necessarily mean
+there's an economic model. So, we have
+to differentiate between those two
+things.
+The definition of success
+has nothing to do with demand.
+It has everything to do with an economic
+model. In other words, making profit.
+And just because there's demand doesn't
+necessarily mean there's going to be
+profit.
+So where is the Achilles heel? I think
+that it resides with anthropic and open
+AI because they are so central to the
+entire AI food chain. According to
+reports from various Wall Street firms,
+something like 70% of hyperscaler AI
+revenue comes from anthropic and open
+AI. Hear what we said? This is why I
+always use the example of the inverted
+pyramid.
+And at the bottom of that pyramid,
+assuming that that just visualize the
+bottom of that pyramid being held up by
+one Jenga puzzle piece, going back to
+the big short, and that Jenga puzzle
+piece is open AI and anthropic, did you
+hear what he said? 70%
+of the revenue for the hypers scalers
+and for a lot of these data centers etc
+uh etc. He'll get into that in a moment
+is coming from those two companies
+70%.
+And I would remind you [laughter] those
+two companies don't make money. A lot of
+people are saying oh well they're profit
+anthropic now they're making profit.
+Maybe, maybe. But how do we know a large
+portion of that revenue that's turning
+into profit isn't just another
+[laughter] another purchase order from
+Nvidia or, you know, who knows what it
+is, right? So, I I don't know. I'm I'm
+highly skeptical. I'm very suspicious of
+that. But even if they are making a
+profit, for heaven's sakes, it's not
+even remotely close to the profit that
+would be necessary in order for these
+for their purchases or the revenue
+that's going from AI, excuse me, going
+from OpenAI and Anthropic to going to
+the hyperscalers. For that to continue,
+you see, for that to continue,
+you have to have way way way way way way
+more profit. not just way more demand,
+way more profit. And at some point in
+time, you've got to ask yourself, has
+demand peaked
+or maybe it's just kind of, you know, it
+still goes up, but it's growing at a
+much slower pace? I mean, they already h
+like what person do you know that hasn't
+used AI? Like, no, like everybody uses
+AI. So, what's your growth model there?
+Sure, I guess you can incorporate into
+businesses and a lot of these things,
+but you got to assume that maybe you're
+hitting the the peak of the growth
+trajectory, right? And if they can't
+figure out a way to monetize it to a
+point where they're they're not printing
+money right now, they're still
+incinerating it, that that becomes a
+headscratcher. Now, you could argue that
+they're going to figure out this model
+in 5 years, 10 years. They probably
+will. They probably will. I don't think
+that open AI and anthropic go away. I
+just think that they become like a
+commodity just like a utility where
+their margins are are like this and they
+basically have to sit there and and and
+give away their product for two cents
+more per token or whatever than it costs
+them in terms of things like energy,
+right? And as their costs continue to go
+down, well that's fantastic. But then
+the other one just lowers their prices
+and their costs go down even further and
+the other one just lowers their prices
+and it's a race to the bottom. Now the
+winner is going to be you because your
+costs for using artificial intelligence
+likely going to go down a lot.
+But there again is the winner Google or
+the hyperscalers? Sure. if they can
+figure out a way to leverage that
+utility, that commodity and really turn
+it into more and more revenue. But the
+problem is that the vast majority of the
+revenue is coming from OpenAI and
+Anthropic
+from them investing
+billions if not trillions of dollars.
+And they they ain't going to do that if
+they turn into a utility. That's the
+bottom line. Let's get back to this.
+70% equates to around 25 to 35% of total
+hyperscaler cloud revenue. I can't
+confirm those statistics but they sound
+right given what we actually know about
+Oracle. Oracle has a backlog of around
+600 billion and we know because the
+information is public that around 50%
+50% of that backlog is from open AI
+alone. And by the way, so [laughter]
+whoa, time out. Think about that for a
+second. They've got a $600 billion
+backlog, Oracle. So they I'm sure I
+don't know how it works with GAP
+accounting, but I'm sure that's
+somewhere on their income statement or,
+you know, something like that to where
+Wall Street's like, "Oh, yay. Woohoo."
+Now, it's not like their stock or their
+credit spreads are doing well. We'll get
+to that in a second. But Wall Street
+says, "Wow, look at that. 600 billion in
+backlog. Look at the demand. Look at the
+demand. Look at the demand." So, let's
+just assume for a moment their share
+price is trading at 100 bucks. I don't
+know what it's trading for, but let's
+assume it's 100 bucks. Look, what do you
+think's going to happen to the share
+price? Especially when the credit
+spreads are blowing out. In other words,
+the market sees them as a bigger and
+bigger and bigger and bigger and bigger
+credit risk.
+And that's with the 600 billion in
+future demand. What if that future
+demand goes down to
+300,
+right? Even if
+the open AI and anthropic say, okay, you
+know, we accounted for 300 billion of
+that 600 backlog
+future demand for Oracle. We're just,
+you know, it's not really panning out
+the way we thought. It's going to take a
+little bit more time. So instead of that
+300, we're going to cut it down to 150.
+Fine. Fine. Even if it goes from 600
+down to 450, what happens to their share
+price?
+Because, oh, by the way, they've still
+borrowed all the money to provide that
+and they got to pay that back. But now
+there's no revenue to pay it back. You
+see,
+>> wait, open AI accounts for over 20% of
+Core Weeb's total contracted order book.
+Hyperscalers are spending about 700
+billion in capex this year and even more
+next year and that spend accounts for
+around half of the 2% GDP growth
+projected for 2026.
+So one must conclude that the health of
+the US economy is extremely dependent on
+hyperscaler capex and hyperscaler cap x
+is highly dependent on the health of
+anthropic and open AI. That's the chain.
+Now, between the two, OpenAI is the
+weaker entity. It has lost several key
+senior employees. Let's list them
+because the list is kind of
+illuminating. One, Denise Dresser, chief
+revenue officer, resigned in August 2026
+after only 8 months on the job. That
+probably means she gave up all her stock
+options as those usually don't vest for
+at least a year.
+>> So, that's interesting, right? Like this
+is why I love listening to guys like uh
+like Steve because I never would have
+known that. I never would would have
+thought to look that up. So you've got
+this person, this gal who was a head
+honcho at OpenAI. She had stock options.
+Now now think about that for a minute.
+If you have stock options,
+you definitely are incentivized to stay
+on board until the company goes public.
+And then you can take those those
+options, turn them into stock, turn that
+into cash, a lot of cash.
+So, think about how freaked out she must
+have been. Or I mean, you could argue a
+better opportunity, but
+okay, maybe. [laughter]
+But whatever the case may be, think
+about the fact that she not only left
+Open AI.
+who knows is a dumpster fire, train
+wreck, what whatever,
+but she left and gave
+away those options or she turned away
+the ability to exercise those options
+and turn them into stock. That's what
+Steve is saying. So now I I'm not an
+insider here. I don't know if she would
+get to keep the options if she moved on
+to another gig, but it sounds like based
+on what Steve's saying, that's not the
+way it works. So, she just walked away
+from, let's say,
+I don't know, $20 million.
+She walked away from $20 million.
+And the fact that she did tells you how
+big of a dumpster fire it must be at
+Open AI.
+That's a big data point for her. I guess
+moving on was perhaps worth the loss
+options. and maybe she never thought
+they would vest because going public is
+being pushed further out on the
+timeline. Two, Brad Lcap, former COO,
+resigned in August 2026 after eight
+years with the company. Three, Caitlyn
+Kalinowski, head of robotics and
+consumer hardware, resigned in March
+2026 over governance concerns regarding
+an agreement with the Pentagon. Four,
+Kate Rouch, chief marketing officer, and
+Kevin Wild, science research overseer.
+both departed in April 2026. The most
+concerning departures are the ones that
+took place this August. Denise Dresser
+and Brad Cap. Supposedly, OpenAI is
+getting closer to an IPO. That's the big
+payday for employees because it means
+that eventually they can sell some of
+their shares. That two such senior
+employees would leave now is an
+important data point. More importantly,
+OpenAI's financials look tepid. The Wall
+Street Journal reported that OpenAI's
+June quarter revenue reached 6.7
+billion, up only only 18% versus the
+March quarter.
+>> See, that's ex I I actually didn't
+listen to this part of the video. That's
+exactly what I was just saying that it
+it's not just are they going to grow.
+Sure. At what rate? Because if you have
+the rate of change slow down and if open
+AI isn't even profitable right now,
+how I mean I I guess you could add you
+could throw in an ad driven model. Um
+will that work? I don't know. At what
+point in the future will that
+materialize? I don't know. But at a
+certain point, unless it materializes
+in the next year, the stuff could easily
+easily easily hit the fan before it
+does. And even though long-term that may
+play out, it it doesn't matter. It
+doesn't matter. The whole house of cards
+crashes regardless.
+Compare that to Anthropic's revenue of
+11 billion plus in the June quarter,
+which was up over a 100% versus the
+March quarter. What's even worse than
+the relatively weak revenue growth is
+the explosion in costs. Again, according
+to the Wall Street Journal, OpenAI's
+costs reached 12.3 billion, up 3 billion
+versus the March quarter. So in 3 months
+revenue increased 1 billion but costs
+surged three billion.
+>> Yeah. See this is another thing I've
+talked about on a lot of whiteboard
+videos. It people think that their costs
+are just going to absolutely plummet.
+And some of the costs will definitely
+plummet,
+but other costs go up.
+And in order to keep pumping out all of
+these new models, you've got to train
+these models and you've got to do all
+these other things that cost an epic
+amount of money. And that's not really
+capex
+because I don't if you've got to do
+something continually for the next 50
+years and you got to do it every single
+quarter.
+I mean, technically you could call that
+capex, but it's really an operating
+expense. It's it's overhead. It's
+basically like renting a building. You
+know, you're never going to get rid of
+that cost. And is that cost going to go
+down? Well, maybe. And then the problem
+here also is that the newer models use
+exponentially more compute. So if the
+compute is going down or the cost for
+compute is going down, that's fine. It's
+not going down at a rate that
+compensates for the additional compute
+needed and therefore the spend for these
+AI model type of companies and and so
+you know when you pay for compute they
+pay for compute [laughter] right it's
+not like you pay for it it's not a
+charge on their income statement openai
+has to pay for that in fact I was
+reading I don't know if this is true or
+But this really
+sheds light on the concept.
+I was reading that somewhere Altman was
+talking about they spend
+like like over a billion dollar a year
+just because people say thank you.
+Because what happens is when you tell
+the AI thank you, it has to do another
+another message to you. And that message
+to you, even if you don't even if you
+don't say anything else, costs Open AI
+money.
+It's not free. So [snorts]
+just in people telling Open AI, thank
+you, it cost them a billion dollars a
+year.
+Let that one sink in. And and I mean,
+you get it. I could beat a dead horse
+here, but I think you guys get it.
+So now, let's do this. Let me switch up
+the screen share. And I want to go over
+some charts
+because I think
+people have this recency bias and they
+think that just because the stock market
+hasn't gone down since the surveys
+sickness, it just it it can't go down.
+You know, I I see people in the chat all
+the time saying, "Oh, well, the Fed
+won't let the stock market go down."
+Well, I've got news for you. The Fed has
+no control over it. The Fed has control
+over psychology. But ask the Fed how
+much they prevented the stock market
+crash during the GFC.
+Zero. Right? [laughter]
+Or they say the government won't let it
+happen or Trump won't let it happen
+going into midterms. They they can do a
+little here and a little there, but at
+the end of the day, the market's going
+to do what the market's going to do,
+and they can't prevent a stock market
+crash. And so let let me switch up the
+screen share here. And I want to just
+remind people
+of the fact
+we have had several times in US stock
+market history where the market has gone
+down by 50% plus or right around 50%.
+But o and sometimes over 50%.
+This is not unprecedented. This is not
+unheard of. If you look at the history
+of the US stock market, you see it's
+happened multiple multiple times. And
+usually when we get to the point where
+we are now, whether you're looking at
+the PE ratios, the c the uh cape ratios,
+the buffet indicator, any of these
+things, when when the metrics and the
+indicators are at the level or even
+below, often we are usually in the red
+zone.
+where you're getting close to the stuff
+hitting the fan.
+So, just for those of you watching who
+might have a 401k or might have a IRA or
+you listen to Dave Ramsey, so you just
+take part of your paycheck every single
+month and turn it and put it into a S&P
+500 index fund and you're like, "Well,
+the stock market always goes up over
+time. So, if I just buy and hold, I'm
+going to be fine because that's what
+Dave Ramsey says." Okay. Well, let's
+just put that one to the test. So, let's
+see. We've got the screen share.
+This is a chart of the GFC. This is the
+S&P 500. And by the way, this is not
+adjusted for inflation.
+So, adjusted for inflation, these
+numbers would look way worse,
+right? So, here you're down over 50%
+from peak to trough.
+Right. So, how many people out there
+that are listening to Dave Ramsey or
+CNBC or some financial advisor on
+YouTube that just says buy and hold, buy
+the dip, dollar cost average, blah blah
+blah blah blah. How many of you that
+listen to those guys and just put a
+portion of your paycheck into the S&P
+500 index fund every single month would
+be totally okay
+if their 401k got a 50% haircut
+over the next year and a half? How many
+of you would be like, "Oh yeah, no
+biggie." Because I just know the stock
+market goes up all over time the stock
+market goes up. So, if I have to take a
+50% haircut over the next two years, no
+big deal. [laughter]
+How many of you are raising your hand?
+Nobody. Shocker, right? Everyone wants
+the upside to buy and hold, but they
+don't want the downside. And by the way,
+all those buy and hold investors, guess
+what they're doing right here? They're
+selling,
+right? Like, there's there there's no
+atheist in a foxhole. So, you can sit
+there and say how you're a buy and hold
+guy all you want while the stock
+market's going up or if it has like a
+10% correction or something, but I want
+to see the buy and hold investor that's
+there standing strong when they've taken
+a 50% haircut.
+Say, "Oh, George, well, that was the
+GFC. That's never going to happen again.
+That was a once in a-lifetime event."
+[laughter]
+Okay, let's go over here to do. And by
+the way, this isn't NASDAQ.
+This is S&P.
+And here you're down from peak to trough
+50% once again. It seems like that's
+almost the magic number.
+Oh, well maybe that's not the magic
+number because now we come to 1929 which
+many many people have drawn parallels to
+where we are today with where we were in
+1929.
+And I want to remind everybody that you
+didn't go down by 50% here. You went
+down by 86%.
+86%.
+And guess how many people bought right
+here? are like, "Oh, the market always
+goes up." I'm a buy and hold investor.
+Fine. You you can buy and hold and and
+in fact, you're not buying and holding.
+You're holding your ankles.
+You're grabbing your ankles in the
+prison shower because that's what's
+going to happen to you if you buy and
+hold and we get another one of these
+moves. [laughter]
+You're going to be holding your ankles,
+my friend.
+But a lot of people forget it wasn't
+just the the depression. I mean even the
+1970s
+73 to 74 we went down by 50% almost 50%.
+I think it's 48%. But again this is in
+nominal terms. So in real terms the loss
+would have been way bigger.
+And then a lot of people forget that we
+had more than one stock market crash
+during the great depression. Every the
+1929 gets all the headlines, but people
+forget that from 37 to 38 the market
+went down by 50%.
+50%.
+You see, so the point is
+no one disputes that we are in a massive
+AI bubble right now. Nobody disputes
+that. In fact, Steve Eisman says that
+we're not even in we're not just in an
+AI bubble. We could be in an AI bubble
+that if it goes bust or when it goes
+bust will lead to a very significant
+recession in the real economy because
+this AI capex spend is is half 50% of
+current GDP growth. That's a big big big
+deal because you have the entire economy
+that's propped up by two or three legs
+of the stool.
+One of the legs asset prices, the other
+one AI capex spend. But if the AI capex
+spend goes down, what happens? Asset
+prices. Those go down. And now you got a
+stool that's standing on one leg and
+that's the housing market. And if the
+economy is tanking, unemployment rates
+going up, S&P 500 going down, AI capex
+spend over, what do you think happens to
+the housing market?
+So now what I want to do is I want to
+tell you the good news here. And this is
+something that I'm going to be going
+over on a webinar, deep dive webinar
+this Sunday. And Josh put a link in the
+description and in the chat. But the
+good news for investors is it's really
+really easy to avoid this and it's super
+super simple if you've got the right
+strategy to actually profit from this.
+And I don't know why the Dave Ramsey
+types and the financial planners and the
+CNBC's, the talking heads, I don't know
+why they don't they make it seem like
+this is rocket science. Like nobody
+could ever ever avoid a 50% market
+crash. It's just not possible or no one
+can profit from it. And if you do profit
+from it, takes you hours and weeks and
+research and you got to have a a team of
+analysts or, you know, you got to be a
+hedge fund or a billionaire or something
+like that. That is all total complete
+nonsense.
+There's a very very very simple strategy
+that you every single person watching
+this video can use to protect themselves
+from this
+and then actually profit from it. Right?
+So instead of grabbing your ankles
+[laughter]
+like buy and hold, instead of holding
+your ankles, you're you're holding a
+portfolio
+that's going to do that's that's proven
+over time to work well in these times
+where you get a big market crash, which
+there are no certainties, there only
+probabilities.
+But based on what's happening right now,
+even the smart guys like uh like Steve
+are just waving the red flag and warning
+you guys, the retail investor, and
+saying, "Hey, this this could be bad.
+This could be bad." So, it's not like
+the cycle where we are is at the very
+beginning. It's not like we've had this
+big wash out and we're in 2003 or we're
+in 2010 or something like that. No, no,
+no, no, no, no, no, no, no. We're way
+closer to 1929, 1999,
+and 2008.
+In other words, we're way closer to a
+top than we are at a bottom. Everybody
+knows that.
+And just actually before we get into
+some of these other charts, I I know a
+lot of people
+think to themselves, well, George, I'm
+totally immune
+to this because I own gold,
+so I don't have to worry about this
+because they're going to print money.
+And if the stock market
+collapses, then it's money printer go
+burr. They're going to do QE and then
+gold's going to go to the moon. You
+know, my good buddy Peter Schiff talks
+about that all the time, right? Well, if
+the stock market crashes, well, you
+better own gold because even though
+gold's at gold's at 4,500,
+you know, it's going to rip higher
+because they're going to print money.
+Print money. The government's going to
+print money. The Fed's going to print
+money. George Gam is going to print
+money. They're all printing money. It's
+printing money. It's just that's that's
+everyone just says it at nauseium,
+right? Same thing with the Bitcoiners.
+Well, let's go over some charts here
+where I'd like to show you that
+sometimes
+owning gold can be just as susceptible
+to these massive, massive downturns.
+And so,
+do you want to just hold gold forever? I
+I mean, maybe. Maybe. It depends what
+you're using it for, right? But for a
+lot of people, even gold bugs, if they
+could avoid the 50% draw downs or the 30
+40% draw downs, they would prefer to do
+that. Same thing with Bitcoiners,
+right? If if and by the way, the Bitcoin
+cycle is far more compressed, which
+we'll get into here in a moment with
+some of these charts. So, you know, how
+many of you that own Bitcoin
+love the volatility? And you might like
+it on the way up,
+but it's a big fat.
+[laughter]
+It sucks. I'm not going to use
+profanity. It sucks on the way down,
+right? So, how many of you would love to
+have most of the upside to Bitcoin, but
+be able to avoid the 50% drawdowns every
+other year. Even if you're a Bitcoiner,
+you'd be a fool not to want that, right?
+Same thing with the gold bugs. So, let's
+go over uh to a chart. I'm just going to
+use GLD
+uh as a proxy for for gold here. So,
+this is
+GLD gold back 2013
+to 2016.
+So, now a lot of you gold bugs might
+say, "Well, it's never going to do this
+again because the money printer is going
+to go bur." I'd like to remind you that
+this is when the Fed was doing QE.
+Fed is doing QE here.
+Interest rates were at zero.
+And look at what gold did.
+It tankeroonied.
+The GLD goes from let's say 160
+all the way down to 100.
+So that's in the no bueno zone. So I
+don't care how bullish you are on gold.
+You want to avoid [laughter]
+you want to avoid this if possible. And
+the good news is it's it's it's very
+very possible.
+All right. Now, let's not leave out the
+Bitcoiners.
+Here is ah I should have used a chart of
+Bitcoin instead of this uh IBIT because
+it's more recent. Let me do that. Let me
+just switch it up here real quick, guys.
+Bear with me. Let's go over to crypto.
+Let's go over see if it'll let me switch
+it up here. BTC.
+Okay.
+So now that's where we are right now.
+Okay. So let's do this
+and then let's go back.
+So here you go.
+I mean, look where we started 2022.
+You're at call it 60
+and you go all the way now. Now, it's
+great going from 400 up to 60,000 or,
+you know, whatever this move was, but it
+ain't so great when it goes from 60,000
+down to
+16,000.
+That is no bueno,
+right? So, I don't care how
+diehard of a Bitcoiner you are. If I
+could give you a super simple strategy
+to be able to own it up to here and then
+not own it [laughter]
+as it goes all the way down here. You
+would prefer that, wouldn't you?
+Nobrainer. And then what's great about
+the super simple strategy
+is it gives you a signal to buy not
+right at the the bottom but buy right
+around here. So you sell here, you buy
+here and then you go ahead and ride it
+back up to 120, right? And then you get
+to take 95%
+of the gains, but you don't have these
+massive epic losses. and usually or at
+least paper losses, right? To where
+you're sitting here losing sleep just
+punching yourself in the face for not
+selling at 60 when it's down at 20. And
+what most people do is because they get
+so emotional, they sell at 20 and then
+they don't get the benefit of riding it
+back up to 120, right? And even if you
+want to say, "Well, if I would have
+bought and hold, that never would have
+happened, right? But you'd still rather
+sell here and buy way way way cheaper
+here
+and realize 95% of the up move. That's
+going to be way way way better in terms
+of total return and on your health, your
+stress levels than just buying and
+holding.
+So, what we're going to be doing is
+we're going to be going over not only
+the the incredibly simple strategy that
+you can use to time these things in the
+S&P 500, in Bitcoin, gold, etc. I'm
+going to be going over more strategies
+and I'm going to be going over why in
+more detail these everything that you
+hear about investing is completely
+wrong. And then what we're going to be
+doing is we're going to be going over
+1999. We're going to look at the
+businesses that fared the least bad
+[laughter]
+when you had the crash, but more
+importantly, the ones that did really,
+really, really well. Because the way
+that you really profit from these things
+is you don't you avoid the elevator
+down, but when you get to the bottom
+floor, you get back on the escalator and
+you take it back up. But you do so in a
+way where you're on an escalator that's
+going to go up a lot faster and a lot
+higher than the S&P 500.
+That's what this is all about. And
+that's what we're going to explore.
+That's what I'm going to reveal to you
+in great detail on this webinar, deep
+dive webinar that I'm doing this Sunday.
+So, this is something you guys aren't
+going to want to miss. That's the bottom
+line. So Josh, do me a favor. Put
+another link in the chat.
+And I know you've got a link in the
+description. So you guys need to go over
+there right away and sign up as soon as
+you can. It's free to register. It's
+free to attend the webinar. And all you
+have to do is just put in your email
+address and we'll send you a couple
+reminder emails and just go ahead and
+put it on your calendar this Sunday. I
+believe it's uh they'll give you the
+exact time when you put in your email
+and then just show up, take some notes
+because this is a webinar that's it's
+not only going to give you the tools
+necessary to avoid a catastrophic loss
+in your portfolio regardless of whether
+it's S&P 500, Bitcoin, gold, but it's
+also going to give you the tools
+necessary to take advantage of these
+great great great opportunities.
+All right, guys. and really level up
+your o your your overall investing. All
+right, guys. Enjoy the rest of your
+afternoon. As always, make sure you're
+standing up for freedom, liberty, free
+market, capitalism. We'll see you in the
+next video.
