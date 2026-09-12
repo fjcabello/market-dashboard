@@ -1,0 +1,7 @@
+# 2026-09-12 — TradingLatino
+
+**Clip corto sin sustancia suficiente.** El transcript disponible (14 líneas) es un fragmento aislado, sin identificación clara del activo analizado (la transcripción registra el nombre como "Glon", probablemente un error de reconocimiento de voz sobre un ticker real que no se puede confirmar). Merino comenta que "le hace falta el desarrollo de la última onda" y menciona una zona de precio en torno a 88-89 (con soporte hacia 85 a la baja) como punto de entrada en largo, y en el marco semanal señala 102 como nivel de salida para quien ya tenga acciones, calificando el gráfico diario de "no alcista" pero el semanal de "sigue siendo alcista"; cierra sugiriendo mantener "hasta por arriba de $00" (cifra incompleta/cortada en el audio disponible) y salir. Dada la falta de contexto sobre qué activo se analiza y el nivel de precio final incompleto, no es posible extraer una tesis verificable de este fragmento. Para el streaming completo de este mismo formato con activos y niveles identificados con claridad, ver [[2026-09-11-TradingLatino]].
+
+**Cifra dudosa señalada en el vídeo:** el nivel de salida se transcribe como "por arriba de $00", que es casi con certeza un error de transcripción de una cifra con dígitos que no se registró correctamente (p. ej. "$100" o similar); no hay forma de reconstruir el valor exacto a partir del fragmento disponible.
+
+**Tono:** no determinable con la fragmentación disponible del audio; el gráfico semanal se describe como alcista.
