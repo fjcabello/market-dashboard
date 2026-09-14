@@ -21,6 +21,8 @@
 
 **Nota de formato:** el vídeo incluye al inicio una mención a una colaboración grabada con "David Trullás" (presentado como "pentacampeón mundial de especulación, el segundo mejor de la historia después de Larry Williams") sobre un sistema aplicado al futuro del Nasdaq 100, que Cava dice que subirá a su canal o enlazará por separado — no se desarrolla el contenido de esa colaboración en este vídeo.
 
+**Nota cruzada:** la tesis del "montaje" de Bessent/Trump/Warsh se retoma y desarrolla con mucho más detalle (mecanismo de shock de oferta de petróleo, fondo soberano al estilo noruego) en [[2026-09-14-JoseLuisCava]], donde además Cava reconoce explícitamente el carácter especulativo del calendario de fechas concreto.
+
 **Cifra dudosa señalada en el vídeo:** al hablar del Russell 2000, Cava da la cifra de caída como "580%" al leer el dato en voz alta, que en contexto es claramente un error de dicción/transcripción por "5,8%" (coherente con el resto de caídas de un solo dígito que describe para los demás índices en el mismo periodo); no hay forma de confirmar si fue un lapsus oral o un error de la cifra en pantalla.
 
 **Activos mencionados:** ratio Crude Oil/Oro (patrón cabeza-hombros invertido en mensual, pendiente de confirmar), bonos americanos a 10 y 30 años (tendencia alcista de rentabilidad), Russell 2000 (soporte 270-277, caída adicional del 10% esperada), Nasdaq 100 futuro (objetivo de caída 27.177-28.000), SP500 (objetivo de caída 7.325-7.430), VIX (por encima de 16, camino a 20).
