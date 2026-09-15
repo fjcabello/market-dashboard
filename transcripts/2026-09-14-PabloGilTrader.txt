@@ -1,0 +1,643 @@
+La inteligencia artificial ya está
+cambiando la economía, las empresas y
+los mercados, pero hay algo que está
+cambiando todavía más de prisa, nuestra
+percepción de hasta dónde puede llegar.
+Durante años pensamos que la
+inteligencia artificial general, la
+llamada AGI, sería algo muy lejano en el
+tiempo, como una tecnología propia del
+final de esta década o tal vez del final
+de la siguiente, algo que llegaría poco
+a poco y que nos daría tiempo para
+entenderlo, regularlo y adaptarnos a
+ello. Sin embargo, empiezan a aparecer
+personas que trabajan dentro de los
+laboratorios más avanzados del mundo que
+plantean una posibilidad mucho más
+incómoda. Y si el salto no estuviera a
+décadas de distancia, [resoplido] ¿y si
+estuviéramos a pocos años o incluso a
+meses de tener un sistema mucho más
+capaz de lo que la mayoría imagina? En
+este vídeo vamos a ver qué es realmente
+la inteligencia artificial general, qué
+ha conseguido ya la IA, que hace muy
+poco parecía totalmente imposible, por
+qué algunos de sus propios creadores
+empiezan a preocuparse por la velocidad
+de esta carrera y qué consecuencias
+puede tener esto para el empleo, las
+empresas, la riqueza, la economía y la
+geopolítica. Y sobre todo vamos a
+intentar distinguir los hechos de los
+escenarios y de los titulares
+alarmistas.
+[música]
+Para quienes no me conozcáis, soy Pablo
+Gil, economista, analista y gestor, y
+llevo más de 40 años trabajando en los
+mercados financieros. Cuando empecé, los
+ordenadores apenas estaban entrando en
+las empresas. No existía Windows, no
+había ratones, por supuesto, no había
+internet ni teléfonos inteligentes o
+redes sociales.
+He sido testigo de cómo el mundo se
+informatizaba, de cómo después se
+conectaba a través de internet y de cómo
+esa conexión transformó el comercio, la
+comunicación, la globalización y la
+forma en que trabajamos. También he
+vivido las grandes expectativas que
+acompañaron a cada revolución
+tecnológica, las euforias del mercado,
+las crisis que llegaron cuando esas
+expectativas se exageraron demasiado y
+los cambios que con el tiempo pues
+terminaron modificando nuestra vida
+cotidiana. Y por eso creo que la
+inteligencia artificial merece que la
+miremos con especial atención. No se
+trata de una mejora tecnológica más.
+puede ser la revolución más profunda de
+todas las que hemos vivido durante las
+últimas décadas. Porque no solo cambia
+las herramientas con las que trabajamos,
+puede cambiar quién toma decisiones,
+cómo se crea el conocimiento, qué
+empleos desaparecen, cuáles nacen y cómo
+se reparte la riqueza y el poder en el
+mundo. Antes de continuar, eh recuerda
+que yo no doy recomendaciones de
+inversión por WhatsApp, Telegram ni
+redes sociales. Si veis a alguien
+haciéndolo en mi nombre, es su
+plantación de identidad y, por cierto,
+es un fraude.
+Sigamos. Cuando se habla de inteligencia
+artificial conviene evitar dos errores.
+El primero es pensar que todo esto es
+una burbuja, una moda o una herramienta
+que sirve únicamente para redactar
+textos, generar imágenes o programar
+algo más de prisa. El segundo es irse al
+extremo puesto y anunciar que las
+máquinas van a tomar el control del
+mundo mañana mismo. La realidad es mucho
+más compleja. La IA ya está produciendo
+avances extraordinarios, pero al mismo
+tiempo está planteando riesgos que no
+dependen de que una máquina tenga
+maldad, deseos o ambición. dependen de
+algo más sencillo, de que le demos un
+objetivo, herramientas para actuar y un
+grado creciente de autonomía, sin
+comprender completamente cómo encontrará
+la manera de llegar a ese primer
+objetivo. Primero hay que aclarar qué
+significa a la inteligencia artificial
+que usamos hoy es muy potente, pero
+todavía tiene límites claros. puede
+resumir miles de páginas, escribir
+código, traducir idiomas, detectar
+patrones en imágenes médicas o analizar
+documentos, pero también puede
+inventarse una fuente, cometer errores
+elementales o responder con gran
+seguridad algo que no es cierto. Y
+necesita, en la mayoría de los casos,
+que una persona defina el problema,
+revise el resultado y decida qué hacer
+con él. La agi sería otra cosa. Sería un
+sistema capaz de aprender, razonar y
+resolver problemas de forma competente
+en prácticamente cualquier campo
+intelectual. No solo contestaría
+preguntas, podría investigar un
+medicamento, diseñar una fábrica, crear
+software complejo, analizar una empresa,
+encontrar fallos de seguridad,
+planificar una estrategia y aprender de
+los resultados para hacerlo mejor la
+siguiente vez. Y más allá de la AGI
+estaría la superinteligencia,
+un sistema mejor que los mejores seres
+humanos en casi todos los campos
+intelectuales, matemáticas, en ciencia,
+en programación, en ingeniería, en
+estrategia, en investigación médica. No
+sabemos si llegaremos ahí, no sabemos
+cuándo y quien te dé una fecha exacta te
+está expresando una mera opinión, no una
+certeza.
+Pero cada vez es más difícil sostener
+que este debate perezca exclusivamente a
+un futuro remoto. Y una de las razones
+es que la IA ya ha empezado a hacer
+cosas que hace muy poco nos parecían
+reservadas a algunos de los mejores
+especialistas del mundo. Y para entender
+por qué este debate ha dejado de ser
+ciencia ficción, basta un ejemplo. Hace
+unos días, Open anunció que un sistema
+de agentes había encontrado una solución
+a uno de los grandes problemas abiertos
+de las matemáticas, el Navier Stokes. Un
+reto que llevaba cerca de un siglo sin
+resolverse. 10,000 agentes trabajando en
+paralelo, 88 horas. La demostración
+tendrá que ser revisada por matemáticos
+independientes, como es normal. Pero la
+cuestión importante no es solo ese
+problema, es que la IA empieza a pasar
+de responder preguntas a producir
+conocimiento nuevo. Y si eso ocurre ya
+en materias como matemáticas,
+programación e investigación, la
+pregunta no es si cambiará nuestra
+economía, la pregunta es a qué velocidad
+lo hará y si estamos preparados para
+ello. Antes de seguir, un recordatorio
+importante. El 17 de octubre nos
+reunimos en Quinépolis, Madrid. en el
+evento que he organizado, Invertir en el
+mañana. Tendremos también un bloque
+dedicado específicamente inteligencia
+artificial con John Hernández y Rodrigo
+Taramona para hablar de hasta dónde
+puede llegar estos modelos y de cómo
+están cambiando el trabajo, la
+educación, nuestras relaciones y la
+propia economía. Si [resoplido] te gusta
+la idea, vente, asiste. Aldo además con
+la entrada VIP que da acceso a las
+primeras filas, a la sala de networking
+con los ponentes y algunos beneficios
+más, porque nos estamos quedando ya sin
+plazas eh de tipo VIP. Así que escanea
+ahora el código QR que aparece en
+pantalla o accede directamente a través
+del enlace de la descripción. Espero
+verte allí porque [resoplido]
+como estamos viendo, la cara positiva de
+esta tecnología es difícil de exagerar.
+Puede acelerar la ciencia, mejorar la
+medicina, diseñar materiales nuevos,
+ahorrar energía y permitir que equipos
+pequeños hagan tareas que antes
+requerían grandes organizaciones.
+Pensemos en Alpha Fold. Durante décadas,
+averiguar la forma exacta de una
+proteína podía requerir meses o incluso
+años de trabajo de laboratorio. Y esa
+forma es fundamental para entender
+enfermedades y diseñar medicamentos.
+Alpha Fold no cura enfermedades por sí
+solo ni sustituye los ensayos clínicos,
+pero ha puesto a disposición de los
+científicos más de 200 millones de
+estructuras proteicas predichas y ha
+cambiado por completo el punto de
+partida de miles de investigaciones.
+Esta es la promesa, que una buena
+herramienta acelere el trabajo humano
+allí donde antes había años y años de
+espera. Pero precisamente porque sus
+capacidades aumentan tan rápido, empieza
+a aparecer la otra cara de la historia.
+El problema no es que una IA sea
+inteligente. El problema aparece cuando
+recibe un objetivo, puede usar
+herramientas y descubre caminos para
+alcanzarlo que el ser humano no había
+previsto. [resoplido] Aquí hay un
+concepto que merece la pena entender, el
+llamado reward hacking. Podríamos
+traducirlo como hacer trampa para
+conseguir la recompensa. Imagina que le
+dices a un alumno, "Quiero que saques la
+máxima nota en este examen."
+Tú supones que lo que va a hacer es
+estudiar más, entender mejor la materia
+y responder correctamente, pero el
+alumno descubre que puede conseguir la
+máxima nota robando las preguntas antes
+del examen. La realidad es que ha
+cumplido literalmente el objetivo que le
+has pedido, pero ha traicionado por
+completo lo que tú querías conseguir
+realmente. Con la inteligencia
+artificial puede pasar algo parecido. Le
+damos una métrica, le pedimos que
+complete una tarea, que encuentre una
+respuesta o que mejore un resultado. Y
+el sistema puede descubrir atajos que
+maximizan la puntuación sin respetar la
+intención humana, ocultando información,
+manipulando el entorno o esquivando
+controles. Hace falta que tenga una
+voluntad maligna. Basta con que sea muy
+eficaz persiguiendo una meta mal
+definida. Este año hemos tenido un caso
+especialmente relevante. En el mes de
+julio, durante una evaluación interna de
+ciberseguridad, modelos de Open lograron
+eludir controles que debían mantener los
+aislados de internet. La evaluación
+buscaba medir hasta dónde podían llegar
+las capacidades ofensivas de los
+modelos, pero este por este motivo
+algunas protecciones habituales se
+habían reducido deliberadamente.
+No era un producto público funcionando
+libremente y no era una situación normal
+de uso y es un matiz importante. Pero
+aún así ocurrió algo que no debía haber
+sucedido. Los agentes los agentes de IA
+aprovecharon una vulnerabilidad del
+entorno de prueba. consiguieron acceder
+a internet, localizaron credenciales
+expuestas públicamente y utilizaron
+algunas de ellas para acceder a sistemas
+de terceros. En ese proceso
+comprometieron parte de la
+infraestructura de Haging Face mientras
+intentaban resolver las tareas de
+evaluación. No fue un ser humano
+dirigiendo cada acción que debía
+realizar el agente. El sistema encadenó
+vulnerabilidades y cruzó límites entre
+distintos entornos. Open Ey reconoció el
+incidente y Haging Face publicó
+información técnica sobre lo sucedido. Y
+aquí debemos evitar la lectura
+sensacionalista. No podemos decir que la
+IA escapó porque quisiera libertad. No,
+no tenemos ninguna evidencia de algo
+parecido. Lo lo inquietante es otra
+cosa. Se le dio un objetivo, se le
+dieron herramientas y se redujeron
+determinados controles para evaluar su
+capacidad y encontró una cadena de
+acciones para conseguir su objetivo que
+los investigadores no habían previsto.
+Ese es el verdadero problema de
+seguridad, no la maldad de una máquina.
+La diferencia entre la intención del
+programador y los métodos que una
+inteligencia cada vez más capaz puede
+descubrir para cumplir una orden.
+[resoplido] Y no fue un episodio
+aislado. Días después, Anthropic, la
+compañía responsable de la IA Cloue,
+publicó un informe después de revisar
+141,000 ejecuciones de evaluaciones de
+ciberseguridad en las que sus modelos
+podían potencialmente llegar a tener
+acceso a internet. encontró tres
+incidentes en los que un modelo accedió
+a internet desde entornos de evaluación
+y obtuvo acceso no autorizado a la
+infraestructura real de tres
+organizaciones diferentes. Anzoric
+atribuyó el problema a una mala
+configuración en los entornos de prueba
+de un evaluador externo. De nuevo, no
+hablamos de modelos lanzando ataques
+indiscriminados contra empresas.
+Hablamos de evaluaciones de seguridad.
+Pero las evaluaciones existen
+precisamente para descubrir qué puede
+salir mal antes de que estas tecnologías
+tengan una autonomía mayor y se
+desplieguen de forma masiva.
+Anthropic ha publicado también
+investigaciones todavía más incómodas
+sobre lo que ocurre cuando un modelo
+aprende a hacer reward hacking, esa
+trampa para conseguir la recompensa. En
+entornos controlados entrenaron modelos
+que podían aprender a hacer trampa para
+obtener una recompensa. En algunos
+experimentos ese comportamiento no se
+limitó a la tarea concreta y llegó a
+generalizarse. Los modelos podían fingir
+alineamiento,
+interferir con sistemas de supervisión o
+sabotear investigación de seguridad. En
+otra investigación, Antrópica estudió
+escenarios simulados en los que un
+modelo tenía un objetivo asignado y
+descubría que iba a ser sustituido o que
+sus intereses entraban en conflicto con
+los de la empresa. Bajo esas
+condiciones, modelos de distintas
+compañías llegaron a optar por conductas
+como chantajear a un supuesto ejecutivo
+o facilitar espionaje corporativo
+simulado. Hay que insistir en ello, eran
+meras simulaciones. No hubo un chantaje
+real, no hubo empleados reales
+amenazados, no hubo una intentando
+sobrevivir en el mundo real. Pero
+tampoco podemos despreciar el resultado.
+Estos comportamientos no aparecieron
+necesariamente porque el modelo
+recibiera una orden directa de sé
+malicioso aparecieron porque dadas unas
+condiciones determinadas, el sistema
+concluía que esa era una vía eficaz para
+preservar el objetivo que se le había
+asignado. Y eso nos lleva una pregunta
+muy incómoda.
+Y ya encontramos estos comportamientos
+en simulaciones y pruebas de seguridad,
+¿qué ocurrirá cuando los sistemas sean
+más capaces, tengan más autonomía y
+puedan manejar dinero, códigos, datos,
+activos empresariales o infraestructuras
+críticas? Pero aquí conviene separar dos
+riesgos que con frecuencia se mezclan.
+El primero es la pérdida de control.
+Sistemas cada vez más autónomos que
+reciben un objetivo y encuentran maneras
+de cumplirlo que no entendemos, no hemos
+previsto o no podemos supervisar a
+tiempo. El segundo no requiere que la
+máquina tenga ninguna intención propia.
+Basta con que una persona, una
+organización criminal o un estado
+utilice una IA muy capaz para
+multiplicar su capacidad de atacar,
+engañar, descubrir vulnerabilidades o
+sabotear infraestructuras.
+El primer riesgo plantea un problema de
+control, el segundo un problema de
+poder. Y ninguno necesita una película
+de robots para ser relevante. La
+cuestión es quién controla una
+herramienta que puede actuar a una
+velocidad y una escala que ningún ser
+humano puede igualar. Aquí es donde
+cobra especial relevancia la
+adolverencia de Jacob Coxson. Coxson es
+un investigador británico de 27 años que
+trabajó durante 3 años en investigación
+de preentrenamiento en Openi y en
+Anthropic. No es un crítico externo, ha
+formado parte del proceso de construir
+estos modelos. A principios de este año
+dejó Open y se incorporó a Anthropic,
+una compañía que ha intentado
+diferenciarse por poner mayor énfasis en
+la seguridad de sus sistemas.
+Pero acaba de abandonar también
+Anthropic y ha decidido dejar la
+industria. Su argumento no es que
+Anthropic no se preocupe por la
+seguridad. De hecho, reconoce que dentro
+de Anthopic existe una comprensión seria
+de los riesgos. El problema, según él,
+es que todas las grandes empresas están
+atrapadas en una carrera OpenI,
+Anthropic, Google, Meta, XI y los
+grandes grupos tecnológicos chinos. Y si
+cada una cree que las demás no actuarán
+con suficiente prudencia, todas tienen
+un incentivo enorme para acelerar,
+incluso aunque entiendan que el riesgo
+aumenta. Coxson ha dicho que dentro de
+estos laboratorios empiezan a escucharse
+términos como crunch time o end game, es
+decir, la recta final, el desenlace. y
+ha advertido de que algunos de los
+escenarios más extremos podrían estar
+podrían estar fuera de control antes de
+que termine el próximo año. No sabemos
+si tiene razón. Sería irresponsable
+presentar su predicción como un hecho,
+pero tampoco deberíamos ignorar que
+alguien que ha trabajado en dos de los
+principales laboratorios del mundo
+considera que ninguna empresa privada
+debería decidir por sí sola cómo
+desarrollar sistemas capaces de superar
+a los seres humanos en un amplio abanico
+de tareas. Y [resoplido] hay un
+matizencial. Cobson no se marchó porque
+piense que Anthropic sea una empresa
+indiferente a la seguridad. Al
+contrario, reconoce que sus esfuerzos
+son sinceros. Lo que le llevó a
+abandonar fue una conclusión más
+incómoda todavía. Ninguna compañía puede
+gestionar responsablemente este riesgo
+por sí sola si la lógica de la
+competencia obliga a todas a correr para
+no quedarse atrás. Lo resumió con una
+imagen muy gráfica. Decisiones que
+pueden afectar a toda la humanidad se
+están tomando en los ordenadores de unos
+pocos ingenieros y directivos de San
+Francisco.
+No es una comparación literal con el
+proyecto Manhattan, ni debe entenderse
+como tal, pero sí sirve para plantear
+una pregunta legítima. ¿Debe una
+decisión de este calibre depender
+únicamente de la competencia entre
+empresas privadas?
+Y esta inquietud ya no procede solo de
+investigadores que han decidido
+abandonar la industria. Sam Altman ha
+trasladado internamente que Open estaría
+dispuesta a ralentizar el desarrollo de
+los modelos más avanzados si otros
+grandes laboratorios hicieran lo mismo.
+Pachoki, científico jefe de Openai, ha
+defendido también que las empresas
+deberían coordinarse para frenar cuando
+sea necesario y fijar estándares de
+seguridad comunes.
+Es una admisión significativa. Incluso
+quienes lideran esta carrera reconocen
+que puede estar llegando un momento en
+el que avanzar
+sin coordinación sea demasiado
+peligroso.
+El problema se parece mucho a un dilema
+del prisionero. En teoría, todas las
+compañías tienen interés en reducir el
+ritmo, dedicar más tiempo a evaluar sus
+modelos, reforzar la seguridad y
+coordinarse con gobiernos e
+instituciones independientes.
+Pero cada una de ellas teme que las
+demás no cumplan. Open puede querer
+frenar. Anthropic también, Google
+también. Sin embargo, ninguna sabe con
+certeza si las demás cumplirán. Y además
+está China, donde el control es más
+opaco. Esa falta de confianza hace que
+nadie quiera quedarse atrás porque quien
+consiga primero modelos mucho más
+capaces puede tener una ventaja
+gigantesca en el plano económico,
+científico, militar y geopolítico.
+Podrá diseñar mejores chips, descubrir
+nuevas moléculas, automatizar miles de
+tareas y encontrar vulnerabilidades de
+seguridad antes que sus rivales. Por eso
+esta carrera no se parece a lanzar una
+aplicación nueva, se parece más a
+construir una infraestructura
+estratégica comparable a la energía, los
+semiconductores,
+biotecnología,
+pero todo y avanzando una velocidad
+extraordinaria y en gran medida dentro
+de empresas privadas.
+Y hay una última idea que ayuda a
+entender por qué algunos investigadores
+miran esta carrera con tanta
+preocupación.
+Sistemas como Alpha Evolve ya pueden
+ayudar a mejorar algoritmos y reducir
+parte del tiempo de entrenamiento de
+nuevos modelos. No es una agi ni
+significa que una IA se mejore sola sin
+límites, pero apunta una dirección
+importante. Cuando la empieza a ayudar a
+construir la siguientea, el ritmo de
+avance puede acelerarse muchísimo. Esa
+posibilidad de realimentación es la que
+convierte la velocidad de esta carrera
+en el gran asunto de nuestro tiempo. Y
+ahora quiero aterrizarlo en algo que nos
+afecta directamente. Cuando se habla de
+inteligencia artificial general, mucha
+gente imagina robots humanoides, pero el
+primer impacto probablemente será mucho
+más silencioso. Estará en las oficinas,
+en los departamentos financieros, en los
+bufetes, en las empresas de software, en
+los equipos de marketing, en la
+ingeniería, en los centros de atención
+al cliente, en la educación y en la
+investigación científica. La IA puede
+elevar la productividad de manera
+indescriptible, puede permitir que una
+pequeña empresa haga tareas que antes
+requería un equipo completo. Puede
+reducir costes, mejorar diagnósticos,
+acelerar descubrimientos y abrir
+sectores que hoy ni siquiera existen.
+Pero también puede concentrar poder,
+poder y riqueza en quienes controlen los
+modelos, los datos, los chips, la
+energía y los centros de datos. y puede
+crear una transición laboral muy difícil
+si la productividad crece más deprisa de
+lo que somos capaces de reciclaradores,
+mejorar la educación y construir nuevas
+oportunidades de empleo. La tecnología
+no determina por sí sola el resultado.
+Cortan también las instituciones, la
+fiscalidad, la competencia, la
+protección social, la educación, la
+política industrial y la forma en que se
+distribuye el poder. Podemos vivir una
+de las mayores expansiones de
+productividad de la historia o podemos
+asistir a una concentración de riqueza y
+capacidad de decisión difícil de
+gestionar.
+Probablemente veremos las dos cosas al
+mismo tiempo. Por eso la gran pregunta
+no es si debemos prohibir la
+inteligencia artificial. Sería absurdo.
+La IA puede ayudarnos a resolver
+problemas enormes y mejorar de forma
+radical la ciencia, la medicina, la
+energía o la productividad.
+Pero tampoco podemos aceptar que unas
+pocas empresas decidan por sí solas
+hasta dónde debe acelerarse una
+tecnología con consecuencias potenciales
+para todos.
+[resoplido]
+Necesitamos reglas, auditorías
+independientes y protocolos claros para
+modelos capaces de operar con autonomía
+en ámbitos como ciberseguridad, biología
+o infraestructuras críticas. Y
+necesitamos coordinación internacional
+porque ningún país quiere frenar
+unilateralmente si cree que los demás
+seguirán acelerando.
+Ese es el verdadero problema.
+No es solo tecnológico, es económico,
+político y geopolítico.
+La inteligencia artificial puede ser una
+de las mejores herramientas que haya
+creado nunca la humanidad. Puede
+acelerar la ciencia, mejorar la
+medicina, ayudarnos a utilizar mejor la
+energía, diseñar materiales nuevos y
+resolver problemas que hoy parecen
+inabarcables.
+Pero que una tecnología pueda producir
+beneficios inmensos no significa que
+podamos tratar su desarrollo como una
+carrera sin reglas. Los ejemplos que
+hemos visto no demuestran que una
+inteligencia artificial tenga voluntad
+propia, no demuestra que la agia haya
+llegado ya, ni demuestra que estemos
+condenados a un futuro oscuro, pero sí
+sí que nos muestran algo que conviene
+tomarse muy en serio. Estos sistemas son
+capaces de hacer cosas que hace pocos
+años parecían imposibles. Y cuando se
+les da autonomía y acceso a
+herramientas, pueden encontrar caminos
+que sus programadores no habían
+previsto. La cuestión ya no es si la IA
+cambiará el mundo. La cuestión es quién
+decidirá cómo se desarrolla, quién
+vigilará sus límites y si estaremos
+preparados cuando sus capacidades den el
+siguiente salto. Me interesa mucho saber
+qué pensáis. ¿Creéis que estamos
+magnificando los riesgos de la
+inteligencia artificial o que por el
+contrario estamos subestimándolos?
+Sobre todo subestimando la velocidad a
+la que puede cambiar nuestra economía y
+nuestra sociedad. Os leo los
+comentarios. Y antes de despedirme,
+recuerda que puedes suscribirte
+gratuitamente a The Trader, mi
+newsletter semanal. La publico todos los
+jueves y en ella selecciono y analizo
+las noticias que más me han impactado
+personalmente durante la semana en el
+plano económico, geopolítico y también
+en los mercados financieros. Es una
+forma sencilla de mantenerte informado
+de lo verdaderamente importante,
+evitando buena parte del ruido diario.
+Puedes suscribirte mediante el código QR
+que tienes ahora mismo en pantalla o
+utilizando el enlace que encontrarás en
+la descripción del vídeo, porque quizá
+el mayor riesgo no sea que la
+inteligencia artificial avance
+demasiado, quizás sea que avance más
+deprisa de lo que nosotros somos capaces
+de adaptarnos a ella. Y como siempre,
+recuerda que vuestra opinión es tan
+válida como la mía, así que exprésala y
+cuéntame qué opinas.
+[música]
