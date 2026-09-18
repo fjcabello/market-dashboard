@@ -1,0 +1,555 @@
+There's a number that's been floating
+around the Bitcoin space for a while,
+and that's 6.1 Bitcoin. The idea is that
+if you can accumulate that much, 6.1
+Bitcoin, then you'll have enough to
+retire. So, I decided to test it. I back
+tested it. I ran it through different
+withdrawal rates. I ran it through
+different Bitcoin cycles, and what I
+found wasn't what I expected at all. In
+some scenarios, Bitcoin went way higher,
+and the retirement plan still failed. In
+others, the exact same asset went
+through brutal crashes, and the
+portfolio survived. But here's where it
+gets even more interesting is because if
+you change the strategy, you probably
+don't even need anywhere near 6.1
+Bitcoin in the first place. In [music]
+fact, using the retirement model that
+I've been working with for years, the
+one or two Bitcoin could be enough for
+most people. And this isn't actually
+even really a Bitcoin problem. You see,
+the same issue exists whether your
+wealth is in Bitcoin, stocks, real
+estate, or almost any other asset that
+you spent decades accumulating. So, in
+this video, I'm going to show you how
+6.1 Bitcoin can turn to zero. Why being
+right about the assets still may not
+save your retirement and how changing
+just the strategy could dramatically
+change how much wealth you actually need
+to make work optional. That's the goal,
+right? All right, let's go. All right,
+so let's just get right into the meat of
+this. I want to show you the results
+real quick cuz like I said, they're
+pretty surprising. So here's the back
+test. I started with the 6.1 Bitcoin,
+the number that, you know, most people
+throw around in the community that we
+need. And I put it back at November of
+2021. Now, this was right around the
+peak of the previous cycle. All right?
+And I'll show you different tests and
+why we chose that, but it's right around
+the peak of the last cycle. And I ran it
+for 4.2 years until March 2nd of 2026.
+Okay? Now, at that time, starting out,
+the 6.1 Bitcoin was worth about a little
+over $400,000. And again, for those of
+you that are curious, the 6.1 uh I don't
+even really know where that number came
+from, but it's just the one that's like
+commonly thrown around inside the
+Bitcoin space is how much you would need
+to retire. How do I know what kind of
+lifestyle you want or I want? And so
+that's why that number is a little
+ridiculous, but let's just go with that.
+So I took the 6.1 worth of Bitcoin,
+about $400,000, and I treat it like a
+traditional financial adviser would,
+like a traditional retirement portfolio.
+And when you're retired, you have to pay
+bills, of course, right? So you get your
+medical bills, your rent, etc.,
+whatever. And so every week you're going
+to sell just enough Bitcoin to cover
+those bills. All right? Then what I did
+is I ran the exact same portfolio at
+different spending levels. So the first
+let's start around the number that
+everybody knows. This is what your
+traditional financial adviser would tell
+you and it's the 4% number. Okay. Now at
+that withdrawal rate the plan survives
+after a little over four years. You
+still have about 4.3 Bitcoin left or you
+have 71% of the Bitcoin left that you'd
+started with. Now again it's only four
+years. So this is not a video claiming
+that Bitcoin automatically fails as a
+retirement asset. But watch what happens
+when the spending levels go up. So let's
+say at a 10% withdrawal rate. Uh well at
+10% you still don't technically run out
+of money, but you're close. Your 6.1
+Bitcoin has now fallen to only 1.67
+Bitcoin. So you lost almost three
+quarters. You lost almost 75% of your
+Bitcoin. It's gone. And again, that's
+only in four years. Not your hopeful
+whatever you hope to retire, you know,
+20, 30, hopefully 40 years of
+retirement. Now, what if you needed a
+little bit more? So, what if I needed to
+pull out 15%. Well, now the entire 6.1
+Bitcoin is gone. Zero. But notice here
+that Bitcoin didn't go to zero. Bitcoin
+started its peak and it eventually
+recovered at a higher level. So, even
+though the asset ended up higher, the
+retirement portfolio didn't. It didn't
+survive. It ended up at zero. And
+honestly, when I first looked at this,
+my first thought was probably the same
+sort of like what maybe you may be
+having right now. And of course, right,
+the numbers look pretty terrible. Like
+you started the test right at the peak,
+right in in 2021 at the top of the
+cycle. Bitcoin then went through one of
+the biggest crashes and maybe this is
+nothing more than bad timing. Okay, so I
+went back and I ran the same experiment
+and we ran it again and again. I started
+near the previous Bitcoin cycle peak in
+2017. I did it again even at 2013 and
+that's where this stopped looking like a
+2021 market cycle problem. All right?
+Because the same problem, it shows up
+again and again and again. So, if we go
+back, starting near the 2013 peak, a 10%
+withdrawal rate left you with only about
+4.5%
+4% of your original Bitcoin. If we
+started near the 2017 peak, then you
+finished with about 13% of the Bitcoin
+that you started with. And if we started
+near again the 2021 peak, then you had
+about 27% left. None of those hit zero
+during the test period. But that's
+almost beside the point, right? If you
+started with 6.1 Bitcoin and ended up
+with a fraction of that stack just a few
+years later, then your retirement plans,
+like sure, you got a little bit left on
+paper, but like how is that going to
+provide for you, right? You've probably
+sold away most of the asset that you
+were counting on for your future. Now,
+this isn't a Bitcoin problem. I'm just
+using this as the example. This is a
+traditional retirement plan problem.
+Fidelity, one of the largest asset
+managers out there. They have a really
+good example that shows you the exact
+same thing with a traditional retirement
+portfolio. They start with two people.
+Each has $1 million. Each withdraws
+50,000 a year. Okay? And they both
+experience the same 30 years of returns,
+the same gains, the same losses, the
+same average return. The only variable
+that we're going to change in this is
+the order in which they pull the money
+out. And so it really comes down to your
+luck, right? Your luck of when you were
+born and when you're retiring and what
+that market cycle looks like at that
+time. One person gets the good years
+earlier, the other person gets the bad
+years earlier. Remember the years are
+the same, but they're in different
+order. So one person gets good years
+earlier, one person gets bad years
+earlier. And by the end, one portfolio
+grew from 1 million to more than 3
+million. The other portfolio went from 1
+million to zero. So the question becomes
+a lot more interesting here, right? If
+it's not the asset, it's not the return,
+it's not the amount that you're spending
+that's the difference. How can simply
+changing the order of the returns
+completely change whether your
+retirement survives? Now, of course,
+understanding this is pretty important.
+You don't want to run out of money
+before you die, right? And once you
+understand, you'll see exactly where all
+the Bitcoin went. Okay? So here's what
+happens. If you retire off of Bitcoin or
+any other assets or any mixture of
+assets, your bills, they're going to
+stay the same every month, right? year
+after year, month after month, you still
+got the same bills, right? The same
+electricity bills and the same house
+payments and all those things. And so
+what happens is you become a forced
+seller, meaning that you have to sell to
+pay the expenses no matter what's going
+on. No matter what the market cycle
+looks like, you're forced to sell. Now,
+some of your expenses, well, I guess
+most of your expenses stay the same, but
+the asset prices, the Bitcoin price
+doesn't stay the same. So imagine, let's
+say that you need $1,000 a week to live.
+When Bitcoin's around 67,000, you have
+to sell about 0.015
+Bitcoin to get the,000. But when Bitcoin
+falls to say 20,000, now you have to
+sell 0.05 Bitcoin for the exact same
+$1,000 that you need. And so in this
+scenario, your lifestyle didn't get more
+expensive, but you're giving up more,
+three times as much Bitcoin to pay for
+that same lifestyle. Okay, that's the
+trap. And again, fill in whatever asset
+that you want here. when you're
+accumulating your assets, when you're
+accumulating Bitcoin, a crash actually
+works in your favor, right? Because the
+same thousand dollars buys more Bitcoin
+at 20,000 than it did at 67,000. But
+once you're living off of the asset,
+once you're retiring, the math works
+against you. It works in reverse. So now
+lower prices mean that you have to give
+up more Bitcoin just to maintain the
+same lifestyle. Now once that Bitcoin
+sold, it is gone and so it doesn't get
+to participate in the recovery. So, even
+if Bitcoin eventually goes back to the
+67,000 or it goes to 100,000, and of
+course, I believe it's going much
+higher. We're going to get to where I
+think it's going to go here in a second.
+Of course, it's going to go much higher.
+But the Bitcoin that you sold at the
+20,000 or whatever that level is, it's
+it's not there anymore. You you you
+don't get a benefit from that. Okay?
+This is what retirement planners call
+sequence of returns risk. But the name
+isn't really as important. What's
+important is what's actually happening
+here. Once you're taking money out of
+the portfolio, when the bad years
+happen, it matters enormously. As we
+talked about earlier with the Fidelity
+test, 70% crash when you're 40 and
+you're still buying is one thing cuz now
+you get to buy more. But a 70% crash
+when you're retired and you're pulling
+out money every single week or every
+single month is something completely
+different because now your bills are
+deciding when you need the cash, right?
+That's what I call being a forced
+seller. The market is deciding what
+price you get for your assets and you
+don't get to choose anymore again,
+right? You're a forced seller. So, the
+danger isn't simply owning a volatile
+asset. The danger is building your
+lifestyle around a strategy that
+requires you to sell that asset. Whether
+the price is good, bad, terrible,
+whatever, you have to sell. Now, before
+we're done, at the end of the video, I
+want to show you the model that I use
+instead. Okay? Because I know this
+sounds bad, but I want to show you a
+model that's designed so you're not
+forced to sell. Um, you don't have to
+sell to fund your life. And if the asset
+keeps appreciating, the amount of income
+that you can pull from it actually goes
+up in time instead of going down. But
+first, before we do that, I want to just
+deal with the with the bigger problem
+here, okay? Because Bitcoin didn't
+invent this retirement model. This is a
+traditional financial advisor retirement
+model. And we've been taught some
+version of this our entire lives, right?
+So, if forelling is the problem, why is
+selling assets exactly what almost every
+retirement plan tells us to do? None of
+this means that the 4% rule is stupid.
+Well, maybe it is. You can decide on
+that. It doesn't mean that retirement
+researchers somehow forgot that markets
+go down sometimes because I'm sure they
+didn't. The original research behind the
+4% rule specifically looked at these bad
+market sequences and it asked how much
+someone could withdraw without running
+out over a long time. Okay, but here's
+the problem. The problem is the way that
+most people have simplified that idea
+into their heads, right? You build up a
+big enough pile of assets. So you've
+saved for this long period of time in
+assets and then you retire and then you
+start selling those assets uh the the
+assets in that pile every year to fund
+your lifestyle. Now the basic assumption
+becomes something like well I mean if my
+portfolio is going up 8% and I only take
+out 4% I should be fine right? Or you
+know if you're a Bitcoin investor maybe
+the numbers are a little bit more
+extreme at least for us right? So, if
+Bitcoin compounds at 20 or 25 or 30%
+over the long run, why can't I take out
+8, 10 or 15% and live really well? Well,
+reason why is because what we just saw,
+that's not how the math works once
+withdrawals start, right? You don't get
+you don't get to average uh your return
+every year. You have to live through the
+path. Now, if the bad years show up
+early while you're pulling money out,
+you could end up selling away the very
+assets you were counting on to recover
+later. That's what bothered me about
+this whole model. Like we spend our
+entire life working to accumulate
+productive assets. We bought the best
+asset in the world, right? We bought the
+Bitcoin. We're told to save more. We're
+invest more. Let let the compounding.
+Let the biggest portfolio that we can
+build grow and compound. But then
+retirement starts and then suddenly the
+plan becomes to slowly liquidate the
+thing that we spend our whole life
+building. To me, that's the wrong plan.
+Right? I don't want a retirement plan
+where the goal is simply how slowly can
+I sell everything without running out of
+money. I don't want to have to think
+like hopefully I die before I run out of
+money. It's terrible. I want a plan
+where the assets keep working when when
+they're compounding and they keep
+growing for my life and my kids' life
+and my grandkids life where I can create
+the cash flow I need without constantly
+cutting pieces of the machine off that
+produce it. Okay, so that's a completely
+different way to think about retirement.
+Now this is where we come back to the
+number from the beginning. Okay, 6.1
+bitcoin or as I said with a different
+model most people could retire with only
+one or two bitcoin. Let me show you what
+that model is. Okay, so instead of
+asking how much bitcoin can I sell every
+year without running out, I start with a
+completely different question. How much
+liquidity can this asset produce for me
+without me having to sell it? Because if
+Bitcoin keeps appreciating over time, I
+don't necessarily have to sell pieces of
+it, right? Every time I need I need
+cash. As it's going up, I could use the
+Bitcoin as collateral and I can harvest
+some of the appreciation against it
+while I continue to own the asset. Now,
+just to make the math easy here, let's
+just say that Bitcoin eventually reaches
+a million dollars, which I believe it
+will. I believe it'll go well past the
+million. We'll get to that in a minute.
+But now, one Bitcoin is worth $1
+million. One Bitcoin is a million dollar
+asset. If I can access 10% of that
+value, that's $100,000 of gross
+liquidity. If I had two Bitcoin, that
+could potentially be 200, maybe $300,000
+of liquidity I can harvest against it,
+but I still own the Bitcoin. Now, that
+changes the entire equation. In the old
+model, every year I need money and I
+sell some of the asset. Not only does
+that reduce how much Bitcoin I own, but
+if I'm selling appreciated Bitcoin, I
+also have to pay taxes on it, right?
+that I created as taxable event. So with
+this model, I'm not selling the Bitcoin.
+I don't have to sell the Bitcoin to
+access liquidity. So I'm not triggering
+a capital gain from the sale. More
+importantly, the Bitcoin is still there.
+I still own the Bitcoin. So it can
+continue compounding forever. And its
+value continues growing over time, over
+a long period of time. The amount of
+liquidity the asset may be able to
+support grows with it. Now, obviously,
+it's a little bit more complicated in
+practice. You have to think about the
+future price of Bitcoin. What will the
+price of Bitcoin be? What will I pay to
+the borrowing cost to credit? How much
+leverage can I safely use without
+getting liquidated and wiped out? Like
+what kind of buffer do I need? Um what
+happens in a major draw down? How do I
+make the payments? All of these things.
+Now, I built a calculator that puts all
+of these in and it puts them all
+together and it it doesn't just throw
+out some magical Bitcoin number. You can
+actually run the math. Check it out. Let
+me share my screen here real quick. So,
+it's all free, by the way. This is my
+free gift to you. Um, this is the what
+I'm calling the 5-year Bitcoin
+retirement cheat sheet and calculator.
+It's an entire toolkit of things. And
+so, the first thing, you know, you're
+going to go to this thank you page.
+You're going to get immediate access to
+this Bitcoin retirement guide right
+here. But check this this out. So, the
+first thing is if you want to retire off
+your Bitcoin in the way that I said, the
+first thing you're going to do is you're
+going to say, "Well, how much Bitcoin uh
+do I currently own today?" And so, you
+can put in a 100,000 or 200,000, you
+know, one Bitcoin, two Bitcoin, five
+Bitcoin, whatever. Um, in this example,
+let's just say that I have uh 900,000
+Bitcoin. Okay, that's 11.6 Bitcoin. Now,
+let's say that I want to retire in 5
+years. As I said, the 5-year retirement.
+So, let's say over the five years, I'm
+going to put a little bit of money in.
+Maybe I'll put in $10,000 per year.
+Okay, you could just put 02. Um, and
+again, less than five year over five
+years, let's just say. Now, the question
+is, what is my annual spending target?
+How much do I actually need? Let's say
+that I want $150,000 per year. So, I put
+in $1 150,000. Now, I can adjust it for
+inflation or I can keep it inflation
+flat. And look what it tells me over
+here. My modeled annual draw. If I start
+right now, I could get out 121,000 a
+year. But I wanted 150. So, if I start
+now, I could pull 120 um and then uh my
+full spending target. I won't be able to
+get there the 150 till 2031. However, if
+I wait until my target by 2027, I should
+be able to pull out the full 150,000 I
+need and it doesn't run out. This goes
+forever and it actually goes up in time.
+Now, obviously, we're making some big
+assumptions. What will the price of
+Bitcoin be? So, what we've done here is
+I've taken these forecast models and
+I've put in the most authoritative
+Bitcoin forecast model. So, this is
+strategy Michael Sailor Strategy
+Company. This is their model. And I can
+choose a bear, a base or a bull case. I
+can choose bitwise the power law van,
+whatever I want. Or I can even put in my
+own. And so I can say, well, I I want
+the conservative case or I want the base
+case here. And this models out my return
+profile. I can I can put in, you know,
+what percentage of LTV I want. I can
+even put in what interest rate I think
+I'll be paying on that. Now, uh, if you
+want to know more how this works or how
+these forecast models work, it's all
+right here. So, this breaks down the
+strategy model, the Bitwise model.
+There's links you can learn all about
+it. And then there's an entire guide,
+the the five-year retirement field
+guide, so you can um learn exactly how
+this whole thing works, how the
+calculator works. And then if you decide
+you want to go down something like this,
+uh there's a how to vet your lender
+guides. This might be the number one
+question I've ever asked is like, who
+should I use as a lender? And let me
+just tell you real quick, the rate that
+you pay should probably be the fourth or
+fifth question you asked. Definitely not
+the first. Um, and then I even have an
+AI prompt to help you review all that.
+So, anyway, uh, it's my free gift to you
+if you want to check it out. Uh, the
+calculator is super cool if I do say
+myself say so myself. I've been playing
+with it a lot. So, just, you know, put
+in how much Bitcoin you have or how much
+Bitcoin you hope to have, your timeline,
+the amount of income that you want, and
+just see how the model works. And once
+you look at retirement this way, that
+6.1 Bitcoin number starts to look really
+different, right? depending on your
+lifestyle, your timeline, what Bitcoin
+ultimately becomes worth. Maybe one or
+two Bitcoin could potentially be enough
+for, you know, a lot of people today.
+Not because one Bitcoin magically
+guarantees retirement, because the
+strategy you're using changes the asset
+and what it can do for you. Now, you can
+have 6.1 Bitcoin and slowly sell a stack
+away, maybe goes four or five years, or
+potentially have much less, one or two
+Bitcoin, and build a system designed to
+preserve the asset while creating the
+liquidity you need to live. Right?
+That's the bigger point here. The asset
+matters, yes, but the architecture
+around the asset matters way more now.
+I'm not going to turn this video into
+another 20 minutes of borrowing math.
+You already get it right. And I already
+built the full model that you can stick
+it in right there. It's in my free
+retire in Bitcoin report along with the
+calculator and all those assets and all
+those tools that I'm showing you. So, if
+you want to run your own numbers, uh I'm
+going to put the link down description
+down below. But after doing this, I
+think asking is 6.1 Bitcoin enough to
+retire is the wrong question. The better
+question is, have you built a system
+that lets you live from your wealth,
+your assets, without being forced to
+sell it? Because owning great assets is
+only half the game. The other half is
+making sure you keep the assets, making
+sure you're never forced to sell them,
+especially at the worst possible time.
+So, download the free calculator, play
+with it, have some fun, see what the
+models tell you about what your future
+wealth would look like, and let me know
+in the comments. I'd like to see how you
+guys think about this. It's a new tool.
+It just came out. So, have fun with it.
+And as I always say, to your success,
+I'm out.
