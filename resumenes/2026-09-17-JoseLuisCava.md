@@ -34,3 +34,5 @@
 **Activos mencionados:** ETF Russell 2000 IWM (objetivo 307; caída del 5,69% desde máximo del 14 de agosto; resistencia 292-293, soporte 288), ETF Nasdaq QQQ (caída del 11,55% desde el 3 de junio, recuperado ~7%), réplica UCITS ZPRR (vehículo europeo para replicar IWM), petróleo (mencionado en retroceso, sin nivel concreto), renta fija a largo plazo de EE. UU. (mencionada sin nivel concreto de rentabilidad).
 
 **Tono:** alcista táctico para acciones estadounidenses (especialmente small caps vía Russell 2000) entre el 30 de septiembre y el 3 de noviembre de 2026, dentro del mismo marco conspirativo/estructural sobre coordinación Bessent-Fed-elecciones ya expuesto en [[2026-09-16-JoseLuisCava]]; bajista/cauto de fondo para después de las elecciones, cuando anticipa que llegará "el palo".
+
+**Nota cruzada:** el marco Bessent-Warsh-elecciones se amplía al día siguiente en [[2026-09-18-JoseLuisCava]], con nuevos argumentos sobre la independencia de Warsh, el balance de la Fed y un indicador de sentimiento (NAAIM) que el propio Cava reconoce que contradice su sesgo bajista de corto plazo.
