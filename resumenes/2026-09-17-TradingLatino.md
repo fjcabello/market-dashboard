@@ -36,6 +36,8 @@
 - Nasdaq: alcista en diario; en 4 horas solo mantiene posiciones largas ya abiertas, sin nueva entrada; descarta explícitamente el argumento de colapso de mercado por la geopolítica Irán-Trump como motivo para cambiar la proyección
 - Menciona una acción farmacéutica/de salud (transcrita como posible referencia a Johnson & Johnson y Moderna junto a Tesla y Apple) como ya analizada previamente, sin nueva información
 
+**Nota cruzada:** la llamada de Bitcoin de este vídeo (caída poco probable a 71.000-73.000, zona de venta por encima de 90.000-100.000) se repite casi sin variación, y sin el resto de contexto, en el clip corto de [[2026-09-18-TradingLatino]].
+
 **Activos mencionados:** Bitcoin (posición larga propia en 68.000 dólares; objetivo de recuperación en 78.000; posible caída a 71.000-73.000 no descartada pero considerada poco probable; zona de venta por encima de 90.000-100.000 dólares), BCH (entrada sugerida ≥10 dólares, venta desde 570, horizonte ~18 meses), NU Holdings (entrada sugerida ~14 dólares con patrón confirmado), INJ (mínimo esperado 347, zona actual de venta), Netflix, Apple, Tesla, MDB, Adobe, oro y Nasdaq (proyecciones alcistas sin cambios).
 
 **Tono:** alcista de fondo en Bitcoin y en la mayoría de altcoins y acciones de crecimiento a medio/largo plazo, con múltiples avisos tácticos de corto plazo para evitar comprar en niveles ya "topados" (Golden Cross tardío) o para salir de posiciones que considera agotadas (Apple, Tesla, INJ).
