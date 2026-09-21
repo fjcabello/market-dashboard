@@ -1,0 +1,431 @@
+Hola a todos y bienvenidos un día más a
+mi canal, La Pizarra Andrés. En el día
+de hoy me gustaría hacer un vídeo sobre
+inmuebles. He hablado, yo diría que de
+forma recurrente en el canal, al menos
+una o dos veces al año, sobre los
+mismos, pero me gustaría que
+entendierais un poco el peso de no
+invertir, ¿vale? Eh, he recopilado
+algunos datos del pasado y los he
+comparado con los datos actuales a la
+hora de buscar inmuebles para invertir,
+¿vale? Eh, y las condiciones o mejor
+dicho los resultados que vamos a ver.
+son pues una vez más eh muy positivos
+para aquellos que lo hicieron y muy
+negativos, no muy negativos, pero
+bastante más complicados para los que no
+lo han hecho todavía, ¿no? Y esto nos
+pone una vez más en perspectiva que las
+inversiones eh ya no digo los activos
+reales que se e que se benefician de la
+inflación, pues eh cuanto antes sea
+mejor. Lo primero que voy a hacer, y
+ahora os introduciré un montón de cosas
+chulas, es recordaros que, bueno, este
+Excel, que lo hice el 11 del 1 del 24,
+es decir, hace aproximadamente 2 años,
+nos mostraba un poco las rentabilidades
+de las diferentes ciudades de España
+buscando inmuebles un poco aleatorios.
+Es decir, hice un vídeo, el vídeo lo
+podéis ver aquí por si tenéis
+curiosidad, eh, este vídeo aquí de cómo
+invertir en imuales en España
+correctamente. Aquí pone hace un año,
+pero bueno, no es de hace un año,
+eh, es de hace ya casi dos, ¿vale? Lo
+que pasa que YouTube te dice un año o
+dos. Entonces, este vídeo de aquí era yo
+pues un poco buscando opciones de
+inversión y calculando eh que os voy a
+volver a enseñar para los más nuevos, la
+rentabilidad de un inmueble apalancado a
+largo plazo, ¿vale? Y con una
+herramienta bastante más profesional.
+Eh, aquí veíamos como todos eh daban
+dobles dígitos altos. De hecho, e
+por encima del 15% prácticamente casi
+todos los municipios a excepción, pues,
+por ejemplo, aquí salió Málaga y Gijón
+salieron mal y Mallorca, pues
+evidentemente también salió bastante
+mal. Todo lo demás salía bastante
+bastante bien y recordemos que estas
+rentabilidades es sin contar la
+revalorización de los inmuebles, que si
+contaramos la revalorización de los
+inmuebles y teniendo en cuenta que el
+nocional es muchísimo es mucho más alto
+de lo que tú has puesto, eh un 2% de
+revalorización de un inmueble te sube a
+lo mejor el retorno anual, un 4, un 5%,
+¿vale? contra dinero puesto, por
+supuesto, ¿no? Entonces, e con esto lo
+que quiero decir es no solo la gente se
+ha se ha llevado esta rentabilidad si ha
+estado alquilándolo durante los últimos
+2 años, sino que a juzgar un poco por
+los números que he visto, la vivienda
+puede haber subido en torno, diría,
+dependiendo del sitio, doble dígito en
+estos dos últimos años. Es una pasada,
+pero a 2 años eh muchas viviendas en
+muchos municipios ha subido entre un 10
+y un 20%. Eso en un nacional gigantesco.
+Hablamos de una rentabilidad anualizada
+los últimos 2 años de cualquiera que
+haya comprado, probablemente sobre
+dinero puesto por encima del 30%, ¿no?
+Eh, esto es una pasada. Yo no sabía que
+esto iba a pasar cuando cuando lo dije.
+Lo único que dije es, oye, eh, la compra
+de Inmu apalancado es una fantástica
+forma de crear patrimonio. Normalmente
+no se no se esperan los retornos tan eh
+cercanos a la compra, sino que
+normalmente tú empiezas a ver el el
+retorno de una casa pues cuando han
+pasado 10 años, cuando el alquiler lo ha
+subido varias veces, cuando la
+revalorización se nota porque ha sido al
+hormiguita todos los años. Pero cuando
+vivimos en un periodo de inflación como
+el que hemos vivido, pues e si yo os
+digo que hace 2 años había casas en
+Madrid dentro de la M30 por 190,000 o en
+Barcelona por 220,000 o en Valencia por
+160,000, todo esto ciudad capital, eh,
+pues me diríais, "Oye, ¿quién los
+cogiera a día de hoy?" Bueno, pues esto
+estaba disponible cuando yo intentaba
+pues echaros una mano con con la
+inversión inmobiliaria. Todo esto se
+explica aquí en el libro, aquí en el
+vídeo, aquí se puede ver. Y ahora vamos
+a ver cómo han cambiado las cosas,
+¿vale?
+Lo vamos a ver de la mano de esta de
+esta plataforma que estamos
+desarrollando un seguidorillo. Eh, la
+plataforma se llama Roy Explorer. Podéis
+registraros. Esto que os voy a enseñar
+es gratis. Luego hay una parte que que
+es de pago y creo que el código pizarra
+pues os hace un pequeño descuento.
+¿Vale? Esto es la calculadora, ¿vale?
+Que esto, insisto, esto lo tenéis gratis
+para eh entender cómo está esto de los
+inmuebles a día de hoy, ¿vale? Y vamos a
+hacer, vamos a un caso como el que
+podía ser, por ejemplo, de Valencia,
+¿vale? en su día en Valencia un inmueble
+de 160,000 € que se alquilaran 900, que
+insisto lo había, ¿vale? Porque yo este
+vídeo lo hice en directo con con la
+gente que estaba en directo en el chat y
+me corroboró que eso era una zona
+aceptable, el piso lo vimos estaba bien.
+Pues si tú mañana quisieras comprar una
+una vivienda de 160,000 € Vale, bueno,
+aquí ya se te se te pone automáticamente
+el impuesto de transmisiones
+patrimoniales. E [resoplido]
+reforma ponemos cero. alquiler mensual
+estimado, en este caso pondríamos 900
+por comparar, tasa de ocupación del
+100%, entrada inicial del 20%, plazo de
+la hipoteca 30 años, tipo de interés
+fijo y aquí es donde viene el primer eh
+problema y es que cuando yo hice ese
+vídeo, las hipotecas las podías
+conseguir al 2 y pico, ahora más bien,
+probable al uno y pico, perdón, ahora
+más bien la hipoteca te vas al 2,7, 2,8,
+lo que sea, ¿no? Impuestos sobre viernes
+inmuebles, porcentaje valor catastral.
+Bueno, y aquí de gastos es cierto que
+puse poco, ¿vale? Con lo cual, aquí más
+o menos nos vamos a un 12,7% de
+rentabilidad cuando en su día por los
+tipos más bajos te ibas a un 17. Es
+decir, ahora mismo en un inmueble,
+porque fijaros aquí que puse gastos
+fijos anuales 600 € que es lo que aquí
+se llama gastos mensuales de
+mantenimiento. Esto lo podéis poner más
+o menos agresivo, lo que sea, ¿no?
+Entonces, el mismo inmueble que hace 2
+años te hubiera dado un 17% de
+rentabilidad, lo que es rentabilidad,
+cuando digo rentabilidad digo creación
+de patrimonio, que esto ahora lo vemos
+aquí en esta en esta eh parte derecha,
+¿no? A día de hoy, solo por la subida de
+tipos, ya tu doble dígito
+significativamente más bajo, ¿no?, ¿cómo
+se calcula un poco? Oye, Andrés, ¿y
+dónde sale este 12%? Que mucha gente
+dice, ¿cómo te va a dar un 12% un
+inmueble? Bueno, bien, las
+rentabilidades siempre se calculan sobre
+dinero puesto. Entonces, a mí no me
+interesa que me digas cuánta
+rentabilidad da el inmueble sobre el
+coste eh total del inmueble, sino sobre
+cuánto he puesto yo de dinero, ¿vale?
+Porque lo que yo no he puesto, ¿qué más
+me da? No, no es no ha salido de mi
+bolsillo, ¿no? Entonces, e cómo se
+calcula esto Bueno, en primer lugar se
+se mira en un en un piso en este caso de
+160,000 € pues se ponen 32,000 + 16 de
+de impuestos, con lo cual se pondrían
+48. Sobre 48 se tiene un alquiler
+efectivo de 900, que una vez quitado la
+cuota de hipoteca, gastos operativos,
+impuestos del inmueble, se iría a 280 €
+de flujo de caja mensual. Esto es lo que
+tú ganarías en tu bolsillo para poder
+gastar, pero esto no es la totalidad de
+lo que ganas, ¿no? Eh, porque el ROI se
+calcula con lo que tienes de alquiler
+menos los costes del activo, que son los
+gastos operativos, menos los costes de
+los intereses, que es la única parte de
+la hipoteca, que es un gasto. La otra
+parte de la hipoteca eres tú pagándote
+tu propio tu propio principal, ¿no? Esto
+te deja 6123 € de los cuales eh aquí lo
+vemos, 3300 será liquidez y 2700 será
+amortizar ese capital. Esta
+amorttización es lineal, ¿vale? O sea,
+quiero decir, es como si mantienes el
+piso a los 30 años. Si no fuera lineal,
+esta ecuación cambiaría, pero
+técnicamente estarías generando
+patrimonio. Aquí no lo veis más abajo
+porque ya lo tapa mi mi foto, estaríis
+generando patrimonio eh en torno a 510 €
+al mes. Dicho esto, esto me sigue
+pareciendo okay. Es decir, si encontráis
+un inmueble con estos números o
+similares, eh, a mí me parece
+suficientemente bueno seguir comprando y
+alquilando a doble dígito. ¿Vale? Eh, es
+cierto que claro, no es lo mismo un
+doble dígito del 12,7 que un doble
+dígito que teníamos aquí del 17. No es
+lo mismo. ¿Cuál ha sido mi sorpresa?
+¿Cuál ha sido el problema? Pues que me
+he venido a Roy Explorer. Ahora si
+queréis enseñar un poco cómo funciona.
+Me he ido a Valencia, he escaneado todo
+Valencia y me he mirado los inmuebles
+que estaban más arriba. ¿Vale? Uno de
+los imuebles más arriba que me he
+encontrado, claro, ¿cuál es el problema
+de a día de hoy? Que los alquileres han
+subido, por supuesto que sí, pero ya en
+Valencia Capital no hay inmuebles por
+menos de 200,000 € no hay, simplemente
+no hay. Entonces ahora tengo que buscar
+otro tipo de ratios. En este caso, he
+encontrado este inmueble, que luego me
+he ido aquí. Bueno, si aquí si le das a
+ver más y te vas al [resoplido]
+e lo veremos ahora, te vas al anuncio
+original, pues hombre, lo primero es ver
+que el anuncio funciona, tal, tal, tal,
+dónde está, que está en el centro,
+¿vale? No conozco mucho Valencia, pero
+bueno, este inmueble parece estar bien.
+Entonces, una vez nos vamos ahí, aquí
+estaría el anuncio, ¿vale? Nos vamos
+primero al análisis de la zona, ¿vale? Y
+nos vamos a al esto, esta parte ya es de
+pago, ¿vale? Pero para que veáis un poco
+cómo está todo, ¿eh? Nos vamos a
+alquileres similares y sí que es cierto
+que el piso más barato por la zona pues
+vale 10000, 10000, 1300, 10000. Vale,
+una vez hemos visto cuánto vale el
+alquiler de esa zona, nos vamos a la
+calculadora de Roy otra vez. Aquí en
+este caso sí que vemos 260.000 1000
+impuestos del 10% que se te ponen actos
+jurídicos cero reforma estimada cero
+alquiler mensual cojamos algo más o
+menos coherente 1300 100 una cosa así
+suponiendo que lo que hemos visto está
+bien insisto, podría incluso ser a lo
+mejor 100 o 1500 tasa de ocupación del
+100% entrada inicial del 20% plazo de
+hipoteca 30 años tasa de interés aquí es
+donde nos pegan el palo porque el
+inmueble es algo caro y si tenemos que
+pon una tasa de interés del 2,8 el 2,7
+lo que sea. Y luego por último los
+gastos mensuales de mantenimiento, que
+aquí si queremos poner algo barato para
+que nos salga un mejor número, pues
+ponemos 50 € me lo invento, serían 600 €
+al año, ¿no? Si os fijáis, este inmueble
+nos deja un 10,76% analizado, es decir,
+lo más atractivo que he conseguido
+encontrar en Valencia a día de hoy te de
+te deja un doble dígito bastante bajo
+cuando yo recuerdo haciendo este vídeo
+que mirabas un poco un montón de cosas y
+entre los tipos de interés más bajos,
+los costes de la vivienda más bajos y
+todavía unos alquileres bastante o
+aceptablemente altos, pues encontrabas
+cosas que daban un 17. Es decir, en mi
+opinión, el inmobiliario se ha vuelto un
+20, un 30 o un 40% menos rentable de lo
+que era hace 2s años. Esto que me que me
+dice dos cosas. utilizo avenudo Roy
+Explor en los directos y sí que he
+llegado a ver que en otros sitios sigue
+habiendo cosas que pueden dar un doble
+dígito alto, eh, pero ya suelen ser pues
+ciudades [resoplido] dormitorio, eh,
+pueblos grandes, etcétera, etcétera. En
+ciudades importantes ni de coña se
+obtienen retornos sobre el capital
+invertido de más del 10, 12, 14%, cuando
+antes, pues, fijaros, 15, 15, 19, 21,
+18, 13, 17, etcétera, etcétera, ¿no?
+Entonces, ¿qué es lo que nos dice esto?
+Lo primero que yo no sé lo que va a
+pasar en el futuro y sigo sin saberlo,
+pero que invertir hay que invertir
+siempre, ¿vale? Eso para empezar. Eh, lo
+segundo que si vais a invertir en un
+inmueble, bueno, aquí esto ya se ha se
+ha se ha actualizado y se ha descajagado
+y por un 22%, ¿no? Pues se ha refrescado
+la página. Lo segundo, que si vais a
+generar, si vais a eh comprar un
+inmueble, eh todo esto lo tenéis que
+saber, o sea, os tenéis que saber eh
+esta calculadora la tenéis que saber
+utilizar, tenéis que saber, oye, en
+promedio, ¿cuánto me va a quedar de
+flujo de caja? ¿Cuánto va a ser? Por lo
+que veis aquí, bueno, vosotros esto no
+lo veis, cuánto va a ser el el flujo que
+me llevo y cuánto va a ser la la
+amortización de la hipoteca la que no
+son intereses que me van a crear
+patrimonio. ¿Cuál es el patrimonio que
+voy a creer crear al año? Vale, esto ya
+se ha ya se ha descuageringado, ¿no?
+Pero quiero decir, todo esto lo tenéis
+que saber y si un piso para flujos o
+para alquiler nos deja un 10% aunque sea
+anual, yo no lo haría. Dicho esto, muy
+importante, este estas inversiones que
+estamos viendo aquí no han sido solo
+buenas por esto. Es que este piso que
+antes en Valencia valía 160,000 € hoy
+vale en torno a 250,000. Entonces, o
+240,000 como estamos viendo. Entonces,
+que tú hayas ganado 80,000 € en este
+piso cuando pusiste 50 para comprarlo,
+es que te has hecho pues no solo esto
+este este beneficio al año, este aumento
+de capital que te has hecho de 16,000 en
+2 años, ¿no? Sino que te has hecho otros
+80,000 de revalorización, es decir, te
+has hecho 90 y pico 1000 € de de
+rentabilidad en eh habiendo puesto 50, o
+sea, una barbaridad, te has hecho un
+200%. Entonces, eh yo no digo que eso
+vaya a volver a ocurrir, pero que hay
+otro concepto más que no creo que se
+deba pasar por alto, aunque no lo
+estamos teniendo en cuenta en estos
+cálculos, que es la revalorización. Y es
+muy difícil pensar que en España, donde
+cada vez entra más gente a más personas
+a vivir y donde cada vez se construye
+menos o se ponen detrás de dificultades
+para construir, es difícil pensar que
+aunque sea los ineboles no vayan a subir
+un 2% anual, ¿no? O lo que sea. Entonces
+eh esto deja en evidencia varias cosas.
+invertir, hay que invertir. Yo ya sabéis
+que intento hablar mucho más de fondos.
+Creo que es una forma de invertir donde
+mucha más gente puede entrar, donde no
+hay esas barreras de entrada, donde eh
+es para todos los públicos, pero no me
+no se me olvida nunca en que
+probablemente yo, por ejemplo, las
+mejores inversiones que he hecho en mi
+vida o de las mejores han sido
+inmobiliario y que si alguien lo tiene
+muy claro, sabe dónde va a vivir, es
+capaz de entender esta calculadora.
+Luego ya que uséis eh Roy Explorer de
+pago o no, pues eso ya me da igual,
+¿vale? Yo creo que si vais a comprar un
+inmole creo que es bastante útil. Podéis
+iros aquí a mismo a a oye, quiero un yo
+vi un Cuenca y quiero ver qué hay aquí.
+Os vais aquí, le dais aquí a buscar en
+este área, filtráis aquí con los filtros
+el los precios que queráis, pues yo que
+sé, entre 130,000 y 230,000 € le dais
+aquí y eh aquí lo veis en Cuenca todo lo
+que hay ordenado de mayor a menor
+rentabilidad supuestamente y luego ya
+pues investigáis, oye, a qué se alquila,
+qué no se alquila, qué escenarios quiero
+poner, qué hipoteca me dan, cuánto
+dinero quiero poner, etcétera, etcétera.
+Pero son cosas que aquel que vaya a
+invertir en inmueble tiene que tener muy
+claro y oportunidades sigue habiendo
+simplemente pues las oportunidades del
+dinero baratísimo al un y pico por c las
+hipotecas y las e las oportunidades de
+comprar inmuebles por debajo de 200,000
+en grandes ciudades, pues evidentemente
+se han acabado. Dicho esto, pues no me
+extrañaría que volviéramos a hacer este
+vídeo dentro de dos años, eh, y
+viéramos, pues una vez más que ha habido
+cierta revalización en los inmuebles y
+que encima eh las, bueno, en este caso
+no me atrevo a decir si en dos años los
+las condiciones de financiación estarán
+más caras o más baratas, porque eso es
+imposible decir, ¿no? Pero estoy seguro
+que probablemente sea una buena
+inversión como siempre lo ha sido.
+Insisto, igual que no no animo a la
+gente a que se compre un inmuel a
+tocateja. Eh, creo que comprar un inmuel
+apalancado sabiendo lo que haces es una
+muy buena forma, una forma bastante
+sencilla de que tu patrimonio aumente en
+5, 6, 8,000 € todos los años, eso sí,
+con pues con algún dolor de cabeza y con
+algún trabajillo, ¿no? Así que nada,
+chicos, en este vídeo solo quería
+enseñaros eso. Eh, por cierto, la
+plataforma de Roy Explorer, creo que
+está el código pizarra activo. Si
+alguien le interesa comprar inmobole y
+quiere escanear su zona o varias zonas,
+etcétera, etcétera, creo que es algo que
+para algo tan importante como la
+vivienda os puede ser tremendamente
+útil. Si os ha gustado, me dejáis un
+comentario y nosotros nos vemos en el
+siguiente vídeo. Se despide la pizarra.
+Andris.
