@@ -359,19 +359,26 @@ def process_channel(
     downloaded = skips = errors = 0
     new_files: list[str] = []
     error_ids: list[str] = []
+    # Fechas para las que ya hemos asignado un archivo en esta misma
+    # ejecución. Sirve para distinguir un canal que publicó dos vídeos el
+    # mismo día (el segundo necesita sufijo) de un archivo heredado de una
+    # ejecución anterior (se asume mismo vídeo y se salta), ya que el nombre
+    # de archivo por sí solo no identifica el video_id.
+    seen_dates_this_run: set[str] = set()
 
     for date, video_id in videos:
         path = target_path(date, name)
 
         if os.path.exists(path):
-            log.info("  [SKIP] %s", os.path.basename(path))
-            skips += 1
-            continue
-
-        suffix = ""
-        if any(os.path.exists(target_path(date, name, f"-{i}")) for i in range(1, 10)):
-            suffix = f"-{video_id}"
-        path = target_path(date, name, suffix)
+            if date in seen_dates_this_run:
+                # Vídeo distinto del mismo canal y fecha ya procesado en esta
+                # misma ejecución: no es un duplicado, se guarda aparte.
+                path = target_path(date, name, f"-{video_id}")
+            else:
+                log.info("  [SKIP] %s", os.path.basename(path))
+                skips += 1
+                continue
+        seen_dates_this_run.add(date)
 
         try:
             text = fetch_transcript(video_id, proxy_config=proxy_config)
