@@ -1,0 +1,647 @@
+America is making an AI bet that's so
+large that slowing down right now could
+be more dangerous than if they continue.
+In the second quarter of 2026 alone,
+Microsoft, Google, Amazon, and Meta
+spent about 165 billion in cash on
+property and equipment. That's more than
+those same four companies spent during
+the entire year of 2023. So, we can see
+that the buildout is accelerating and
+it's no longer just a competition
+between technology companies. It's now a
+national competition. Washington now
+treats AI, compute, and the
+infrastructure behind them as
+strategically important. So, normally
+when an investment gets this expensive
+and financing gets harder, then
+companies start pulling back. But that's
+not what's happening here. Which raises
+the real question. Why are the biggest
+companies and countries in the world
+acting like slowing down may be more
+dangerous than overspending? Because if
+they're right, this boom could run much
+longer, much hotter than investors
+expect. But if competition itself is
+forcing everyone to overbuild, the same
+forces keeping the boom alive could
+eventually break it. And so in this
+video, I'm going to break this down. I
+want to show you how this capex spending
+is blowing up. I want to show you how
+important this is becoming and how this
+is becoming a national imperative. And I
+want to show you the one number that I'm
+watching for signs that they're finally
+starting to accelerate or slow down. You
+ready? Let's go. All right. So to
+understand all this to understand why
+this AI race may be much harder to stop
+than people think is that first you have
+to see what these companies have already
+committed to themselves. All right. Now,
+three years ago, most people experienced
+AI through CatchyBT, right? That was the
+big thing. And we got image generators.
+We got coding tools. We got a better
+search. That's what most people do. They
+treat it like a search bar. Now, it
+looked like another software revolution.
+But the race has moved into now the
+physical world. So, it's not just
+software. We now see Microsoft, Google,
+Amazon, and Meta. They're all buying
+enormous quantities of chips, building
+data centers. They're securing power.
+They're contracting for capacity that's
+not going to even come online for years.
+So the race has moved into the physical
+world. And the reason why that matters
+is because the physical infrastructure
+it it creates real commitments and those
+commitments extend far beyond you know
+the next quarter even this year. You see
+like once you've signed the lease once
+you've you know put the order in for the
+GPUs you've secured the power and you
+started to build the facility out well
+you're not experimenting with another
+software product anymore right? you're
+installing an industrial system. And
+when you look at the amount of capital
+that's already moving into the system,
+you can see just how big this is
+actually going, how far this has gone.
+So, if we look back in 2023, those four
+companies, as I said in the intro, they
+spent about 147 billion in cash on
+property and equipment for the whole
+year. By 2025, that had climbed to
+roughly 376 billion. And by just the
+halfway point of this year, 2026, they'd
+already spent almost 295 billion. Now,
+not all of that is AI spending, but the
+companies themselves make it very clear
+what's driving this acceleration.
+Microsoft alone, they say that roughly
+2/3 of its latest capital spending went
+into shorterlived assets, which are
+primarily CPUs and GPUs. Uh Google says
+that most of its technical
+infrastructure investment is going into
+servers, data centers, networking
+equipment, and a huge amount of that
+capacity they're already signed up for.
+It hasn't even come online. Hasn't even
+opened up yet. Microsoft disclosed about
+329 billion of additional leases
+primarily for data centers and they
+hadn't even commenced yet. Like Meta has
+hundreds of billions of dollars tied up
+to future capacity. And those aren't
+dollars that have already been spent,
+right? They show how much physical
+capacity is being contracted years
+before it ever comes online. Okay,
+that's the d that's the data centers.
+But what about the power? Now, one
+project being developed in Ohio is
+planning around 10 gawatts of new
+generation alongside the data center
+complex. Now, at that point, we're not
+we're not talking about a better chatbot
+anymore. We're talking about physical
+infrastructure. We're talking about
+chips. We're talking about building like
+people have to build that out. We got
+cooling, we got fiber optics,
+transmission, all these different
+things. And that's why I said AI is not
+a software story. It's become an
+infrastructure story. And that brings us
+all the way back to the question from
+the very beginning. If this were a
+normal capital cycle, then you'd expect
+spending at this scale to eventually
+slow down. Eventually, it would force
+these companies to slow down, right? But
+so far, the opposite is happening. Why
+does spending more start to look
+rational even as the costs keep going
+up? Well, to answer this, we have to
+understand what happens to the value of
+what you've already built when everyone
+else keeps moving when you're in a race.
+So, imagine this. Imagine Microsoft
+spends tens of billions of dollars
+building this compute capacity and right
+they're training the models and they're
+integrating AI across all their
+products. Now, that infrastructure has
+value because it keeps Microsoft close
+to the technological frontier. But then
+Google, they make a major leap forward
+and now they've leaped forward in
+compute models, cost efficiency,
+whatever. Well, Microsoft servers didn't
+suddenly stop working, right? Its data
+centers didn't just disappear, but the
+competitive value of what Microsoft
+already built just changed because the
+frontier moved. So now Microsoft has a
+different decision to make. It can slow
+down, save some money, and try try to
+protect whatever cash it has left. But
+Google's going to p pull further ahead.
+So, Microsoft could just spend more,
+could try to defend its position, and
+it's already paid billions of dollars to
+create that position. So, of course, it
+has to protect that. But Google's also
+making the same calculation about
+Microsoft, also Meta, also Amazon, also
+OpenAI, Anthropic, they're all racing.
+They're all trying to stay close to the
+same frontier, trying to continue to
+leapfrog each other. And that's what
+makes us different from a normal capital
+spending cycle. You see, normally if the
+return on the next factory gets worse,
+then you stop building the factories.
+But in a technological race, it's
+different, right? Management also has to
+ask what happens to everything they've
+already invested in if a competitor
+keeps moving and they don't. So
+economists have a name for this, for
+this dynamic. It's called the red queen
+effect. Now that's named after the
+character in Alice Through the Looking
+Glass who had to keep running just to
+stay in the same place. Now we saw this
+earlier this year. We saw economist
+Yukon Zang built a model around this
+exact problem in AI. Now the conclusion
+wasn't that companies are literally
+incapable of stopping. What the model
+showed is that when the technological
+frontier keeps advancing that a company
+that stops investing can see the
+economic value of all its existing
+capital that it built decline relative
+to everybody else. In plain English,
+that means that standing still can
+become a form of falling behind. That's
+kind of true through all of life, not
+just in this instance, but some of the
+behavior that we're seeing starts to
+make sense through that lens, right?
+Google says it remains supply
+constrained. Microsoft tells its
+investors that its AI investments are
+being made at significant scale on an
+accelerated timeline and in advance of
+fully developed revenue streams. So what
+that means is they're committing
+enormous amounts of capital before the
+economics are even proven because if
+they wait, if they're waiting for
+certainty, then it has competitive risk.
+But here's where this starts to get
+really dangerous. Uh if we look at the
+the Bank of International Settlements,
+the BIS, they recently modeled the race
+from another angle and they found that
+competition itself can push companies to
+invest significantly more than would
+make sense for the economy as a whole.
+So the force extending the boom may also
+be the force that eventually creates too
+much capacity if that's even possible.
+We'll come back to that. But that's why
+I think most bubble an analysis is
+asking they're asking the wrong
+question. It asks whether the next
+dollar of investment makes financial
+sense but in a race you do things that
+don't make sense. Right? Management has
+to start asking what happens if
+competitors spending more than we do.
+What happens if competitors spend the
+next dollar and we don't? Now, that can
+keep investment going much longer than a
+traditional return on capital analysis
+would suggest, even as the risk of
+eventual overbuilding rises with it. All
+right. Now, up until this point, we've
+only been talking about companies.
+Companies can eventually cut their
+budget. So, com companies can eventually
+pull back. They can borrow less. They
+could cancel projects, right? They
+could, you know, they have to answer to
+their shareholders after all. But once
+artificial intelligence became important
+enough that governments began treating
+compute, chips and energy as economic
+national security infrastructure. Okay,
+now the race moved beyond the boardroom
+and now it's about the borders. It
+became a competition between basically
+the United States and China. And when
+that happened, it completely changed the
+stakes. You see, because up until this
+point, we've been talking again about
+companies and meta and open AI and all
+these things. But like I said, the
+companies eventually they have to answer
+to the shareholders. Companies
+eventually have to, you know, bring debt
+and income back in line. So maybe
+they'll cancel projects, cut budgets,
+things like that. But countries, they
+they operate on a completely different
+scoreboard. Countries are different,
+right? Both the United States and China
+have made it absolutely clear that they
+no longer view AI as just another
+technological market, right? They see it
+as strategic infrastructure. This means
+that the US government's own AI action
+plan describes this as a race for global
+leadership and they they've actually
+laid out a strategy around the
+infrastructure required to support it.
+And they're talking about the data
+centers, they're talking about the
+semiconductor manufacturing, energy,
+advanced computing capacity, all of
+that. The national security side of this
+is even more explicit. A White House
+memorandum now directs federal agencies
+to ensure the national security system
+has access to advanced computing
+resources. And this includes high
+security AI facilities capable of
+running the next generation systems at
+at massive scale. So Washington, they're
+not the only one asking whether
+Microsoft earns a good return on its
+next data center. It's asking whether
+the United States government, whether
+the United States has enough compute and
+chips and energy technological capacity
+to maintain an advantage over its
+competitors, not the other companies,
+against China. But China's also looking
+at the same problem, but from a
+different side. In its latest five-year
+plan, China calls for expanding national
+computing infrastructure, increasing
+high performance computing resources,
+continuing breakthroughs in its core AI
+technologies, and pushing what it calls
+AI plus throughout the economy. Now,
+sure, the language is different, right?
+But the direction is the same, right?
+It's the same race. Both countries are
+building the physical and the
+technological capacity that they believe
+that they're going to need in order to
+compete in an economy that's shaped by
+AI. So a company, like I said, they have
+to care. They have to care about the
+return on capital. So Google's not going
+to stop caring whether a data center
+makes money because Washington thinks AI
+is important. But the governments, they
+care about the technological leadership,
+the capacity, the the military
+capability, right? they they worry about
+the risk of becoming dependent on
+another country for the intelligence
+layer of their economy. Now, that
+completely changes the stakes because if
+Microsoft slows while Google keeps
+building, that's a corporate competitive
+problem. Okay? But if the United States
+slows while China keeps building, the
+perceived cost is way bigger, way more
+dangerous. And China faces the same
+calculation but from the other side of
+the table. That's why I think this too
+big to stop needs to be distinguished
+from too big to fail. All right? I'm not
+arguing that Washington has to guarantee
+that these investments or the promise to
+protect shareholders. I'm not arguing
+that. I'm arguing that AI may becoming
+too strategically important for either
+country to casually abandon the
+buildout. You see, individual companies
+can still fail. Projects can still be
+cancelled. Investors could still lose
+money for sure, right? I'm not saying
+every project wins. What I am saying is
+the broader race can continue anyway.
+Now once AI reaches the level of
+strategic importance, then something
+else starts happening. When the race
+turns into constraints, you begin to see
+the system around it adapt. And that's
+what we're starting to see right now.
+Because we've already seen some of the
+constraints coming around the money or
+the capital, right? The first phase of
+the AI builtout was funded largely from
+the cash flows from the balance sheets
+of of these these companies. But as the
+buildout grew, then that capital became
+a constraint. So then the financing
+model started changing. Now, I recently
+did a full video on uh Larry Frink and
+Nvidia and the push to move AI
+infrastructure financing beyond the big
+tech's balance sheets. So, uh and
+securitizing it just like we did with
+mortgage back securities. I'm not going
+to redo the whole thing, but you should
+watch it. I'll link it in the
+description down below. But this is
+already happening in real projects,
+right? Meta's roughly 27 billion
+Hyperion data center is structured
+through a joint venture where outside
+investors own most of the venture and
+provide additional financing. So the
+funding wall it didn't disappear. Wall
+Street started moving the funding. Now
+the same pattern is beginning to show up
+with electricity. So we see data centers
+they need enormous amounts of power
+obviously right and power availability
+is now one of the major constraints on
+how quick we can get this capacity
+online. So the response hasn't been just
+to you know accept that constraint of
+course now we have the government
+getting involved. The department of
+energy is working to accelerate
+largecale generation and transmission.
+We have federal regulators changing how
+very large new loads connect to the grid
+and one planned data center complex in
+Ohio is now being developed on alongside
+10 gawatts of new power generator. So in
+other words when AI runs into an
+electricity wall the response is to
+build more electricity. Semiconductors
+are following the same pattern right? So
+we have advanced chips becoming a
+strategic bottleneck. So domestic
+semiconductor manufacturing move from
+corporate supply chain problem into a
+national industrial policy. TSMC, one of
+the biggest chip manufacturing in the
+world. They planned US investment now
+runs into the hundreds of billions of
+dollars across dozens of facilities.
+Again, none of this guarantees that
+every single project works. Doesn't mean
+that every loan is going to get repaid
+or, you know, every investor share
+shareholder is going to get their money
+back. It's not the point. The point is
+that when this race turns into a
+constraint, the response so far has
+increasingly been to expand the
+constraint rather than abandon the race
+because we can't stop. Can't stop, won't
+stop. Capital becomes scarce. So the
+financing base broadens right power
+becomes scarce so more generation and
+transmission get built. Uh chips become
+strategically important so then the
+capacity becomes an industrial policy.
+That's what I mean when I say AI may
+become too important to stop. Not
+because somebody is guaranteed the
+investors but because parts of the
+economic system are being reorganized
+around keeping the buildout moving. And
+so once you understand that then a much
+bigger question is starting to form
+right coming into focus. Why is America
+willing to go this far for one
+technology? Now, the answer isn't simply
+that AI companies might make a lot of
+money, right? Sure. I mean, America
+wants the tax revenue, of course, right?
+That sounds good. And it's more
+important than AI, you know, is needed
+for productivity. America needs
+something much bigger than that. It
+needs productivity because in a highly
+leveraged economy growth helps increase
+the incomes and the incomes uh and
+corporate profits then lead to tax
+receipts while making the existing debts
+easier to carry. Now, one of the
+traditional sources of that growth is
+getting weaker. Right? For most of the
+post-war era, the United States
+benefited from its expanding workforce.
+More workers meant more production, more
+consumers, and also more taxpayers. But
+that tailwind is changing. It's slowing
+down. The Bureau of Labor Statistics,
+the BLS, they project US employment to
+grow about 3.5% over the coming decade,
+but compared to almost 11% over the
+previous decade. At the same time, the
+federal debt is still projected to rise
+relative to the size of the economy. So,
+if you can't rely on the workforce
+growing as quickly as it did before,
+then the other way to increase output is
+to make each worker more productive.
+That's where AI becomes economically
+important here. If one worker using AI
+can produce more in the same amount of
+time, then the economy could potentially
+grow without requiring the labor force
+to expand at the same rate it was at
+before. Right? That's the real promise
+underneath this buildout. Again, not a
+not a better search engine, not better
+chat bots, more output from the same
+amount of labor, which means lower
+costs, faster innovation, and entirely
+new businesses that weren't economically
+possible before. Now, if that starts
+happening at scale, then the enormous
+investment going into chips, data
+centers, and networks, it all starts
+looking less like an expense and more
+like an attempt to expand the productive
+capacity of the economy. But the problem
+is that we're building the
+infrastructure before we know how large
+that payoff could actually be. But we
+have early evidence, right? And the
+early evidence is encouraging, although
+it's still early. But one randomized
+study across thousands of knowledge
+workers found that people given
+generative AI saved roughly two hours
+per week just on email alone. Other
+research is beginning to find stronger
+productivity growth in industries with
+greater AI adoption. But the researchers
+are still pretty careful about you know
+causation at scale anyway. So we don't
+have enough proof that AI has produced
+the kind of economywide productivity
+boom that's required to justify
+everything being built around it. So the
+productivity question is basically
+coming down to can AI create enough real
+output and economic value to justify the
+capital being committed to it. Now if
+the answer is yes then this could become
+one of the most important productivity
+booms of our lifetime. If the answer is
+no well the payoff simply arrives too
+slowly then technology could still
+transform the economy while the people
+financing the first wave of
+infrastructure have losses. Right now
+that is the dangerous distinction that
+we need to make next. So when we look at
+technology, we look at technology
+cycles. We look at 50-year technological
+revolution cycles and we can see they
+happen in predictable four phases. And
+we can see that they've happened six
+times now or the last 300 years. And so
+when we look at that, we can see that
+the technological revolutions, they show
+us exactly how both of those things can
+be true at the same time. So if we go
+back to say like the last the internet
+boom which was telecom companies um and
+you know microchips telecom companies
+the internet personal computers things
+like that and the telecom companies
+spent aggressively ahead of demand right
+when those expectations broke though
+capital spending collapsed worldcom went
+bankrupt right its shareholders
+basically got zero dollars back but the
+internet didn't stop broadband adoption
+kept growing through the bust and much
+of the infrastructure that had been
+overbuilt survived under new ownership
+just at different prices. So the
+technology won, but the original capital
+structure didn't didn't win with it.
+Right? That's the distinction I think
+that matters most for AI. AI can become
+critical infrastructure, and I believe
+it will. America can decide it can't
+afford to lose the race, which I think
+it has. Wall Street can keep broadening
+the financing base, which of course it's
+already doing that, and governments can
+keep trying to remove bottlenecks around
+power, chips, and compute, which they're
+doing, but you can still have a brutal
+financial reset somewhere along the way.
+In fact, the same competitive pressure
+keeping the buildout alive could
+eventually be what causes to create too
+much capacity. So for investors, if
+we're investing through this, I don't
+think the right question is simply which
+AI company wins, right? I want to think
+about it in three different ways. First,
+I'd be very careful trying to pick the
+single winner this early in the cycle.
+Okay? Because today's leader may not be
+tomorrow's leader. Now, technological
+revolutions have a long history of
+destroying companies that looked
+unbeatable during the installation
+phase. I'd rather think in terms of
+service sectors and bottlenecks. Okay.
+Second, I want to own what the entire
+race has to consume regardless of who
+wins. I call this a heads you win, a
+tails you win. So, for example,
+Microsoft, Google, or some Chinese
+competitor. Whichever one wins, does it
+really matter when they all need
+electricity? They all need chips. They
+all need copper, concrete, cooling,
+trans just all that, right? They all
+need that, right? So if they all need
+those things, then I don't need to
+choose the winners, I can choose the
+things that they all need, the materials
+required to build the infrastructure. So
+instead of trying to predict the model
+that dominates 5 years from now, just
+asked what is every competitor forced to
+use. And the third thing I want to
+distinguish between speculative capital
+and productive capital. You see, early
+in a technologically driven cycle, money
+chases expectations. Okay? Eventually,
+the data center has to get used. The
+power plant has to sell electricity,
+right? All those things has to happen.
+That's where I want to pay close
+attention to when installed capital
+begins moving from a promise,
+speculative capital, a promise about the
+future into an asset producing
+measurable economic value. Now, there's
+one signal I'm watching to tell me when
+this broader story actually starts
+changing. You see, every quarter I'm
+tracking the cash Microsoft, Google,
+Amazon, and Meta actually spend on
+physical property and equipment. One
+week quarter, it doesn't really matter.
+But if that spending starts falling
+year-over-year across the major builders
+for several quarters while the future
+capacity shrinks and outside financing
+stops replacing it, then the thesis has
+changed. Okay? But until then, I think
+the mistake is assuming the race ends
+simply because the spending looks
+excessive. Because excessive spending
+may eventually cause the bust. Sure. But
+the incentives we've looked at through
+this video explain why it can keep going
+more excessive longer than most people
+think can happen. Now, after looking at
+the companies, the countries, and the
+system reorganizing around this
+buildout, I don't think the most
+important question today is when they
+stop. It's whether they can afford to be
+the first one who does. Let me know what
+you think, though. Is it a bubble that's
+about to burst, or is it going to go
+longer and harder than most people
+think? And are you long enough? Let me
+know in the comments down below. And if
+you want to see what Larry Frink talked
+about building and financing this cap at
+boom, then you might want to watch this
+video right here. And I'll see you over
+there.
