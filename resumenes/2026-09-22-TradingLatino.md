@@ -45,4 +45,6 @@
 
 **Nota cruzada:** continúa directamente el marco técnico de Bitcoin (flecha alcista desde 64.000-68.000, línea de "no comprar por encima de 90.000 ni en semanal") ya repetido en [[2026-09-17-TradingLatino]] y [[2026-09-19-TradingLatino]]; aquí el precio ya está mucho más cerca de esa zona de confirmación (85.000-86.000 frente a 76.000-80.000 en vídeos previos) y Jaime mantiene el mismo escenario de "bull trap" semanal pese a la presión del chat para que lo dé por confirmado.
 
+**Nota cruzada (posterior):** en [[2026-09-23-TradingLatino]] (directo fechado internamente el 22 de septiembre), con Bitcoin en 86.512, concreta la zona de recompra en 83.000-83.500, dice que el retroceso solo llegó a unos 85.100 y afirma que queda una última onda alcista hacia >90.000, donde mantiene la lectura de bull trap semanal.
+
 **Tono:** cautelosamente alcista de fondo en Bitcoin, Ethereum, XRP, Meta, Moderna, Oracle, CDNS y CRO, pero con insistencia explícita en que 90.000 en Bitcoin no está confirmado y en que gran parte del rally reciente ya no es zona de entrada ("área no operable") para quien no esté ya posicionado; bajista táctico en petróleo, Walmart y Nasdaq; escéptico respecto al sector tecnológico en general pese al optimismo en tickers individuales como Oracle y CDNS.

@@ -35,4 +35,6 @@
 
 **Nota cruzada:** continúa directamente el marco de calendario Bessent-elecciones del 3 de noviembre desarrollado en [[2026-09-21-JoseLuisCava]] (donde ya adelantaba el objetivo de perforar el "fair value" del Brent en 90 hasta la zona de 80 y el mismo argumento de "tregua energética" hasta las elecciones); aquí añade el mecanismo técnico concreto (liberación de gamma tras la triple hora bruja) y el papel activo de Bessent en bonos, petróleo y narrativa informativa como palanca adicional para explicar la subida bursátil.
 
+**Nota cruzada (posterior):** en [[2026-09-23-JoseLuisCava]] desarrolla este mismo marco como "operación TACO": pone un objetivo al SP500 (7.850-8.000) hasta el 3 de noviembre, cuantifica el barrido demócrata esperado (93% Cámara, 66% Senado según los mercados de predicción) y describe el escenario posterior: parálisis de la inversión en IA y caída de bolsas de al menos un 10%. Allí el objetivo del Brent baja a 90-85.
+
 **Tono:** alcista táctico en bolsas (SP500, Nasdaq), especialmente en tecnología y Bitcoin, hasta el 3 de noviembre; bajista táctico pero alcista de fondo en petróleo; alcista de fondo en oro pese al retroceso puntual; abiertamente conspirativo respecto al papel de Bessent como gestor de fondos operando en beneficio electoral de Trump; escéptico respecto a las intenciones de control político sobre la IA.
