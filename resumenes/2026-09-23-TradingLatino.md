@@ -59,4 +59,6 @@
 
 **Nota cruzada:** continúa directamente [[2026-09-22-TradingLatino]]: el precio sigue en la zona de 85.000-86.500 y mantiene el mismo marco (90.000 como nivel a partir del cual solo hay ventas y bull trap semanal). La novedad es que concreta la zona de recompra en 83.000-83.500 y afirma que queda una onda alcista más antes de llegar a esa zona. El fragmento corto del mismo día ([[2026-09-23-TradingLatino-Jw016z6ky8A]]) repite la idea de "área no operable" con la misma analogía del petróleo (68→90).
 
+**Nota cruzada (posterior):** en [[2026-09-24-TradingLatino]] (directo fechado internamente el 23 de septiembre), Bitcoin ya había tocado la zona de 83.000-83.500 sin la onda alcista previa hacia 90.000 que se esperaba aquí. Jaime no llegó a entrar y proyecta una nueva caída a 83.000-82.200 en 48 horas. La posición en oro acumula una caída del 3,2%.
+
 **Tono:** alcista a corto plazo en Bitcoin (sin cortos, compras en retroceso) pero bajista/cauteloso a partir de 90.000 en el semanal; bajista en petróleo; alcista en oro pese a la posición en pérdidas; en la mayoría de altcoins y acciones reconoce la tendencia alcista, pero insiste en que muchas ya son "áreas no operables" para quien no esté dentro.
