@@ -1,0 +1,351 @@
+Hola a todos y bienvenidos un día más a
+mi canal, La Pizarra Andrés. En el día
+de hoy vamos a entender cómo funcionan
+los datos macroeconómicos y de qué
+manera impactan en los diferentes
+mercados. Recientemente, y lo intento
+explicar en mis directos, intento que la
+gente comprenda que normalmente los
+activos financieros tienen un
+comportamiento en muchos casos
+correlacionado, es decir, que se mueven
+en la misma dirección, en otros
+correlacionados de forma inversa, que se
+mueven justo de forma contraria, eh,
+pero que muchas veces, sobre todo cuando
+sale un dato macroeconómico, pues
+podemos entender rápidamente qué ha
+hecho el mercado o explicar porque el
+mercado se ha ido para un lado, para
+otro. Ojo, no estoy diciendo que si ves
+un dato económico en tiempo real, tú
+puedas especular y adelantarte a lo que
+vaya a hacer el mercado justo antes de
+ese dato, porque precisamente eso se
+llama high frequency trading y es donde
+las máquinas se meten rápidamente en el
+mercado para descontar esa noticia en
+los primeros segundos del dato. Con lo
+cual, esto simplemente es para poder
+explicar por qué algo ha movido un
+mercado de cierta manera. ¿Vale? Vamos a
+empezar aquí por lo más básico, ¿vale?
+Oye, Andrés, ¿esto de los datos qué es?
+Vale, pues bueno, en investing.com, en
+la parte totalmente gratuita, no
+confundir con Investing Pro, que es la
+parte que es de análisis de acciones,
+¿vale? Donde tenéis el código pizarra y
+colaborador del canal. Esta no, esta es
+la parte gratuita, ¿vale? En la parte
+gratuita
+e tenemos aquí eh una serie de datos,
+¿vale? Donde si ponemos por filtro,
+incluso si ponemos solo los de alta
+prioridad, eh pues podríamos ver que
+aquí hoy solamente hemos tenido dos,
+¿vale? en este caso el PMI americano,
+que ahora veremos lo que es, pero bueno,
+por lo general eh no hace falta que
+sepáis mucho acerca del dato, porque
+siempre podéis pinchar aquí y ver que es
+normalmente también te lo hacen así un
+poco pues para tontos, para que
+entiendas que si el dato está en verde,
+por lo general el dato ha sido bueno.
+Ojo, esto no siempre es así, ¿vale? Hay
+veces que un dato eh en verde significa
+que ha salido por encima de lo esperado
+y si el dato y si el dato en cuestión
+era de algo que no era muy positivo,
+pues un dato verde podría llegar a ser
+malo, pero no suele ocurrir así. En este
+caso, ¿qué tenemos? Tenemos eh PMI eh
+tanto de servicios como manufacturero,
+eh del bueno, en este caso del del SP,
+¿no? Eh, si no sabéis lo que es esto,
+esto es un dato macroeconómico, ¿vale?
+que se basa en encuestas, aquí lo vemos,
+eh, y que nos cuenta un poco el eh la el
+sentimiento que hay en la economía,
+¿vale? Aquí pues hablamos de eh
+transporte, comunicación, intermediarios
+financieros, es decir, un dato
+macroeconómico de cierta importancia,
+¿vale? También aquí te describe que
+cualquier dato por encima de 50
+significa pues mejoras, mejoras o
+crecimiento como lo queramos ver, ¿vale?
+Con lo cual, este dato que si alguien
+quisiera investigar más, no creo que
+este sea el más el dato más fuerte, el
+dato más importante de todos. Por
+ejemplo, un dato de paro, eh, los
+famosos non farm payrolls también, que
+es un dato de empleo, etcétera,
+etcétera. Todo esto eh suele ser datos
+que también tienen tres estrellas y
+suelen ser más importantes, ¿vale? Y
+esto eh lo que te dicen normalmente es
+lo que llamamos datos macro, ¿vale? La
+mayoría de datos macro funcionan pues
+como este, que si el resultado es bueno,
+eh, o si el resultado es por encima de
+lo esperado, pues asume que es bueno.
+Digo la mayoría porque es lo que digo,
+porque si estamos hablando de eh un dato
+de paro, ese lo que quieres es que sea
+lo más bajo posible, no quieres que sea
+lo más alto posible, pero en la mayoría
+de datos eh sí que más alto suele ser
+mejor. En este caso ha salido un muy
+buen dato. Aquí nos fijamos y el previo
+eh había sido en el periodo anterior, en
+el mes anterior, 53,9, 56,5
+respectivamente. El esperado era peor,
+es decir, se esperaba que empeorara, por
+lo menos en este mes, la economía en
+estos factores y, sin embargo ha sido
+mucho mejor de lo esperado, altísimo.
+Vale, hemos pasado de 53 y 53 también de
+esperado, de 53 previo y 53 esperado a
+57 y de 56 previo y 55 esperado a 58.
+Vale, entonces el dato ha sido muy bueno
+de forma automática y aquí lo vemos un
+poco, el SP500 se ha tirado por el
+precipicio, ¿vale? Y aquí estamos donde,
+oye, Andrés, ¿nos puedes explicar por
+qué e sale un dato bueno y los mercados
+se caen? Vale, pues esto que lo aprendí
+yo en mi primer trabajo, nos decía el
+por aquel entonces jefe que yo tenía que
+era polaco, nos decía, a ver, sometimes
+decía, good news cambi good news. Buenas
+noticias pueden ser buenas noticias.
+Good news cambi bad news. Buenas
+noticias pueden ser malas noticias. Bad
+news cambi bad news. Malas noticias o
+malas noticias. Bad news cambi good
+news. ¿Y por qué nos decía esto? Porque
+depende lo que quiera de la economía en
+ese momento. Es decir, en este caso, ¿en
+qué coyuntura estamos? Estamos en una
+coyuntura en la que ya se ha dicho o se
+asume que va a haber subidas de tipos de
+interés futuras. Eh, se asume que la
+inflación está por encima de lo que
+debería estar, ¿vale? Y por tanto, lo
+que eh se anticipa es que podría haber
+subidas de tipos en el futuro. ¿Qué es
+lo que pasa si salen datos buenos que
+las subidas de tipos son más probables.
+¿Por qué? Porque esto al final es una
+ecuación de tres incógnitas, como si
+fuera un triángulo. En un en un lado
+tenemos los tipos de interés, en otro
+lado tenemos la inflación y en otro lado
+tenemos el crecimiento, los datos
+macroeconómicos pues buenos. ¿Vale? Si
+tenemos inflación alta y datos de
+crecimiento buenos, no tengo ninguna
+excusa, no tengo ningún problema en
+subir tipos. Si subo tipos, quito eh o
+reduzco eh liquidez en los mercados y
+por tanto los mercados se caen. Ahora
+veremos el resto de eh el resto de tipos
+de activos, ¿no? Entonces, en este caso,
+good news cambi bad news, es decir, unas
+buenos datos macroeconómicos hacen que
+den vía libre para subidas de tipos.
+Subidas de tipos son negativas para los
+mercados. Por eso, e muchas veces
+dependiendo del entorno en el que nos
+encontremos, por ejemplo, yo viví, esto
+ya es hm de gente que llevamos unos
+cuantos años en los mercados, yo viví un
+entorno en el que la inflación era tan
+baja que los datos de inflación un
+poquito altos se celebraban y eran
+positivos para el mercado. ¿Por qué?
+Porque no había inflación. Estábamos con
+la inflación al 0 y pico% era cuando los
+tipos también estaban al cero. Y cada
+dato de inflación lo que se quería era
+una subida de la inflación, es decir,
+que hubiera un poco de inflación, ¿vale?
+para fomentar el el el crecimiento, ¿no?
+El crecimiento normalmente va asociado a
+la a a algo de inflación, ¿no? En este
+caso, como la inflación es alta y lo
+único que hm se cuestiona para subir
+tipos es si la economía está lo
+suficientemente bien, en cuanto hay
+buenos datos, eh el mercado se los toma
+mal como diciendo, "Bueno, se vienen las
+subidas de tipos, ¿no?" Entonces, en
+este caso, pues good news cami bad news.
+Esto, evidentemente, para llegar a
+pensar de esta manera, tienes que tener
+muy claro los agentes macroeconómicos y
+tienes que entender lo bueno de esto es
+que como no vamos a tradear e no tenéis
+que adivinar qué va a hacer el precio.
+Estamos intentando explicar lo que ya he
+hecho. Es decir, si a mí me hubieras
+preguntado, Andrés, ¿van a subir el dato
+de el dato macro va a ser muy bueno? Yo
+probablemente, porque lo hemos visto
+bastante en los mercados, tú hubieras
+dicho, bueno, pues si es bueno, yo creo
+que el mercado subir no va a subir
+porque le va a dar miedo el el la subida
+de tipos. A lo mejor no me hubiera
+aventurado a decir, "Oye, el SP va a
+caer medio punto solo por el dato."
+Quizá no. ¿Por qué? Porque nunca sabes
+del todo cómo va a reaccionar el
+mercado. Pero sí que me hubiera atrevido
+a decir perfectamente que un dato bueno
+macroeconómico a día de hoy que dé
+fortaleza a la economía americana no se
+va a interpretar como un muy buen dato
+porque lo que va a acercar es eh el al a
+la economía americana a subir tipos y
+eso no es positivo para los mercados,
+¿no? Con lo cual aquí de primeras esto.
+¿Qué es lo otro curioso? Pues yo viendo
+esto he dicho, vamos a ver si se
+acercan, si mi tesis es buena y yo estoy
+explicando esto de una forma adecuada,
+voy a decir, "Oye, ¿qué pasa con la
+divisa?" Vale, pues la divisa en este
+caso es el dólar. Si van a subir tipos,
+subir tipos aprecia la moneda, fortalece
+la moneda. ¿Vale? Eh, entonces, ¿por qué
+es esto? Bueno, hay muchas formas de
+explicarlo, pero la normal es, oye, si
+yo subo tipos, mi activo libre de riesgo
+paga más. como paga más, recibo más
+entradas de otras monedas para
+invertirlo en eh los nuevos bonos que
+pagarán un tipo superior, ¿vale? Es
+decir, entran entradas a la moneda. En
+este caso, ¿cómo se ve el dólar?
+Normalmente comparado contra el euro,
+puesto que es el par euroólar, el euro
+está delante, necesitaríamos ver un
+eurodólar cayendo en picado, eh, para
+justificar que la tesis, todo lo que
+estoy explicando yo ahora, tenga
+sentido. Si nos vamos al eurodólar,
+aquí lo veis, ¿vale? Aquí lo veis
+reciente. Esto es de ahora. Esto es en
+lo que va de día. Una primera caída al
+vacío, después un ligero repunte que,
+bueno, esto es volatilidad y otra vez ya
+estamos otra vez en mínimos. De hecho
+estamos tocando 1139, ¿vale? Con lo cual
+podemos justificar que lo que yo os he
+explicado anteriormente es real. Es
+real. Se está asumiendo que las subidas
+de tipos el mercado lo descuenta todo y
+el mercado va mucho antes de que las
+cosas ocurran, ¿o no? Entonces se está
+descontando que la subida de tipos eh va
+a ocurrir. ¿Por qué? Porque si la
+economía está fuerte y la inflación está
+alta, ¿qué problemas hay para que suban
+tipos? ¿No? ¿Qué otras cosas tienen que
+ver afectadas? Pues también lo dicho, el
+oro tiene que estar cayendo.
+Efectivamente, aquí lo vemos. ¿Por qué?
+Porque la inflación eh, en este caso, la
+inflación, hay muchas formas de
+explicarlo. Una es pues que si el tipo
+de interés libre de riesgo paga bien, es
+decir, si los tipos van a subir y todos
+esos bonos libres de riesgo van a pagar
+bien, el coste de oportunidad de tener
+oro debajo de tu cama es es más alto,
+¿vale? porque tienes algo que sí que te
+paga y te paga mejor. Eh, entonces
+normalmente, además, hay muchas más
+formas de explicar esto. Por ejemplo, el
+oro últimamente tiene una correlación
+muy alta con los mercados, o sea, se
+comporta totalmente como un activo de
+riesgo, ¿vale? Entonces, si los mercados
+caen, pues estamos viendo normalmente el
+oro caer. Bitcoin debería hacer
+probablemente lo mismo. Es verdad que,
+mira, aquí lo vemos. Es verdad que
+Bitcoin es más nuevo y podría estar
+equivocado en este aspecto, pero 3 cuart
+de lo mismo, ¿vale? ¿Por qué? porque
+estamos hablando de que e estas subidas
+de tipos van a afectar a los activos
+libres de a los activos de riesgo y
+además van a hacer más atractivo el
+costo de oportunidad, que es tenerlo en
+un activo libre de riesgo pagando una
+rentabilidad superior, ¿no? Eh,
+probablemente, no lo he mirado, pues los
+bonos eh también estarán mal,
+efectivamente. Vale, aquí vemos los,
+mira, están muy mal los bonos porque los
+yields, que es el inverso del bono,
+están subiendo de forma drástica. Es
+decir, un muy buen dato de empleo lo que
+ha hecho es afectar negativamente a casi
+todos los activos de riesgo. En este
+caso, porque se está dando por hecho que
+las subidas de tipos van a ser eh
+innegociables.
+Y esto yo entiendo que esto es
+complicado, que a lo mejor yo os lo
+cuento y ahora lo entendéis todo, pero
+eh esto es algo bastante común, ¿vale?
+Los mercados interpretan las cosas según
+convenga, ¿vale? ya os explicaba un
+escenario en el que eh momentos de
+inflación eran muy positivos y tomados
+muy positivos por el mercado, de por fin
+recuperamos un poco de inflación eh
+relacionado con el crecimiento. Eh y
+ahora es todo lo contrario, hará un buen
+dato de de de la economía americana, que
+por cierto está bastante fuerte o no lo
+está haciendo nada mal.
+se asume con una subida de tipos futura
+que a lo mejor antes podía estar un poco
+en duda, pero que ahora cada vez pues lo
+estará menos, ¿no? Y por tanto pues
+todos los activos de riesgo eh caen.
+Esto estoy seguro que se podía
+extrapolar a otros tipos de activos
+quizá menos mainstream, ¿vale? pues yo
+que sé, algunas otras otras commodities
+o o otro tipo de de bonos, otro tipo de
+deuda o lo que sea, no estoy seguro,
+pero bueno, aquí por lo menos os he
+hecho una síntesis de los activos
+principales, de lo que es la divisa, el
+oro, la renta variable, la renta fija,
+etcétera, etcétera, unido a datos
+macroeconómicos más o menos importantes.
+Este dato no es que fuera muy muy
+importante mi opinión, pero el dato ha
+sido muy fuerte, el dato ha sido muy
+bueno, muy bueno. Entonces, eso pues la
+ha llenado al mercado de dudas de decir,
+"Oye, en esta economía sí o sí van a
+subir tipos, ¿no? Vamos a descontarlo ya
+en el mercado metiendo ese eh ese ese
+riesgo, digamos, en los activos en los
+activos de riesgo, nunca mejor dicho. Y
+nada, chicos, esto es un vídeo
+improvisado, pero para que entendáis un
+poquito más cómo funcionan los mercados.
+Si os ha gustado, me podéis dejar un
+like y nosotros nos vemos en el
+siguiente vídeo.
