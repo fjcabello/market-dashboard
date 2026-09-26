@@ -28,6 +28,6 @@
 
 **Activos mencionados:** Oracle (−4%/−4,4%; deuda de 18.000 millones vinculada a Jupiter, según Gammon por debajo de 90 centavos), Blue Owl (−3,7%), Bloom Energy (a la baja), Nvidia (vigilar que se estanque el crecimiento de beneficios), Cisco (precedente de 2000), SoftBank y OpenAI (socios de Stargate), crédito privado (~3 billones, riesgo sistémico).
 
-**Nota cruzada:** en [[2026-09-23-GeorgeGammon]] el foco eran los tipos (10 años hasta 5,132%); aquí no da cifras de tipos, pero cita la subida de tipos como parte de la presión sobre el proyecto. En [[2026-09-25-TradingLatino]], Jaime Merino menciona de pasada que Michael Burry se ha puesto corto en la burbuja de la IA, "adelantándose un par de añitos"; Gammon, en cambio, no fija plazo y lo deja a la señal de beneficios de Nvidia.
+**Nota cruzada:** en [[2026-09-23-GeorgeGammon]] el foco eran los tipos (10 años hasta 5,132%); aquí no da cifras de tipos, pero cita la subida de tipos como parte de la presión sobre el proyecto. En [[2026-09-25-TradingLatino]], Jaime Merino menciona de pasada que Michael Burry se ha puesto corto en la burbuja de la IA, "adelantándose un par de añitos"; Gammon, en cambio, no fija plazo y lo deja a la señal de beneficios de Nvidia. Al día siguiente, en [[2026-09-25-GeorgeGammon]], añade que una victoria demócrata en las elecciones de medio mandato sería negativa para el capex de centros de datos.
 
 **Tono:** bajista en el complejo IA/centros de datos y en el crédito privado; cauto en el momento: no da por estallada la burbuja hasta ver frenarse los beneficios de Nvidia.
