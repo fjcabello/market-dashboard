@@ -7,3 +7,5 @@
 **Activos mencionados:** bolsas estadounidenses en genérico (sostenidas hasta el 3 de noviembre, crisis después), sin niveles.
 
 **Tono:** alcista táctico hasta el 3 de noviembre, bajista después ("la crisis que se avecina"); especulativo sobre las motivaciones políticas.
+
+**Nota cruzada (posterior):** en [[2026-09-28-JoseLuisCava]] da por iniciada la tanda de declaraciones de Trump de final de septiembre (declaración conjunta con Xi, mensaje desde el Despacho Oval) y cifra la "potencia de fuego" de Bessent en 0,9 billones de dólares en la cuenta del Tesoro, suficiente para unas 5 semanas.

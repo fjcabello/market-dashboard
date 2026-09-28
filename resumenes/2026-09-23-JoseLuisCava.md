@@ -47,3 +47,5 @@
 **Nota cruzada (posterior):** en [[2026-09-24-JoseLuisCava]] concreta cómo se cubrirá de la caída posterior al 3 de noviembre (puts y un ETF de futuros del VIX, el UCITS LVO; VIX por encima de 20 como señal), sitúa a Kevin Warsh junto a Bessent y apunta a salud y energías limpias como sectores a vigilar tras las elecciones.
 
 **Tono:** alcista táctico en bolsas hasta el 3 de noviembre y bajista después (tecnología e IA sobre todo); bajista en petróleo hasta diciembre; alcista en bonos tras las elecciones (rentabilidades a la baja); alcista estructural en oro y Bitcoin por degradación monetaria; en tono abiertamente especulativo ("maldad global"), invitando expresamente a la audiencia a criticar su escenario.
+
+**Nota cruzada (posterior):** la reunión Trump-Xi que aquí anticipaba se concreta en una declaración conjunta que en [[2026-09-28-JoseLuisCava]] califica de "divinas palabras" (Irán sin armas nucleares y sin peajes en rutas marítimas): solo una toma de contacto para rebajar tensiones antes del 3 de noviembre.
