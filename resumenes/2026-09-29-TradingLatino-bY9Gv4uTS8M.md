@@ -7,7 +7,7 @@
 - **Zona "te joden" en diario: 90.000-93.000 dólares.** Es ahí donde espera tener "una divergencia bajista formada en el gráfico diario", después de haberse confirmado un Golden Cross.
 - **Posible incoherencia de plazos dentro del mismo directo:** habla de "de hoy en 8 días" y a la vez de dejarlo "para el miércoles". El transcript no aclara si el miércoles es cuando lo analizará o cuando espera la divergencia.
 
-**Nota cruzada:** coincide con [[2026-09-25-TradingLatino]], que ya situaba la zona "te joden" en 90.000-93.000 y proponía analizarla a mitad de la semana siguiente. Mismo directo que [[2026-09-29-TradingLatino]] y [[2026-09-29-TradingLatino-2F3L_uJ771U]].
+**Nota cruzada:** coincide con [[2026-09-25-TradingLatino]], que ya situaba la zona "te joden" en 90.000-93.000 y proponía analizarla a mitad de la semana siguiente. Mismo directo que [[2026-09-29-TradingLatino]] y [[2026-09-29-TradingLatino-2F3L_uJ771U]]. Al día siguiente, [[2026-09-30-TradingLatino]] da la divergencia bajista en diario por ya confirmada el lunes, con Bitcoin en ~83.300, y fija un rango de 78.000-88.000 hasta el 10 de octubre.
 
 **Activos mencionados:** Bitcoin (zona "te joden" y divergencia bajista en diario en 90.000-93.000; Golden Cross confirmado).
 
