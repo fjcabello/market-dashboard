@@ -1,0 +1,16 @@
+We want to bring the entire [music]
+stock market to Salana. One API where
+you can transform a bonafide security
+entitlement. You can buy a token on
+Salana on SpaceX today, deposit into
+your brokerage account and transfer it
+to, you know, Backpack, Fidelity, Robin
+Hood, Erade, whatever it might be. And
+>> how is that technically done? Is that
+sort of a wrapper that allows you to
+wrap the underlying security?
+>> That's right. Conceptually, that's
+that's a way to think about it.
+>> The great thing is is crypto's done this
+[music] already. Stuff like wrapped ETH
+has been going forever to do stuff.
