@@ -1,0 +1,3 @@
+# 2026-10-01 — TradingLatino (lqAsr4jCVPQ)
+
+**Vídeo sin contenido de mercado.** Clip muy corto (19 líneas de transcript), continuación de [[2026-10-01-TradingLatino-3rj1TYK_D5Q]]. Ante el comentario de que "el mercado es el mejor profesor", Jaime Merino distingue tres figuras: **analista**, **operador** e **inversionista**. Al analista "no le importa" la gestión del riesgo profesional porque no pone su propio dinero. "Métanle todo su dinero y se va a dar cuenta de cómo los sentimientos cambian cuando usted opera el dinero del otro o su propio dinero." Sin activos ni niveles. Es casi seguro un recorte del directo resumido en [[2026-09-30-TradingLatino]], que sí tiene contenido de mercado (Bitcoin, oro, plata y acciones).
