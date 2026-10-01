@@ -1,0 +1,728 @@
+¿Cuánta deuda puede acumular un país
+antes de meterse en problemas? Imagínate
+un país cuya economía produce cada año
+un billón con B de euros. La pregunta
+es, ¿puede de haber un billón o 1,illón
+y medio o 2 billones? Pues probablemente
+la respuesta te va a sorprender porque
+ninguna de esas cifras nos dice por sí
+sola si ese país va a tener problemas.
+Piensa en Japón lleva décadas
+conviviendo con una deuda enorme y no
+pasa nada. A cambio hay otros países que
+han sufrido auténticas crisis debiendo
+muchísimo menos. Entonces, ¿qué
+determina realmente cuándo la deuda de
+un país empieza a ser peligrosa? Existe
+una ecuación económica que permite
+entenderlo perfectamente, pero tranquilo
+porque no vamos a hacer matemáticas. De
+hecho, en este vídeo quiero demostrarte
+que detrás de una fórmula que parece
+complicada se esconde una idea
+extraordinariamente sencilla. Un país no
+tiene un problema simplemente porque
+deba mucho. El problema comienza cuando
+su deuda crece más deprisa que su
+capacidad para pagarla. Y cuando
+entiendas esto, probablemente no vuelvas
+a mirar de la misma manera las noticias
+sobre deuda pública, porque vamos a
+aplicarlo a Estados Unidos y vas a ver
+algo realmente sorprendente. Según un
+cálculo que acaba de publicar la propia
+oficina presupuestaria del Congreso
+estadounidense, que Estados Unidos pague
+solamente un punto porcentual más de
+intereses por su deuda, puede terminar
+añadiendo con el paso del tiempo una
+cantidad gigantesca de deuda adicional.
+Y al final veremos la pregunta que
+realmente nos afecta a todos. Si los
+gobiernos han acumulado tanta deuda,
+¿quién termina pagando la factura?
+Soy Pablo Gil. Llevo cuatro décadas
+dedicado profesionalmente a los mercados
+financieros, buena parte de ellas
+gestionando dinero institucional y desde
+hace años intento utilizar toda esa
+experiencia para explicar la economía,
+los mercados y la inversión de la manera
+más sencilla posible. Y este tema me
+parece especialmente importante porque
+estamos entrando en un mundo
+radicalmente diferente al que vivimos
+durante buena parte de las últimas
+décadas. Un mundo con muchísima deuda
+acumulada, mayores necesidades de gasto
+público y sobre todo algo que durante
+muchos años casi habíamos olvidado. El
+dinero vuelve a tener un coste.
+Empecemos por algo muy sencillo. Imagina
+dos personas, las dos deben 300,000 €
+¿Quién tiene un problema mayor? Pues no
+tengo ni idea porque me falta
+prácticamente toda la información
+importante. Si una de ellas gana 30,000
+€ al año y paga un 8% de interés por su
+deuda, probablemente tenga un problema
+muy serio. Pero si la otra persona gana
+1 millón de euros al año y financia esos
+mismos 300,000 € al 2%, la situación es
+completamente diferente. Pues con los
+países ocurre algo similar. Por eso
+decir simplemente que Estados Unidos
+debe 30, 40 o 50 billones de dólares no
+sirve de relativamente nada si no
+aportamos más información. Tenemos que
+relacionar esa deuda con el tamaño de su
+economía. Y aquí aparece por primera vez
+un concepto que escucharás continuamente
+cuando hablamos de deuda pública, el PIB
+o PIP. No hay nada complicado detrás. El
+PIB es simplemente una forma de medir el
+tamaño de una economía, aproximadamente
+el valor de todo lo que un país produce
+durante un año. Por eso los economistas
+comparan la deuda con el PIB. Si decimos
+que un país tiene una deuda equivalente
+a 100% de su PIB, lo único que estamos
+diciendo es que debe aproximadamente lo
+mismo que produce toda su economía en un
+año. Si debe el 150%
+o si debe el 200% significaría que debe
+aproximadamente el doble de lo que
+produce en un año. Ahora ya podemos
+utilizar esos porcentajes sin que
+resulten intimidantes, pero incluso
+conociendo la deuda respecto al tamaño
+de la economía, seguimos sin saber si el
+país tiene realmente un problema, porque
+necesitamos conocer tres cosas más.
+¿Cuánto le cuesta financiar esa deuda?
+¿Cuánto crece su economía? Y además, ¿el
+estado continúa gastando cada año más de
+lo que ingresa o está consiguiendo
+equilibrar sus cuentas? Y esto es
+prácticamente todo lo que necesitamos
+entender para saber a qué futuro se
+enfrenta un país. Ahora sí podemos
+mostrar esa ecuación que probablemente
+espantaría media audiencia si le
+hubiésemos puesto al comienzo del vídeo.
+No intentes memorizarla, eh, olvídate
+incluso de las letras. Lo único que nos
+está diciendo es esto, cuánto debes?
+¿Cuánto te cuesta esa deuda? ¿Cuánto
+crece tu economía? Y si continúas
+gastando más de lo que ingresas, nada
+más. Supongamos un país cuya deuda
+equivale al tamaño completo de su
+economía. Es decir, ahora que ya sabemos
+qué significa, tiene una deuda del 100%
+sobre el PIB. Supongamos también que su
+economía crece, incluyendo el efecto de
+la inflación un 3% al año y que paga de
+media un 2% por su deuda. En [resoplido]
+ese caso tiene algo que juega a su
+favor. Su economía está creciendo más
+deprisa que el coste de financiar lo que
+debe y eso ayuda a que el peso relativo
+de la deuda vaya disminuyendo. Pero
+ahora cambiemos solamente una cosa, en
+lugar de pagar un 2%, imagina que
+empieza a pagar un 5% por esa deuda. La
+economía continúa creciendo al tres.
+Ahora ocurre exactamente lo contrario.
+La deuda cuesta dos puntos más de lo que
+crece la economía. Y si además ese
+gobierno continúa gastando más de lo que
+recauda, tenemos dos motores empujando
+simultáneamente en la misma dirección.
+La deuda que ya tiene se vuelve más cara
+y además necesita seguir pidiendo dinero
+prestado para cubrir el agujero que
+genera cada año. Y aquí es donde empieza
+el verdadero problema, porque para pagar
+esos intereses necesita emitir más
+deuda. Esa nueva deuda genera nuevos
+intereses. Los nuevos intereses aumentan
+todavía más las necesidades de
+financiación. Eso obliga a emitir más
+deuda y esa nueva deuda vuelve a generar
+intereses. Por tanto, más deuda, más
+intereses, mayor déficit, más emisiones,
+más deuda. Ahora se entiende el efecto
+bola de nieve. Y hay algo que hace que
+esta dinámica sea especialmente
+peligrosa. Cuanto mayor es la montaña
+inicial de deuda, menos hace falta para
+que el problema empiece a acelerarse
+rápidamente. Si debes poco, una subida
+de un punto de los intereses tiene un
+impacto relativamente limitado. Pero si
+debes una cantidad gigantesca, ese mismo
+punto adicional se aplica sobre una
+montaña muchísimo mayor. Es exactamente
+igual que lo que ocurre con una
+hipoteca. Una subida de un punto
+porcentual sobre una deuda de 50,000 €
+pues tiene un efecto pequeño. Sobre una
+deuda de 500,000 € tiene otro
+completamente diferente. Veamos ahora un
+gráfico que encaja especialmente bien
+para explicar esta situación. Lo
+interesante tampoco es entender todos
+sus detalles. Lo importante es una sola
+cosa, la línea donde está el eje cero.
+Cuando estamos por debajo quiere decir
+que el crecimiento de la economía está
+ayudando a aliviar el peso de la deuda.
+Cuando estamos por encima, ocurre lo
+contrario. El coste de financiación
+empieza a trabajar en nuestra contra.
+Fíjate en la historia. Después de la
+Segunda Guerra Mundial, durante buena
+parte de los años 50, 60 y 70, Estados
+Unidos disfrutó durante largos periodos
+de una situación extraordinariamente
+favorable, porque la economía nominal
+crecía más deprisa que el interés que
+tenía que pagar el gobierno y eso ayudó
+muchísimo a digerir la enorme deuda
+acumulada durante la guerra. En los años
+80 la situación cambió. Los tipos
+aumentaron con mucha velocidad para
+combatir la presión inflacionista y
+durante un tiempo el coste del dinero
+volvió a superar claramente el ritmo de
+crecimiento. Después llegaron décadas en
+las que con interrupciones esa relación
+volvió a ser extraordinariamente
+favorable para los gobiernos. Y ahora
+nos estamos acercando otra vez a la
+línea roja. Los tipos de interés podrían
+volver a superar de forma más
+persistente el ritmo de crecimiento de
+la economía estadounidense. Y eso cambia
+muchísimo las cosas porque ahora Estados
+Unidos llega a ese posible cambio con
+una montaña de deuda muchísimo mayor.
+Esto nos permite entender por qué no
+existe un porcentaje mágico a partir del
+cual un país quiebra. hasta comparar
+economías con niveles de deuda muy
+diferentes. Japón ha podido convivir
+durante décadas con una deuda pública
+gigantesca porque durante muchísimo
+tiempo ha tenido los tipos de interés
+extraordinariamente bajos. Una
+importante base de ahorro doméstico
+también ayudado y su capacidad para
+financiarse en su propia moneda.
+Mientras mantener una montaña de deuda
+sea extraordinariamente barato, esa
+montaña puede permanecer ahí durante
+mucho tiempo. Eso no significa que sea
+irrelevante. Significa que el tamaño de
+la montaña no nos dice por sí solo
+cuándo aparecerá el problema. Y también
+podemos entender el caso contrario. Por
+ejemplo, en septiembre de 2022, el Reino
+Unido presentó un plan fiscal que
+provocó una reacción brutal en el
+mercado. En apenas tres sesiones, la
+rentabilidad de su bono a 30 años llegó
+a subir alrededor de 1,3 puntos
+porcentuales. Puede parecer poco, en el
+mercado de deuda fue un auténtico
+terremoto. La tensión fue tan fuerte,
+tan intensa, que el Banco de Inglaterra
+terminó interviniendo temporalmente para
+preservar la estabilidad financiera.
+Reido no quebró, pero el mercado envió
+un mensaje muy claro. Hay un momento en
+el que quienes te prestan dinero
+empiezan a preguntarse cuánto riesgo
+están dispuestos a asumir para seguir
+financiándote y entonces el precio de
+ese dinero puede cambiar muy de prisa. Y
+ahora llegamos al caso realmente
+interesante. Estados Unidos tiene
+actualmente una deuda pública bruta,
+equivalente aproximadamente al 126% de
+su economía. Es decir, debe bastante más
+de lo que toda su economía produce en un
+año. Pero para ver qué puede ocurrir en
+el futuro, vamos a utilizar las
+proyecciones de la oficina
+presupuestaria del Congreso
+estadounidense. Y aquí vas a ver una
+cifra diferente porque ese CBO utiliza
+para estos cálculos una medida más
+restringida de la deuda y que
+actualmente equivale aproximadamente a
+101% del PIB. No quiero detenerme en las
+cifras contables entre una medida y otra
+porque no cambian lo verdaderamente
+importante de esta historia. Lo
+importante es qué puede ocurrir con esa
+deuda durante las próximas décadas. Si
+las políticas actuales se mantienen
+aproximadamente como están, la oficina
+presupuestaria del Congreso, la CBO,
+calcula que esa deuda podría alcanzar el
+175%
+del PIB en 2056. Pero ahora viene el
+dato que me parece realmente
+espectacular. La CBO se ha preguntado
+qué ocurriría si los tipos de interés
+que paga Estados Unidos fuesen solamente
+un punto porcentual superiores a los
+previstos. No cinco puntos, no tres, ni
+siquiera dos, solo un punto. ¿Cuál sería
+el resultado? Pues que la deuda ya no
+llegaría al 175 del PIB, llegaría al
+222%.
+101% hoi, 175% en el escenario central,
+222%
+si el coste de financiación resulta
+apenas un punto superior. Son 47 puntos
+adicionales de PB deuda simplemente
+porque el dinero resulte un poquito más
+caro de lo esperado. Y ahora ya sabemos
+por qué ocurre. Cuando tienes una
+montaña gigantesca de deuda, pequeñas
+variaciones en el precio que pagas por
+ella pueden convertirse con el paso de
+los años en cantidades enormes de
+dinero. Y esto nos lleva directamente a
+una pregunta muy incómoda. ¿Qué tendría
+que hacer Estados Unidos para detener
+este proceso? Pero antes quiero hacer un
+pequeño paréntesis. Recuerda que el
+próximo 17 de octubre nos reunimos
+presencialmente en Quinépolis, Madrid,
+en el evento que ha organizado Invertir
+en el mañana. Y precisamente vamos a
+hablar de muchas de las cuestiones que
+estamos tratando en este y otros vídeos.
+Mercados, deuda, geopolítica,
+inteligencia artificial, oro, Bitcoin,
+inmobiliario, fiscalidad, tokenización y
+sobre todo cómo intentar tomar buenas
+decisiones de inversión en un mundo que
+está cambiando a una velocidad enorme
+delante de nuestros ojos. Si estás
+pensando en venir, este es un buen
+momento para reservar tu entrada porque
+todavía puedes disfrutar de un descuento
+en el precio. Así que si quieres
+acompañarnos el 17 de octubre en
+Kinépolis, Madrid, puedes reservar tu
+entrada utilizando el código QR que
+aparece ahora mismo en pantalla o a
+través del enlace que tienes en la
+descripción. Espero verte allí. Y ahora
+sí, volvamos a Estados Unidos. Y la
+pregunta del millón, ¿qué tendría que
+hacer Estados Unidos para impedir que su
+deuda continúe aumentando? La oficina
+presupuestaria del Congreso de Estados
+Unidos, que es el organismo
+independiente encargado de analizar las
+cuentas públicas y las perspectivas
+fiscales del propio país, ha hecho el
+cálculo. En su escenario central,
+Estados Unidos mantendría durante las
+próximas décadas un agujero en sus
+cuentas antes de pagar intereses
+equivalente de media a aproximadamente
+el 2,1% de su economía. Para conseguir
+que la deuda permaneciese simplemente
+donde está hoy, es decir, alrededor de
+101% del PIB, ese agujero tendría que
+reducirse hasta aproximadamente el 0,2%.
+Es decir, prácticamente desaparecer.
+Pero olvidemos nuevamente los
+porcentajes. ¿Qué significa realmente
+todo esto? Pues que Estados Unidos
+necesita mejorar muchísimo sus cuentas
+públicas. Y aquí terminan las
+matemáticas y comienza la vida real.
+Porque, ¿cómo lo haces? Pues puedes
+recaudar más, puedes gastar menos.
+Puedes conseguir que la economía crezca
+más o puedes combinar las tres cosas. Y
+cuando decimos recaudar más, estamos
+hablando de más impuestos o más altos.
+Cuando hablamos de gastar menos,
+hablamos de reducir el gasto en
+pensiones, sanidad, defensa, ayudas,
+inversión pública y multitud de
+programas que tienen beneficiarios. Y
+cuando hablamos de crecer más, estamos
+hablando de la solución perfecta, la
+ideal. Porque si tu economía crece mucho
+más de prisa, la montaña de deuda se
+vuelve progresivamente más pequeña en
+comparación con tu capacidad para
+soportarla. Pero existe un pequeño
+problema. Todos los gobiernos quieren
+crecer más, pero ningún gobierno puede
+aprobar una ley diciendo, "A partir de
+mañana nuestra economía crecerá un 5%."
+Por eso, reducir una enorme deuda
+pública es muchísimo más difícil en el
+mundo real que hacerlo con una hoja de
+Excel. Pero aquí surge otra pregunta
+clave. ¿Qué ocurre si consigues que la
+economía crezca nominalmente más deprisa
+que la deuda? Recordemos nuestra regla.
+Lo importante es la relación entre lo
+que cuesta financiar la deuda y lo que
+crece la economía. Y aquí aparece una
+herramienta que históricamente han
+utilizado muchos estados, la inflación.
+Imagina que me prestas 100 € hoy, dentro
+de 10 años te devuelvo exactamente tus
+100 €. He pagado mi deuda, por supuesto,
+hasta el último céntimo. Pero imaginemos
+que durante esos 10 años los precios han
+aumentado un 50%. Los 100 € que te
+devuelvo ya no compran lo mismo que los
+100 € que me prestaste. Nominalmente he
+cumplido perfectamente con mi
+obligación, pero en términos de poder
+adquisitivo te he devuelto mucho menos.
+Esto es fundamental para entender cómo
+pueden reducirse grandes montañas de
+deuda sin necesidad de declarar una
+suspensión de pagos o una quiebra.
+Después de la Segunda Guerra Mundial,
+muchos países desarrollados salieron con
+niveles enormes de endeudamiento y parte
+de esa deuda terminó reduciéndose
+mediante una combinación de crecimiento
+económico, inflación y tipos de interés
+que durante largos periodos estuvieron
+por debajo de la inflación. A esto se le
+suele llamar represión financiera, pero
+nuevamente olvidemos el tecnicismo
+porque la idea es mucho más sencilla. Si
+tienes tus ahorros al 2% y los precios
+sumen un 4%, tu cuenta bancaria dice que
+tienes más dinero, pero tú puedes
+comprar menos cosas. Y esa diferencia
+juega a favor del deudor. ¿Y quién es
+uno de los mayores deudores de cualquier
+economía? el propio estado. Por eso hay
+una frase que me parece que es
+fundamental que entiendas. Un estado no
+necesita dejar de pagarte para reducir
+el valor real de lo que te debe. Puede
+devolverte todos y cada uno de tus euros
+o dólares, pero devolvértelos cuando
+compran bastante menos. Y esto nos lleva
+a la pregunta clave. ¿Puede quebrar
+Estados Unidos? Estados Unidos emite
+deuda en una moneda que él mismo
+controla, que es el dólar. Y además el
+dólar sigue ocupando una posición
+central dentro del sistema financiero
+mundial. Eso proporciona a Estados
+Unidos una capacidad de financiación
+extraordinaria. Por eso, probablemente
+estamos haciendo la pregunta equivocada
+si simplemente nos preguntamos, ¿va a
+quebrar Estados Unidos? No,
+probablemente no. La pregunta mucho más
+interesante es, ¿cómo va a pagar la
+factura? Porque las posibilidades
+vuelven a ser las mismas. más impuestos,
+menos gasto, más crecimiento, más
+inflación, tipos de interés por debajo
+de la inflación durante determinados
+periodos o probablemente una combinación
+de todas ellas. Y eso hace que un país
+pueda no sufrir jamás una suspensión de
+pagos clásica y, sin embargo, trasladar
+una parte importante del coste de su
+deuda a sus ciudadanos, contribuyentes,
+ahorradores o inversores. ¿Acaso no
+llevas unos años notando que cada vez te
+cunde menos tu dinero? ¿Qué significa
+todo esto para nuestras inversiones?
+Pero antes quiero hacer un recordatorio
+importante. Yo no doy ningún tipo de
+recomendación de inversión a través de
+grupos de WhatsApp, Telegram ni redes
+sociales. Tengo grupos privados desde
+los que escribo por ofrecerles
+inversiones o pedir dinero. Si alguien
+se pone en contacto contigo utilizando
+mi nombre, mi fotografía o incluso
+vídeos o imágenes aparentemente mías y
+te recomiendan inversiones o te piden
+dinero, es una suplantación de identidad
+y es un fraude. No soy yo. No envíes
+dinero. No facilites datos personales y
+denúncialo. Dicho esto, volvamos a la
+deuda porque todo lo que hemos explicado
+hasta ahora forma parte de un problema
+mucho más amplio. El Fondo Monetario
+Internacional calcula que la deuda
+pública mundial se situó cerca del 94%
+de la economía en 2025 y podría alcanzar
+aproximadamente el 100% en el año 2029.
+Además, ocurre precisamente cuando
+muchos gobiernos afrontan nuevas
+necesidades de gasto para los próximos
+años, por el envejecimiento de la
+población, por el incremento de las
+pensiones, la sanidad, la defensa,
+infraestructuras para la IA, la
+transición energética y unos intereses
+de la deuda que vuelven a consumir una
+parte creciente de los presupuestos.
+Cada vez destinamos a esa partida una
+cantidad mayor de lo que recaudamos vía
+impuestos. Durante muchos años ocurrió
+algo extraordinariamente favorable para
+los gobiernos. La deuda aumentaba, pero
+los tipos de interés caían y caían y
+caían. Podías deber cada vez más dinero
+sin que el coste aumentase en la misma
+proporción, porque cada vez conseguías
+financiarte más barato. Era como ampliar
+constantemente una hipoteca mientras el
+banco te reducía una y otra vez el tipo
+de interés. Pero ese viento de cola del
+que hemos disfrutado desde los años 80
+parece haber acabado y no tiene por qué
+repetirse. Y Estados Unidos nos
+proporciona otra cifra extraordinaria
+para entenderlo. ACBO calcula que en
+2056
+solamente los intereses netos de la
+deuda podrían absorber alrededor del
+6,9%
+de toda la economía estadounidense.
+Entonces, serían superiores
+individualmente al gasto previsto en
+seguridad social o incluso en Medicare.
+Cada dólar destinado a pagar intereses
+es un dólar que no puedes utilizar para
+otra cosa, salvo que aumentes los
+impuestos o vuelvas a endeudarte. No
+construye una carretera, no financia
+investigación, no mejora una escuela, no
+no aumenta directamente la
+productividad, es el coste de decisiones
+de gasto y endeudamiento tomadas hace
+muchos años. Cuanto mayor se vuelve esa
+partida, menor es el margen de maniobra
+cuando aparece una nueva crisis, cuando
+hay una recesión, una pandemia, una
+guerra o una crisis financiera. Porque
+precisamente cuando llega una crisis,
+los gobiernos suelen utilizar su
+capacidad de endeudamiento para
+amortiguar el golpe. Pero si llegas a la
+siguiente crisis con mucha más deuda y
+pagando muchos más intereses, hacerlo
+resulta cada vez más costoso. ¿Y qué
+significa todo esto para nuestras
+inversiones? Llegados a este punto,
+probablemente te estés preguntando qué
+hacemos con toda esta información. Y lo
+primero es evitar una conclusión
+demasiado sencilla. No existe una
+operación automática que diga, "Hay
+mucha deuda, por tanto, compra esto y
+vende aquello." Porque depende muchísimo
+de cómo termine resolviéndose el
+problema. Si la solución es una política
+fiscal mucho más restrictiva, tendremos
+un escenario. Si por el contrario, se
+tolera más inflación, tendremos otro. Si
+la inteligencia artificial y la
+productividad provocasen un crecimiento
+económico extraordinariamente fuerte,
+volveríamos a tener otro completamente
+diferente. Y si los inversores empiezan
+a exigir una rentabilidad mucho mayor
+para financiar a los gobiernos, el
+escenario cambia otra vez. Pero sí
+podemos identificar algunas fuerzas.
+Empecemos por los bonos. Si un gobierno
+necesita emitir cada vez más deuda y los
+compradores exigen una rentabilidad
+mayor para absorberla, los tipos de
+interés a largo plazo pueden permanecer
+elevados o incluso seguir subiendo más.
+Y recuerda algo fundamental, cuando sube
+la rentabilidad que exige el mercado a
+los bonos, el precio de los bonos que ya
+existen baja. Por tanto, una época de
+enormes necesidades de financiación
+pública puede generar mucha más
+volatilidad en renta fija a la que
+estamos acostumbrados a ver durante las
+últimas décadas, donde los tipos de
+interés no paraban de bajar. ¿Y cómo
+afectaría la bolsa? Aquí la relación es
+todavía más compleja porque tipos
+estructuralmente más altos elevan el
+coste de financiación de las empresas y
+además hacen que los beneficios que
+esperamos obtener dentro de muchos años
+valgan menos cuando calculamos cuánto
+pagaríamos hoy por ellos. Eso puede
+presionar las valoraciones y hacer que
+los precios corrijan, pero si tenemos
+crecimiento económico, inflación,
+determinadas empresas pueden aumentar
+sus ingresos y sus beneficios o
+adaptarse mucho mejor que otras. Mirad
+lo que ha pasado con los ingresos de
+algunas petroleras, sin ir más lejos, o
+los ingresos que han presentado durante
+los últimos trimestres los bancos. Por
+eso, crisis fiscal no significa
+automáticamente una crisis bursátil.
+Dependerá del crecimiento, de los
+beneficios, de la inflación y de los
+tipos de interés. ¿Y qué pasa con el
+oro? El oro no es la deuda de nadie. No
+depende de la promesa de un gobierno de
+devolverte el dinero. Por eso,
+históricamente puede ganar atractivo en
+periodos de desconfianza monetaria o
+fiscal. Pero el oro tampoco paga
+intereses y eso significa que si los
+bonos ofrecen rentabilidades reales muy
+elevadas, mantener oro tiene un mayor
+coste de oportunidad. Por tanto, la
+reacción inicial cuando suben mucho los
+tipos de interés es que el oro no
+termine de hacerlo especialmente bien.
+De nuevo, no podemos simplificarlo
+diciendo, "Mu deuda compro oro.
+Necesitamos saber qué ocurre con otros
+factores como los tipos y la inflación."
+Y si miramos Bitcoin, tenemos otra
+posible lectura. Para algunos
+inversores, su oferta limitada a
+21,000000es de monedas lo convierte en
+un alternativa ante la pérdida de poder
+adquisitivo del dinero tradicional. Y es
+cierto, pero estamos hablando de un
+activo con una historia muchísimo más
+corta que el oro, una volatilidad
+enormemente superior y cuyo
+comportamiento a través de distintos
+ciclos económicos todavía estamos
+descubriendo. Y finalmente tenemos un
+activo del que casi nunca hablamos como
+inversión. el propio efectivo, el dinero
+en efectivo. Porque si la solución
+elegida para reducir el peso real de la
+deuda termina siendo mantener durante
+años una inflación superior a la
+remuneración del ahorro, quien permanece
+permanentemente en liquidez, puede
+sufrir una pérdida de poder adquisitivo
+lenta, casi invisible, pero constante.
+Quizás esa sea una de las grandes
+enseñanzas de la historia. Cuando los
+estados acumulan enormes cantidades de
+deuda, la solución rara vez consiste en
+una única medida espectacular.
+Normalmente termina siendo una
+combinación de medidas, algo más de
+impuestos, algo menos de gasto, algo más
+de crecimiento económico, algo más de
+inflación, periodos en los que los tipos
+de interés permanecen por debajo de la
+inflación y mucho, mucho tiempo por
+delante para arreglarlo. Intentemos
+ahora extraer algunas de las
+conclusiones de este vídeo y para ello
+volvamos a la pregunta con la que
+comenzábamos. ¿Cuánta deuda es demasiada
+deuda? Después de todo lo que hemos
+visto, creo que ya tenemos la respuesta.
+No existe una cifra mágica. No es el
+100%, no es el 150%, ni siquiera
+necesariamente el 200%. Lo que tenemos
+que observar es otra cosa. ¿Cuánto
+cuesta financiarla? ¿Cuánto crece la
+economía? ¿Y el estado está añadiendo
+cada año más deuda o empieza a corregir
+sus cuentas? Mientras una economía
+crezca suficientemente deprisa, pueda
+financiarse a un coste razonablemente
+bueno y mantenga sus cuentas públicas
+bajo control, puede convivir durante
+mucho tiempo con una enorme cantidad de
+deuda, fue el caso de Japón. El problema
+comienza cuando esas variables empiezan
+a moverse simultáneamente en la
+dirección contraria y eso es
+precisamente lo que hace especialmente
+interesante el momento actual. Durante
+décadas, gran parte del mundo
+desarrollado pudo aumentar su
+endeudamiento mientras los tipos de
+interés descendían. Pero ahora tenemos
+niveles de deuda mucho mayores, tenemos
+nuevas necesidades de gasto y tenemos
+algo que durante años prácticamente
+habíamos olvidado. El dinero vuelve a
+tener un coste cada vez mayor. Por eso,
+quizá el gran riesgo no sea que mañana
+Estados Unidos, Japón, Francia o
+cualquier otra gran economía
+desarrollada anuncie que no pueda pagar
+más sus deudas. Esa probablemente sea
+una imagen demasiado simplista. La
+cuestión verdaderamente importante es,
+¿cómo van a conseguir que esas deudas
+sigan siendo sostenibles? Porque la
+deuda no desaparece por arte de magia.
+Quien te diga eso te está mintiendo.
+Alguien termina soportando el ajuste.
+Puede hacerlo el contribuyente mediante
+mayores impuestos. Puede hacerlo quien
+recibe prestaciones públicas mediante un
+menor crecimiento del gasto público.
+Puede hacerlo el inversor en bonos si
+sube la rentabilidad y cae el precio de
+los bonos que ya posee. Puede hacerlo el
+ahorrador si la inflación supera durante
+años la rentabilidad que obtiene por su
+dinero. Puede ocurrir el escenario que
+probablemente todos preferiríamos, que
+una combinación de mayor productividad,
+inversión y crecimiento consiga que la
+economía crezca suficientemente deprisa
+para que esa montaña de deuda pese cada
+vez menos. Probablemente la solución
+real termine siendo una combinación de
+varias de estas cosas, pero sí quiero
+que te quedes con una sola idea después
+de haber visto este vídeo y es esta. Un
+país no tiene necesariamente un problema
+porque deba mucho. Tiene un problema
+cuando su deuda empieza a crecer
+sistemáticamente más deprisa que su
+capacidad de pagarla. Y quizá por eso
+las grandes crisis de deuda soberana no
+siempre terminan con un impago. A veces
+terminan de una manera mucho más
+silenciosa, haciendo que paguen la deuda
+quienes nunca la contrajeron. Espero que
+te haya gustado el vídeo. Te deseo mucha
+suerte con tus inversiones y nos vemos
+en el próximo capítulo.
