@@ -30,6 +30,8 @@
 - Pese a ir por detrás en agosto, mantiene una ventaja acumulada de **41,78 puntos porcentuales** frente al MSCI World desde el inicio del tracking
 - Explica el efecto del interés compuesto: aunque su +0,75% parece menor que el +1,92% del índice, la diferencia en euros no se cierra tanto como parecería porque su base de capital es mayor
 
+**Nota cruzada:** el repaso del mes siguiente, [[2026-10-02-LaPizarraDeAndres]], deja la cartera en 178.284 € (−4,44% en septiembre, "el peor mes de la historia del canal"), con la base 164 bajando a 156 y la ventaja sobre el MSCI World reducida a 33 puntos.
+
 **Activos mencionados:** Cartera personal (+0,75% mensual, +64,06% acumulado, +13,75% YTD), cartera indexada "metal" de MyInvestor vs. fondos MSCI World + emergentes (resultado prácticamente igual), acciones españolas Amper y OHL (corrección fuerte en agosto), fondo MyInvestor Value, fondo Ver Capital, fondo de oro (sin nombre, 2-3 meses de histórico), Ábaco y Kaisen (bajo riesgo), MSCI World (referencia de benchmark, +1,92% en agosto).
 
 **Tono:** transparente y autocrítico sobre el resultado mensual (queda por detrás del mercado en agosto), pero satisfecho con el resultado acumulado desde el inicio de la serie; sin previsiones macro ni de mercado, es un vídeo de seguimiento de cartera personal, no de análisis.

@@ -34,6 +34,8 @@
 
 **Cierre:** remarca que son modelos, no certezas; dice ajustar constantemente su visión según los datos y que la responsabilidad de cualquier decisión de inversión es de quien la toma, no suya. Vídeo con patrocinio declarado de Mintos.
 
+**Nota cruzada:** [[2026-10-02-PabloGilTrader]] es un clip corto con este mismo contenido (−72% estimado frente a algo más del 50% real, sobreventa sin alcanzar), casi seguro un recorte de este vídeo.
+
 **Activos mencionados:** Bitcoin (67.000 superado, 83.000 pendiente; objetivos 250.000-840.000 a 4 años), Ethereum (1.850 superado, 2.450 pendiente), Solana (doble suelo, objetivo 150), Ripple (rango 12-18 sin romper), Cardano (débil, soporte perdido), Nasdaq 100 y oro (relativos con Bitcoin en progreso, sin romper).
 
 **Tono:** cautelosamente optimista — reconoce señales tempranas de fin de ciclo bajista, pero remarca explícitamente que faltan confirmaciones antes de darlo por hecho.
