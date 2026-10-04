@@ -34,7 +34,7 @@
 
 **Cierre:** remarca que son modelos, no certezas; dice ajustar constantemente su visión según los datos y que la responsabilidad de cualquier decisión de inversión es de quien la toma, no suya. Vídeo con patrocinio declarado de Mintos.
 
-**Nota cruzada:** [[2026-10-02-PabloGilTrader]] es un clip corto con este mismo contenido (−72% estimado frente a algo más del 50% real, sobreventa sin alcanzar), casi seguro un recorte de este vídeo.
+**Nota cruzada:** [[2026-10-02-PabloGilTrader]] es un clip corto con este mismo contenido (−72% estimado frente a algo más del 50% real, sobreventa sin alcanzar), casi seguro un recorte de este vídeo. [[2026-10-03-PabloGilTrader]] vuelve sobre estos niveles: da por roto el primer nivel (67.000 / 1.850) en ambas y sitúa a las dos atacando el segundo (83.000 en BTC), con Bitcoin "un pelín más débil".
 
 **Activos mencionados:** Bitcoin (67.000 superado, 83.000 pendiente; objetivos 250.000-840.000 a 4 años), Ethereum (1.850 superado, 2.450 pendiente), Solana (doble suelo, objetivo 150), Ripple (rango 12-18 sin romper), Cardano (débil, soporte perdido), Nasdaq 100 y oro (relativos con Bitcoin en progreso, sin romper).
 
