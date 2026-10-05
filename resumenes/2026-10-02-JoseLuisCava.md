@@ -32,3 +32,5 @@
 **Activos mencionados:** deuda francesa (prima frente al bund de "150 puntos", por el contexto pb; 10 años al alza), deuda italiana y española (primas al alza), bund, BNP, Intesa Sanpaolo, BBVA, Santander (caídas fuertes), franco suizo (al alza como refugio), S&P 500, oro, Bitcoin (al alza), Treasury a 10 años (doble techo; cortos de CTA de 350.000-390.000 millones), bonos y crédito privado ligados a la IA (primas al alza; sospecha de contabilidad maquillada).
 
 **Tono:** alcista táctico en bolsa hasta el 3 de noviembre; muy bajista estructuralmente sobre la deuda soberana europea y los bancos europeos; alerta de una posible crisis bancaria tipo 2012.
+
+**Nota cruzada posterior:** [[2026-10-05-JoseLuisCava]] amplía esta tesis con niveles técnicos (índice bancario europeo perforando 313,87-311; prima italiana con escape falso en 95; española en 65) y vincula la "excusa" del BCE con una convocatoria de elecciones en España.

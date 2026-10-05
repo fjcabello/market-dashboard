@@ -9,3 +9,5 @@
 **Activos mencionados:** Bitcoin (primer nivel roto; segundo nivel en 83.000 pendiente de cierre semanal; "un pelín más débil" que ETH), Ethereum (primer nivel roto; atacando el segundo nivel, sin cifra en el clip; 2.450 según el 20 de septiembre).
 
 **Tono:** moderadamente alcista y condicionado; da por superado el primer escalón y deja el fin del criptoinvierno pendiente de cierres semanales por encima del segundo nivel.
+
+**Nota cruzada posterior:** [[2026-10-04-PabloGilTrader]] completa la parte relativa: ETH/BTC (directriz desde 2022), SOL/BTC y XRP/BTC siguen sin romper a favor de las altcoins, así que el fin del criptoinvierno sigue sin confirmarse en términos relativos.

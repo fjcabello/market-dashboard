@@ -38,3 +38,5 @@
 **Activos mencionados:** cartera propia (178.284 €; −4,44% en el mes, o ~−2% con el cierre del 30 de septiembre; +8,70% en el año), MSCI World (+1% en el mes; +15,84% en el año), cartera metal de MyInvestor (7.504 €), fondos MSCI World + emergentes (7.445 €), EUR/USD (1,17 → 1,20 → 1,18), Nextil (−8/10% en el mes; ~+200% acumulado), Amper, OHL, Izertis, MyInvestor Value, Horos, Pictet China, Ábaco, Vert Capital, Kaisen, Brent y bonos (como presión sobre el *value*).
 
 **Tono:** autocrítico con el resultado mensual, pero tranquilo y alcista a largo plazo sobre sus acciones; escéptico con la calidad de la subida de los índices.
+
+**Nota cruzada posterior:** en [[2026-10-04-LaPizarraDeAndres]], Rubén (Ver Capital) defiende en detalle Nextil y Amper (flujo de caja libre positivo en Nextil; guía de Amper de 320 M de ventas y 55 M de EBITDA) y pide no vender en 3-6 meses.

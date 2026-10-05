@@ -60,3 +60,5 @@
 **Activos mencionados:** Treasury a 10 años (5,28% al cierre; máximo de 5,3-5,31%), Treasury a 30 años (5,63% al cierre; máximo de 5,69%), hipoteca fija a 30 años (~7,5% → 8% en octubre), deuda de EE. UU. (40 billones → 50; ~5%), Nasdaq (máximo intradía; +1,86% en septiembre), S&P 500 (+0,25% en la semana; −0,45% en septiembre), Dow (−0,62%; −4,29%), Russell 2000 (+0,57%; −5,4%), Mag 7, oro (~4.140; soporte en 4.000; comprar), plata (60,37; soporte en 60; comprar), GDX (−0,1%), GDXJ (−0,5%), petróleo (~91 dólares; G7 libera 100 millones de barriles; 125-150 sin reservas), Bitcoin (~84.500), Strategy Stretch (~99,4; rendimiento del 12%), Fannie Mae y Freddie Mac, financieras, dólar/DXY (apuesta propia a la baja).
 
 **Tono:** muy bajista sobre los bonos, la bolsa estadounidense (por amplitud), la vivienda y el dólar; muy alcista sobre el oro y la plata; muy crítico con Trump.
+
+**Nota cruzada posterior:** [[2026-10-05-PeterSchiff]] es un clip con la sección "Trump y la inflación" de este podcast, sin datos nuevos.
