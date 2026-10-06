@@ -40,3 +40,5 @@
 **Activos mencionados:** bono francés a 10 años (al alza, acelerándose), prima Francia-bund (al alza), prima Italia-bund (escape falso en 95; espera subidas fuertes), prima España-bund (escape falso en 65; espera subidas), bund, euro (a la baja), franco suizo frente al euro (rebote; posible 112, cifra poco clara), índice bancario europeo (soporte perforado en 313,87-311, ahora resistencia), oro (beneficiado), petróleo iraní (bloqueado en Ormuz).
 
 **Tono:** muy bajista sobre la deuda soberana periférica europea, el euro y los bancos europeos; alcista sobre el franco suizo y el oro como refugio; muy crítico con las "élites" y la clase política europea.
+
+**Nota cruzada posterior:** [[2026-10-06-JoseLuisCava]] amplía la tesis francesa con los programas fiscales de los partidos (Mélenchon, socialistas), el riesgo de que el bono francés acabe en bono basura y en el 7% si hay rebaja de rating, y añade la inspección de la Fed de Nueva York a los grandes bancos estadounidenses por el crédito a entidades no bancarias y al *private equity*.

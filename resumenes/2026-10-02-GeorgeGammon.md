@@ -35,3 +35,5 @@
 **Activos mencionados:** nóminas no agrícolas (29.000 frente a 84.000; julio −10.000; agosto 133.000; media de 12 meses 45.000), tasa de paro (4,2%), PCE (por debajo de lo esperado), CME FedWatch (21% de subida), S&P 500, Dow y Nasdaq (al alza), oro (~−1%), Bitcoin (al alza), petróleo (a la baja), Treasuries a 2, 10 y 30 años (−12/13 pb intradía y vuelta a positivo; 30 años plano), DXY (~102), índice MOVE (disparado), diferencial *high yield* (3,16% → ~3,3-3,4% estimado).
 
 **Tono:** bajista sobre la economía y muy crítico con la Fed y Warsh; ve probabilidades crecientes de recesión o de un evento de aversión al riesgo ("no hay certezas, solo probabilidades").
+
+**Nota cruzada posterior:** [[2026-10-05-GeorgeGammon]] extiende la lectura pesimista a la economía real: el gasto es sobre todo inflación, el mercado laboral no es "estable" (nóminas no agrícolas negativas) y los tipos largos altos actúan como un impuesto.
