@@ -17,11 +17,11 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v5
 
-      # 3.12 es la versión con la que corren las tareas diarias.
+      # 3.13 es la versión del runner propio (la Pi) donde corren las tareas diarias.
       - name: Setup Python
         uses: actions/setup-python@v6
         with:
-          python-version: "3.12"
+          python-version: "3.13"
           cache: pip
 
       - name: Install dependencies
