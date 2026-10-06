@@ -1,14 +1,16 @@
 name: Daily Resumenes
 
-# Genera diariamente, justo después de la descarga de transcripts (09:00 UTC),
-# los resúmenes que falten en resumenes/ con el mismo detalle que los
+# Genera diariamente, justo después de la descarga de transcripts, los resúmenes que falten en resumenes/ con el mismo detalle que los
 # existentes. No genera ninguna síntesis cruzada (eso lo hace
 # periodic_synthesis.yml por separado, cada ~15 días). Corre en el runner
 # propio con la suscripción de Claude Code ya autenticada, sin coste de API.
 
 on:
-  schedule:
-    - cron: "0 10 * * *"     # 10:00 UTC, 1h después de daily_transcripts.yml
+  # Encadenado a la descarga en vez de un cron una hora después: los cron de
+  # GitHub llegan con horas de retraso y el orden no estaba garantizado.
+  workflow_run:
+    workflows: ["Daily Transcripts Download"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -19,8 +21,12 @@ jobs:
     runs-on: self-hosted
 
     steps:
+      # Con workflow_run, sin ref explícita se podría quedar en el commit
+      # anterior al push de los transcripts.
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
+        with:
+          ref: main
 
       - name: Diagnóstico de cobertura
         run: |
@@ -29,6 +35,7 @@ jobs:
           echo "resumenes: $(ls resumenes/*.md | wc -l)"
 
       - name: Generar resúmenes con Claude Code
+        timeout-minutes: 45
         run: |
           ~/.npm-global/bin/claude -p "/daily-resumenes" \
             --permission-mode acceptEdits \
@@ -41,4 +48,10 @@ jobs:
           git add resumenes/
           git diff --staged --quiet || \
             git commit -m "resumenes: generación diaria automática $(date -u +%Y-%m-%d)"
-          git push
+          # Otro workflow puede haber empujado a main mientras este corría:
+          # rebase y reintento en vez de fallar con non-fast-forward.
+          for i in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            sleep $((i * 10))
+          done
+          exit 1

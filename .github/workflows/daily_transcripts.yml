@@ -19,10 +19,15 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Install dependencies
-        run: python3 -m pip install --break-system-packages -r requirements.txt
+        # venv persistente en el runner en vez de instalar sobre el Python del
+        # sistema; GITHUB_PATH hace que los pasos siguientes usen su python3.
+        run: |
+          python3 -m venv ~/.venvs/market-dashboard
+          ~/.venvs/market-dashboard/bin/pip install -q -r requirements.txt
+          echo "$HOME/.venvs/market-dashboard/bin" >> "$GITHUB_PATH"
 
       - name: Download transcripts
         env:
@@ -37,4 +42,10 @@ jobs:
           git add transcripts/
           git diff --staged --quiet || \
             git commit -m "transcripts: update $(date -u +%Y-%m-%d)"
-          git push
+          # Otro workflow puede haber empujado a main mientras este corría:
+          # rebase y reintento en vez de fallar con non-fast-forward.
+          for i in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            sleep $((i * 10))
+          done
+          exit 1
