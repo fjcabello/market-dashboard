@@ -20,7 +20,7 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Comprobar si toca síntesis
         id: range
@@ -37,6 +37,7 @@ jobs:
 
       - name: Generar síntesis con Claude Code
         if: steps.range.outputs.due == 'true'
+        timeout-minutes: 60
         run: |
           ~/.npm-global/bin/claude -p "/analyze-transcripts ${{ steps.range.outputs.start }} ${{ steps.range.outputs.end }}" \
             --permission-mode acceptEdits \
@@ -50,4 +51,10 @@ jobs:
           git add resumenes/ conclusiones/
           git diff --staged --quiet || \
             git commit -m "resumenes: síntesis automática ${{ steps.range.outputs.start }} a ${{ steps.range.outputs.end }}"
-          git push
+          # Otro workflow puede haber empujado a main mientras este corría:
+          # rebase y reintento en vez de fallar con non-fast-forward.
+          for i in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            sleep $((i * 10))
+          done
+          exit 1
