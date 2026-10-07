@@ -15,3 +15,5 @@ No da niveles numéricos en el clip.
 **Activos mencionados:** Bitcoin, Ethereum (relativo ETH/BTC en la directriz de 2022, sin romper), Solana (relativo en zona pivote, sin romper), Ripple (por debajo de su pivote frente a BTC; BTC estructuralmente más fuerte).
 
 **Tono:** neutral-cauto; sin confirmación relativa del fin del criptoinvierno.
+
+**Nota cruzada posterior:** en [[2026-10-07-RaoulPal]], Ran Neuner (invitado de Raoul Pal) afirma lo contrario: que el ETH/BTC ya ha roto al alza tras 9 años.

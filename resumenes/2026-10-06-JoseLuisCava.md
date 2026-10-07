@@ -32,3 +32,5 @@
 **Activos mencionados:** grandes bancos estadounidenses (inspección de la Fed de Nueva York), *private equity* y crédito privado (grietas), bonos basura y BBB (diferenciales al alza con fuerza), bono francés (al alza; riesgo de bono basura; 7% si hay rebaja de rating), deuda italiana, española y belga, euro (bajista), oro y Bitcoin (alcistas a medio y largo plazo), Treasury estadounidense (rentabilidad al alza el lunes), S&P 500 y Nasdaq (máximos históricos), MOVE (tendencia alcista), VIX (mínimos).
 
 **Tono:** alcista táctico en las bolsas estadounidenses hasta el 3 de noviembre, por intervención; bajista estructural sobre el crédito privado, la deuda francesa y el euro; alcista sobre el oro y Bitcoin a medio y largo plazo.
+
+**Nota cruzada posterior:** [[2026-10-07-JoseLuisCava]] lleva la tesis francesa más lejos: las élites provocarían a propósito una recesión antes de las presidenciales, con el bono francés al 8% "como mínimo", el CAC 40 cayendo un 21-41% y el euro hacia 1,07-1,05, seguida de un QE masivo alcista para el oro, Bitcoin y el S&P 500. Vuelve a citar las inspecciones de la Fed de Nueva York como posible origen de un evento tipo LTCM.
