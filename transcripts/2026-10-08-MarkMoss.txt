@@ -1,0 +1,699 @@
+Jeremy Grantham es probablemente el
+ inversor en burbujas más famoso que
+ existe. Él advirtió sobre la burbuja
+ de las puntocom. Advirtió sobre la
+ crisis inmobiliaria de 2008, ya sabes.
+ Y él dice que Bitcoin eventualmente se
+ reducirá a básicamente cero. Así que
+ pasé los últimos meses construyendo
+ una forma totalmente distinta de
+ valorar Bitcoin. Bajo uno de mis
+ escenarios en este modelo, Bitcoin
+ llega a valer más de 27 millones de
+ dólares por moneda. Obviamente, esos
+ dos puntos de vista no pueden ser
+ correctos a la vez. Así que, en lugar
+ de darte otra predicción de Bitcoin,
+ quiero mostrarte exactamente cómo
+ llegué ahí. Porque la mayoría de los
+ modelos de Bitcoin comienzan con el
+ Bitcoin mismo. Intentan analizar su
+ pasado. Intentan mirar, ya sabes, la
+ curva de adopción y usan la ley de
+ Metcalfe o la ley de potencia, algo
+ así. Y tratan de proyectar esa curva
+ hacia adelante. Yo hice algo
+ completamente diferente. He estado
+ invirtiendo en capital de riesgo
+ durante más de 10 años. Y el capital
+ de riesgo tiene que resolver un
+ problema muy específico. ¿Cómo
+ valoramos algo hoy cuando el mercado
+ que va a dominar ni siquiera existe? No
+ tienes que empezar prediciendo el
+ precio de las acciones. Preguntas: ¿
+qué mercados está alterando esto?¿
+Qué tan grande puede llegar a ser ese
+ mercado?¿Y qué porcentaje de él
+ puede capturar esta empresa de manera
+ realista? Así que apliqué exactamente
+ ese mismo marco a Bitcoin.
+ Identificamos los mercados por los que
+ Bitcoin está compitiendo. Regresamos y
+ reconstruimos ese modelo para observar
+ la tendencia histórica hacia el futuro
+. Y luego usamos datos macroeconómicos
+ reales para proyectar eso hacia
+ adelante. Y finalmente, hicimos la
+ única pregunta que realmente importa:
+ ¿cuánto de ese mercado podría
+ capturar realmente Bitcoin? Aquí es
+ donde se pone realmente interesante.
+ Porque el modelo no solo confirmó lo
+ que yo ya creía. Ajá. En un punto, el
+ modelo en realidad discutió conmigo.
+ Así que déjame mostrarte lo que
+ encontré. Vamos. Bien, entremos en
+ esto. He estado trabajando en esto
+ durante meses. Y de hecho, se remonta
+ aún más atrás. Probablemente he
+ estado trabajando en este modelo de
+ aquí. He estado trabajando en él
+ durante años. Simplemente no tenía
+ todas las habilidades y datos que
+ necesitaba para construirlo realmente.
+ Y ahora tengo inteligencia digital
+ sobrehumana. Ahora, tenemos a muchas
+ personas, como dije, Jeremy Grantham.
+ Tenemos a los Warren Buffett del mundo.
+ Por supuesto, a los Peter Schiff del
+ mundo diciendo que Bitcoin va a bajar
+ de valor. Pero existe un consenso en
+ Wall Street y la mayoría de los
+ analistas hoy ven a Bitcoin llegando a
+ cientos de miles o millones de dólares
+ en el futuro. Lo que encontré
+ deficiente en estos modelos es que
+ todos usaban el pasado de Bitcoin para
+ tratar de predecir el futuro. Pero si
+ algo he aprendido en la inversión, es
+ que el pasado no garantiza el futuro. Y
+ solo porque ha estado haciendo esto, no
+ significa que seguirá haciéndolo. A
+ eso lo llamamos sesgo de actualidad.
+ Así que quería una forma distinta de
+ pensar sobre el valor de Bitcoin. Y por
+ eso utilicé las habilidades que tengo.
+ Como dije al principio, he estado
+ invirtiendo dinero en capital de riesgo
+ durante más de una década. Y verá,
+ la forma en que funciona el capital de
+ riesgo es que debemos apostar por un
+ futuro. Así que debemos imaginar algo
+ que no existe hoy e intentar asignarle
+ un valor. Ahora, antes de explicarle
+ cómo funciona mi modelo y, por
+ supuesto, por qué creo que es el mejor
+. Si recordamos algunas de las otras
+ cifras que hemos visto, ya sabe,
+ predicciones de Bitcoin llegando a
+ cientos de miles, millones de dólares,
+ lo que sea. Típicamente, probablemente
+ el modelo principal que me gusta y
+ utilizo es la ley de potencia. Entonces
+, la ley de potencia se basa en
+ matemáticas y muestra cómo los
+ números suben con el tiempo. Tenemos
+ algo llamado ley de Metcalfe, que
+ muestra que cuantos más nodos hay en
+ una red, más valor adquiere. Tenemos
+ algo como el modelo de stock a flujo.
+ Eso es como el stock existente o la
+ oferta actual y luego el nuevo flujo
+ entrante o la inflación. Y así
+ podemos saber que Bitcoin se ha vuelto
+ más sólido. El número de stock a
+ flujo es hoy más sólido incluso que
+ el del oro. Existen ciclos de halving,
+ por lo que sabemos que cada cuatro
+ años la oferta se reduce a la mitad. Y
+ cuando cambias la oferta y la demanda,
+ eso cambia el precio. Tenemos modelos
+ de regresión. Así que tenemos todos
+ estos tipos diferentes de modelos que
+ podemos usar. Y me gustan todos y los
+ uso todos porque queremos verlos desde
+ diferentes perspectivas. Muy bien, esas
+ son todas cosas importantes. No quiero
+ descartarlas y las utilizo. Pero de
+ nuevo, el capital de riesgo tiene un,
+ si vamos a desplegar capital real y no
+ solo nuestro dinero, sino el de
+ inversores, tenemos un problema real.
+ ¿Cómo podemos asignar un valor a algo
+ que no existe? Y así es como lo
+ hacemos. Déjenme darles un ejemplo.
+ Entonces, si estuviéramos en Silicon
+ Valley, hace una década, y
+ estuviéramos recibiendo propuestas,
+ alguien se sienta y dice: "Oye, tengo
+ esta aplicación". "Es como una
+ aplicación de viajes compartidos, y
+ puedes usarla en tu teléfono para
+ pedir un transporte". Y yo digo: "¿Te
+ refieres a algo como los taxis?" Ellos
+ dicen: "Bueno, sí, es parecido a los
+ taxis, solo que mejor porque puedes
+ pedir autos negros, nunca tienes que
+ sacar efectivo y cosas así". Entonces,
+ están lanzando la idea de Uber, ¿
+cierto? Ahora, no existía nada como
+ Uber en ese entonces. En retrospectiva,
+ por supuesto, parece obvio. Así que
+ nos preguntamos: "Bueno, ¿cuánto
+ podría llegar a valer?" Entonces, lo
+ que hacíamos era decir: "Bueno, ¿
+cuáles son los mercados que están
+ siendo transformados?" En el caso de
+ Uber, estaba transformando los taxis,
+ las limusinas, las camionetas y cosas
+ por el estilo. Y luego decíamos: "Muy
+ bien, ¿qué parte de ese mercado
+ creemos que podemos capturar y en qué
+ plazo de tiempo, verdad?" Y también,
+ ¿qué tanto crecerá ese mercado? Ese
+ mercado no es estático, ¿cierto? Por
+ eso, queremos entender qué tan grandes
+ son esos mercados hoy, pero también
+ cuánto seguirán creciendo y qué
+ porcentaje podemos capturar. Uber lo
+ hizo, Airbnb lo hizo, y eso no
+ significa que los taxis desaparecieron,
+ ni que los hoteles desaparecieron; solo
+ significa que Uber tomó una parte de
+ los taxis y limusinas, quizás mucho de
+ las limusinas. Y luego Airbnb tomó una
+ parte de los hoteles, pero por supuesto
+, siguen existiendo hoy. Así que lo
+ que quiero hacer es tomar ese modelo y
+ aplicarlo a la lente de Bitcoin, para
+ que podamos entenderlo. Porque Bitcoin
+ es básicamente el mismo problema. Es
+ lo que llamamos un problema de
+ suscripción, ¿verdad? El capital de
+ riesgo nos da esa pregunta, la pregunta
+ que debemos hacer, pero no nos da la
+ respuesta. Entonces, la pregunta es: ¿
+qué mercados está transformando
+ Bitcoin realmente? Hoy vemos que es
+ como una especie de cobertura contra la
+ devaluación, ¿cierto? Es decir, una
+ cobertura contra la inflación. De
+ hecho, JP Morgan salió a decir que
+ tanto Bitcoin como el oro son
+ coberturas contra la devaluación.
+ Entonces, a medida que el gobierno
+ gasta más dinero, tenemos más
+ inflación y continúan devaluando la
+ moneda, el oro y Bitcoin se benefician
+ de ello. Y ciertamente, podemos verlo.
+ Eso tiene sentido. Quiero decir, si
+ siguen imprimiendo más y más dinero,
+ Bitcoin tiene una oferta fija, por lo
+ que obviamente se beneficia de eso.
+ Ahora, Bitcoin es eso, pero es mucho
+ más. Y realmente, ¿contra qué
+ compite, verdad? Así que, en ese
+ escenario, compite contra el oro, pero
+ compite contra más que eso. No está
+ compitiendo contra otras criptomonedas.
+ No compite contra otros pagos, como
+ medio de intercambio. En realidad,
+ compite contra todo eso. Bitcoin
+ compite por el capital que la gente
+ intenta preservar a través del tiempo.
+ ¿Está bien? Entonces, ¿dónde
+ intentamos preservar nuestro capital a
+ través del tiempo? Bueno, lo ponemos
+ en acciones. Lo ponemos en valores, ¿
+verdad? Lo ponemos en acciones y
+ valores, esperando que no se derrita
+ como un cubo de hielo como en dólares,
+ y que crezca con el tiempo. Estoy
+ tratando de preservar y hacer crecer
+ esa riqueza con el tiempo. Lo ponemos
+ en bienes raíces. Ciertamente, vivimos
+ en bienes raíces, pero también
+ invertimos en ellos, bienes raíces
+ comerciales, apartamentos, dúplex,
+ todo ese tipo de cosas. Y así,
+ también usamos los bienes raíces para
+ preservar y hacer crecer esa riqueza.
+ Renta fija. No quiero gastar mi capital
+, pero necesito ingresos para vivir.
+ Así que puedo poner mi dinero, mi
+ capital, en activos que puedan pagarme
+ con el tiempo. Eso es la renta fija.
+ Dinero, por supuesto, o ahorramos
+ dinero, ¿verdad? Mantenemos nuestros
+ gastos operativos, cuentas de reserva.
+ Gastamos eso. Así que Bitcoin está
+ compitiendo ahí. Está compitiendo
+ contra el oro. Ya hablamos de eso. Y
+ luego, arte y coleccionables. Quiero
+ decir, es divertido tener algunos de
+ esos coleccionables o arte, ya sean
+ sellos, monedas de oro, tarjetas de
+ béisbol, tarjetas de Pokémon, autos
+ antiguos o pinturas, pero también solo
+ estamos tratando de almacenar nuestra
+ riqueza y valor. Bien, esos son los
+ mercados en los que compite. Ahora, la
+ pregunta entonces es, bueno, ¿qué tan
+ grande es esa canasta?¿Qué tan grande
+ es ese pastel?¿Y qué tan grande se
+ volverá ese pastel en el futuro? Y
+ luego, por supuesto, ¿qué porcentaje
+ podemos capturar? Ahora, les va a
+ encantar el cálculo que hice sobre
+ esto. Fuimos realmente a fondo. Y de
+ nuevo, comencé a construir este modelo
+ hace un par de años, pero sin una
+ inteligencia digital sobrehumana, la IA
+, se volvió muy difícil. Y hoy,
+ podemos ser expertos en análisis
+ cuantitativo. Entonces, esto es lo que
+ hicimos. Tomamos esa cesta, esa cesta
+ de reserva de valor, de nuevo, es decir
+, bonos, acciones, dinero, bienes
+ raíces, artículos de colección,
+ bellas artes, oro, todo eso. Y
+ observamos qué tan grande era esa
+ cesta en 2010, en 2020, en 2025. ¿
+Cuánto ha estado creciendo esa cesta?
+¿Y cuáles fueron los impulsores
+ fundamentales del crecimiento de esa
+ cesta?¿Cuál es el mecanismo
+ subyacente que causa que esos activos
+ suban? Entonces, ¿cuáles son las
+ cosas que causan que suba? Bueno, como
+ hablamos, la degradación monetaria.
+ Entonces, cuanto más dinero se crea,
+ más degradación ocurre, más liquidez
+ entra al sistema, más deuda entra al
+ sistema, pero también más valor
+ simplemente se crea, ¿verdad? Entonces
+, cuando creamos cosas nuevas, se crea
+ más dinero, más valor. Y así,
+ observamos todos esos factores, el
+ crecimiento de la deuda, la liquidez,
+ la oferta monetaria, todas esas cosas,
+ desde 2010. Y luego observamos cómo se
+ correlacionaba con esa cesta a lo largo
+ del tiempo, de nuevo, 2010, 2015, 2020,
+ 2025. Y entendimos el mecanismo allí.
+ Bien. Entonces, ahora tenemos esa cesta
+ de reserva de valor creciendo según el
+ crecimiento monetario que estamos
+ viendo, ¿de acuerdo? Luego, lo que
+ hicimos es querer proyectar ese modelo
+ hacia el futuro. Ahora bien, todos los
+ modelos son conjeturas. Nadie tiene una
+ bola de cristal. Pero lo que hicimos
+ fue tomar los datos del FMI, el Fondo
+ Monetario Internacional, el, ya sabes,
+ Banco de Bancos Centrales, el BPI, el
+ Banco de Pagos Internacionales, la CBO,
+ la Oficina de Presupuesto del Congreso,
+ y tomamos todas estas estimaciones. Y
+ la CBO proyecta esto hasta 2050. ¿De
+ acuerdo? Entonces, esto es lo que ellos
+ proyectan que serán los niveles de
+ deuda, los déficits y todo ese tipo de
+ cosas. Y así, observando la relación
+ histórica con el activo de la cesta de
+ reserva de valor, y luego tomando las
+ predicciones de las principales
+ instituciones financieras,
+ instituciones globales, podemos
+ entonces predecir cuánto crecerá esa
+ cesta para 2030, 2040, 2050. ¿Está
+ bien? Entonces, les voy a mostrar eso,
+ cómo, cuáles son esos números, y
+ luego hablaremos sobre qué porcentaje
+ creemos que puede capturar. Muy bien.
+ Bueno, echemos un vistazo a esto. Lo
+ que pueden ver aquí, si pueden ver mi
+ pantalla ahora mismo, es esta
+ calculadora que desarrollé. Y les
+ daré un enlace para que puedan jugar
+ con esto de forma totalmente gratuita.
+ Desgloso el modelo, los mercados, todo
+ eso está aquí. Entonces, vayamos
+ aquí a la pestaña de mercado y
+ comenzaremos por aquí. Y podemos ver
+ que aquí en 2025 es nuestra línea
+ base que estamos capturando. Y de nuevo
+, analizamos la cesta desde 2010, 15,
+ 20, 25. Aquí estamos en 2025, y
+ podemos ver que esa cesta es de
+ alrededor de 1 cuatrillón de dólares
+ hoy, unos 994 billones de dólares. Y
+ eso fue un aumento desde unos 300
+ billones en apenas 2010. Así que está
+ creciendo muy, muy rápido. Entonces,
+ casi 1 cuatrillón de dólares. Y
+ pueden ver cómo está desglosado.
+ Tenemos oro que es de unos 31 billones.
+ Los bienes raíces son el mercado más
+ grande de todos. Quizás, quizás ya lo
+ sabían. Son unos 408 billones.
+ Títulos de deuda, es decir, valores de
+ renta fija, unos 167 billones. Otros
+ préstamos de crédito, 70 billones.
+ Acciones, valores, 150 billones, 152
+ billones. Dinero en circulación,
+ dinero fiduciario, unos 144 billones. Y
+ luego arte, ya saben, bellas artes,
+ artículos de colección, cosas así,
+ unos casi 27 billones de dólares.
+ Entonces, eso es, de nuevo, donde está
+ hoy, 2025, o desde el año pasado. Y de
+ nuevo, eso creció desde solo 300. Así
+ que, se triplicó en tamaño en los
+ últimos 15 años. Así que, podemos
+ ver eso. Ahora, la pregunta es, de
+ nuevo, usando esa metodología que
+ expliqué, ¿qué tan grande llegará a
+ ser en 2030, 2040 y 2050?¿Verdad?
+ Entendemos que no está congelado en el
+ tiempo. Entonces, lo que hice aquí es,
+ pueden ver aquí, 2025, creé este
+ gráfico de anillos, para que puedan
+ ver y tenemos estos diferentes caminos.
+ Ahora, de nuevo, porque estamos
+ proyectando hacia el futuro, y por eso
+ lo usamos basándonos en sus datos, y
+ luego tenemos algo así como un caso
+ optimista y un caso pesimista. Entonces
+, simplemente usaremos la trayectoria
+ monetaria de referencia. Ahora, lo que
+ podemos ver si pasamos a 2030, eso
+ crece a cerca de 1 y medio cuatrillón
+ de dólares. Ahora, de nuevo, tenemos
+ una tesis conservadora, la tesis de
+ Mark y una tesis de alta adopción,
+ pero nos quedaremos con la tesis de
+ Mark aquí porque es mi modelo. Y en
+ 2030, eso crece de unos 900 billones a
+ cerca de 1. cerca de 1 y medio
+ cuatrillón. Para 2040, podemos ver que
+ esto crece a unos 3 mil billones. Y de
+ nuevo, ahora Bitcoin está creciendo.
+ Todas estas cosas están creciendo con
+ eso. Um, luego para 2050, estaremos en
+ 6 mil billones de dólares. Ahora bien,
+ esto utiliza las estimaciones del BPI,
+ el FMI y la CBO sobre hacia dónde van
+ las cosas, y esto es solo donde termina
+. Bueno, es mi suposición. Supongo que
+ es mi predicción que creo que el BPI y
+ el FMI se quedarán muy cortos en
+ cuanto a cuánto dinero y deuda se
+ creará realmente. Y lo digo porque,
+ históricamente, siempre se han quedado
+ muy cortos. Siempre son demasiado
+ conservadores en sus proyecciones. Bien
+, la siguiente pregunta que debemos
+ hacer, ahora que conocemos el tamaño
+ de la cesta, tenemos un modelo de
+ cuánto crece esa cesta con el tiempo,
+ ahora debemos averiguar qué porcentaje
+ de esa cesta consideramos realista.
+ Ahora, desde una perspectiva de capital
+ de riesgo, debemos responder a esta
+ pregunta. Tenemos formas de pensar
+ sobre esto. Primero que nada, solo como
+ base histórica, Uber y Airbnb pudieron
+ capturar el 10%de sus mercados en menos
+ de 10 años. De nuevo, solo quiero
+ dejar claro que esto no significa que
+ los taxis, limusinas y hoteles hayan
+ desaparecido. Solo tomaron una parte
+ del mercado, pero el mercado también
+ siguió creciendo. Y es importante
+ entenderlo porque mucha gente aquí
+ piensa que cuando Bitcoin llegue al
+ millón de dólares, el dólar no
+ valdrá nada y, ya sabes, la gasolina
+ costará 500 dólares el galón. No, no
+ tiene por qué significar eso en
+ absoluto. De hecho, podría llegar al
+ millón de dólares sin que el dólar
+ muera ni haya una inflación tan alta,
+ porque está tomando valor un poco del
+ oro y un poco de los bienes raíces, ¿
+de acuerdo? Así es como funciona esto.
+ Ahora, ¿por qué?¿Cómo creemos que
+ podría capturar parte de eso? Echemos
+ un vistazo a algunas de estas
+ categorías aquí. Entonces, los bienes
+ raíces compiten por el rol de ahorro,
+ no por el edificio. Por lo tanto,
+ todavía necesitamos hogares. No digo
+ que la gente no vaya a comprar casas,
+ todavía necesitamos casas para vivir,
+ pero como mi carrera comenzó como
+ inversor inmobiliario, la mayoría de
+ mis propiedades de alquiler, aún poseo
+ bastantes, pero mis propiedades de
+ alquiler que eran solo de renta, ya
+ sabes, de tres habitaciones y dos
+ baños, o cuádruplex o apartamentos,
+ las he vendido todas. No creo que el
+ perfil de retorno sea lo
+ suficientemente bueno para el riesgo
+ que asumo, así que vendí todo eso y
+ lo puse en Bitcoin. Y algunas personas
+ también lo harán, y no digo que todo,
+ pero ¿qué pasaría si el 2%, 4%o 5%de
+ la riqueza que hubiera ido a bienes
+ raíces ahora fuera a Bitcoin? Creo que
+ eso es bastante realista. ¿Qué hay de
+ los bonos y las acciones? Bueno, de
+ nuevo, son diferentes reclamos
+ económicos. Ahora, de nuevo,
+ seguiremos comprando acciones, seguirá
+ habiendo empresas, seguirá habiendo
+ empresas de IA que necesitarán dinero
+ y seguirán existiendo los mercados
+ bursátiles. No estoy afirmando eso,
+ pero si posees algo de Bitcoin,
+ entonces tienes dinero que de otro modo
+ habría ido a acciones, ¿cierto? Así
+ que, tal vez obtenga el 5%o el 10%del
+ mercado de acciones durante un largo
+ período de tiempo. ¿Qué hay de los
+ bonos? Usamos los bonos como títulos
+ de deuda de renta fija y podemos ver
+ que ahora tenemos crédito digital,
+ construido sobre Bitcoin, que está
+ capturando rápidamente cuota de
+ mercado. Ahora mismo es minúsculo,
+ pero podemos ver cómo está creciendo
+ con el tiempo. Cuando un producto no es
+ solo un poco mejor, sino cien o mil
+ veces mejor, entonces gana cuota de
+ mercado rápidamente, como demostraron
+ Airbnb y Uber. Bien, ahora entiendes
+ cómo captura una pequeña parte del
+ mercado. Unos cuantos puntos aquí y
+ allá, 2%, 5%, 10%, no significa que lo
+ otro desaparezca. Por supuesto,
+ seguimos necesitando casas, como dije,
+ seguiremos comprando acciones, pero
+ echemos un vistazo a esto. Entonces,
+ obviamente Bitcoin es un activo nuevo,
+ y lo que podemos ver es que ahora mismo
+, las mayores redes de asesores
+ financieros del mundo, Charles Schwab,
+ BlackRock, etc., están empezando a
+ decirles a sus asesores que deberían
+ empezar a asignar capital a Bitcoin.
+ Así que esto está sucediendo. Ha sido
+ bastante pequeño. Podemos ver aquí,
+ en Estados Unidos, que 29 de los 30
+ principales asesores de inversión
+ registrados, los IRA, ya poseen Bitcoin
+. Pero la asignación media sigue
+ siendo pequeña, al 0.1%, aunque crece
+ cada año. Así que todo esto
+ simplemente está pasando. Es un
+ proceso. Sé paciente. Solo está al
+ 0.1%, pero llegará al 1%, 2%, 5%, etc.
+ Podemos ver que el acceso apenas se
+ está habilitando. Como Charles Schwab
+ apenas ahora está tratando de
+ incorporarlo. Podemos ver que los 25
+ bancos principales en EE. UU. están
+ tratando de lanzar esos productos
+ rápidamente. Pero, aquí es donde
+ quiero mostrarles. Wall Street ahora
+ entiende el beneficio de tenerlo, y
+ específicamente porque ahora pueden
+ vendérselo a sus clientes. Como ahora
+ puedes comprarlo en una cuenta de
+ corretaje, quieren que lo compres. Así
+ que ahora lo están recomendando.
+ Podemos ver esto. Esta es la
+ asignación de cartera recomendada para
+ Bitcoin por las instituciones
+ financieras más grandes del mundo. Y
+ le están diciendo a la gente que
+ compre un activo que nadie posee.
+ Entonces, echemos un vistazo a esto.
+ Aquí está JP Morgan. Dicen que tomes
+ una posición como del 1%. BlackRock
+ dice que tomes una posición del 2%.
+ Morgan Stanley dice que tomes hasta una
+ posición del 4%. Lo mismo con Bank of
+ America. Fidelity dice que tomes hasta
+ un 5%. Charles Schwab dice que tomes
+ hasta un 6%y BBVA dice que tomes hasta
+ un 7%de asignación a Bitcoin. Eso
+ sería dinero que de otro modo se
+ habría destinado a oro, acciones,
+ bonos o algo similar. 7%. Ahora, ¿qué
+ tan rápido aceptarán sus clientes
+ realmente ese 7%? No lo sabemos.
+ Tenemos que adivinar. Pero, ¿qué
+ sucede si el 7%del dinero entra ahí?
+ Bueno, tienen algunos números aquí
+ mismo, pero quiero mostrarles en la
+ calculadora. Así que podemos dejar de
+ adivinar el precio. Modelamos los
+ mercados, ¿de acuerdo? Porque no
+ queremos predecir el futuro. Queremos
+ respaldar un futuro. Y queremos
+ identificar en qué tiene que
+ convertirse. Bien, echemos un vistazo a
+ esto. Bajo la premisa, ya hemos
+ modelado el crecimiento de la cesta de
+ activos de reserva de valor. Para 2030,
+ si Bitcoin puede obtener el 1.5%de la
+ cuota de mercado. Ahora, por supuesto,
+ Bitcoin ya tiene más de 20 años. Y
+ Uber y Airbnb obtuvieron el 10%en menos
+ de 10 años. Así que aquí estamos, 20
+ años después. Si podemos llegar al
+ 1.5%de la cesta, eso coloca a Bitcoin
+ por encima del millón de dólares. Eso
+ es una capitalización de Bitcoin de 21
+ billones, mientras que el oro es de 31
+ billones. Y para cuando lleguemos a
+ 2030, el oro será aún mucho más
+ grande. Por lo tanto, Bitcoin todavía
+ no se acerca al tamaño del oro. JP
+ Morgan dice que Bitcoin superará al
+ oro. Así que, todavía no estamos ni
+ cerca del tamaño de eso. Entonces, si
+ solo podemos llegar al 1.5%, eso lo
+ sitúa en 21 billones de
+ capitalización de mercado o 1 millón
+ por Bitcoin. Para el 2040, ¿qué
+ porcentaje podemos alcanzar?¿Crees que
+, volviendo a este gráfico, todos
+ estos clientes de BBVA, Charles Schwab,
+ Fidelity habrán tomado esa asignación
+ del 5 o 6%? Bien, pues digamos que
+ llegamos a una asignación como del 8%
+aquí. Entonces, ahora tenemos un 8%;
+ Bitcoin ha capturado el 8%de ese
+ mercado. Ahora estamos en 2040, así
+ que llevamos 30 años, no 10 años como
+ Uber y Airbnb, 30 años. Eso pondría
+ la capitalización total de mercado de
+ Bitcoin en 239 billones o 11 millones
+ de dólares por Bitcoin. Nuevamente,
+ esto no es que la cesta de reserva de
+ valor esté creciendo, creciendo,
+ creciendo, creciendo, creciendo,
+ creciendo. Solo estamos obteniendo un
+ pequeño porcentaje de esa cesta. Y
+ para el 2050, si pudiéramos crecer a
+ una asignación del 15%, aquí estamos,
+ ya sabes, 25 años a partir de hoy, y
+ tenemos estas recomendaciones de
+ carteras de inversión ya en el 7%hoy,
+ ¿podría llegar al 15%en 25 años más
+ a partir de ahora? Creo que la
+ respuesta es sí. Eso situaría la
+ capitalización de mercado en 922
+ billones de dólares y el precio de
+ Bitcoin en 43 millones por Bitcoin.
+ Ahora, de nuevo, voy a darles esta
+ calculadora gratis. Pueden jugar con
+ ella y pueden sentarse aquí y ver lo
+ que consideran realista. Dirán: "Bueno
+, quiero decir, dijeron 7%". Creo que
+ todos probablemente llegan al 6 o 7%.
+ Entonces, ¿qué pasa si llegamos al 7%
+? Y simplemente puedo ingresar ese
+ número. Bien, eso son 20 millones de
+ dólares por Bitcoin. Pero la pregunta
+ es si son 5 millones, 10 millones, 20
+ millones o 40 millones; entendemos que
+ valdrá mucho más en el futuro de lo
+ que vale hoy. Así que la pregunta es
+ pensar no en cuál es el valor de ese
+ dólar hoy, sino ¿cuál será en el
+ futuro? Entonces, por ejemplo, a mucha
+ gente le encanta operar y ganan mil
+ dólares aquí, pierden trescientos
+ allá, y ganan quinientos aquí o cinco
+ mil allá, y pierden mil allá. Bueno,
+ esos mil que acabas de perder no son
+ mil dólares. En 20 años a partir de
+ ahora, podrían ser cientos de miles de
+ dólares. Podrían ser millones de
+ dólares. Entonces, queremos empezar a
+ pensar en el valor futuro de lo que
+ tenemos hoy, lo cual es una de las
+ razones por las que nunca queremos
+ vender Bitcoin. No queremos pagar
+ impuestos, perderlo, ni tampoco
+ queremos perdernos de su crecimiento
+ futuro. Por eso, modelos como este son
+ importantes para nosotros, no para
+ entender la fecha y hora exactas en que
+ algo valdrá ese precio. Queremos
+ entender la dirección hacia donde se
+ dirige y debemos tener una tesis. Nunca
+ compres un activo hasta que sepas qué
+ estás comprando, qué esperas de él,
+ si subirá o bajará, por qué subiría
+, cuáles son los impulsores
+ subyacentes, cuál es su mecanismo y en
+ qué plazo. Así que no estoy diciendo
+ que llegará a un millón de dólares
+ en 2030. Podría ser en 2032. Podría
+ ser en 2033. Realmente no me importa
+ porque vamos a llegar al millón de
+ dólares. Vamos a llegar a 11 millones
+ y a 14 millones de dólares. Esto será
+ en 2040, 2045. Realmente no importa. Lo
+ que queremos asegurar es la dirección
+ y los mecanismos subyacentes para que
+ podamos seguir viendo cómo se
+ desarrolla este mercado y podamos
+ ajustarnos. Por eso queremos
+ identificar qué tiene que volverse
+ realidad y luego queremos observar la
+ evidencia. Muy bien, voy a poner la
+ calculadora gratis en las notas del
+ programa aquí abajo. Jueguen con ella
+ y luego dejen un comentario. Díganme
+ qué porcentaje creen que es realista
+ capturar. Eh, volviendo rápido a la
+ calculadora, tienen el modelo aquí
+ para que puedan entender cómo funciona
+. Tienen todos los mercados para que
+ puedan entender los diferentes mercados
+ que se están transformando. Tienen el
+ ciclo de adopción aquí. Tienen la
+ metodología de cómo llegamos allí.
+ Tienen todas las fuentes de donde
+ obtuve los datos: el FMI, el BPI, el
+ Foro Económico Mundial. Todo está
+ aquí mismo. Y muchos más recursos
+ aquí. Cómo funciona el capital de
+ riesgo, sensibilidad, todo eso. Así
+ que jueguen con ella, léanla,
+ estúdienla, edúquense y luego
+ déjenme en los comentarios aquí abajo
+ cuál creen que es el porcentaje. Me
+ encantaría escucharlo de ustedes. Muy
+ bien. Espero que la disfruten y, sí,
+ adelante. Manténganse en largo. Muy
+ bien, eso es todo por mi parte. Por su
+ éxito. Me despido.

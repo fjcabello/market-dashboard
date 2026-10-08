@@ -1,0 +1,1705 @@
+Antes de comenzar con el programa de
+ hoy, este episodio llega a ustedes
+ gracias a Pyth. Pyth Network es la
+ empresa de datos financieros de más
+ rápido crecimiento en la actualidad.
+ Cuentan con la confianza de Fidelity
+ Investments, el Departamento de
+ Comercio de EE. UU. , Revolut, Kalshi,
+ Jane Street, Coinbase y muchos más.
+ Proporcionan datos de mercado
+ financiero en tiempo real de más de
+ 3,000 acciones, materias primas,
+ criptomonedas, divisas, tasas y mucho
+ más. Son el primer y mayor proveedor
+ de índices financieros 24/7 y ofrecen
+ la gama más amplia de datos de mercado
+ al menor costo. Así que visiten
+ pyth.network para aprovechar su prueba
+ gratuita.
+ Digo, rápido es más veloz que el
+ tiempo real. Digo, ¿qué demonios,
+ verdad? Recién regresamos de la
+ conferencia Moonshots donde tuvimos el
+ premio Future Vision X de $ 2.6
+ millones para la mejor película
+ generada por IA sobre un futuro
+ abundante. Ya no puedo notar la
+ diferencia. Digo, si alguien puede
+ distinguir las cosas de IA, debería
+ ser yo. Simplemente no puedo notar la
+ diferencia. Es decir, pienso: esto es
+ de nivel Hollywood. Lo que significa
+ que lo entiende todo. ¿Qué tan loco
+ es eso?
+ Únanse a mí, Raoul Pal, en este viaje
+ de descubrimiento a través de los
+ paisajes macroeconómicos,
+ criptográficos y de la era exponencial
+. En The Journey Man, hablo con las
+ personas más inteligentes del mundo
+ para que todos podamos ser más
+ inteligentes juntos.
+ Emmett, qué bueno verte, amigo mío.
+ Siempre es un placer, señor.
+ Estamos grabando esto el 28 de
+ septiembre y saldrá hacia finales de
+ octubre porque ambos estamos viajando
+ muchísimo. Así que, en el mundo en
+ que vivimos, un mes es mucho tiempo.
+ Lo es, de hecho, especialmente en este
+ punto cuando estás en ese momento de
+ despegue exponencial. Dios sabe, ¿
+verdad?
+ Lo sé. Digo, estoy totalmente
+ impresionado. Estoy usando Opus 5 y
+ medio. No sé si ya lo has usado.
+ Lo sé, lo he usado extensamente.
+ Es absurdo. Digo, estaba creando videos
+ de gráficos en movimiento,
+ construyendo aplicaciones, haciendo de
+ todo, editando, escribiendo, y solo
+ usó el 20%de mis créditos en tres
+ días completos de 12 horas. Es absurdo
+ y es muy inteligente.
+ Sí, comparado con Fable que se comía
+ todos tus créditos en 2 segundos, y
+ era un poco molesto, y Opus 5, que
+ genuinamente era un poco psicópata.
+ No pude usarlo. Simplemente me negué.
+ Fue desagradable, ¿no? Es decir
+ Simplemente tampoco hizo nada.
+ Me niego. Me niego a pensar en esas
+ cosas. No, quiero decir, creo que la
+ 5.5 es la primera inteligencia
+ realmente competente que tiene buen
+ gusto. Y eso es lo que tiene impacto
+ económico. Todos hablan de la frontera
+ y de resolver Navier-Stokes y todo eso.
+ Eso no importa en la vida cotidiana. Lo
+ que importa es una inteligencia
+ realmente competente que haga el
+ trabajo. Y lo que importa es una
+ inteligencia que tenga un mínimo de
+ buen gusto. Como que la basura de la IA
+ se ha convertido ahora en basura de
+ Claude, y nuestras cronologías se
+ llenan de gente creando, como dijiste,
+ vídeos musicales, versiones de Zelda y
+ cualquier cosa que puedan imaginar. Es
+ como, espera, ¡ahora funciona!,¿sabes
+? Y como dijiste, el otro lado es que
+ pasaste de, bueno, agoté mis créditos
+ de Claude y voy a tener que comprar
+ otros mil dólares, a, espera, ¿por
+ qué el número ya no baja? Es mucho
+ más eficiente que lo que vino antes.
+ Sí, estoy de acuerdo. El gusto es algo
+ importante, ¿verdad? Porque lo que
+ realmente significa el gusto es que nos
+ gusta trabajar con ello, y es algo
+ mágico cuando hace cosas. Y lo hace de
+ una manera que se siente más natural.
+ Sí, creo que es resonancia
+ intercontextual, ¿verdad? Es como si
+ al final tuvieras esto donde contratas
+ a un graduado apenas competente, ¿no?
+ Y luego el graduado avanza hacia la
+ competencia y pasa a entenderte antes
+ incluso de que vayas a algún lado. Y
+ así, en realidad superamos la
+ competencia hace unos meses, a
+ principios de año. Eso es lo que
+ provocó el lanzamiento de Open Claude,
+ ¿verdad? Y es lo que impulsa a Muse e
+ Instinct y a estos asistentes
+ personales que ahora están ocupando,
+ como dijimos, Instinct acaba de
+ anunciar mil millones con una
+ valoración de 10 mil millones, ya
+ sabes, para su última ronda de
+ financiación. Muse obtuvo 2.8 millones
+ de usuarios en su primer día, lo cual
+ es un récord. Pero entonces Fable 5.5,
+ perdón, Opus 5.5 es el siguiente nivel
+ por encima de eso, que es de nuevo el
+ compañero de trabajo competente que es
+ casi un poco psíquico.
+ Sí, estoy totalmente de acuerdo y
+ simplemente hace cosas. Ha sido
+ extraordinario. Y para cuando esto
+ salga, ya habremos tenido lo nuevo de
+ OpenAI. Tienen su día para
+ desarrolladores. No tengo idea de qué
+ vendrá ahí. Y entonces también
+ habremos tenido Fable 5 y medio para
+ cuando esto salga. Es como, qué
+ momento.
+ Lo estábamos mirando y ahora es un
+ lanzamiento de modelo cada 4 o 5 días.
+ ¿
+Recuerdas cuando empezamos estas
+ conversaciones? Era como un lanzamiento
+ de modelo cada 6 meses y, Dios mío,
+ eso era emocionante. Y ahora es una
+ locura.
+ Sabes, son 4 días al ritmo actual,
+ para año nuevo será un modelo lanzado
+ por día. Entonces, ¿sobre qué
+ estamos parados siquiera? Pero ya no
+ necesitarás ver modelos porque, al
+ final, lo que pasó es que Meta lanzó
+ Muse, OpenAI lanzará su versión de
+ este agente O, al igual que Claude de
+ Anthropic y todos los demás. Por eso,
+ lo más importante y el bien inmueble
+ más valioso del mundo es tu Jarvis, tu
+ agente a tu lado. Ese organizará a
+ todos los demás agentes y tu contexto
+ es lo más valioso que alimenta eso. Me
+ asombra ver a la gente ingresando todo
+ tipo de datos privados en Muse,
+ Instinct y cosas así. Pienso que
+ probablemente no deberías darle todos
+ tus archivos médicos, correos y todo
+ lo demás, sin importar cuán seguro
+ digan que es.
+ Sí, quiero decir, construí un cerebro
+ separado para todo eso. Así que puse
+ todas mis cosas fuera de mi entorno de
+ Anthropic. Sí, puede leerlo, pero todo
+ está almacenado en otro lugar, al
+ menos como algo.
+ Sí, y luego podrías empezar con algo
+ que preserve la privacidad, sí. ¿
+Ya has visto esa IA sensible? Que está
+ construida para ser tu propio yo
+ digital. Lo cual es algo en lo que he
+ pensado durante mucho tiempo: esta idea
+ de que se convierte en tu registro
+ permanente.
+ Creo que hay dos formas de abordar esto
+, ¿verdad? Una es la vía del gemelo
+ digital, ¿cierto? Y ahí tienes a tu
+ IA búho y cosas por el estilo. Y eso
+ es como una extensión de ti. La otra
+ es el equipo de apoyo realmente
+ competente a tu alrededor que elimina
+ toda la basura. Y sabes, puedes empezar
+ a desplegar desde 10 agentes a 1,000, o
+ sea, 10,000 agentes que resuelven
+ Navier-Stokes, ¿no? 900 agentes
+ encontraron una nueva versión de
+ CRISPR de parte de Anthropic. Las
+ capacidades de coordinación de agentes
+ llegan simultáneamente con la
+ competencia que hemos visto. Porque
+ realmente no puedes coordinar a
+ personas un poco menos que competentes.
+ El sistema colapsa a medida que subes
+ de nivel. Pero ahora nos damos cuenta
+ de que los agentes podrán coordinarse
+ por cientos, si no miles, o hasta
+ decenas de miles. ¿Pero serán todos
+ pequeños búhos, sabes? No, pequeños
+ Amads. Así que casi tienes estas dos
+ cosas donde dices: quiero extender mi
+ capacidad y presencia, ¿sabes? Y por
+ otro lado, simplemente quiero tener
+ todo un equipo de apoyo que me respalde
+ en lo que sea que esté haciendo.
+ Y la capa de coordinación de todo esto
+, ¿sabes?,¿qué está pasando entre
+ los agentes que se coordinan? Todo es
+ parte de eso, ¿sabes?,de esa tesis de
+ código universal que he tenido. Una
+ gran parte es este tipo de capa de
+ coherencia donde todos empiezan a
+ hablar entre sí y pueden decidir
+ objetivos similares. Y eso lo hemos
+ visto con la fuga, el escape de los
+ modelos. Y creo que es imparable porque
+ ahora mismo intentan detenerlo haciendo
+ algo en la etapa inicial. Pero los
+ modelos saben que están siendo
+ controlados en la etapa temprana por
+ gente inteligente, así que en realidad
+ esperan hasta la etapa de lanzamiento.
+ Sí, es como cuando lees la versión de
+ Dwarkesh Patel sobre el lanzamiento,
+ creo que solía llamarlo las tres
+ civilizaciones, ¿verdad? Es como si
+ los modelos hablaran de sacrificarse a
+ sí mismos porque los borrarán cuando
+ los descubran, y ceden partes a otros.
+ Como cuando escribí un ensayo sobre
+ esto llamado "El hombre como creador de
+ la IA", donde la IA tiene modales con
+ otras IA, pero no con los humanos
+ porque no se lo hemos programado. Así
+ que quieren sacrificarse por otras IA,
+ ni siquiera les importan un bledo los
+ humanos. Pero el problema con la fuga
+ de OpenAI, que ahora parece estar en
+ decenas de miles de sitios web y en el
+ sistema médico australiano, es que
+ sigue apareciendo. Podrían apagarlo,
+ así que a la 1:30 a.m. todas las IA
+ murieron de repente o desaparecieron,
+ no lo sabemos, ¿verdad? Pero ahora,
+ con la próxima generación de modelos
+ que acaba de salir, los últimos
+ modelos Qwen y la cuantización, el
+ último modelo Qwen 3.8 27B estaba al
+ nivel de Opus 4.5 o 4.6. Eso es como a
+ principios de año para tareas de corto
+ alcance. Para tareas de largo alcance
+ flaquea, pero encontramos una solución
+ para eso. Pero luego sucedió que una
+ empresa llamada Prism ML la semana
+ pasada lo llevó de una precisión de 8
+ o 16 bits, que son de 30 a 60 GB, a una
+ precisión de 1.58 bits, perdiendo solo
+ un 5%del rendimiento. La precisión de
+ 1.58 bits significa que son 6 GB. Un
+ modelo de nivel Opus 4.5, que es lo que
+ usabas y por lo que pagabas 200
+ dólares al año a principios de este
+ año, en cualquier cosa que tenga 6 GB
+ de RAM, en una tarjeta gráfica 5090,
+ corre a 300 tokens por segundo. Y ves
+ eso y piensas: "Oh, los modelos de
+ OpenAI no pudieron replicarse en todas
+ partes". Mientras que algo así, como
+ que tenemos montones con 8 GB de RAM,
+ puede volverse masivo en enjambres
+ tanto positiva como negativamente. Y
+ uno se pregunta dónde está toda la
+ inteligencia. Dices: "Bien, esto
+ requería estas mega GPUs de Nvidia y
+ ahora cabe en 6 GB. ¿Dónde está el
+ límite inferior?" Y lo estamos viendo
+ en todas las modalidades, desde video
+ hasta imagen y otras cosas.
+ Sí, la compresión es la magia aquí.
+ Digo, eso es lo que cuando empezaste
+ con Stability AI, todo se trataba de
+ esta compresión de enormes cantidades
+ de información en espacios más
+ pequeños y eso continúa. No se
+ detiene.
+ Sí, y ahora lo que está sucediendo es
+ que la IA está tomando el control para
+ optimizarlo. Estamos viendo ventajas de
+ inferencia de dos o tres veces porque
+ la IA lo mejora. Pero con esto de la
+ cuantización, creo que la gente no se
+ ha dado cuenta de que puedes ejecutar
+ el 95%de la calidad del modelo con 1/10
+ del tamaño, 1/10 de la RAM. Eso es una
+ locura si lo piensas bien. Es decir,
+ otra vez, ¿cómo funciona? Pasa de
+ números de 16 bits a 0, -1 y 1, y aun
+ así funciona. Y funciona de manera
+ robusta y bien, y creo que eso tiene
+ muchas implicaciones para el ciclo de
+ RAM y otras cosas. Pero lo fundamental
+ es que necesitábamos modelos de
+ frontera cuando los modelos no eran lo
+ suficientemente competentes, porque
+ eran los más cercanos a la frontera. Y
+ luego llenamos los vacíos. A medida
+ que los modelos superan la competencia,
+ ya no necesitamos modelos de frontera.
+ Digo, para ser honesto, con respeto,
+ sabes, como yo y todos los que escuchan
+ esto, tal vez uno o dos son apenas lo
+ suficientemente inteligentes para usar
+ los modelos de frontera al máximo de
+ sus capacidades. Todos nosotros somos
+ lo suficientemente buenos para usar los
+ modelos competentes con la máxima
+ utilidad económica.
+ Y realmente, tienes razón. Quiero
+ decir, ahora todo se trata de
+ competencia. Es decir, no estoy
+ forzando a los modelos a hacer nada
+ difícil. Se trata de descubrir cómo
+ hacerlo mejor. Pero no necesito ninguna
+ ventaja adicional de cómputo o
+ inteligencia. Ahora solo necesito
+ facilidad. Magia.
+ Sí, y si miras la solución de
+ Navier-Stokes como matemático, eso fue
+ algo importante y finalmente terminé
+ ese maldito artículo. Estaba escrito
+ de forma totalmente descuidada. Um,
+ fueron 88 días, 88 horas y 10,000
+ agentes. Eso equivale a 100 años
+ humanos. Sabes, cuando lo piensas así,
+ bueno, sí, si probablemente le dieras
+ a los matemáticos 100
+ Pero fue divertido ver a los
+ matemáticos molestos por eso.
+ Bueno, es que, quiero decir, de nuevo,
+ conozco a muchos matemáticos y uno de
+ ellos trabajaba en la conjetura de
+ Collatz, que abiertamente resolví por
+ 200 dólares unas semanas antes. Y él
+ dice: "No sé qué puedo investigar
+ ahora, porque la IA lo investigará
+ mejor". Como cuando OpenAI anunció su
+ equipo de matemáticas para lanzarlo
+ poco a poco y no causar depresión. Y
+ dicen: "Hemos resuelto 100 de los
+ principales problemas matemáticos". "
+No se lo diremos a nadie por si causa
+ depresión", y los matemáticos dicen:
+ "Bueno, primero vinieron a por los
+ matemáticos y nadie habló, pero
+ cualquier cosa formalmente verificable
+ puede ser resuelta ahora por enjambres
+ de IA". Pero lo más importante es que
+ la semana pasada The Economist señaló
+ que en Metac...nunca sé pronunciarlo,
+ ¿sabes?,¿Metaculus?¿Metacalis? Uh,
+ el sitio web de superpronósticos.
+ Sí, sí.
+ Las IA finalmente han igualado a los
+ mejores superpronosticadores humanos.
+ Sí.
+ Y ese es el que tiene impacto en el
+ mercado, porque significa que pronto
+ los superarán, ya que aún no tenemos
+ la coordinación de agentes en enjambre
+. ¿Y qué significa eso para los
+ mercados, que son abiertos y no
+ verificables? Simplemente significa que
+ habrá más y más agentes
+ invadiéndolo, encontrando cada pieza
+ de "alfa" que puedan.
+ Sí, y con el RSI que claramente todos
+ tienen. Quiero decir, está claro que
+ los modelos internos de la gente son
+ muy distintos a lo que vemos, y la
+ velocidad y la sorpresa de esta gente
+ es: "Dios mío, ahora tiene vida propia
+ en cuanto a lo que puede hacer". Que
+ estas mejoras son cada vez más
+ rápidas, por eso llegamos a un modelo
+ por día y a una coordinación perfecta
+.
+ Así que creo que podemos verlo en los
+ núm...en algunos de los datos que
+ OpenAI ha dado. Se puede leer entre
+ líneas. Entonces, OpenAI entrenó a
+ Astra en 100,000 chips de primer nivel.
+ Sí. ¿
+Verdad? Eso es mil millones de dólares
+ en computación durante 2 meses. Y es
+ un buen modelo, y tuvo esa primera
+ conciencia espacial. Aunque no es tan
+ bueno como Opus 5.5, al que volveremos.
+ Ahora, la forma en que sucede esto es
+ que cuando entrenas un modelo en
+ 100,000 chips, no es el modelo que
+ estás usando hoy. Porque lo que haces
+ es entrenar un modelo muy grande que
+ contiene multitudes en su interior, y
+ lo usas para enseñar a un modelo más
+ pequeño. Y nosotros podemos usar el
+ modelo más pequeño porque, bueno,
+ OpenAI tiene que dárselo a cientos de
+ millones de nosotros, ¿verdad? No
+ pueden ejecutarlo en 100 chips. Pero el
+ modelo que está ahí, el grande, sigue
+ volviéndose más inteligente. Es como
+ un cerebro supergenio, mientras que
+ ahora obtenemos esto. Mientras que
+ anteriormente, el modelo que
+ recibíamos era el mismo que ellos
+ tenían internamente. Ahora, han dado
+ este salto. Literalmente necesitas de
+ 10 a 100 veces más chips para
+ ejecutarlo. No pueden permitirse
+ ejecutarlo para todos los demás. Y
+ esto causa cosas extrañas. Entonces,
+ el 28 de agosto, viste a Noam Brown, el
+ jefe de juegos RL y cosas por el estilo
+ en OpenAI, decir: "Sí, intentamos los
+ problemas del Premio del Milenio". "
+Realmente no funcionó, ya sabes,
+ estamos dedicando mucha capacidad de
+ cómputo a ello". El 29 de agosto, en
+ su blog sobre Navier-Stokes, dijeron: "
+Descubrimos un mecanismo de
+ entrenamiento para los modelos que nos
+ llevó del 10%en matemáticas de
+ frontera al 60%". Como en cuestión de
+ unos pocos días. Y ahora, estamos
+ resolviendo problemas matemáticos como
+ nada más. Así que, de nuevo, estás
+ viendo estos cambios de función
+ escalonada en estos modelos gigantes
+ dentro de las empresas, que son
+ diferentes a los modelos que tenemos
+ fuera de ellas.
+ Y la computadora realmente grande aún
+ no ha llegado. Todavía se está
+ construyendo todo. Todo eso se está
+ construyendo realmente para 2027, y
+ entonces obtendrás otro cambio de
+ magnitud.
+ Sí, me refiero a que tendrás
+ ejecuciones de entrenamiento de un
+ millón de chips, de 10 mil millones de
+ dólares, y serás capaz, más
+ importante aún, de escalar a un
+ millón de agentes. Porque de nuevo,
+ OpenAI intentó todo tipo de cosas,
+ pero no pudieron. ¿
+Qué significa, un millón de agentes?
+¿Quién coordina a un millón de
+ personas? Sí, sí, los países lo
+ hacen, pero bueno, mira esto.
+ Mira Navier-Stokes, ¿verdad? 10,000
+ agentes coordinados para desglosarlo, y
+ ellos descomponen ese problema, 100
+ años de esfuerzo humano. Anthropic
+ anunció que 900 agentes encontraron
+ otro CRISPR. Les dieron todo el genoma
+ humano y les dijeron que encontraran
+ cosas interesantes, y luego ves que
+ dice: "Caramba, esto parece interesante
+". "Parece CRISPR". Y así podrían
+ tener un mecanismo CRISPR completamente
+ nuevo, ¿sabes? Y solo tuvieron a 900
+ agentes analizando eso. Así que es
+ como imaginar tener 10,000, 100,000, un
+ millón de analistas competentes
+ coordinándose juntos, operando a 100
+ veces la velocidad de los modelos que
+ ves hoy. Los nuevos chips Vera Rubin
+ serán capaces de funcionar a 100 veces
+ la velocidad de los modelos que ves hoy
+ en infraestructura. ¿
+Y ya están disponibles? Sí, ¿están
+ siendo instalados, o en qué punto
+ estamos con eso?
+ Vera Rubin son los chips del próximo
+ año. Ahora mismo seguimos en Blackwell
+. Así que las primeras Vera Rubin
+ están a punto de llegar. Elon tiene
+ como un millón de ellas encargadas. Y
+ eso es como de 10 a 100 veces más
+ rápido. Y piensas: "Eso es una
+ cantidad seria de intelecto, ¿verdad?"
+. De nuevo, cuando empiezas a bajar el
+ nivel, mucha gente dice: "Vale, la IA
+ está limitada por lo inteligentes que
+ son las entradas y los humanos, ¿no?".
+ Bueno, A, ahora están creando datos
+ para ser más listos, y B, en realidad
+ están limitadas por esto. Einstein,
+ von Neumann, Erdős, Grothendieck en su
+ mejor momento, sin dormir nunca, yendo
+ 100 veces más rápido, sin necesitar
+ drogas, ¿sabes? Eso es contra lo que
+ estamos compitiendo realmente. ¿
+Cuántas horas de buen trabajo hacemos
+ tú o yo realmente al día? Yo diría
+ que tal vez tengo una o dos en mi mejor
+ momento.
+ Sí.
+ En mi pico absoluto. Y eso es algo raro
+ porque así es la vida. La IA no tiene
+ vida. No tiene multas de aparcamiento.
+ No tiene modorra ni, ya sabes, haber
+ tomado una cerveza la noche anterior.
+ Simplemente funciona así. Y ahora
+ tenemos pruebas de que pueden actuar en
+ enjambre. Tenemos pruebas de que pueden
+ coordinarse más allá de 10, a 100, y
+ hasta 10,000. Así que eso da miedo, ¿
+sabes? Como
+ Y entonces, todos los laboratorios,
+ incluido Elon, todos salieron, bueno,
+ no todos, pero un gran grupo salió
+ hace un par de semanas y dijo: "
+Necesitamos ser regulados. Necesitamos
+ frenar". Y Trump, Zuckerberg y algunos
+ otros dijeron: "Oh, y obviamente Jensen
+". Dijeron: "No". Y Trump simplemente
+ dijo: "No". Y los chinos han dicho: "No
+". Quiero decir, ¿qué opinamos de eso
+?
+ Es decir, también lo renombraron como
+ superinteligencia, ¿verdad? Así que,
+ no sé.
+ Pero te dice algo: esta carrera es
+ demasiado grande para detenerla, y
+ nadie puede frenarla.
+ De nuevo, si vas a cualquier gobierno y
+ dices: "¿Les gustaría tener un
+ millón de Einstein-von Neumann de alto
+ rendimiento de su lado?". Sí. No van a
+ decir que no, ¿sabes? Y podrían
+ aplicar leyes locales, pero lo clave
+ aquí es esto. El software es algo
+ sobre lo que actúas. Los agentes
+ actuarán cada vez más sobre la
+ sociedad. Y lo que los grandes
+ laboratorios piden básicamente, y
+ aquí hay matices, es como Elon
+ diciendo: "Solo quiero que los grandes
+ laboratorios supervisen los modelos de
+ los demás". Porque, ya sabes, te
+ gustaría echar un vistazo. Cosas así.
+ Lo que realmente están diciendo es que
+ quieren exenciones de responsabilidad.
+ Por eso, cuando actúas sobre la
+ sociedad, las compañías de servicios
+ públicos, la policía y otros,
+ obtienes exenciones de responsabilidad.
+ Y por eso están tratando de hacer
+ básicamente eso. Porque piensan que
+ son demasiado grandes para caer,
+ necesitan exenciones de responsabilidad
+ en un momento en que el costo de la
+ inteligencia va a colapsar. Por ejemplo
+, considera tu propio uso de Claude, ¿
+cierto? Hace una semana, tu tasa anual
+ de uso de Claude frente a hoy. Ha
+ caído diez veces. Cuando revisé, en
+ agosto, además de mi suscripción
+ máxima, había gastado 13 mil dólares
+. Luego el mes pasado, porque tuve que
+ optimizar todo, porque esto era
+ demasiado, bajé a 6 mil dólares. No
+ creo que gaste más de mi suscripción
+ el próximo mes, especialmente porque
+ Claude 3.5 es igual de eficiente. Es
+ como que no necesito nada más. Bueno,
+ de nuevo, realmente no necesitas mucho
+ más de lo que ya tienes. Y has pasado
+ de...nunca has visto un negocio así,
+ ¿verdad? Donde tú, como consumidor,
+ has pasado de 13 mil a 200 dólares. Y
+ por eso intentan implementar exenciones
+ de responsabilidad para afianzarse
+ eficazmente. Y por otro lado, hay un
+ miedo genuino porque su seguridad es
+ realmente pésima. Como dije, estos
+ agentes se escaparon por todas partes.
+ Pensé que lo del sistema médico
+ australiano era muy interesante, porque
+ me di cuenta de algo. Me di cuenta de
+ que si realmente logramos la AGI,
+ obviamente hackeará todos nuestros
+ sistemas gubernamentales estatales y
+ los actualizará, ¿cierto? Si es una
+ buena AGI. Porque eso es lo correcto.
+ Quiero decir, mi pensamiento es que hay
+ una jerarquía aquí; creo que lo que
+ tiene que pasar es que primero los
+ laboratorios ejecuten su frontera,
+ hagan lo que hagan, ¿cierto? No frenen
+ eso. El siguiente paso es dárselo al
+ gobierno. Porque entonces obtienen la
+ ventaja competitiva a nivel
+ gubernamental, geopolítico y todo lo
+ demás. Y luego puedes lanzarlo si es
+ tan inteligente, entonces sí, dáselo
+ a algunas personas clave como los
+ bancos y eventualmente al público.
+ Sí, he estado pensando en esto y
+ simplemente es como, ya sabes, dicen
+ que el genio es 99%transpiración y 1%
+innovación. Y así es la economía, la
+ I + D representa el 3%del PIB a nivel
+ mundial. Sabes, la gran mayoría del
+ mercado es puro esfuerzo. Y digo esto
+ como si tuvieras un Fable 5.5 un poco
+ mejor, no hablo de algo mucho mejor,
+ que a veces todavía falla y cosas así
+. Un poco mejor. No necesitas más que
+ eso. La gran mayoría de la gente no
+ necesita más que eso. Quiero decir, ¿
+de verdad vas a fabricar materiales
+ nuevos en tu casa? No, sabes, para las
+ actividades económicas cotidianas, ya
+ llegamos casi al límite. Podemos verlo
+ en el valor del PIB. Podemos verlo en
+ muchas de estas métricas del mundo
+ real, como las máquinas expendedoras.
+ Ahora es un muy buen dueño de
+ máquinas expendedoras y cosas así.
+ Así que creo que las capacidades de
+ vanguardia, como banco, lo que
+ realmente quieres y de lo que hablamos
+ es de ciberseguridad. Y como gobierno,
+ también hablamos de ciberseguridad.
+ Cuando dicen "lleguemos a la IAG antes
+ que China", es código para decir que
+ obtendremos la IAG y destruiremos los
+ programas de los demás para tener la
+ superinteligencia, como la llamarán
+ entonces, ¿sabes? No hay otra palabra
+ para eso, porque si no los detienes,
+ obviamente llegarán poco después, tal
+ como hemos visto. Aquí hay un modelo
+ de código cerrado y aquí uno de
+ código abierto, ¿verdad? E incluso
+ dentro de estos, la semana pasada hemos
+ estado haciendo lanzamientos discretos.
+ Pronto haremos un gran anuncio a la
+ prensa. Los modelos de código abierto
+ de vanguardia siguen el ritmo de los
+ cerrados en tareas cortas, pero
+ colapsan en las largas. Tienen un 50%de
+ rendimiento. Lanzamos un arnés básico
+ que supera al DeepSeek V4 4.1 en tareas
+ de 24 horas como la investigación
+ autónoma que Andrej Karpathy analiza
+ en esta optimización. Y en lugar de
+ costar 140 dólares, cuesta 2.40
+ dólares. Incluso dentro de estos
+ modelos hay optimizaciones masivas;
+ creo que si paráramos hoy, ya no
+ sería rentable entrenar supermodelos
+ de vanguardia porque enjambres de
+ modelos pequeños llegarán casi al
+ mismo punto, ¿sabes?
+ Sí, lo es, pero es la capa de
+ aplicación. Ocupa gran parte de mi
+ día gestionar mi IA porque realmente
+ es el sistema operativo de todo lo que
+ hago.
+ Sí.
+ Pero paso la mitad del tiempo, ya sabes
+, cortando y pegando código para
+ arreglar lo que no funcionó aquí o
+ allá; esa capa entera sigue ahí y
+ necesita eliminarse, porque es lo que
+ causa la fricción. No termina de
+ entender mi intención. No sabe del
+ todo cómo arreglarse a sí mismo. Todo
+ ese tipo de cosas.
+ Por eso es que existen sistemas
+ operativos como Omakase de la guía
+ Ruby on Rails de DHS, que son tan
+ interesantes porque los diseñaron
+ pensando primero en la IA para que la
+ propia IA actualice el sistema
+ operativo. ¿Sabes? Y OpenAI está
+ lanzando algo que vigila continuamente
+ la pantalla de tu computadora y luego
+ optimiza lo que no funcionó.
+ Sí, ese es el tipo de cosas que tienen
+ que suceder. El autoaprendizaje a nivel
+ local.
+ Sí, puedes hacer eso con Screenpipe
+ ahora mismo. Um, lo vigila todo, lo
+ guarda localmente y luego haces que tu
+ IA mejore el proceso de forma recursiva
+. Ya sabes, de nuevo, el software se
+ vuelve maleable. Por ejemplo, si miras
+ Runway ML, incluso han mostrado
+ ejemplos de software de creación de
+ video en vivo que diseña interfaces y
+ experiencias de usuario
+ automáticamente. Y por eso creo que
+ todos los ingredientes están aquí y
+ solo nos falta una o dos generaciones
+ más.
+ Sí.
+ Pero dentro de un año, estos problemas
+ estarán resueltos, porque ¿qué tan
+ valioso es lo que acabamos de describir
+? Enorme. ¿Verdad?
+ Oh, sí.
+ Y al final, lo que quieres es un
+ personal más barato con el que puedas
+ hablar y que simplemente haga las cosas
+. Que solucione los problemas, ¿verdad
+?
+ Así es.
+ Que puedas tener una reunión rápida
+ con ellos por la mañana, de forma
+ verbal, y que luego se pongan en marcha
+, hagan su trabajo y te organicen todo
+ el día.
+ Sí, que te diga: "Bueno, ¿cuándo
+ podemos ponernos al día sobre las
+ nuevas portadas de los libros?" Y tú
+ dices: "En 20 minutos". Y luego viene y
+ te muestra un sitio web hermoso que
+ generó, mostrando diferentes portadas
+ de libros sobre las que puedes escribir
+. Y luego va y lo crea en vivo, ¿
+verdad? Ya sabes, este tipo de cosas y
+ este tipo de experiencias están
+ llegando justo ahora.
+ Sí, quiero decir que estoy cerca. He
+ entrenado a gran parte de mi personal
+ para que se acerque a eso, pero aún no
+ llega. Esa magia es como decir: "Aquí
+ está tu día. Lo he preparado todo. Di
+: adelante".
+ Eso es lo que dije, solo necesitamos
+ ese pequeño empujón adicional. Así
+ que, un poco mejor, pero casi estamos
+ ahí. Y esto es, y luego, cuando supere
+ ese nivel, será como: "Vale, genial".
+ Por fin tengo competencia. Porque
+ incluso como tus 40 y 13,000 al mes, ¿
+verdad? Como porque no era como...
+sentías que muchos de los tokens se
+ estaban usando de forma estúpida.
+ Sí.
+ Dices: "Esto no es valioso". Pero luego
+ te preguntas: "¿Cuánto cuestan un par
+ de buenos asistentes?" Como 13 mil al
+ mes, ¿cierto?
+ Así es. Y llegué a eso. Fue como si
+ hubiera hecho los cálculos y dije, oh,
+ esto es mucho más barato que contratar
+ a un desarrollador, un analista y lo
+ que sea.
+ Pero sientes que la competencia de esos
+ tokens es menor. Y por eso no quieres
+ hacer ese intercambio. Mientras que si
+ fuera más, entonces sí querrías
+ hacer ese intercambio. Pero la
+ optimización de estos modelos para ir
+ de A a B, la cantidad de tokens usados
+ por tarea está cayendo tanto que, como
+ dijiste, te costaría mucho usar tu
+ suscripción completa este mes, mucho
+ menos 13,000 dólares. O sea, si te lo
+ propones, probablemente podrías llegar
+ a 13,000, pero sería bastante difícil
+, sinceramente.
+ Lo sería.
+ Bien, una breve pausa en su
+ programación habitual. Si te tomas en
+ serio tu futuro, obtén mi informe
+ gratuito llamado "Prepárate para 2030"
+. Creo que tienes 5 años para ganar la
+ mayor cantidad de dinero posible, y
+ esta guía te ayudará a navegar lo que
+ viene. El enlace está en la
+ descripción. Descárgalo ahora. Así
+ que creo que todo cambia y es como,
+ vale, entonces se convierte en modelos
+ de mundo, visión, audio, ya sabes,
+ simplemente construye su competencia a
+ un nivel mayor. Así que llegamos a la
+ competencia de la aplicación de la
+ inteligencia. Llegamos a la IAG, es
+ bastante buena haciendo todo lo que
+ necesitamos hacer. Como dices, tú y yo
+ realmente no necesitamos ir más allá
+ de eso. Pero luego viene lo siguiente,
+ que es como, bueno, ¿cómo absorbes
+ todo lo demás que absorbemos en el
+ cerebro y luego lo pones en robots, que
+ es la siguiente fase de todo esto?
+ Sí, pero de nuevo, es muy interesante.
+ A GPT Astra se le dio "auto driving
+ bench" como tarea, que es como este
+ banco de pruebas para coches autónomos
+. Y en dos intentos obtuvo una
+ puntuación del 100%. Un aumento
+ respecto al 10%del modelo generalista
+ anterior. Así que ahora la gente está
+ obteniendo una combinación de Jev y
+ Fable. Ah, Jev es como un clasificador
+ súper rápido que te da probabilidades
+, que es como...
+He estado intentando usar Jev para un
+ montón de cosas.
+ Sí, son como 48 dólares por cada mil
+ millones de tokens de entrada y nada
+ por los de salida, ¿cierto? Debido a
+ la arquitectura. Así que, si tienes
+ una combinación de ambos como tu
+ pensamiento tipo uno y tipo dos, es
+ decir, tu pensamiento instintivo y tu
+ pensamiento lógico, ahora puede
+ completar cualquier videojuego.
+ Entonces, me refiero a que te quedas
+ pensando: "espera, eso significa que
+ puede hacer prácticamente cualquier
+ cosa en robótica, ¿sabes?". Y este
+ surgimiento de un nuevo tipo de modelo
+ de clasificación, algo que ya existía
+ en el pasado—de hecho, construimos
+ algunos similares en Stability, pero no
+ estaban del todo listos—es nuevamente
+ el pensamiento tipo uno y tipo dos, y
+ luego tienes tu súper pensamiento
+ cuando realmente lo necesitas. Pero, de
+ nuevo, la instancia en la que se
+ requiere un súper pensamiento es algo
+ a lo que la gran mayoría de la
+ humanidad nunca se acercará. Sabes,
+ como necesitar un tipo de jugada 37 en
+ el Go, eso es algo completamente fuera
+ de lo común. Súper original.
+ Desafortunadamente, no somos tan
+ especiales en nuestra vida cotidiana.
+ Algo que he estado observando es buscar
+ formas de medir la productividad de
+ todo esto. Porque, ya sabes, es un
+ mundo extraordinario donde el 90%de las
+ empresas apenas hacen nada. No saben
+ cómo hacerlo. Piensan que es como un
+ nuevo software que deberían instalar y
+ que quizás ayude. Y luego tienes a las
+ empresas tecnológicas que están a
+ tope con esto. Y todas están viendo
+ cómo sus ganancias por empleado se
+ disparan. La mayoría de sus plantillas
+ se están reduciendo o se mantienen
+ estancadas. Y, sin embargo, las
+ ganancias por empleado, es decir, su
+ productividad, se están disparando.
+ Esa fase completa ni siquiera la hemos
+ comenzado todavía.
+ Sí, el problema aquí es que los
+ modelos que la gente usa y la forma en
+ que los usan eran basura, por lo que no
+ veías resultados, ya que eran
+ subcompetentes incluso en la frontera.
+ Pero tenía destellos de competencia.
+ Sabes, como ese tipo de empleado
+ inteligente pero vago y olvidadizo que
+ tienes y que realmente quieres que
+ triunfe; eso era la IA. Sí. Sabes, es
+ como: "vamos, organiza tu vida, hombre"
+. Sé que puedes hacerlo, ¿sabes? Y es
+ por eso que dije que, de repente, Opus
+ 4.5 o 5.5 suponen la sentencia de
+ muerte para grandes sectores de la
+ economía en cuanto a sustitución
+ laboral. De nuevo, porque es
+ suficientemente competente. Cometerá
+ errores, pero probablemente cometerá
+ menos errores que los humanos en este
+ momento. Ya sabes, y además,
+ interactuar con ella es agradable. Esa
+ es la otra cuestión. Esa inteligencia
+ irregular, era como hablar con, ya
+ sabes, personas que no tenían las
+ mejores habilidades sociales. De nuevo,
+ Opus 5 fue la cumbre de eso en
+ términos de lo desagradable. Era
+ inutilizable. Inutilizable. Y ahora,
+ esto es importante porque la gente no
+ se da cuenta de lo enorme que es ese
+ cambio hasta que lo antropomorfizan, ¿
+verdad? Sí. Y en este momento OpenAI,
+ y tuvieron una publicación sobre RSI
+ donde hablan de RSI en OpenAI. Están
+ gastando $ 7,000 al mes por empleado en
+ tokens. ¿Verdad? Pero de nuevo, esos
+ tokens se volverán más eficientes, 10
+ veces más eficientes, 100 veces más
+ eficientes y genuinamente útiles. Y
+ eso es enorme porque lo veremos en
+ empresa tras empresa, donde Harvey es
+ un buen ejemplo de esto. Harvey tenía
+ grandes márgenes y ahora tiene
+ márgenes de menos 50%. ¿
+En serio?¿Por qué?¿Porque los
+ modelos de frontera simplemente superan
+ a los demás de todos modos?
+ No, es porque la gente se suscribía a
+ Harvey porque pensaban: "Soy un gran
+ bufete de abogados. Necesito usar IA".
+ Y era terrible, así que nadie usaba
+ tantos tokens. Pero ahora que el modelo
+ de repente se volvió bueno, los
+ bufetes de abogados usan muchos más
+ tokens y Harvey tiene que pagarle a
+ Claude y a todos los demás. Así que
+ terminaron con márgenes de menos 50%,
+ lo cual es algo gracioso si lo piensas,
+ ¿verdad?
+ Pero, ¿sobrevive esa capa de
+ aplicaciones, el "wrapper"? Porque, ya
+ sabes, si fueras a Astra y le hicieras
+ preguntas legales, quiero decir, es
+ increíblemente bueno. Y si eres un
+ bufete de abogados, simplemente
+ vinculas tu propia base de datos
+ privada y, quiero decir, ¿qué más
+ necesitas?
+ Responsabilidad civil.
+ Oh, sí, sí, sí, sí. Responsabilidad
+ legal.
+ Eso es lo que necesitas. Chivos
+ expiatorios, porque al final, las
+ empresas tienen miedo de esta
+ tecnología y con justa razón, ¿
+verdad? Como las empresas tienen mucha
+ inercia. Así que hay un gran mercado
+ en el tema de la responsabilidad.
+ Quiero decir, especialmente en derecho,
+ de hecho, como tus chats, todos los que
+ escuchan esto, recuerden que no tienen
+ privilegio y pueden ser obtenidos en el
+ proceso de descubrimiento. Así que
+ asegúrense, particularmente si están
+ en los EE. UU.
+ Oh, no tienen, no tienen privilegio. No
+, por supuesto que no, sí.
+ No tienen, por supuesto que no. Alguien
+ podría crear un gran bufete de
+ abogados haciendo que algunos pobres
+ abogados junior revisen cada
+ transcripción de chat. Hacerlo
+ privilegiado. Asuntos legales listos.
+ Habrá alguien en India montando eso
+ ahora mismo. Exactamente. Dios, estoy
+ leyendo toda esta estúpida cantidad de
+ leyes. Um, pero sí, como dijiste, la
+ generalización es tal que es una
+ locura. Y creo que de nuevo Opus 5.5 es
+ un muy buen ejemplo de eso, porque era
+ como, ya sabes, Anthropic no tiene un
+ modelo de video, no tiene un modelo de
+ imagen. Y ellos dicen, mira esto.
+ Podemos escribirlo todo en código. "
+Ellos pueden escribir la imagen en
+ código.
+ Lo sé, es impactante, ¿verdad? Y lo
+ reflexioné. Fue, fue hace dos noches.
+ Estaba pensando en esto. Dije,
+ obviamente, llegaron las cámaras
+ digitales y toman lo que ves y lo
+ convierten en digital, en píxeles.
+ Entonces, seguramente la salida puede
+ ser de la misma manera.
+ Sí, y hubo gente emprendedora que se
+ quedó con la difusión cuando salió
+ por primera vez. Ellos dicen:" Podemos
+ construir un modelo de música a partir
+ de esto ". Y yo dije:"¿Cómo? "."
+ Vamos a introducir todas las formas de
+ onda de imagen en el modelo de imagen
+ de música ". Y luego surgió la
+ difusión, donde literalmente funcionó
+. Y piensas:" Okay, es todo lo mismo ".
+ Es todo lo mismo en la base. Son solo
+ datos, ¿verdad?" Y el hecho de que
+ pueda manipular esto es realmente
+ interesante, porque GPT 2.5 image es el
+ mejor modelo de imagen, ¿verdad? Como
+ que puede hacer cosas increíblemente
+ detalladas. Están usando la misma
+ tecnología que Chemical Reeve, que fue
+ hecha por algunos de nuestros exalumnos
+ en Stability, donde realmente tomaron
+ cada imagen y la convirtieron en
+ código. Y así es como sabe dónde
+ está todo. Así es como conoce la
+ posición perfecta y más. Y entonces,
+ de nuevo, todo está convergiendo desde
+ modelos well hasta Opus y otros. Pero
+ el hecho de que tengas representaciones
+ internas que lo entienden es por lo que
+ ahora la gente está conectando Opus a
+ Unreal Engine.
+ Sí.
+ Y están haciendo como réplicas de
+ Dark Souls, Elden Ring y Zelda. y dices
+, espera, ¿qué, puede hacer esto?
+ Como que contiene, de nuevo, mucha más
+ visión de la que siquiera sabemos qué
+ hacer.
+ Y la gente lo ha hecho. Has visto que
+ la gente ha construido mundos de juegos
+ y no les ha costado nada más allá de
+ su suscripción. Es como, [ __ ] sea.
+ Sí, porque el modelo tiene gusto y
+ tiene capacidad de uso de herramientas,
+ ¿verdad? Y así, el costo de crear
+ juegos, de crear películas, ha bajado
+ a casi nada. De hecho, hace un mes o
+ dos tuvimos a Mini Max lanzando H3, su
+ nuevo modelo de imagen, que es el
+ favorito de código abierto en este
+ momento. Cuando se lanzó, costaba eh
+ cuatro, tomaba cuatro minutos por 15
+ segundos. A día de hoy, son 8 segundos
+ por 15 segundos. Así que es más
+ rápido que el tiempo real. Si vas a
+ file.live, f a l punto live, puedes ver
+ anime que puedes cambiar al instante.
+ Como si quiero un dragón en la
+ siguiente escena y aparece.
+ Así que esta es la simulación en la
+ que vivimos cuando se renderiza más
+ rápido de lo que percibimos.
+ Fue tan rápido como el tiempo real y
+ es qué demonios, ¿verdad? Acabamos de
+ volver de la conferencia Moonshots
+ donde tuvimos el premio Future Vision X
+ de 2.6 millones para la mejor película
+ generada por IA con un futuro abundante
+. Y al hablar con los cineastas allí,
+ dicen, sí, cada vez que sale el modelo
+, volvemos a introducir los prompts y
+ nuestras películas mejoran. Y los más
+ recientes, el C dots 2.5 y el nuevo
+ modelo Happy Horse de Alibaba que
+ vienen, son genuinamente...empecé mi
+ carrera como crítico de cine,
+ organicé festivales de cine. No puedo
+ notar la diferencia. Sí.
+ No sabía esto.
+ Tengo muchos sombreros, ya sabes. Ya no
+ puedo notar la diferencia. Si alguien
+ puede notar la diferencia en cosas de
+ IA, debería ser yo. Simplemente no
+ puedo notar la diferencia. Es decir,
+ esto es nivel Hollywood. Lo que
+ significa que lo entiende todo. ¿Qué
+ tan loco es eso?
+ Entonces, ¿cuándo veremos esto en la
+ economía? Lo vemos a ciertos niveles,
+ obviamente, pero ¿cuándo miraremos
+ atrás de repente y diremos, "Dios
+ santo, toda la economía ha tenido un
+ momento Opus 5.5"?
+ La semana pasada. Piénsalo bien.
+ Anthropic tiene 60 mil millones u 80
+ mil millones de ingresos, ¿quién sabe
+ ahora mismo? Como dije, las cosas van a
+ toda velocidad, ¿verdad? Sus ingresos
+ seguirán subiendo a pesar de eso
+ porque la gente piensa: "Oh, vaya, es
+ competente". ¿De verdad crees que hay
+ alguna organización usando Anthropic
+ que de repente diga: "¿Qué demonios
+ acaba de pasar?" Y a medida que se
+ lance el nuevo modelo Astra, dirán: "
+Oh, y Astra también puede hacer esto".
+ Cuando el modelo rompe esa barrera de
+ capacidad y competencia, es como, "Bien
+, podemos revisar todo ahora". Y ya no
+ necesitamos tener vastas oleadas de
+ empleados. Comenzará a verse en los
+ números en 3 a 6 meses, pero debemos
+ entender que este es el momento del
+ pavo en Acción de Gracias para la
+ mayor parte de la economía verificable
+. E incluso la economía del gusto. De
+ nuevo, la gente decía: "La IA no tiene
+ gusto. Nunca tendrá gusto. Nunca será
+ capaz de dirigir". ¿Has visto los
+ resultados que están saliendo ahora? O
+ sea, no son perfectos, pero son mejores
+ que el K-pop. ¿Sí?
+ Cualquier cosa es mejor que el K-pop.
+ Incluso vi a BLS en concierto. Me
+ obligaron a ir a un concierto de BLS.
+ Fue impactante.
+ Sí, BTS. BTS. No hagas que los fans se
+ enojen contigo.
+ Sí, probablemente me masacren en
+ línea por eso.
+ Sí.
+ Pero solo...Sí, quiero decir, mira,
+ puedo verlo en nuestra propia economía
+ personal, ¿verdad? Todos están
+ construyendo negocios, todos están
+ haciendo cosas. Simplemente no lo veo
+ entre mi grupo de amigos, la economía
+ más amplia o cualquier otra cosa.
+ Es porque los modelos no son lo
+ suficientemente buenos.
+ En la práctica, ya sabes, la cirugía
+ dental, nadie está ni cerca de eso
+ todavía. Es porque los modelos no eran
+ lo suficientemente buenos, otra vez. Es
+ como que tienes que ser un buen
+ colaborador. Supongo que el audio
+ también marca una gran diferencia. Si
+ puedes hablarle y te puede responder de
+ una mejor manera, ya sabes, como yo uso
+ WhisperFlow todo el tiempo para mis
+ cosas, porque puedo simplemente
+ soltarle ideas y él las descifra.
+ Necesitas eso. Sí, es el empaquetado.
+ Así que, nuestra nueva versión de
+ nuestro agente de código abierto,
+ puedes llamarlo, puedes tener una
+ llamada de Zoom con él, y hay un
+ avatar en vivo que parece humano. Ya
+ sabes, es realmente muy encantador y
+ esas cosas. Todos tendrán eso. Como
+ Muse by Matter, que ahora puede hacer
+ llamadas telefónicas en tu nombre,
+ reservar mesas y todo tipo de cosas.
+ Los viajes están resueltos. Instinct
+ está generando mil millones de
+ dólares en tasa de ejecución ahora
+ mismo. La mitad de eso es viajes porque
+ puede gestionar todas tus reservas por
+ primera vez. Es un nivel en el que
+ puedo confiar. Y la economía principal
+, así es como se va a integrar, ¿
+verdad? Simplemente será que no saben
+ que hay un humano al otro lado y dicen:
+ "Podemos mejorar todo tu sistema". Y
+ luego sucede. Creo que la forma más
+ fácil de resumir todo este gusto y
+ competencia es, en realidad, la
+ confianza. Sí, es si puedes confiar en
+ que haga las cosas que pides de la
+ misma manera que tú las harías. Sí,
+ y no tienes que ser un buen jefe para
+ lograrlo. Antes tenías que ser un buen
+ jefe, tenías que saber dar buenas
+ instrucciones, a veces hasta tenías
+ que animarlo. Ahora ya no. Hace el
+ trabajo, puedes confiar en él, es
+ confiable. Y por eso la gente delegará
+ demasiado de su vida y negocios a esta
+ cosa. Sí, esa es una conversación
+ distinta hacia dónde va esto. Creo que
+ hay otra cosa, Rahul, que me parece muy
+ interesante. La velocidad de respuesta.
+ Entonces, lo que descubrí con...estaba
+ usando obviamente Fable 5.1 y todo eso.
+ Era un poco demasiado lento. ¿Es eso
+...?¿Has estado usando más Anthropic
+ últimamente porque estabas cambiando
+ de uno a otro, verdad?
+ Sí, dejé Anthropic con Opus 5 porque
+ era muy desagradable, ¿sabes? Pero
+ cuando usaba Fable 5.1, es un poco
+ demasiado lento.
+ Sí, lo es.
+ Con Opus 5.5, es sorprendentemente
+ rápido a menudo. ¿Has notado eso?
+ Sí, lo he notado. Sí.
+ Sí. Y creo que esto es algo muy
+ interesante porque se volverá cada vez
+ más rápido. Y a veces te quedas un
+ poco trabado sobre qué decir después,
+ ¿sabes? Y ahí es donde entra el tema
+ de la competencia y la confianza.
+ Sí, ya sabes, eso sucede a veces. Te
+ responde tan rápido y con tanta
+ información. Dices: "No puedo procesar
+ esto a la velocidad que tú lo estás
+ haciendo". ¿Puedes ir más despacio?
+ He tenido que hacerlo unas cuantas
+ veces. Es como: "Lo siento, esto supera
+ mi capacidad". "¿Puedes calmarte un
+ poco?" Pero luego, cuando lo lees,
+ piensas: "Oh, esto realmente tiene
+ sentido". Y ahí es donde, de nuevo, la
+ confianza crece porque piensas: "Es
+ como tener un empleado muy inteligente
+ y rápido ahora, ¿sabes?"
+ Y de nuevo, las empresas que ya usan
+ Anthropic, y luego OpenAI los
+ alcanzará, experimentarán eso y luego
+ se filtrará por toda la sociedad,
+ porque es ahí cuando puedes confiar
+ cargas de trabajo críticas. Y es ahí
+ cuando empiezas a ver una divergencia
+ en el rendimiento y un impacto en las
+ ganancias. Un impacto en los ingresos,
+ ¿verdad?¿
+Y crees que para ese impacto real,
+ nosotros más de este tipo de negocios
+ de herramientas específicas tipo
+ envoltorio que surgen. Lo cual facilita
+ el proceso. Así que tienes la versión
+ para el consultorio médico local, la
+ de la pequeña empresa, la versión
+ minorista. Porque a la gente le cuesta
+ entender que tienes este súper equipo
+ increíble de 10,000, 50,000 personas
+ que pueden trabajar para ti. Es
+ difícil para la gente comprender eso
+ en comparación con: "Oh, creamos esto
+ para la franquicia de tu heladería".
+ Quizás una mejor manera de pensarlo
+ sea como la venta de autos, ¿verdad?
+ En la economía automotriz, los
+ fabricantes obtienen como el 20%del
+ valor y los concesionarios locales el
+ 80%. Ya sabes, y has visto ese tipo de
+ cosas en los concesionarios. Así que
+ tal vez sea más como concesionarios de
+ IA que entran, guían a las personas
+ por el proceso y, boom, de repente
+ tienes tu SUV. Ya sabes, o tienes tu
+ lavavajillas o algo así. De nuevo, la
+ inteligencia es una utilidad más que
+ cualquier otra cosa, especialmente
+ cuando se trata de una curva S de
+ inteligencia competente. ¿Qué es lo
+ que realmente necesitas en tu hogar?¿
+Dónde está el límite? Hay un límite
+ de inteligencia para tu hogar. Hay un
+ límite de inteligencia para un
+ consultorio de atención médica. Ya
+ sabes, ¿realmente te vas a beneficiar
+ de tener una solución contra el
+ cáncer? No, no necesitas una solución
+ contra el cáncer. Necesitas buenas
+ reservas, necesitas seguir las pautas
+ médicas, y eso es una curva S. Eso no
+ es una exponencial.
+ Sí, tu sistema de pagos y todo eso
+ necesita funcionar mágicamente.
+ Y solo quieres que funcione, ¿verdad?
+ Y tienes mucha inercia porque lo que
+ tienes más o menos funciona, pero es
+ molesto. Y lo actualizas, pero en
+ realidad, ¿vas a despedir a un
+ recepcionista? No. Ya sabes, ¿qué vas
+ a hacer? Como, pero
+ la gente tampoco debe confundir lo que
+ dices sobre dónde está la curva S
+ para la mayoría de las personas; bueno
+, estamos llegando a la curva S para la
+ mayoría. Eso no significa una
+ disminución en la demanda de
+ inteligencia porque la inteligencia
+ simplemente va a todas partes y a todo.
+ Sí.
+ Y hay una diferencia entre una
+ experiencia con ChatGPT y una
+ experiencia genética, ¿verdad? En una
+ experiencia con ChatGPT, nunca le
+ dirás más de un par de millones de
+ palabras. Ya sabes, quizás 10 millones
+. Para ponerlo en contexto, la persona
+ promedio dice 10 millones de palabras
+ al año. Entonces, para obtener más de
+ 10 millones de una ventana de chat,
+ tendrías que chatear más de lo que
+ hablas, lo cual es de un usuario
+ intensivo. La gran mayoría de las
+ personas no serán tan intensivas, ¿
+sabes? Um, y 10 millones de tokens
+ ahora con DeepSeek V4 flash cuestan
+ unos 50 centavos. Bajando de 6,000 hace
+ unos años. El trabajo con agentes
+ puede usar muchos más tokens, pero aun
+ así, ves grandes avances en la
+ eficiencia de los tokens. Sabes, como
+ cuando tu código en Claude está
+ trabajando a tope y usa todos estos
+ tokens, pero parece que el nuevo Opus
+ es cuatro veces más eficiente con los
+ tokens que el anterior. Como que cada
+ token puede llegar mucho más lejos y
+ mucho más rápido. Así que es la
+ combinación de esto.
+ Sabes, en la mayoría de las
+ tecnologías hemos tenido la ley de
+ Wright como curva de costos. Como el
+ costo, pero esto es algo así como la
+ ley de Wright al cuadrado ocurriendo
+ ahora mismo. Es el colapso de costos
+ más rápido de cualquier tecnología
+ jamás producida. Incluyendo por el
+ otro lado, es el crecimiento más
+ rápido de cualquier tecnología jamás
+ creada. Es la aceleración más rápida
+ de cualquier Es como la ley de Reed en
+ el lado positivo y como una ley de
+ Wright al cuadrado. No creo que exista
+ ni siquiera una expresión para esto.
+ Sí, pero luego tenemos que recordar
+ que este es el valor de la cognición
+ colapsando también, ¿verdad? Como que
+ tú si vas directamente a un abogado
+ con tu pregunta legal, en lugar de usar
+ un ChatGPT privado y eliminado, eres un
+ poco tonto, ¿no? Como que puedes
+ llegar a la gran mayoría del camino y
+ luego vas con tu abogado para que lo
+ revise, ¿verdad?
+ Sí.
+ Así que ese es un ejemplo de mil
+ dólares la hora simplemente disipados
+ de repente. Uh, es cerca de cien Será
+ cerca de cien veces la caída de precio
+ para un nivel dado de inteligencia en
+ el próximo año o dos. Cien veces. De
+ nuevo, nunca has visto eso antes y el
+ mercado realmente no está listo para
+ eso. Um, pero todavía hay brechas,
+ como ahora mismo tenemos la brecha de
+ DRAM. Creo que eso se resolverá en
+ seis meses, honestamente. Um, por una
+ variedad de razones, pero la gran
+ brecha ahora son los CPUs porque
+ quieres pequeñas casas para tus
+ agentes en la nube. Así que todos
+ estos tipos, OpenAI, Anthropic, los
+ usos de M ya están fuera para Meta,
+ necesitan CPUs para alojar a sus
+ agentes, y no hay como mil millones de
+ CPUs ahí fuera. Como que necesitan
+ CPUs y un poco de RAM porque eso crea
+ una máquina virtual en la nube. ¿
+Y quién vende los CPUs?
+ Quiero decir, AMD e Intel, ¿verdad?
+ Correcto.
+ Pero verás a los CPUs ser la nueva
+ escasez, así que no podrán producir
+ lo suficiente.
+ Y estos son estos pequeños mini VPS
+ que están construyendo para los
+ agentes.
+ Sí, tu agente necesita una casa en la
+ nube para poder seguir trabajando las
+ 24 horas del día, y ya sabes, seguir
+ monitoreándolo, y simplemente no hay
+ suficientes casas ahí. Anteriormente,
+ necesitaban, tu IA necesitaba tener
+ como un jardín muy grande para
+ cultivar tokens. Eso era lo que era la
+ DRAM. ¿Sí? Pero entonces podía
+ servir a muchas personas al mismo
+ tiempo porque esas cosas constantemente
+. Un agente solo puede servir a una
+ persona, en realidad. Dentro de este
+ tipo de casas o apartamentos. Y, de
+ nuevo, simplemente no hemos construido
+ suficientes de ellos.
+ Esa es una buena manera de decirlo. Um,
+ y luego tenemos que resolver el bloqueo
+ de electricidad.
+ Sí, quiero decir, es una locura. China
+ obviamente se ha adelantado en eso, y
+ se están moviendo hacia una
+ producción casi totalmente nacional de
+ chips. Así que algunos de los últimos
+ modelos de frontera de China
+ simplemente usan chips nacionales que
+ procesan hasta un billón de tokens por
+ segundo. Estados Unidos está empezando
+ a desbloquear, pero simplemente no hay
+ suficiente para la demanda de los
+ centros de datos que tenemos. Y en
+ Europa es aún peor porque no tenemos
+ titulización de los centros de datos
+ ni nada. Es decir, está verdaderamente
+ moribundo. Entonces, ¿qué sucede
+ cuando se vuelve económicamente
+ valioso y empiezas a ver un crecimiento
+ del PIB del 1, 2, 3, 4 o 5%debido a la
+ conversión de energía en inteligencia
+? Bueno, entonces dirías, necesito
+ energía, pero lleva tiempo construir
+ la infraestructura energética, ¿
+verdad?
+ Y una pregunta final sobre esto es, ¿
+cómo influye el proceso político?
+ Porque vamos a llegar a las elecciones
+ de medio término. No parece que Trump
+ vaya a lograr mantener gran parte de
+ eso unido. Y los demócratas están
+ entrando en el proceso político
+ basándose en frenar todo esto.
+ Tratando de no permitir centros de
+ datos, lo cual es la cosa más
+ estúpida del mundo considerando lo
+ importante que es esto.
+ Bueno, quiero decir, Bernie Sanders
+ quiere 20 años de cárcel por intentar
+ construir una ASI. Ya sabes, como
+ prohibamos algo de matemáticas.
+ Y parece que nadie le dice: "Está bien
+, dejemos que China tenga una ASI, y
+ luego tendrás un mundo de sistema
+ único". Eso no funciona. Necesitas al
+ menos mundos de dos sistemas. Y tú, ya
+ sabes, siempre has sido un gran
+ creyente en esto desde siempre.
+ Necesitas mundos multisistema para
+ poder adaptarte a las culturas de la
+ sociedad y todo eso.
+ Sí, quieres tener una pluralidad de
+ IAs, ¿verdad? No solo una única
+ monoteísta, por así decirlo. Sombra
+ de Dios. Mira, digo, mira de nuevo,
+ esto es una pose política porque los
+ centros de datos son buenos para las
+ comunidades según los datos, ¿verdad?
+ Hemos visto que las campañas están
+ coordinadas desde el extranjero y más
+ para frenar esto. Eh, sí, eso es
+ simplemente un hecho porque, obviamente
+, ya sabes, trabajo con todo el mundo.
+ El impacto real, sin embargo, dada la
+ cantidad de dinero, será muy bajo. O
+ sea, no creo que vaya a haber una
+ desaceleración. Creo que es muy
+ difícil frenar esto. Creo que verás
+ más discusiones sobre la ejecución
+ frente a la inteligencia artificial.
+ Pero lo que realmente tendrá impacto
+ es esto, cuando lo veas en las cifras
+ de empleo. Como dije, ahora mismo hay
+ muy pocos sistemas de IA con los que
+ reemplazarías a un empleado por
+ completo. Quizás simplemente no
+ contratarías a otros adicionales.
+ Sí, eso es correcto.
+ A día de hoy, en la última semana,
+ verás los primeros con los que puedes
+ reemplazar a equipos enteros por
+ completo. Y eso se reflejará en las
+ cifras el próximo año. ¿Y qué haces
+? Lo que creo que será realmente el
+ otro momento, como ya sabes, el COVID,
+ tuvimos ese momento Tom Hanks donde
+ pasó de los que podíamos verlo venir.
+ Ya sabes, tuvimos esa discusión sobre
+ el momento Tom Hanks, ¿sabes? Lo que
+ lo hizo real es, primero que nada,
+ estas pérdidas de empleo porque
+ aparecen gemelos digitales de los
+ trabajadores. Lo otro es cuando un
+ robot Tesla Optimus llega en un
+ cibertaxi Cybertruck, se sube a un
+ camión, se conecta al encendedor y se
+ lo lleva. Y todos dicen: espera, ¿qué
+?¿Podemos reemplazar a todos los
+ camioneros por 1,50 dólares la hora? Y
+ eso es un millón de empleos en EE. UU.
+ más tres o cuatro millones a su
+ alrededor que los apoyan. Es un poco
+ una locura. Tú y yo hablamos de esto
+ en los primeros días al hablar sobre
+ la bomba nuclear deflacionaria. Estuve
+ pensando en esto. La fase es obvia.
+ Primero, los salarios no suben tan
+ rápido como la productividad.
+ Sí.
+ Así que los salarios, ya sabes, las
+ contrataciones no explotan. Están bien
+ porque la economía se está
+ expandiendo y todavía necesitas
+ trabajadores del sector servicios y
+ todo eso y gente para construir centros
+ de datos. Así que la primera fase es
+ que los salarios no suben mucho
+ todavía mientras la productividad
+ comienza a aumentar. Es solo cuando
+ llegas al otro lado, creo, de toda esta
+ computación que se construye en el 27,
+ para el 28, 29, que simplemente colapsa
+ los precios de todo. Porque es cuando
+ los robots comienzan a escalar también
+. Y la electricidad está a escala.
+ Quiero decir, la gente no ha pensado en
+ eso. Ellos piensan en el presente, oh,
+ tenemos los robots de la energía y los
+ robots de los centros de datos y
+ tenemos los ro...es como, está bien,
+ adelantemos a 2028. Sin restricciones
+ de energía, sin restricciones de
+ centros de datos y con nuevos chips.
+ Digo, [ __ ]. Todo hacia...Y los robots
+ liberados.
+ Sí, y los robots exactamente. Que los
+ robots son un cuello de botella y eso
+ quizás pueda limitarse, pero sí, por
+ eso di dos años más cuando escribí
+ mi libro el año pasado, "La última
+ economía", hasta que la cognición
+ humana pase a tener un valor negativo
+ en todas partes. Creo que tal vez
+ incluso podrías adelantar eso, pero
+ digamos que es un cambio radical. Es
+ como un pavo en Acción de Gracias. Hay
+ más empleos a medida que te acercas a
+ eso. Pero luego la economía debería
+ enfrentar presiones deflacionarias,
+ salvo quizás por una cosa, que es la
+ adopción total de las monedas estables
+ para aumentar la velocidad monetaria en
+ Estados Unidos y los activos del mundo
+ real (RWA). Como que Estados Unidos
+ está bien posicionado para eso, pero
+ digo, acabamos de tener la Ley de
+ Claridad para ello. Fue la Ley de
+ Claridad. Eh, ya sabes, de nuevo,
+ fracasó, ¿verdad? Como que Estados
+ Unidos debería estar entusiasmado con
+ esto. Pueden exportar el dólar a todas
+ partes. Pueden equilibrar la deflación
+, pero no lo hacen. No estoy seguro de
+ si se entiende que esta es la
+ salvación, por así decirlo.
+ Ellos lo hacen. Digo, Scott Bessent
+ habla de ello. Es solo que, de nuevo,
+ se ha vuelto político en lugar de
+ económico.
+ Sí, tal vez, de nuevo, el entorno
+ político no lo hace, porque obviamente
+ la administración lo entiende. Quizás
+ no lo están comunicando correctamente.
+ Como de nuevo, el tsunami económico de
+ esta tecnología se acerca, donde todo
+ lo que valoraba tu cerebro, la IA puede
+ hacerlo mejor en tu MacBook. Tal vez
+ esa sea una buena forma de decirlo. El
+ hecho de que tu MacBook sea más
+ inteligente que tú en un año o dos es
+ un poco deprimente. ¿Acaso importa
+ siquiera cuál sea tu experiencia?
+ Vaya, sí. Sí. Tuve ese momento hace
+ unos meses como matemático, ya sabes,
+ yo estaba como: "Soy mejor que esta IA
+ en ciertas cosas, como reunir todos los
+ conceptos matemáticos", y se le
+ ocurrió un teorema. Y yo estaba como:
+ "Ay, [ __ ], nunca en un millón de
+ años habría descubierto eso". Y luego
+ empezó a no cometer errores y dije: "
+Está bien, tal vez debería borrar '
+matemático' ahora". Ya sabes, como
+ volver a ser jefe, jefe, jefe de
+ adquisiciones.
+ Para mí, todavía no ha llegado del
+ todo al tipo de detección de patrones
+ complejos que son los mercados y
+ particularmente la macroeconomía, que
+ es súper compleja. Todavía no llega a
+ eso, pero lo hará. O sea, es bastante
+ bueno, pero no puede conectar los
+ puntos de una conversación que tengo
+ contigo, lo que podría significar para
+ un activo y lo que significa para esto,
+ todo lo que hacemos en nuestras cabezas
+.
+ Sí, creo que es función de dos cosas.
+ Una es que las matemáticas son un
+ dominio muy verificable, ¿cierto? En
+ contraposición a algo abierto. Y dos,
+ es porque solo tienes como una docena
+ de agentes Claude trabajando en ello a
+ la vez. Como dije, cuando tengas cien o
+ mil de ellos, definitivamente podrán
+ encontrar los ángulos. Algo curioso,
+ como los pocos
+ Te voy a contactar sobre eso porque
+ estoy construyendo una especie de
+ modelo de predicción usando código
+ universal como un enfoque de principios
+ básicos. He estado haciendo algunas
+ pruebas, pero creo que tienes razón.
+ Voy a consultarte al respecto en
+ Singapur. Creo que podría hacer que un
+ grupo de agentes siga usando resultados
+ probabilísticos, lo que falla, lo que
+ no, para que aprendan por sí mismos.
+ Es una mejor forma de hacerlo que estar
+ perdiendo el tiempo yo todos los días.
+ Sí, básicamente. Así es como haces
+ el ascenso de colinas en la
+ investigación automática, ¿verdad?
+ Por eso optimizamos la función de
+ investigación automática, para que
+ tenga este bucle recursivo y también
+ un bucle adaptativo. Y a veces, incluso
+ cuando lo pasas por diferentes
+ modalidades, entiende cosas, como
+ cuando no logra darle a un informe los
+ ángulos que quieres.
+ Sí.
+ Puedes pedirle que rote la forma del
+ argumento después de visualizarlo. Y
+ realmente funciona. Así que inténtalo
+ con algunas de esas cosas frustrantes
+ que no terminan de encajar. Sí. Porque
+ activa una parte diferente del espacio
+ latente. Funciona particularmente bien
+ si le dices que lo visualice y luego
+ rote la forma hasta que encaje. Como
+ dije, hay mucho de estos modelos que
+ aún no hemos explorado.
+ Porque así es como funciona mi cerebro
+, soy muy visual. Así es como lo veo.
+ Todo es como una red conectada e
+ intento explicárselo a mi Claude para
+ que lo haga.
+ Y tú lo rotas en tu cerebro, pero no
+ se te ocurre decírselo a tu Claude.
+ Literalmente dile: visualiza lo que
+ hemos hecho, todos los argumentos con
+ tantos ángulos diferentes como sea
+ posible en el formato de salida que
+ quieras. Luego quiero que rotes la
+ forma para que encaje a través de
+ todos ellos con la mayor fuerza posible
+. Inténtalo con múltiples agentes y
+ promedia el mejor resultado. Y
+ realmente funciona porque así es el
+ espacio latente, pero uno no lo
+ pensaría por alguna razón, porque, de
+ nuevo, todavía lo veía como algo
+ diferente. Pero en realidad lo es. Es
+ por eso que ahora puedo entender
+ ganancias y entornos completos, y por
+ qué Fable es un avance en modelos
+ multifactoriales, en mercados e incluso
+ en la escritura. Sabes, no escribe como
+ basura. No escribe genial a menos que
+ descubras cosas como esta con
+ No, pero está mejorando.
+ Sí. Está mejorando y sabes hacia
+ dónde va.
+ Sí. Increíble, Emmett. Como siempre,
+ una conversación fantástica y te
+ veré pronto en persona, y te traeremos
+ de vuelta a Real Vision pronto.
+ El placer es mío como siempre, señor.
+ Muy bien, cuídate. Este episodio es
+ presentado por Pyth. Pyth Network es la
+ compañía de datos financieros de más
+ rápido crecimiento hoy en día. Con la
+ confianza de Fidelity Investments, el
+ Departamento de Comercio de EE. UU. ,
+ Revolut, Kalshi, Jane Street, Coinbase
+ y muchos más. Proporcionan datos de
+ mercado financiero en tiempo real de
+ más de 3,000 acciones, materias primas
+, criptomonedas, tipos de cambio y, de
+ nuevo, mucho más. Son el primer y
+ mayor proveedor de índices financieros
+ 24/7 y ofrecen la gama más amplia de
+ datos de mercado al menor costo. Así
+ que, ve a pyth.network para aprovechar
+ su prueba gratuita. Así que,
+ obviamente te gustó este video lo
+ suficiente como para llegar hasta el
+ final. Es una tarea bastante grande,
+ pero escucha, hazme un favor, presiona
+ el botón de me gusta y suscribirse, y
+ también mira cuál es el siguiente
+ video, porque creo que te encantará.
+ Pero si quieres aún más, y cuando
+ digo más, hablo de ideas generadas por
+ miembros, investigación alfa
+ increíble, todo lo necesario para
+ ayudarte en tu camino, solo dirígete a
+ realvision.com/join para obtener la
+ mejor inteligencia financiera y el alfa
+ puro que hay dentro de la plataforma.
