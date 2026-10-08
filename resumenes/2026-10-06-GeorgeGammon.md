@@ -38,3 +38,5 @@
 **Tono:** neutral sobre los mercados; preocupado por Francia sin ser catastrofista (90/10 inflación frente a crédito; riesgo de cola en los bancos franceses); tranquilo sobre el riesgo de impago de EE. UU. y muy crítico con el gasto público estadounidense.
 
 **Nota cruzada posterior:** [[2026-10-07-PeterSchiff]] da cifras francesas casi idénticas (OAT al 4,75%, diferencial de ~1,5 puntos), pero concluye lo contrario sobre EE. UU.: con un déficit real de ~8% del PIB y un Treasury al 5,28%, "estamos mucho peor que Francia" y la crisis llegará.
+
+**Nota cruzada posterior:** en [[2026-10-07-GeorgeGammon]] vuelve sobre Francia (PIB nominal ~1 punto por encima del alemán) y aplica la misma lógica a EE. UU.: con un PIB nominal del 6,5%, el 10 años "debería" estar por encima del 6%. Además revela su operación de empinamiento de la curva (largo en el 2 años, corto en el 10 años).

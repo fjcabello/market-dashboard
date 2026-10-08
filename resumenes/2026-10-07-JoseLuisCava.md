@@ -52,3 +52,5 @@
 **Activos mencionados:** bono francés a 10 años (objetivo 6%; luego 8% "como mínimo" y 8,5%; hasta 10% si hay recesión), deuda italiana, española y belga (contagio), CAC 40 (techo en 8.250; -21% hasta los niveles de noviembre de 2022; -41% hasta los de noviembre de 2020), LVMH (-45%), L'Oréal (escape falso en ~444; muro en 400; -24% hasta los mínimos de 2022), euro (bajista; ~1,07-1,05), Bitcoin, S&P 500 y oro (favorecidos por un QE), SpaceX (40.000 millones más para chips), crédito privado e IA (primas de 60 pb y 150-160 pb).
 
 **Tono:** muy bajista sobre la bolsa francesa, la deuda europea y el euro; alcista sobre el oro, Bitcoin y el S&P 500 como beneficiarios de una futura impresión de dinero; marcadamente alarmista y político.
+
+**Nota cruzada posterior:** en [[2026-10-08-JoseLuisCava]] (vídeo patrocinado por Freedom24) lleva la misma idea de degradación monetaria a la cartera: fuera euros y deuda soberana, dentro ETF de activos duros (oro, S&P 500, metales industriales) y un ETF diversificado de materias primas (EXXY), que compraría en una corrección a ~35.
