@@ -54,3 +54,5 @@
 **Tono:** muy bajista sobre la bolsa francesa, la deuda europea y el euro; alcista sobre el oro, Bitcoin y el S&P 500 como beneficiarios de una futura impresión de dinero; marcadamente alarmista y político.
 
 **Nota cruzada posterior:** en [[2026-10-08-JoseLuisCava]] (vídeo patrocinado por Freedom24) lleva la misma idea de degradación monetaria a la cartera: fuera euros y deuda soberana, dentro ETF de activos duros (oro, S&P 500, metales industriales) y un ETF diversificado de materias primas (EXXY), que compraría en una corrección a ~35.
+
+**Nota cruzada posterior:** en [[2026-10-09-JoseLuisCava]] acusa a Lagarde de preparar con una "intervención verbal" la compra de deuda francesa por el BCE, vuelve sobre SpaceX (86.000 millones en la oferta pública y 40.000 más con los chips como garantía) y, de nuevo, ve al S&P 500 subiendo después de la crisis.

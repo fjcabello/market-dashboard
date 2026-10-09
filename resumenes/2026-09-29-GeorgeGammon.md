@@ -42,3 +42,5 @@
 **Activos mencionados:** Treasury a 30 años (5,6% intradía, máximo desde 2002), Treasury a 10 años (más alto en 1999 que hoy, según él), hipotecas a 30 años (máximos de 3-4 años), Anthropic (pérdida neta de 42.000 millones, 518.000 millones sin financiar, 20.000 millones en caja, según Zero Hedge), OpenAI, Nvidia, Oracle (rebajada a BBB−), Blue Owl, Blackstone, BlackRock, bonos *high yield* (~1 billón) e investment grade (~10 billones).
 
 **Tono:** bajista sobre la economía estadounidense, el crédito corporativo y la cadena de valor de la IA; tipos altos con crecimiento real débil = "no bueno zone".
+
+**Nota cruzada posterior:** en [[2026-10-08-GeorgeGammon]] repasa estas cifras de Anthropic (aunque al principio habla de una pérdida de 48.000 millones y no de 42.000) y les suma la noticia de que los ingresos anualizados de OpenAI serían ~20.000 millones menores de lo comunicado.
