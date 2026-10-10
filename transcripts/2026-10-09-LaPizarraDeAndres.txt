@@ -1,0 +1,269 @@
+Hola a todos y bienvenidos un día más a
+mi canal La Pizarra Andrés. En el día de
+hoy nos hacemos una pregunta, ¿puede la
+IA ser una buena gestora? No tengo la
+respuesta hoy mismo, pero sí la
+tendremos en el futuro porque hemos
+hecho algo muy interesante, ¿vale? Hemos
+hecho diferentes capas de elecciones con
+diferentes IAS o mejor dicho con
+diferentes plataformas para intentar
+hacer una cartera eh lo más optimizada
+posible desde un punto de vista riesgo
+beneficio. Y es que hemos elegido las
+empresas que teóricamente más baratas
+están, que además cumplan con ciertos
+ratios de solvencia o lo que es lo mismo
+que además sean buenas empresas. Es
+decir, vamos a intentar gestionar con
+diferentes plataformas una cartera como
+si fuéramos gestores value para
+intentar, al menos es lo que yo estoy
+exigiendo, un 15% anualizado. Por
+supuesto, luego esto se comparará con lo
+que hagan los mercados en ese tiempo,
+pero quiero enseñaros cómo lo he hecho
+porque creo que es muy interesante y
+además lo podéis seguir en los directos
+que hago en los en el día a día, ¿no? E
+para esto hemos utilizado dos
+plataformas, ¿vale? Y os voy a enseñar
+aquí porque creo que es un experimento
+que eh hecho por vosotros con lo que
+vosotros queráis, podríais eh tener en
+cuenta que al final cuando vais a crear
+una estrategia e mínimo se necesita un
+histórico amplio por amplio mínimo
+mínimo os diría 12 18 meses para por lo
+menos darle algo de valor a lo que pueda
+ser este tipo de gestión y que no sea
+fruto de la suerte. Entonces, si
+alguien, como estoy haciendo yo, hace
+otras carteras eh de forma eh algo
+diferente, por ejemplo, alguien a lo
+mejor buscando empresas de otro tipo o
+empresas solo españolas o empresas solo
+pequeñas o empresas lo que sea con las
+con las con los parámetros que ellos
+quieran, pues podremos llegar a la
+conclusión de si de verdad la IA puede
+gestionar o no. Se necesita una IA,
+¿vale? Yo estoy usando Grockbot. Hm,
+Grock es la la de de Elon Mask de X y
+Grockbot es simplemente un una
+plataforma. Yo tengo la de pago, pago
+200 € al año. Esto no es publicidad de
+nada. Eh, pues eh, básicamente tengo
+aquí unos, yo los llamo unos machacas,
+son unas personas o unos bots que
+trabajan para mí y les voy pidiendo
+cosas. Entonces, ya tengo ciertos
+expertos en ciertas cosas. Por ejemplo,
+tengo aquí lo que llamo chicharro value,
+un experto en valoración. ¿Vale?
+Entonces, ¿qué es lo que le pedí aquí?
+Bueno, pues que quiero hacer una cartera
+eh de 20 de 20 acciones. Ya le di
+previamente las e un poco las
+directrices de cómo gestionar la
+cartera. Le dije que estaba buscando
+retornos analizados del 15% y que mi
+intención era buscar las acciones más
+interesantes posibles.
+y dentro de esas empresas, pues luego ya
+que haga un examen, digamos, dentro de
+lo que pueden ser esas métricas value de
+esas empresas que están asequibles o
+baratas, que haga luego un análisis más
+a fondo de si cree que eso que está
+barato es barato solo en el papel, es
+decir, si es el famoso value trap, si es
+una empresa que está barata porque eh ha
+caído mucho, pero esa caída está
+justificada, entonces no está tan
+barata. o si son empresas que tienen un
+enorme potencial y no se sabe bien por
+qué por qué han caído, ¿no? Entonces,
+antes de darle toda la hm
+responsabilidad de elección de las
+empresas a la IA, lo que he hecho es lo
+siguiente. Como bien sabéis, eh
+Investing Pro es eh la plataforma que yo
+utilizo para saber si una empresa pues
+así de primera está cara o barata. Yo
+creo que más o menos todos estáis
+familiarizados, de hecho, con el código
+pizarra en en Investing Pro, pues tenéis
+todo el año esta plataforma pues por no
+sé si 60 € o una cosa así, ¿no?
+Entonces, por ejemplo, he cogido aquí
+uno de los valores que vamos a tener en
+cartera, ¿no? Y lo que le he dicho a la
+IA es, "Oye, métete en Investing, mira
+cuáles son las que teóricamente son las
+empresas más infravaloradas del mundo, a
+poder ser, insisto, esto no son eh
+empresas ni de países exóticos ni
+americanas, ¿vale? he querido eh salirme
+un poco de del de lo mainstream y que me
+diera pues empresas de países de primer
+nivel pero que no fueran americanas. Y
+por ejemplo he encontrado joyas joyas
+como estas, es decir, cosas que no
+tienen ningún sentido. Por ejemplo, esta
+empresa cotiza 68 € es financial
+services, con lo cual no tendría por qué
+ser un un nicho que estuviera castigado.
+Es decir, si esto fuera software, pues
+podrías decir, "Oye, es que el software
+a lo mejor es value trap porque con la
+IA nunca volver va a volver a ser lo que
+era, ¿no?" Entonces, esto es financial
+service. No conozco esta empresa, ¿vale?
+Es alemana. Y esta empresa cotiza hoy a
+67 con analistas en 155. Es decir, el
+peor analista cree que debería valer
+analista más pesimista cree que debería
+valer 134, el analista más optimista
+185.
+Y los modelos de valoración, el que peor
+de todos, que aquí podríamos ver que es
+el earnings power value, no sé qué
+modelo de valoración es este, pero
+bueno, es el único además outlier porque
+todos los demás, fijaros, están por
+encima de 100, pues piensan que esta
+empresa debería valer mucho más. Con lo
+cual, lo que hace la IA primero es
+buscar en Investing Pro todas esas
+empresas que tanto por analistas como
+por modelos están baratas y después les
+pasa lo que es ese razonamiento que he
+conseguido que aprendan durante mucho
+tiempo de, oye, compruébame que esto no
+sea una value trap, compruébame que el
+negocio sea sólido, compruébame que el
+negocio pueda seguir teniendo potencia
+en el futuro, etcétera, etcétera, ¿no? y
+lo ha hecho con muchas, por ejemplo,
+aquí vemos la conocida Aritza, una
+empresa que en su día llevó para mes,
+que la ha descartado por tener demasiada
+deuda, es decir, no niega que sea una
+empresa que a lo mejor esté barata, pero
+el riesgo de la deuda le ha hecho
+descartarla, ¿no? Y una vez llegado a
+eso, hemos hecho una cartera de 20
+empresas, ¿vale? Eh, aquí lo vemos, son
+todas estas, todas estas lo que es lo
+que nos garantiza pues que tiene dos
+filtros. tiene el filtro primero de
+saber que son empresas que están baratas
+a efectos lo más objetivos posibles a
+nivel de múltiplos, ¿vale? Que salen de
+Investing Pro y después está ese
+análisis quizá menos numérico, más de
+producto, más de viabilidad de la
+empresa, etcétera, etcétera, eh que he
+ido ducando a estos bots durante mucho
+tiempo, ¿no? Y esta es la cartera que me
+ha dado, ¿vale? Eh, con ella, pues aquí
+lo vemos. Em, el valor esperado a 12
+meses o lo que espera la IA obtener es
+por encima de un 15%, incluso en un
+escenario prudente. Todo esto a juzgar
+por la por la clase de empresas y el
+apps que tienen, ¿vale? Aquí lo vemos
+como las ha organizado, de mayor
+potencial de apps a menor, ¿vale? No es
+solo el Upsite, insisto, porque si
+fuerais solo a Investing, a lo mejor
+encontraríais empresas con más UPS, es
+Upsite más eh una tesis. Y aquí vemos la
+tesis que tiene, ¿vale? la tesis que ha
+cogido en cada una eh de los motivos por
+los cuales les han hecho e elegir esos.
+¿Y qué es lo que hacemos después? Bueno,
+pues ya que es un bot, le hemos le hemos
+dado la orden de que se meta investing
+normal. Esto nos lo esta es la parte de
+Investing que nos de pago. Hemos creado
+esta cartera value, eh, y eh aquí están
+todas las posiciones. Eh, luego tenemos
+otras directrices de cómo gestionar todo
+esto. E pero el objetivo es pues, oye,
+seguir en el día a día todo esto, eh, y
+ver cómo cómo se comportan. Aquí podemos
+ver incluso el daily PNL o el net PNL
+desde que desde que abren, etcétera,
+etcétera. Y el objetivo va a ser e pues
+poco a poco dejarle que gestione esto
+como si de un gestor value se tratara.
+Evidentemente el challenge es bastante
+eh complicado porque batir los mercados
+es muy muy difícil, pero vamos a ver si
+con la sabiduría de Investing Pro, que
+tiene un montón de datos y un montón de
+sentido, eh cómo cómo da ese potencial a
+las cosas, ¿no? Y cómo son muchas cosas
+lo que te dice que está infravalorado,
+no es solo eh aquí fijaros todo todos
+los los modelos de valoración que hay o
+los analistas o lo que sea. pues este
+primer filtro unido a un filtro de lo
+que teóricamente es un experto. Vamos a
+ver si todo esto puede batir un índice.
+¿Por qué os hago este vídeo? Porque me
+encantaría que vosotros desde vuestra
+casa elijáis vuestra a lo hagáis a mano
+o lo hagáis directamente con un bot que
+lo hago yo, porque el bot es
+directamente el que compra todo esto.
+Pero estaría bien que idearas un bot e
+que hiciera algún tipo de gestión de lo
+que sea, ¿vale? De lo que sea. ¿Por qué?
+Porque este es si lo hacemos hoy e en
+12, 18, 24 meses, podremos empezar a
+sacar conclusiones de si la IA, en este
+caso la mezcla entre Investing Pro y una
+IA, eh pues eh son capaces de gestionar
+su dinero apropiadamente o no. Entonces,
+eh simplemente, pues bueno, creo que es
+algo bastante curioso. Por cierto, esto
+lo sigo a diario y en directo, eh, todos
+los días, con lo cual si alguien quiere
+pasarse por aquí y ver un poco qué está
+pasando, aquí no he hablado de estas
+otras dos carteras, que es una cartera
+value, principalmente americana que ya
+lleva corriendo un poquito de tiempo y
+esta cartera Gambler, que es growth,
+digamos o así, de empresas más hoy, por
+ejemplo, el mercado se cae y
+evidentemente todas estas empresas que
+no gana dinero ninguna, pues sufren
+bastante. y la cartera desde Nice lleva
+un 030, simplemente la volatilidad es
+altísima, ¿no? Entonces, estas dos
+carteras no tenían quizá una una forma
+muy lógica de de invertir y en esta al
+aplicarle el filtro de Investing Pro,
+eh, pues ya tenemos una base bastante
+sólida, que es, oye, h busquemos cosas
+que estén bien y dentro de esas cosas
+que estén bien, hagámosle un análisis
+adicional para saber si el futuro que
+tienen es eh prometedor, ¿no? Así que
+nada, chicos, un vídeo rápido. Os animo
+a que hagáis algo de esto. Creo que las
+tecnologías es bueno que todos las
+utilicemos y es bueno que cuanto antes
+entendamos si sirven o no sirven y no
+hay mejor manera que pues de una forma
+de estas e y dentro de un año, año y
+medio vendremos y presentaremos los
+resultados. Solamente eso, chicos. Si os
+ha gustado me podéis dejar un like, e
+algún comentario, lo que queráis y
+nosotros nos vemos en el siguiente
+vídeo. Se despide la pizarra. Okay.
