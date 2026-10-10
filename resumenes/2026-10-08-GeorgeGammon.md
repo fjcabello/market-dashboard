@@ -27,3 +27,5 @@
 **Activos mencionados:** OpenAI (ingresos anualizados ~50.000 millones frente a ~70.000 comunicados; mercado tokenizado previo a la salida a bolsa a la baja), Anthropic (pérdida neta de 42.000 o 48.000 millones según el momento; 518.000 millones sin financiar; ingresos de 4.600 millones; ~20.000 millones en caja), Nasdaq (-1,25% en el día), Oracle (-5%), Nvidia ("Cisco 2.0"; posible -95%), AMD, Microsoft, SoftBank, SpaceX, Amazon, Google/Gemini, modelos chinos de código abierto.
 
 **Tono:** muy bajista sobre el complejo de la IA (OpenAI, Anthropic, Nvidia y su ecosistema), con la duda solo en el *timing*: "es realmente solo una cuestión de cuándo".
+
+**Nota cruzada posterior:** en [[2026-10-09-GeorgeGammon]] pasa a la Encuesta de Finanzas del Consumidor de la Fed (retrasos en pagos de préstamos del 12% a casi el 20%, máximo desde 2010; caída de ingresos del tramo alto) y sostiene que la demanda agregada depende del capex de la IA y del gasto del 10% más rico.

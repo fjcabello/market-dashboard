@@ -28,3 +28,5 @@
 **Activos mencionados:** IAG/Iberia (407 actual; objetivo modelos 600, analistas 544; PER 7x, EV/EBITDA 4x), American Airlines (12x actual; modelos 13,6x, analistas 17x), Wizz Air (mencionada, sin cifras, descartada por el comentarista), Carnival (22 actual; modelos 27, analistas 35; EV/EBITDA 10x, PER 7,5x), Royal Caribbean (252 actual; modelos 300, analistas 350; EV/EBITDA 13x, PER 15x), petróleo Brent (~105 dólares/barril, pico reciente 112).
 
 **Tono:** alcista de medio plazo en aerolíneas y cruceros específicos, condicionado explícitamente a que el Brent se normalice; cauto/neutro en renta fija gubernamental a pesar de considerarla barata.
+
+**Nota cruzada posterior:** en [[2026-10-09-LaPizarraDeAndres]] amplía el experimento con bots de Grok a una cartera value de 20 acciones no estadounidenses filtradas con Investing Pro (objetivo del 15% anual).
