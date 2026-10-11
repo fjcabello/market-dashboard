@@ -47,3 +47,5 @@
 **Activos mencionados:** S&P 500 y Nasdaq (máximos históricos; ~60% de los valores en mercado bajista), Dow y Russell 2000 (sin máximos), Treasury a 10 años (5,28%; máximo de 5,35%), Treasury a 30 años (5,66%), OAT francés a 10 años (4,75%), bund a 10 años (3,45%), diferencial Francia-Alemania (~1,5 puntos), dólar (déficit comercial récord), oro (<4.200; "momento de comprar"), plata (~60; cerca del soporte), bolsa brasileña (repunte).
 
 **Tono:** muy bajista sobre la deuda soberana (EE. UU. y Francia), la economía y la política fiscal estadounidense; escéptico con el rally de la bolsa por su estrechez; muy alcista sobre el oro y la plata.
+
+**Nota cruzada posterior:** en [[2026-10-10-PeterSchiff]] sitúa el máximo semanal del 10 años en 5,36% y el del 30 años en 5,73% (miércoles), con cierre en 5,24% y 5,6%; oro en 4.193 y plata en 60,70, de nuevo "gran compra".

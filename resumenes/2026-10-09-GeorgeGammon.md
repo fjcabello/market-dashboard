@@ -34,3 +34,5 @@
 **Activos mencionados:** Nasdaq (máximo de 2000 y 15 años de recuperación; caída hipotética del 80%), bolsa estadounidense (máximos históricos), vivienda (valor en "burbuja"), fondos monetarios (~5%), nóminas no agrícolas, tasa de paro (4,2%); datos de la Encuesta de Finanzas del Consumidor: retrasos en pagos (12% → ~20%; 2 meses o más: 5% → 8%), patrimonio del tramo alto (+31%), patrimonio medio (+7% real; 1,24 millones), mediano (215.000), cuartil inferior (−6% mediano; −4% medio), ingresos de 35-44 años (−25%).
 
 **Tono:** bajista sobre la economía real estadounidense y el consumo; señala la fragilidad de una demanda que depende de los precios de los activos. No hace ninguna predicción explícita sobre la bolsa.
+
+**Nota cruzada posterior:** [[2026-10-10-PeterSchiff]] cita las mismas cifras de la encuesta de la Fed (morosidad del 12% al 20%, máximo desde 2010; mayor aumento de patrimonio en los hogares de mayores de 75 años) y las une al mínimo histórico del índice de condiciones actuales de Michigan.
