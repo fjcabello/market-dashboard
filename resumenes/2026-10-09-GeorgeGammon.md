@@ -36,3 +36,5 @@
 **Tono:** bajista sobre la economía real estadounidense y el consumo; señala la fragilidad de una demanda que depende de los precios de los activos. No hace ninguna predicción explícita sobre la bolsa.
 
 **Nota cruzada posterior:** [[2026-10-10-PeterSchiff]] cita las mismas cifras de la encuesta de la Fed (morosidad del 12% al 20%, máximo desde 2010; mayor aumento de patrimonio en los hogares de mayores de 75 años) y las une al mínimo histórico del índice de condiciones actuales de Michigan.
+
+**Nota cruzada posterior (2):** en [[2026-10-12-GeorgeGammon]] suma el aumento de las quiebras (+11% en los nueve primeros meses de 2026; 100 grandes quiebras, un 22% por encima de la media histórica) y los despidos de Netflix al mismo diagnóstico: la Fed habla de una economía "fuerte y resiliente" que los datos no respaldan.

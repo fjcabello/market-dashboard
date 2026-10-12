@@ -1,0 +1,5 @@
+# 2026-10-11 — PabloGilTrader
+
+**Clip muy corto (26 líneas de transcript) sin contenido de mercado:** otra reflexión sobre la política migratoria, en la línea de [[2026-10-10-PabloGilTrader]], sin activos, cifras ni tesis de inversión. El contenido económico del día está en el directo largo [[2026-10-11-PabloGilTrader-0HuYpYixVdw]] (vivienda en España: comprar, alquilar o esperar).
+
+Pablo Gil dice que se habla de la inmigración "como si toda migración fuese exactamente igual", y no lo es. No porque unas personas sean mejores que otras, sino porque "sus condiciones de partida son diferentes" y la integración puede requerir esfuerzos y tiempos muy distintos. Una política migratoria seria no puede preguntarse solo cuántas personas entran, sino qué pasa después: si podrán trabajar, si tienen habilidades que necesita la economía, si aprenderán el idioma, si se pueden reconocer sus cualificaciones, si hay recursos para su incorporación y si pueden integrarse en "las normas y valores fundamentales" de la sociedad que los recibe. "Abrir una frontera no integra a nadie. La integración empieza después".
