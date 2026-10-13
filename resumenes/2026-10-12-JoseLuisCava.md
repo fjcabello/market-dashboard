@@ -25,3 +25,5 @@
 **Activos mencionados:** Treasury a 10 años (estabilizado por Bessent), bonos largos del Tesoro (menos subastas), letras del Tesoro (más emisión), reservas bancarias en la Fed (más de 3 billones de dólares), bolsas estadounidenses (al alza hasta el 3 de noviembre "e incluso un poquito más"), diésel y destilados (4,8 millones de toneladas rusas; caída solo temporal dentro de la tendencia alcista).
 
 **Tono:** alcista para las bolsas a corto plazo, hasta las elecciones y algo después, por la liquidez que inyectaría el Tesoro; crítico y cínico con la gestión de Trump y Bessent, a la que atribuye fines electorales. Ve la subida apoyada en muy pocos valores.
+
+**Nota cruzada posterior:** en [[2026-10-13-JoseLuisCava]] mantiene la subida a muy corto plazo (hasta el gran vencimiento de opciones del viernes 16), pero vuelve a esperar una **caída del ~20% a partir del 3 de noviembre**, con un rebote posterior hacia 2027 apoyado en los mismos 3 billones de reservas bancarias. Matiza así el "muy difícil que las bolsas caigan" de este vídeo.

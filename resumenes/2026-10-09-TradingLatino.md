@@ -55,3 +55,5 @@
 **Tono:** alcista táctico a muy corto plazo en Bitcoin y las criptomonedas (rebote para liquidar cortos), sin cambiar su escenario de fondo; bajista en el Nasdaq, Nvidia, Microsoft, KIM, RDW y NU; alcista en el oro, Meta, Qualcomm, BCH y AMKR; ve la IA como una burbuja que aún puede inflarse un par de años.
 
 **Nota cruzada posterior:** el clip [[2026-10-10-TradingLatino]] es un recorte de este directo (Qualcomm: la caída no debería bajar de 166).
+
+**Nota cruzada posterior:** en el directo del lunes 12 ([[2026-10-13-TradingLatino]]), Merino da por cumplido este rebote (Bitcoin en 82.785, con objetivo de 83.500 en 1 hora) y vuelve a dejar Bitcoin bajista en 4 horas hasta el miércoles. En diario da compras spot en 81.000-83.000 y ventas en 87.000-88.000 hacia el 26 de octubre. Los clips [[2026-10-13-TradingLatino-2-rMyJXfHlk]] (Solana) y [[2026-10-13-TradingLatino-UWg6uKjjbvY]] (BCH) son recortes de este directo.
