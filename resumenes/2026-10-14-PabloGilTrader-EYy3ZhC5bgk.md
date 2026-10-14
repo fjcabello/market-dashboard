@@ -1,0 +1,5 @@
+# 2026-10-14 — PabloGilTrader (EYy3ZhC5bgk)
+
+**Clip muy corto (26 líneas de transcript) sin contenido de mercado:** reflexión sobre política migratoria, como [[2026-10-14-PabloGilTrader]] (mismo día) y [[2026-10-11-PabloGilTrader]], sin activos, cifras ni tesis de inversión. Para contenido económico del canal, ver el directo sobre vivienda [[2026-10-11-PabloGilTrader-0HuYpYixVdw]].
+
+Pablo Gil dice que ante una presión migratoria "de esta magnitud" surgen dos respuestas opuestas ("cerremos las fronteras" y "hay que acoger a todo aquel que busque una vida mejor"), y que ninguna constituye por sí sola una política migratoria. Europa tiene derecho a controlar sus fronteras, decidir quién entra legalmente, establecer qué perfiles profesionales necesita, exigir el cumplimiento de sus leyes y fijar procedimientos de retorno para quien no tenga derecho a permanecer, "respetando las garantías y obligaciones internacionales". "Nada de eso contradice que Europa necesite inmigrantes": precisamente por eso la inmigración debe ser "ordenada, legal y compatible con nuestra capacidad de integración".
