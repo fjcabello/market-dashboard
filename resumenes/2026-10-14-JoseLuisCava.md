@@ -40,3 +40,5 @@
 **Activos mencionados:** VIX (en mínimos; ventas de puts), opciones put de Meta (10.000 vendidas de golpe), S&P 100 / OEX (fuerte tendencia alcista), ETF de los siete magníficos ("MS"; alcista), Russell 2000 y Dow Jones (necesitan rebotar), Treasury a 10 años (giro a la baja desde resistencia; "5145%", cifra dudosa), bonos de alto rendimiento ligados a la IA y bonos de Google, Microsoft y Meta (primas de riesgo al alza, deberían bajar a corto plazo), Broadcom / AVGO (100.000 millones de necesidades; soporte en 340, objetivo en 375), SpaceX (40.000 millones; soporte en 150-152, objetivo en 170), Oracle (soporte en 125, objetivo en 140-145), petróleo (alto).
 
 **Tono:** alcista a corto plazo (hasta las elecciones de medio mandato, con una posible pausa por el vencimiento del viernes); bajista condicionado a medio plazo, cuando los hiperescaladores vuelvan a pedir financiación.
+
+**Nota cruzada posterior:** en [[2026-10-15-JoseLuisCava]] repite que espera una caída de las bolsas a partir del 3 de noviembre y se prepara para comprar la bolsa suiza (ETF CSW) por debajo de 12.500.

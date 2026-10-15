@@ -67,3 +67,5 @@
 **Tono:** bajista en Bitcoin a corto plazo (4 horas), alcista en diario hasta el 26 de octubre y en semanal hasta 90.000, y muy bajista para el primer semestre de 2027. Alcista en ETH, oro y varias altcoins; bajista en el Nasdaq, Intel y las altcoins más especulativas.
 
 **Nota cruzada posterior:** el clip [[2026-10-14-TradingLatino]] es un recorte de este directo (NIR alcista en semanal, pero conviene salir antes del techo).
+
+**Nota cruzada posterior:** en [[2026-10-15-TradingLatino]] (directo del 14 de octubre) da por cumplida la caída en 4 horas hasta el miércoles (mínimo de 80.186) y precisa su entrada en el oro en 4.264,21. El clip [[2026-10-15-TradingLatino-suPsrFb6p9s]] concreta el suelo del primer semestre de 2027 en la zona de 45.000.

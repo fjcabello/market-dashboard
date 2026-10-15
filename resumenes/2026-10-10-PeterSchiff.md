@@ -51,3 +51,5 @@
 **Nota cruzada posterior:** [[2026-10-12-JoseLuisCava]] también resta importancia económica al acuerdo del diésel ruso: son 4,8 millones de toneladas sin calendario firme, "el consumo de un día o día y medio" de EE. UU. según su cálculo, y la oferta mundial de destilados no aumenta. Como Schiff, lo interpreta en clave electoral. [[2026-10-11-LaPizarraDeAndres]] sitúa el 10 años estadounidense en "un cinco y poco".
 
 **Nota cruzada posterior:** el clip [[2026-10-13-PeterSchiff]] recorta la parte de este podcast dedicada al mínimo histórico del índice de condiciones actuales de Michigan.
+
+**Nota cruzada posterior:** en [[2026-10-15-PeterSchiff]] el 10 años supera el 5,3% durante la sesión del IPC de septiembre y cierra en 5,19%; la hipoteca a 30 años supera el 7,5%.

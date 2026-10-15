@@ -35,3 +35,5 @@
 **Activos mencionados:** vivienda en EE. UU. (caída probable, quizá "dramática", en 1-2 años; ~20% como referencia), ventas de viviendas existentes (niveles de la Gran Crisis Financiera), inventario de viviendas usadas (1,6 millones; +4,6%; 4,8 meses), hipoteca a 30 años (~7,4%), Austin (228 frente a 184 dólares/pie²), San Diego, Raleigh, Tampa, Tennessee, Utah, Washington D.C., Toll Brothers (como ejemplo de constructora), Zillow, S&P 500 (riesgo de contagio desde la vivienda).
 
 **Tono:** muy bajista sobre la vivienda estadounidense y, por contagio, sobre la economía y la bolsa; insiste en que "no hay certezas, solo probabilidades".
+
+**Nota cruzada posterior:** en [[2026-10-14-GeorgeGammon]] reacciona al IPC de septiembre (0,6% mensual y 3,7% interanual; subyacente 2,6%) y sitúa la hipoteca a 30 años en ~7,5%, frente al ~7,4% de este vídeo.
