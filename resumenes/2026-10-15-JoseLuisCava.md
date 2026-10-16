@@ -41,3 +41,5 @@
 **Activos mencionados:** franco suizo frente al euro (escape falso en 105,87; resistencia en 108; objetivo en 110; techo de marzo en 111,31), bolsa suiza (resistencia en 14.090-14.100; escape falso por encima de 14.400; objetivo y zona de compra por debajo de 12.500), ETF CSW de Amundi (comisión del 0,25%; compra si cae por debajo de 12.500), S&P 500 (caída en marzo; caída esperada a partir del 3 de noviembre), oro (reservas del BNS).
 
 **Tono:** alcista a largo plazo en el franco suizo; bajista a corto y medio plazo en la bolsa suiza, con intención de comprarla tras una caída. Vídeo patrocinado.
+
+**Nota cruzada posterior:** en [[2026-10-16-JoseLuisCava]] matiza el calendario: mantiene el repunte hasta el 3 de noviembre (RSP con hombro-cabeza-hombro invertido y línea de cuello en 214), pero cree que podría prolongarse hasta que se conozca el resultado electoral, "hacia el 20 de noviembre".

@@ -46,3 +46,5 @@
 **Activos mencionados:** IPC de septiembre (general 0,6% mensual y 3,7% interanual; subyacente 0,3% y 2,6%), gasolina (+9,1% mensual; +34,2% interanual), energía (+20,4% interanual), oro (−2%; soporte en 4.000), GDX (compra si el oro vuelve a 4.000), Bitcoin (a la baja), Treasury a 10 años (+1,6-1,7 pb), Treasury a 2 años (hasta +15 pb), diferencial 2-10 años (35-38 pb), S&P 500 (−1%), Nasdaq, petróleo (+1,27%; 140 dólares en 2008), hipoteca a 30 años (~7,5%), PayPal (~−80%), Nike, Lululemon, Home Depot, Lowe's (−40-60%), nóminas (29.000).
 
 **Tono:** bajista sobre la economía estadounidense y el consumidor; ve la inflación energética como antesala de una recesión con desinflación. Alcista táctico en el oro y las mineras si el oro vuelve a 4.000.
+
+**Nota cruzada posterior:** en [[2026-10-15-GeorgeGammon]], con el IPP de septiembre (+1,3% mensual; 6,3% interanual), Gammon sitúa el máximo intradía del 10 años del día del IPC en 5,32-5,33% y cuenta una caída de unos 23 puntos básicos en 24 horas, por debajo del 5,1%. Lo interpreta como el mercado de bonos descontando compresión de márgenes y un posible estallido de la burbuja de la IA.
