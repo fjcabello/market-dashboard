@@ -1,0 +1,732 @@
+Hola a todos y bienvenidos un día más a
+mi canal la pizarra de Andrés en el día
+de hoy vengo con preguntas vuestras y es
+que recientemente en uno de mis directos
+os pedí que me hicieras me hicierais
+ciertas preguntas de todo tipo para un
+poco contestar y tocar todo lo que
+llevamos viendo en el canal durante ya
+más de dos años, no quién lo diría. En
+este caso las preguntas que he cogido
+son un poco aleatorias y un poco
+variopintas y os animo a si os gusta
+este vídeo que me dejéis en comentarios
+preguntas nuevas para un nuevo episodio
+si es que este saliera bien, como
+siempre digo el mercado manda y seréis
+vosotros los que diréis si queréis más
+contenido de este estilo o preferís que
+haga alguna otra cosa, no en este caso
+aquí os comparto una presentación he
+hecho una pequeña presentación con
+vuestras preguntas y ya de paso me he
+permitido el lujo de auto contestarmelas
+con una IA que lleva mucho tiempo
+aprendiendo de mí de mi canal y de
+inversión, no más o menos ya me dio las
+las respuestas están bien contestadas,
+pero me va a permitir extenderme sobre
+lo que diga la IA y sobre algunas cosas
+que no que no tienen eh que no no ha
+sabido tener en cuenta, no
+En el puesto número uno un clásico qué
+porcentaje de rentabilidad y volatilidad
+es adecuado, vale muchos ya sabéis que
+no tiene sentido hablar de rentabilidad
+o de rentabilidad esperada sin saber qué
+precio y qué riesgo vamos a pagar por
+esa rentabilidad. Eh en esos casos es
+cuando entra en juego la volatilidad a
+muchos también nos sonará eh lo que es
+el ratio de Sharp que principalmente
+tiene en cuenta estas dos premisas que
+son eh la volatilidad y la rentabilidad
+es cierto que tiene una última eh
+eh un último parámetro más en la fórmula
+que es el activo libre de riesgo, pero
+como no os quiero entrar con tecnicismos
+os diría de primeras que lo interesante
+es buscar como mínimo una unidad de
+beneficio por cada unidad de riesgo.
+Bueno la IA ha contestado y bastante
+bien la IA que se hace pasar por Andrés
+ha contestado que no hay un porcentaje
+mágico que depende de tu visión de
+temporal y de cuánto aguantas en rojo
+esto lo ha cogido un poco probablemente
+de los directos eh pero bueno aquí sí
+que responde que buscar al menos un
+punto de rentabilidad por cada punto de
+volatilidad. Esto no es lo cierto ahora
+voy a voy a hablar mucho más de esto. Eh
+y eh simplemente aquí hace un dibujo
+bastante interesante en el que demuestra
+que la liquidez pues va a tener menos
+volatilidad y menos rentabilidad
+esperada en promedio, la renta fija pues
+un poco eh un poco más de volatilidad y
+un poco más de rentabilidad también, por
+encima un poco los fondos mixtos y por
+encima la renta variable. Vamos a em
+hablar de algunas cosas relacionadas con
+esto. En primer lugar, lo que podemos
+hacer es, por ejemplo, para que todos lo
+sepáis, podemos irnos al Fidelity MSCI
+World, ¿vale? Conocido por todos. Es
+cierto que si tú te bajas aquí abajo
+a 5 años ves que no cumple ese punto de
+eh rentabilidad por cada punto de
+volatilidad. Dicho esto, se queda muy
+cerca. Con esto lo que quiero decir que
+es que no os fijéis solamente o que en
+un fondo si el binomio riesgo-beneficio,
+el binomio rentabilidad-volatilidad
+es eh uno o muy cercano a uno, porque
+puede ser que tú estés mirando un
+periodo, como por ejemplo el que tuvo la
+renta fija durante los cuando los tipos
+estaban al cero, donde ese binomio era
+muy malo. Y ahí no es que el fondo fuera
+malo en sí, es que simplemente estás
+mirando un momento de ese tipo de
+activos eh que el el el tipo de
+estrategia o el tipo de activo que hay
+debajo no lo está haciendo bien, pero no
+es culpa del gestor, es decir, tú
+podrías llegar a ver buenos fondos em
+que simplemente pues a día de hoy no es
+su momento, por ejemplo. Eh un fondo que
+este año está siendo bastante malo o
+recientemente está siendo malo, por
+ejemplo, China. Si tú te vas a ver
+cualquier fondo de China y miras su
+binomio rentabilidad-volatilidad
+reciente, vas a ver que es bastante
+malo. Eso no quita que los fondos están
+haciendo lo que tienen que hacer, que es
+replicar China, por ejemplo, ¿no?
+Entonces, si tú te vas a un indexado de
+China, te va a parecer que en el binomio
+riesgo-beneficio es bastante malo, pero
+simplemente es que no ha tenido el
+momento. Entonces, estás culpando al
+gestor por algo que no es su culpa, que
+es cómo está cómo lo está haciendo
+eh China como país, ¿no? China como país
+respecto a los mercados financieros,
+digamos, ¿no? Con lo cual, y volviendo a
+la presentación, eh sí que es cierto
+que siempre que vamos a querer buscar,
+especialmente cuando comparemos peras
+con peras, es fondos dentro de una misma
+categoría, y esto los que sois usuarios
+de Artemisa lo sabréis.
+Eh, sí que es cierto que ahí queremos
+buscar el mejor binomio de cada unidad
+de riesgo, cuánto me retorna el mercado,
+¿no? Eh, pero no solo podemos mirar eso
+porque habrá fondos que a lo mejor
+simplemente no han tenido su año y estás
+mirando sus sus métricas del último año,
+de los últimos dos, tres años, y por eso
+los estás descartando. Entonces, mucho
+cuidado con eso porque sí que es cierto
+que esto ayuda y es interesante, sobre
+todo cuando estás comparando dos fondos
+que son similares, pero no toméis toda
+la decisión en base a este ratio, ¿no?
+De hecho, de aquí sale el ratio de
+Sharpe y de aquí también sale eh, para
+los usuarios de Artemisa, ese ranking
+que, eh, una vez más, comparando peras
+con peras, pues, eh, podemos, eh, sí que
+podemos empezar a mirar este tipo de
+cosas para decir si un fondo es mejor
+que otro, ¿no?
+Pregunta número dos, un clásico. ¿Debo
+meter todo el dinero de golpe o debo
+hacer DCA? ¿Vale? El DCA es eh, dollar
+cost averaging, que no es otra cosa que
+ir metiendo el dinero poco a poco con
+cierta frecuencia. Eh, la respuesta es,
+eh, que no se sabe, pero si nos basamos
+en los datos,
+lo normal es que el mercado suba más que
+baje, o tenga más posibilidades de subir
+que de bajar, por tanto, cuanto antes
+metas el dinero en el mercado mejor.
+Aquí hay muchas cosas matizables, vamos
+a ver qué ha contestado la IA.
+Em, nadie sabe hacer timing, no
+inviertas, no intentes adivinar el
+momento, el inversor medio pierde por
+estar líquido y por toquetear, lo
+importante es estar invertido y ser
+constante, ¿vale? Más o menos el el eh,
+contesta, pero sin llegar a contestar,
+¿vale? La respuesta es no se sabe. Si
+creyéramos que el mercado va a corregir,
+lo más interesante es meterlo poco a
+poco porque el las futuras aportaciones
+las harás a un eh, precio menor, ¿vale?
+Con esa caída. Si crees que el mercado
+va a seguir subiendo, cuanto antes metas
+el dinero de golpe mejor. Como no
+tenemos ni idea, pues la respuesta será
+lo que vosotros queráis. Para los más
+puristas, eh, sí que podemos decir que,
+eh,
+a priori, con los datos en mano, cuanto
+antes metas el dinero en el mercado
+mejor.
+¿Qué pongo yo aquí de de limitaciones a
+todo esto? Que no sé quién es la
+persona. Si la persona tiene 10,000
+euros, está ahorrando 1,000 euros todos
+los meses, para mí que lo meta de golpe
+me parece una forma sana de empezar,
+porque es poco dinero y aunque se
+equivoque no se ha equivocado, es decir,
+aunque se caiga el mercado no va a
+sufrir.
+Em, sin embargo, si es una persona que
+tiene medio millón de euros y acaba de
+recibir una herencia, sí que creo
+em
+que tiene que andar con más cuidado y
+que podría hacer algo mixto. Eso no
+quiere decir que lo que no vaya a meter
+en el mercado no lo va a invertir, pero
+probablemente lo invertiría en cosas de
+menos riesgo, de tal forma que el medio
+millón, aunque algún día a lo mejor le
+gustaría tenerlo en renta variable, a
+día de hoy lo quiere lo quiere llevar de
+otra manera, quiere poner una parte en
+renta variable, otra parte quiere ir
+ponerla todo lo ir poniéndola todos los
+meses y otra parte la quiere poner en
+algo más conservador.
+[resoplido]
+Pregunta número tres, eh fondos para
+comprar un piso en 1,5 o 2 años, ¿vale?
+Eh, sí que es cierto em que sí que los
+que usáis a misa o los que estáis en mis
+directos a menudo, que ya sabréis la
+respuesta de esto, que es solo pueden
+ser fondos que tengan o riesgo cero o
+muy bajo riesgo, es decir, solo hay dos
+categorías que te podrían cuadrar a 1,5
+o 2 años vista, que son o los fondos
+monetarios o los fondos de renta fija
+investment grade o de muy corto plazo,
+¿vale? ¿Por qué? Porque a 1,5 o 2 años
+si necesitas el dinero el riesgo que
+puedes asumir es muy bajo. De hecho, si
+nos ponemos tiquismiquis, pasados los 12
+primeros meses, los 10 o 12 primeros
+meses, tu dinero debería pasar
+totalmente a monetarios y tener riesgo
+cero, es decir, en un intervalo o en una
+necesidad eh de dinero que puedas tener
+en 6 meses u 8 meses no debería haber
+riesgo de ningún tipo. A 1,5 o 2 años
+puedes asumir algo de riesgo, em pero eh
+insisto, tiene que ser muy poco. Ahora
+viendo un poco lo que ha contestado la
+IA,
+ese dinero tiene fecha, nada de renta
+variable, correcto, no se puede tener
+renta variable, no te puedes eh
+arriesgar a que tu plan de necesitar el
+dinero se vea fastidiado por una caída
+de los mercados, eh fondos monetarios o
+fondos de muy muy plazo. Aquí si nos
+ponemos ya a buscar, pues hombre, tenéis
+el clásico, pues que puede ser el
+Newberger Short, que este ya lo conocéis
+todos. Es cierto que este año lo está
+haciendo peor que un monetario, pero
+insisto, es lo que tienen los activos de
+riesgo. Este año va flat, es decir, lo
+está haciendo peor que un monetario,
+pero por ejemplo, a 3 años todavía
+mantiene una rentabilidad del 4,7%
+anual, que es bastante más que un
+monetario, ¿vale? Luego, muy cercano a
+los monetarios, tenéis el DWS, que es un
+fondo que tiene prácticamente riesgo
+cero, aquí lo veis, no riesgo cero,
+porque este fondo en COVID cayó algo.
+Em, y aquí, como podemos ver, pues lo
+mismo, a 3 años una rentabilidad del
+3,40% y da un poquito más que un
+monetario, y luego por encima de esto, o
+mejor dicho, por debajo a nivel de
+riesgo, que es lo que sería virtualmente
+riesgo cero, pues tenéis fondos como
+Groupama. Entonces, cualquier mix de
+este tipo de fondos
+eh podría valer. Es cierto que para los
+más arriesgados, pues podrían subir un
+peldaño y buscarse una renta fija un
+poco más riesgosa, pero yo no creo que
+sea lo correcto tener riesgo a 1,5 o 2
+años vista, ¿no?
+Interés fijo o variable la hipoteca.
+Aquí es muy difícil Aquí hay muchos
+matices, ¿vale? Yo siempre voy a decir
+que a ver, lo que tú quieres normalmente
+es que si una casa te cuadra, ya sea
+para inversión o para ti,
+eh con el tipo de interés que hay en el
+mercado, lo normal es que la cojas fija.
+A mí, en la gran mayoría de los casos,
+una hipoteca fija de en torno al 3%, una
+cosa así, que yo que diría que es una
+media histórica de los últimos años,
+pues me puede valer. Eh si te subes un
+poco por encima de eso, 3 y medio, una
+cosa así, tampoco me parece ningún
+drama, especialmente en en importes de
+hipoteca aceptables, 100.000, 150.000,
+200.000 euros.
+Eh el problema es cuando si algún día,
+por ejemplo, en Estados Unidos ahora
+mismo, con los tipos que tienen, se
+están viendo hipotecas al 7 o al 8%, yo
+no fijaría una hipoteca al 7 o al 8%,
+tampoco la fijaría probablemente al 5. A
+esos precios prefiero arriesgarme,
+prefiero la variable y prefiero
+fijarla el día de mañana cuando los
+tipos caigan, que en algún momento de
+esos 30 años caerán, ¿vale?
+Eh esto es una pregunta muy personal. Yo
+es lo que digo, tipos bajos o tipos
+aceptables, me gusta que la hipoteca sea
+fija, que perfectamente lo que estás
+haciendo. Eh, tipos, si encuentras, si
+estás en un entorno de tipos altos y de
+hipotecas eh muy altas, en torno al 5%,
+a lo mejor ahí, insisto, es es es
+opinable, porque es un riesgo
+importante, eh podría elegir variable,
+pero por lo general el ser humano es
+adverso al riesgo y no quiere tener una
+apuesta tan importante eh sin saber lo
+que va a pagar por ella, ¿no? La IA
+básicamente lo que dice es, depende,
+pero primero hay que quitarse la deuda,
+bueno, esto es deuda buena y primero hay
+que quitarse la deuda mala, vale. Se
+lava las manos, incluso aprendiendo todo
+lo que ha podido de mí, esta no la
+hubiera contestado bien, ¿no?
+Em,
+según, siguiente pregunta, ¿cómo ayudar
+a gestionar el dinero a tus padres si
+saben poco de inversión?
+Lo normal es, eh yo ya lo he dicho mil
+veces, el dinero tiene que ser eh una
+obligación de cada persona, no podemos
+obligar a los demás eh y lo único que
+podemos intentar es hacerle la,
+abrirles, abrirles la puerta. ¿Cómo
+sería abrir la puerta mayor o alguien
+que no ha invertido, da igual si no es
+mayor, que no ha invertido nunca? A
+través de los fondos monetarios, ¿vale?
+Un fondo monetario es algo que no le va
+a dar nada que no sea una pequeña
+revalorización diaria, con lo cual ya
+ahí eh le abres la puerta al fondo de
+inversión y verás que es un fondo de
+inversión que aunque hm tenga la palabra
+fondo e inversión
+em de inversión tiene poco y de fondo
+también tiene poco, en el sentido de que
+prácticamente es como si fuera una
+cuenta remunerada, va a ver que los
+ahorros crecen poco a poco y esa sería
+la puerta de entrada. A partir de ahí,
+pues evidentemente si ellos mismos se
+van sintiendo cómodos, podrán tener algo
+adicional. También hay que explicarles
+que oye, que eso que van a ver, esas
+subidas de los fondos monetarios em
+son hm útiles para cubrir en parte la
+inflación, pero que jamás van a llegar a
+esos niveles de inflación, con lo cual,
+por no decir que aunque llegaran, luego
+tendrías que pagar impuestos, etcétera,
+etcétera, con lo cual también te
+quedarías por detrás. Entonces, se le se
+le abre la puerta un poco a la inversión
+de esta manera y a partir de ahí que
+sean ellos los que decidan si quieren
+asumir algo más de riesgo, ¿no?
+La IA, pues mira, mmm primero fondo de
+emergencia, fuera deuda mala y corto
+plazo monetario
+y demás. Cuidado, muy importante esto,
+se me había olvidado, vigilar las
+comisiones para que no les tomen el pelo
+en el banco, es decir, otra muy buena
+forma de de empezar a hacerles invertir
+es enseñarles que donde están, si es que
+tienen algo de inversión o están
+haciendo algo, algún depósito, alguna
+cosa, les están tomando el pelo, ¿no?
+Entonces, eso también es una buena forma
+de decir, "Oye, compara esto que tal con
+esto que te voy a enseñar yo ahora,
+¿no?" Y también es una forma
+relativamente sencilla de de pues eso,
+de que empiecen a ver que
+que hay que hacer algo con el dinero y
+que no puede ser hacer lo primero que te
+ofrezcan por ahí, ¿no?
+Eh, ¿tiene sentido los fondos de
+distribución en algún momento? Mmm yo
+soy bastante
+no sé, diría que negativo con este tipo
+de fondos, la inversión va de poner
+dinero, no de quitarlo. Eh, tampoco
+entiendo por qué tú querrías dinero
+habitualmente cuando el fondo lo decida.
+Ehm aunque, pues por poner un pero, si
+hay alguien que de verdad quiere
+disfrutar de ese dinero y quiere hacerlo
+de una forma constante y de la que no se
+tenga que preocupar, pues sí que es
+verdad que hay algún fondo de
+distribución que no lo hace del todo
+mal, pero la grandísima mayoría de los
+casos un fondo de distribución eh es
+peor que un fondo de acumulación que tú
+decides cuándo salir, ¿no?
+Eh, también, ¿por qué es esto? Porque,
+hombre, un fondo de distribución eh te
+está dando dinero en momentos que a lo
+mejor no quieres que te den dinero,
+¿vale? Porque el porque el mercado ha
+caído y prefieres eh no sacar dinero
+des- del fondo en ese momento, ¿no? Con
+lo cual, si sumas un poco todo esto, yo
+no soy mmm fan de los fondos de
+distribución.
+Hay más formas de recibir el dinero el
+el día de mañana, es decir, de
+desinvertir, pero de eso ya hablaremos
+en otro vídeo o algún vídeo en el que
+pueda decir, "Oye, formas de desinvertir
+para disfrutar de tu dinero, ¿no?" ¿Qué
+dice la IA? Pues que bueno, que en
+general mejor acumulación, ya sabéis que
+el fondo de acumulación es el fondo que
+reinvierte todo y no paga nada, estoy
+totalmente de acuerdo.
+El dividendo es una descapitalización,
+correcto, ehm
+al final las empresas te pagan un poco
+de de lo que generan y que a ti te
+gustaría que eso que generan se quedara
+dentro del fondo por lo general, ¿no?
+Eh, y bueno, que básicamente pues un
+poco lo que he dicho, aquí no sé por qué
+se va por las ramas si me ha hablado de
+otras cosas como los traspasos que no
+pintan nada, ¿no?
+Pregunta número siete, ¿es buen momento
+para los fondos Euro Hedge? Vale, ahora
+con la caída reciente del euro dólar a
+niveles de 1,11 o una cosa así, mucha
+gente me está preguntando, oye Andrés,
+¿es el el euro dólar está eh lo
+suficientemente abajo como para hacer el
+el fondo Euro Hedge? Eh, esto va a raíz
+de que muy bien se lo ha aprendido la
+gente de que cuando el euro dólar cae a
+niveles de 1,0 algo o lo que sea y
+tienes un dólar un euro débil es cuando
+tú dices, oye, espero esa reversión a la
+media que cumplen la mayoría de divisas
+y es cuando espero que esa reversión a
+la a la media me dé un retorno extra
+siempre y cuando esté dentro del Euro
+Hedge.
+¿Es 1,10 o 1,11 eh suficiente hm bajo o
+es un suficiente
+eh nivel de euro dólar como para hacer
+Euro Hedge? En mi opinión no, ¿vale? No
+olvidemos que esto no es garantizado,
+que tú te puedes ir al Euro Hedge y te
+puedes tirar ahí 5 años sin que el euro
+remonte. Eh, entonces, yo sigo pensando
+que en el rango histórico del euro dólar
+1,10 no es suficiente como para pagar un
+extra por el por el Euro Hedge eh y eh
+esperar ahí pues retornar, volverte a
+quitar el Euro Hedge en niveles de 1,15,
+1,18 o 1,20 o cuando sea, ¿no? Creo que
+no es suficiente. Dicho esto, esto es
+opinión y cada uno tiene que saber la
+teoría que hay detrás de esto, que es el
+Euro Hedge, que tiene un coste, por qué
+se hace cuando el euro es débil,
+etcétera, etcétera, y a partir de ahí
+pues que de que cada uno decida, ¿no?
+Eh, la IA dice que la cobertura es una
+jugada táctica que tiene sentido cuando
+el euro dólar está flojo, correcto.
+Eh, hm no no la elijas porque el fondo
+sin cubrir fuera peor antes, es decir,
+correcto, no miréis solo el fondo, oye,
+¿cuándo fue mejor este fondo? Con esta
+divisa con esta otra, no lo miréis por
+eso, mirad simplemente si la divisa está
+débil en ese momento y creéis que va a
+volver en algún momento a su rango
+habitual, ¿vale?
+[resoplido]
+Em, entonces, bueno, clave mirar el
+euro-dólar, perfecto.
+TLT5 es el momento. Bueno, esta pregunta
+es un poco aleatoria, mucha gente no
+sabrá ni lo que es el TLT, ni lo que es
+el TLT5 ni nada, esto es deuda americana
+de largo plazo y el 5 significa que es
+cinco veces apalancada.
+Em, justo veníamos preparando un informe
+que ya haré un vídeo de esto, ¿vale? Que
+es este aquí, un informe de BlackRock,
+el informe semanal, en el que, pues como
+bien dice aquí, em, los US Treasuries,
+es decir, los bonos americanos empiezan
+a poner interesantes, ¿no? No digo que
+porque lo haya digo dicho BlackRock, eh,
+ya sea momento de comprar bonos
+americanos, pero bueno, esto lo que
+compras son bonos americanos de largo
+plazo y apalancado por cinco. Esto, como
+siempre digo, no compréis apalancados,
+el que lo haga que sepa que es una
+acción hiperespeculativa y que, por
+tanto, los retornos, ya de por sí de una
+acción especulativa, ya son totalmente
+inciertos, pero si encima es una acción
+especulativa, o sea, es un movimiento
+especulativo y está apalancado por
+cinco, em, pues es más especulativa aún,
+¿no? Con lo cual, esto es, eh, como yo
+digo, más que nada rifársela, no debéis
+hacer esto y si alguien lo va a hacer
+tiene que saber que, oye, que use muy
+poco dinero porque las posibilidades de
+que en un apalancado por cinco eh de ese
+fondo eh caiga hm dramáticamente en
+cuestión de meses es viable, ¿no? Con lo
+cual, mucho cuidado con eso.
+La IA dice que, oye, esto podría ser una
+una especulación pequeña, que no puede
+ser el núcleo de nada, eso estoy
+totalmente de acuerdo.
+Eh, y pues el consejo es no apalancarse,
+¿vale? Eh, este es el el cómo está ahora
+mismo el TLT, está en mínimos, entonces,
+sabiendo que es deuda americana y que
+tarde o temprano debería subir, pues,
+em, mucha gente espera, o, bueno, ya lo
+veis que el que compró aquí también se
+pues seguramente se pensó que compraba
+barato y el que compró aquí y el que
+compró aquí y el que compró aquí y ahora
+estamos aquí y nada te garantiza que
+estar comprando aquí vaya a ser justo el
+suelo antes de que esto empiece a subir,
+¿no?
+Pregunta número nueve. Ya sabéis que
+Oros es uno de los fondos Oros
+Internacional que llevo en el canal. Eh,
+oye, mmm, ¿remontará Oros? Es de los
+fondos de renta variable de primer nivel
+que peor lo está haciendo este año. Eh,
+a nosotros, o a mí personalmente, no me
+afecta mucho porque yo entré eh,
+precisamente porque era un fondo que
+este año no estaba haciendo
+especialmente bien. Eh, y por tanto, em,
+lo que siempre digo aquí, si quieres
+sacar unas conclusiones sobre un fondo
+de renta variable, lo normal es hacerlo
+cuando ya lleves en el fondo, pues, 3,
+4, 5 años y no 3 meses, 6 meses o el que
+lleve el año entero y esté el año eh,
+completamente flat, ¿no? Eh, mientras
+hablo aquí con vosotros, pues, podemos
+ver que Oros Internacional
+eh, no no sube este año, o sea, está
+flat, ahí lo vemos, 0,38% arriba, pero,
+como siempre digo, el que tiene este
+histórico no es casualidad, es que son
+tíos que lo hacen muy bien. A 5 años
+sigue teniendo un retorno 12 12, que
+está muy bien, hablando del binomio
+riesgo-beneficio.
+Con lo cual, eh, son es gestores, pues,
+mmm, lo suficientemente buenos como para
+seguir confiando en ellos, pues, por lo
+menos dos o tres años más hasta que
+demuestren que, oye, que pueden seguir
+haciendo lo que siempre han hecho, ¿no?
+Yo aún así confío que este año pueda
+seguir arreglando o puedan arreglar
+algo, pero es lo que digo muchas veces,
+cuando cuando tú tienes unas tesis de
+inversión sobre determinadas empresas,
+hasta que el mercado te acaba
+reconociendo esas tesis o la mayoría de
+ellas, pues, puede pasar mucho tiempo,
+¿no?
+La IA dice que, eh, no juzgues un fondo
+por lo que hace en 6 o 12 meses, que eso
+está muy bien. No abandones a buenos
+gestores por un año malo, correcto. Y,
+eh, bueno, y que la gestión activa, esta
+también me parece bien. Eh, Oros debería
+ser uno de los varios fondos que tengas
+de renta variable, en mi opinión, sobre
+todo si tienes una cartera grande,
+¿vale?
+Y pregunta número 10, en este caso he
+cogido una pregunta de una de una
+empresa porque así me vale para, eh,
+responder esto de cualquier otra empresa
+que sepáis, ¿vale? ¿Crees que es un buen
+momento para comprar en McDonald's?
+Vale, lo primero es que yo sé que
+McDonald's lleva una caída importante,
+esto probablemente lo podemos ver por
+aquí, o sea, si aquí buscamos
+McDonald's,
+veremos que probablemente tenga una
+caída del 30 al 40%, aquí aquí lo vemos,
+¿vale?
+Eh, este es el enésimo ejemplo que ya
+hemos viendo este año, lo hemos visto
+pues con Novo Nordisk, con PayPal, con
+Nike, con un montón de de empresas que
+nunca pensamos que veríamos hacer esto y
+eh McDonald's viene cayendo un 32%.
+Ya sabéis que si el mercado penaliza
+algo
+es porque eh el mercado cree em que esto
+es más que merecido, es decir, no te
+pienses que McDonald's por ser
+McDonald's no puede caer. ¿Qué es lo que
+pasa? Que si nosotros nos metemos en
+Investing Pro, que es la herramienta que
+usamos para ver empresas, pues nos
+podremos hacer una idea de si esta caída
+lo ha hecho atractivo o no, es decir,
+McDonald's cotiza a 235
+y a diferencia de Nike, que no está
+atractiva,
+eh los modelos la la valoran 262, aunque
+hay bastante dispersión, porque hay un
+modelo de evaluación a 182, y los
+analistas la valoran a 292, siendo el
+analista más pesimista 230, con lo cual
+esta, a diferencia de Nike,
+probablemente sí que pueda ser una
+opción de compra, ¿vale? Está a 19
+veces, eh quiero decir, aquí por lo
+menos los EPS siguen creciendo, habría
+que ver por qué la han penalizado tanto,
+pero no parece eh que la caída no sea
+atractiva, ¿vale? Es muy diferente esto,
+¿vale? Si lo vemos, por ejemplo, con
+Nike,
+tú pinchas con me dio a la empresa que
+no era Nike US, ¿vale? Si nos vamos, por
+ejemplo, con Nike, cotiza 38, sí es
+cierto que también está un poco barata
+ya después de tanta caída, esto ha
+cambiado recientemente, Nike con la
+caída que llevaba todavía no estaba
+atractiva, pero es un poco lo que digo
+siempre, tenéis que ver si la caída ya
+es mmm bueno, es que claro, Nike a 35,
+pues
+bueno, aquí lo vemos, ¿no?
+Em
+con una caída de un 80%, pues ya empieza
+a estar atractiva según los modelos de
+evaluación, insisto, ¿qué es lo mejor
+para saber si una empresa
+eh está interesante o no? Pues, como
+digo, mirar los analistas, aunque aquí
+hay uno que dice que podría llegar al
+19, mirar los modelos de valoración, que
+en promedio son 48, aunque hay una
+dispersión muy grande, em y luego, sí
+que es cierto, por ejemplo, la
+diferencia entre McDonald's y y Nike es
+que Nike tiene los los earnings
+decrecientes y McDonald's los tenía
+crecientes, ¿no? Eh sí que es cierto que
+el PER ha caído de 17, el EV/EBITDA a
+11, es decir, Nike empieza a estar
+baratilla, pero es lo que digo, cuidado
+que no sea una value trap, porque una
+cosa es estar barata con EPSs, como
+McDonald's, crecientes y otra cosa es
+estar barata con EPSs decrecientes, aquí
+lo vemos, el EBITDA igual, pasa de 4,900
+millones a 4,893, ¿no? O sea, lo mismo,
+no no crece, ¿no? Entonces, mucho
+cuidado con esto, sí que es cierto que,
+claro, em las personas ven una empresa
+que cae mucho y ya dicen, "Oye, esto hay
+que comprarlo." Em es complicado, es
+complicado porque el mercado, como
+siempre digo, en estas empresas tan
+grandes que tienen tantos analistas y
+tienen tantos ojos encima, es muy
+difícil que no esté priceando las cosas
+adecuadamente, ¿no? Con lo cual, hm no
+lo sé, desde luego que eh se ha puesto
+eso seguro, pero no sé si es suficiente,
+pues eso, eh ver un poco unos múltiplos
+y ver un poco los analistas como para
+decir, "Oye, aquí en McDonald's hay
+mucho que ganar o hay bastante que ganar
+con un rebote, ¿no?"
+[resoplido]
+Eh bueno, aquí habla, pues eso,
+de comparar su valor razonable, lo que
+acabamos de ver, precio objetivo
+analistas, o sea, que la IA respondiendo
+bastante bien, ¿vale? Importante también
+esto, no deberíais tener muchísimo o
+gran parte de vuestro dinero en una
+única empresa, ¿vale? De todas formas,
+sobre empresas, si vosotros ponéis en
+YouTube cómo saber si una empresa está
+cara o barata en La Pizarra de Andrés,
+pues ahí podréis tener mucha más
+información de lo que os acabo de decir
+ahora mismo. Así que nada, chicos, esto
+ha sido todo. Si os ha gustado, podéis
+dejarme un montón de preguntas en
+comentarios, no tengo ningún problema en
+hacer un vídeo de estos de vez en cuando
+y si las preguntas, pues, son
+variopintas y creo que le pueden ser de
+utilidad a mucha gente, pues yo estaré
+encantado de hacer algo al respecto. Si
+os ha gustado, dejarme un like, un
+comentario, como os he dicho, lo que sea
+y nosotros nos vemos en el siguiente
+vídeo. Se despide La Pizarra de Andrés.
