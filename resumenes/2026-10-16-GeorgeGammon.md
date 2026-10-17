@@ -1,0 +1,36 @@
+# 2026-10-16 — GeorgeGammon
+
+**Tesis principal:** Vídeo del viernes 16 de octubre sobre la **rotación de la tecnología hacia las acciones de la "economía real"**, que Gammon considera "posiblemente la gran noticia de toda la semana". No le preocupa tanto la rotación en sí como lo que anticipa: según un estudio que cita, cuando el **Dow supera al Nasdaq en un 5,5% en cinco sesiones**, hay un **67% de probabilidad de mercado bajista** (caídas de al menos un 20%) en los **3 meses** siguientes, con datos desde 1971. Esta semana la divergencia va por **~4,4-4,5%**. La ratio Nasdaq/Dow está por encima de la de la burbuja puntocom ("estás en la cuarta plataforma"), y el desplome de **CoreWeave** le lleva a concluir que las probabilidades de que **la burbuja de la IA haya estallado** "aumentan dramáticamente". La semana que viene, sobre todo de lunes a miércoles, será decisiva.
+
+**Puntos clave:**
+
+**La divergencia Dow-Nasdaq:**
+- **Últimos 5 días:** Dow **+0,8%**, Nasdaq **−3,65%**: una divergencia de "alrededor de un 4,4, 4,5%". El "número mágico" es **5,5%**; por encima, "las probabilidades aumentan mucho más".
+- **Hoy:** Nasdaq **−1,25%** con el Dow "básicamente plano" en el momento de grabar. La venta de tecnología "comenzó en Asia como lo ha hecho en los últimos meses" (SK Hynix, Samsung, el Kospi) y se trasladó a EE. UU., aunque ayer se recuperó al cierre.
+- **El estudio:** analiza todas las divergencias desde **1971** y da un **60-67%** de probabilidad (primero dice "como un 60 o 67%", luego fija el 67%) de que todos los índices entren en mercado bajista "dentro de 3 meses".
+- **Criterio para la semana que viene:** si la divergencia "supera el 5 o 6% para el miércoles o jueves", habrá "una alta probabilidad, sin certezas" de que el Dow siga batiendo al Nasdaq "hasta que llegue un mercado bajista masivo que arrastre tanto al Nasdaq como al Dow". Lo plantea como una señal que pasa de "alerta" a "alerta gigante que no puedes ignorar", más que como un motivo para rotar de Nvidia a Home Depot, que considera "secundario".
+
+**La ratio Nasdaq/Dow:**
+- Un gráfico que dice no haber visto antes: cuando la ratio llega a un extremo y se revierte, suelen llegar las recesiones (las áreas sombreadas). No la considera un indicador por sí misma, sino el "punto de partida": desde qué plataforma te tiras a la piscina, es decir, cuánto se puede caer.
+- En la burbuja puntocom llegó "a casi el 50%"; se superó ese umbral en **agosto del año pasado** y a principios de octubre estaba "por encima del 50%". Al final de la crisis puntocom bajó a "punto uno cinco" (**cifra poco clara**: no precisa si habla de 0,15 o de un 15%).
+- Recuerda, "si no me falla la memoria", que en la crisis puntocom el **S&P cayó ~45%** y el **Nasdaq más del 80%**. Incluso en un mercado bajista, el Dow batiría al Nasdaq: "uno cayó, digamos, un 40% y el otro un 80%".
+
+**CoreWeave:**
+- Abre CNBC y la encuentra a la cabeza de los perdedores: **−10%** hoy (luego **−11%**), **−22%** en cinco días, de unos **78** el martes, cuando "sus CDS se disparaban por completo", a **62**. (De 78 a 62 es un −20,5%; la diferencia con el −22% no la explica.)
+- Insiste en lo que contó ayer: CDS en "unos 1.000 puntos básicos", "podría ser incluso más ahora", y una probabilidad de quiebra del **60-65%**. Sus **bonos de 2031** rinden más del **15%**. **Cifras distintas a las del día anterior:** en [[2026-10-15-GeorgeGammon]] hablaba de los bonos a **2032** con más del **16%** y de una probabilidad de impago del 60-63%.
+- No cree que Nvidia vaya a quebrar, pero si cae un "jugador clave" de la narrativa de la IA, "no veo cómo esto no arrastre a todo el sector tecnológico, al menos por una o dos semanas".
+- Entre los valores que suben en el S&P ve pocos: energía, **Honeywell** ("¿eso es defensa?"), **NiSource** ("no sé qué es eso") y **Moderna** ("volatilidad ridícula"). Entre los que bajan, "todo es tecnología", como **Twilio**.
+
+**Su cartera y lista de seguimiento (lo comparte "no como consejo de inversión"):**
+- **Dick's Sporting Goods — posición propia:** la ha **comprado esta mañana**, una "pequeña posición". Venía en caída libre ("una acción con fallo técnico", en palabras de su amigo **Hugh Hendry**) por la compra de **Foot Locker**, aunque su negocio principal iba "bastante bien" (ventas comparables). Esperaba a que superase una zona de resistencia, lo que ocurrió ayer y hoy; la rotación hacia la economía real le da el impulso a favor.
+- **Nike — en seguimiento, sin posición:** "absolutamente acabada, destrozada, aniquilada". No suele comprar por debajo de la media de 200 sesiones, pero esto es "un tipo de jugada diferente": tras unos resultados "muy malos" con volumen masivo, está por encima de la media de 5 días y subió con fuerza ayer.
+- **Corto cerrado, probablemente Pool Corp:** abrió el corto "alrededor de **210 o 212**", lo aumentó "un par de veces" y ganó "mucho dinero" porque "literalmente bajaba todos los días". Ayer recibió compras (rotación, sobreventa y probablemente cierre de cortos) y hoy, con la confirmación, **cubrió el corto**. El nombre solo sale al final ("me gustan mucho más que Pool"), así que **la identificación del valor no es segura**. Se contradice a medias: dice que "tal vez" sería una idea "incluso en el lado largo" y a continuación que no la vería en largo porque "odio su modelo de negocio según donde estamos en el ciclo".
+- Tampoco le gusta el modelo de negocio de Nike ni el de Dick's en este punto del ciclo, pero los prefiere a Pool: Dick's "lleva la peor parte" por Foot Locker, que "tiraron al bebé con el agua de la bañera".
+
+**Conflicto de interés:** declara posición propia en Dick's y el corto cerrado; insiste en que es "dinero real, no operaciones simuladas" y en que los miembros de **Rebel Capitalist Pro** (su servicio de pago, con su cartera en tiempo real) recibieron las alertas. Promociona el servicio al principio y al final.
+
+**Nota cruzada:** continúa [[2026-10-15-GeorgeGammon]] (Kospi −18,4% en 5 días; CDS de CoreWeave en 1.000 pb; rotación temporal hacia Lululemon y el Dow que "luego irá directo hacia abajo"). Nike ya aparecía en [[2026-10-14-GeorgeGammon]] entre las marcas que habían caído un 40-60% o más. El mismo día, [[2026-10-16-LaPizarraDeAndres]] también analiza Nike con una caída de "un 80%", "baratilla" por múltiplos pero con riesgo de *value trap* por beneficios decrecientes. `fred_data.csv` da el S&P 500 en **7.737,9** al cierre del 16 de octubre, prácticamente plano (−0,1%) frente al día anterior.
+
+**Activos mencionados:** Dow (+0,8% en 5 días; plano hoy), Nasdaq (−3,65% en 5 días; −1,25% hoy), divergencia Dow-Nasdaq (~4,4-4,5%; umbral de 5,5%), S&P 500, ratio Nasdaq/Dow (>50%), CoreWeave (−10/−11% hoy; −22% en 5 días; de 78 a 62; CDS ~1.000 pb; bonos 2031 >15%), Nvidia, SK Hynix, Samsung, Kospi, Home Depot, Honeywell, NiSource, Moderna, Twilio, Dick's Sporting Goods (comprada hoy), Foot Locker, Nike (en seguimiento), Pool Corp (corto desde 210-212, cerrado hoy).
+
+**Tono:** muy bajista sobre el Nasdaq y la burbuja de la IA, y bajista sobre la bolsa en general a 3 meses si la divergencia supera el 5,5%. Alcista táctico en algunas acciones de la "economía real" mientras dure la rotación, aunque no le gustan sus modelos de negocio en este punto del ciclo.
