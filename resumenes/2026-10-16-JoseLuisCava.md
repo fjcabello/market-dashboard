@@ -30,3 +30,5 @@
 **Activos mencionados:** S&P 500 (+10.000% desde 1964), RSP (hombro-cabeza-hombro invertido; línea de cuello en 214), bolsas estadounidenses (repunte hasta el 3 de noviembre o hasta ~20 de noviembre), bono estadounidense (rentabilidad a la baja; tenencias chinas en Canadá), oro (opciones del BCRA en 2025; compras de China), yuan, pensiones españolas (5 veces el PIB).
 
 **Tono:** alcista a corto plazo en las bolsas hasta las elecciones de medio mandato y algo después; muy alcista a largo plazo en el oro; muy crítico con la política fiscal española y francesa.
+
+**Nota cruzada posterior:** en [[2026-10-19-JoseLuisCava]] ve un suelo probable en el QQQ (perforación a 690 y recuperación de 700) porque las manos fuertes ya compran protección, y en [[2026-10-20-JoseLuisCava]] mantiene que las bolsas pueden aguantar o subir hasta el 3 de noviembre, sin mencionar ya la prolongación hasta "hacia el 20 de noviembre".

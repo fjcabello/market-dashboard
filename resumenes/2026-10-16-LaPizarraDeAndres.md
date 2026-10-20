@@ -50,3 +50,5 @@
 **Activos mencionados:** Fidelity MSCI World, fondos de China, Neuberger Short (plano en el año; 4,7% anual a 3 años), DWS (3,40% anual a 3 años), Groupama monetario, euro-dólar (1,10-1,11; no compensa cubrir divisa; salida de la cobertura en 1,15-1,20), TLT y TLT5 (en mínimos; especulativo), Oros Internacional (+0,38% en el año; ~12% a 5 años), McDonald's (235; −32%; valor razonable 262; analistas 292; PER 19), Nike (35-38; −80%; modelos 48; EV/EBITDA 11), Novo Nordisk, PayPal.
 
 **Tono:** neutro y divulgativo, centrado en finanzas personales. Prudente con el apalancamiento y la cobertura de divisa; moderadamente constructivo con McDonald's y con Oros Internacional; cauto con Nike.
+
+**Nota cruzada posterior:** en [[2026-10-18-LaPizarraDeAndres]], Carlos Valcárcel (MyInvestor Value) analiza Nike tras la caída del 80%: a 27x beneficios, 23x EBIT y 3,7x valor en libros "ni siquiera está barata"; "ahí no te metas, a estos precios".

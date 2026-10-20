@@ -37,3 +37,5 @@
 **Tono:** muy bajista sobre la vivienda estadounidense y, por contagio, sobre la economía y la bolsa; insiste en que "no hay certezas, solo probabilidades".
 
 **Nota cruzada posterior:** en [[2026-10-14-GeorgeGammon]] reacciona al IPC de septiembre (0,6% mensual y 3,7% interanual; subyacente 2,6%) y sitúa la hipoteca a 30 años en ~7,5%, frente al ~7,4% de este vídeo.
+
+**Nota cruzada posterior:** en [[2026-10-19-GeorgeGammon]] repite el gráfico de vivienda nueva frente a usada (Austin 184 frente a 228 dólares/pie²) tras el desplome de la confianza de los constructores de la NAHB a 29, mínimo de 14 años, con un 43% de constructores recortando precios.
