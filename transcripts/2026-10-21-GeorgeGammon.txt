@@ -1,0 +1,838 @@
+Hello fellow Rebel Capitalists, hope
+you're well. So we have a bombshell
+report that came out about the AI
+bubble, the circular financing,
+everything that we've been talking about
+on this channel for the last 6 months.
+But unfortunately, this AI bubble I
+think is a lot worse
+than most people think. And I'm going to
+go over exactly why, and the details are
+outlined in this report. We're going to
+go over that right now. So let's do the
+screen share. We got Josh with us today,
+and we're going to go over to ZeroHedge,
+which does a great job of really
+breaking this down. And then I want to
+go over a couple different articles
+here, so we can go ahead and connect the
+dots. Because I think right now, for
+most people watching, they're like,
+"Okay George, I get the AI bubble.
+There's no economic model with Anthropic
+and OpenAI, and it's that inverted
+pyramid that you talk about all the
+time. They're the Jenga piece, and you
+pull that out, and everything comes
+crashing down." But I I don't know that
+people really understand
+the
+how extremely
+horrific
+>> [laughter]
+>> the numbers actually are.
+And and how And I don't think people
+really understand the risk.
+Uh check this out. Uh I will just have
+to go through this, and you'll see
+exactly what I'm referring to.
+So we've got the screen share. Let's go
+over here. And I've got this all
+highlighted. I actually took some time
+today, believe it or not. 1%
+of companies account for 80%
+of OpenAI
+OpenAI and Anthropic spending. In other
+words, the revenue.
+Now, I've done videos talking about
+Nvidia,
+and how Nvidia's earnings, everyone
+talks about, "Oh my gosh, their earnings
+are incredible. They're a cash cow.
+They're printing money. Blah, blah,
+blah, blah, blah.
+Yeah, but they're
+All that money's coming from like four
+people.
+Now, I'm slightly exaggerating, but
+let's go over here. I just put it into
+Google AI.
+And which by the way,
+just so I'm clear, there is no doubt
+that AI is the future. I mean, there's
+no doubt about that.
+But so was the internet in '99 and 2000.
+And the didn't prevent the crash, did
+it?
+But look at this.
+In video cuz look at what I Googled. 25%
+of Nvidia revenue comes from four
+companies. That's what I thought right
+off the top of my mind, just cuz I've
+done a lot of videos on it. But I didn't
+remember it correctly. It's way worse.
+It says Nvidia's revenue is actually
+more concentrated
+than that.
+The tech giants account for roughly 40
+to 50%.
+It said just a small handful of major
+cloud and tech giants
+account for roughly 40 to 50%
+of Nvidia's total sales.
+Look at this.
+Two customers.
+Two.
+Account for 40%.
+40% of their revenue.
+Like just
+Think about this for a moment. Because I
+I know that we go over a lot of
+statistics and a lot of data on this
+channel.
+And sometimes you're just listening to
+this at the gym or maybe you're just
+watching this at home after you after
+you get off work.
+And
+you don't really let it sink in.
+But but let's use an example that
+everybody can get their head around.
+Assume you own a gym.
+Okay?
+And assume
+that two people
+>> [laughter]
+>> Two people
+account for 40% of your revenue.
+And and let's just assume for a moment
+that those two people say, "Yeah, you
+know what? I got a job over in Dallas.
+I got to move. I'm going to join a
+different different gym."
+You're gone. You're done.
+You're bust.
+You're gonzo.
+Hasta la vista, baby.
+>> [laughter]
+>> So, if if you were that gym owner,
+wouldn't you little be a little bit
+worried about that?
+And imagine if you were that gym owner
+trying to sell shares of your gym or
+trying to sell your gym outright.
+Wouldn't the buyer look at that and say,
+"Hell no.
+>> [laughter]
+>> No.
+I'm not buying this. There's no chance.
+When just two people
+could And by the way, if if those two
+people represent 40% of your income,
+how about those two people come into you
+and say, "Hey, you know what?
+You're charging me 100 bucks a month for
+this gym membership, but
+boy,
+I'd really like it if it was 1995."
+What are you going to do? Tell them no?
+And you're just out of business?
+Back in the old days, we used to call
+that
+they got you by the short hairs.
+>> [laughter]
+>> They got you by the short hairs right
+there.
+They they could name their price.
+And and you just have no choice but to
+say yes.
+I mean,
+WOW.
+WOW.
+BUT [snorts]
+BUT THIS IS NVIDIA, RIGHT? And
+obviously, they're a key player in the
+in the ecosystem.
+But almost
+or a good portion of their revenue is
+coming from these other entities, these
+models, these frontier models,
+where their revenue is just as
+concentrated.
+I mean, this is And that's even before
+we get to the circular component of it,
+which we're going to get into here in
+just a moment. So, and I was a victim of
+this myself.
+I thought, "Yeah, I get the circular
+financing."
+But I didn't understand the extent
+to how this is being circular. I I
+didn't understand the extent of the
+circle jerk.
+Let's just put it that way.
+Okay, let's go back to this Zero Hedge
+article. It's really
+terrifying.
+I mean, it's good, but it's terrifying.
+When you consider that the entire US
+economy and the stock market is propped
+up by this by this ruse.
+But I mean, you could
+I think you could get away with calling
+this a Ponzi scheme.
+Especially when you get to the circular
+stuff. Okay, the biggest spenders are
+overwhelmingly venture-backed. Okay,
+here's where you got to kind of put your
+thinking cap on, guys. Okay? So, make
+sure you you're following me on this
+one.
+Again, the biggest spenders and that
+means the biggest sources of revenue for
+OpenAI and Anthropic
+are overwhelmingly venture-backed.
+Okay?
+So, venture capital.
+That's important.
+Cuz check out this next part.
+The median VC-backed startup
+spends $76
+per employee a month on AI.
+That's more than 10 times the $7
+spent on private equity firms.
+You say, "Okay, George,
+who cares? So, there's a big difference
+between these Z these VC
+backed startups
+and the private equity or the private
+equity backed firms, okay?
+But listen to this.
+The top-heavy dynamic mirrors what Yipit
+Data uncovered at on
+at Anthropic specifically. The lab's top
+1% of customers generated 46%
+of its revenue, nearly doubling the 25%
+from a year ago.
+How many of those whale customers
+we asked
+at the time are funded by the very same
+VCs
+backing Anthropic.
+So, in case you didn't follow that, let
+me go ahead and take you through the old
+circle the the old circle jerk here.
+>> [laughter]
+>> So, the VC funds
+back
+Anthropic
+and OpenAI. So, they've got let's just
+say private shares in these companies.
+And the VC firms have multiple
+businesses in their portfolio.
+So, what the VC firms do because the
+other firms in their portfolio, none of
+them are profitable.
+I might be exaggerating, but very few of
+them are profitable.
+So, they're just they're all
+incinerating cash.
+So, if you're incinerating a hundred
+bucks, why not just incinerate a
+thousand bucks?
+And they're just taking all of this
+investor money that's piling into the
+VCs because they think they're going to
+get this outsized return and they got to
+go out the risk curve.
+>> [snorts]
+>> So, meaning your your pension fund, most
+likely. So, then what's happening is the
+VC firms
+that are kind of controlling, if you
+will, all of these businesses in their
+portfolio, they're like, "Hey,
+you know, Mr. CEO of the business that
+we've invested in, I know you guys are
+spending about seven bucks a month right
+now per employee, but we'd like you to
+uh up that.
+And because we think the more you spend
+on AI,
+the more productivity we're going to
+see,
+right?
+And then, of course, what they're doing
+is they're trying to increase the spend
+on AI,
+not necessarily cuz it's going to
+increase productivity, but they know
+that that's going to go back to their
+big, big, big companies
+and their big investments
+that they hope will come to fruition,
+which are OpenAI and Anthropic. Because
+that additional money that's being spent
+by the employees of all the companies in
+their portfolio are going right back in
+to their big whales, if you will, that
+are also in their portfolio.
+So, the money comes in from investors,
+it goes into the portfolio companies, it
+goes from the portfolio companies right
+back into the the the big players of the
+portfolio
+are the frontier model companies. And
+here in is where you have to understand
+the VC model.
+The VC model is not Warren Buffett,
+where he's going to invest in all of
+these companies and 80% of them are
+going to pan out. That that is not the
+VC model. It's the complete opposite of
+that, to an extreme.
+Where the VC model is, "Let's just
+invest in a thousand companies,
+and maybe maybe five of them will pan
+out and not go bust, but the ones that
+don't go bust are going to
+have a 10,000 X return, or whatever it
+is, and therefore that's going to make
+up for the 995
+losers.
+Right? So, if you've got that high of a
+percentage of losers,
+why not just They're going to lose.
+So, why not just make them lose giving
+all their money
+to the two guys that will most likely
+succeed and make all your profits?
+You see how the game's played here?
+This is what's going on.
+Let's keep going.
+Anthropic's IPO prospectus,
+the updated version of which we
+dissected yesterday, confirms the
+concentration at the very top, just two
+unnamed customers
+generate nearly a quarter of the 2025
+revenue.
+This is for the This is for Anthropic.
+Their identities aren't hard to guess.
+We've got Cursor, let's see, the two AI
+coding tools, Cursor and Microsoft's
+GitHub Copilot, drove roughly 1.2
+billion of Anthropic's 5 billion
+annualized revenue run rate. Okay?
+Follow the money.
+And this is fantastic. Great job Zero
+Hedge on this one. Follow the money.
+Cursor's
+parent company, Inflection raised 2.3
+billion at a $29 billion valuation last
+November in a round co-led by Accel and
+I've no idea how to pronounce that. I'm
+sure
+you guys know, but we'll just call it
+Coat.
+>> [laughter]
+>> Alongside Thrive Capital, Andreessen
+Horowitz, Nvidia, and
+of course, because Nvidia and Google are
+investing in this, and it just
+>> [laughter]
+>> There's little circle jerks within the
+big circle jerk.
+All right. So, 3 months later this coat
+in Singapore's GIC led Anthropic's
+massive $30 billion
+series G.
+And again,
+and Nvidia participating, shocker
+shocker. Coat's cash flows into Cursor,
+here's where you got to put your
+thinking cap on.
+Coat's cash flows into Cursor
+or excuse me, I'm kind of mispronouncing
+that. Coat's cash flows into Cursor,
+Cursor spends it
+on Claude tokens.
+Those tokens book as Anthropic revenue.
+And that revenue underwrites the markups
+on Coat's Anthropic state. Stake, excuse
+me. So, what happens there it it's it's
+similar to what we were just talking
+about where they take
+>> [laughter]
+>> they raise all this money
+and then they dump it into businesses
+that dump it into the token spend, which
+increases the valuation of the equity
+stakes that they have in these frontier
+models.
+But it's not it's it's fugazis.
+It's all
+It's all fugazis.
+So, what happens if if you don't get the
+2.3 billion
+or if you don't have the circle jerk,
+what happens to the valuations of these
+frontier models if they have to actually
+survive without
+what is basically the charity
+>> [laughter]
+>> or really financial engineering
+coming in from these VC companies
+that are just trying to use that
+financial engineering to pump up their
+stake
+in the equity positions that they have
+in these companies at the expense
+of all the other companies or at the
+expense potentially of their investors.
+So, my point there is without
+the the the financial engineering circle
+jerk, if they just have to stand on
+their own with just the revenue that's
+coming in from their normal customers
+that are actually using the product for
+using AI, then their revenue is
+completely collapsed.
+Completely collapsed.
+And if their revenues collapse, what
+happens to Nvidia's stake?
+Oh, well, that goes ostile a bye-bye.
+What happens to Google? That goes down.
+Their share price goes down. I mean,
+it's Basically, you're just merging
+everyone's balance sheet onto one thing,
+and that balance sheet is propped up
+by a bunch of fugazis.
+And then the fugazis leave, and then the
+whole balance sheet blows up.
+And I think that's their model. I mean,
+I think they're honestly, I think
+they're in their minds, they're like,
+"Eff it. Let's just make this thing so
+big that it's just too big to fail
+because when it inevitably does fail,
+then we'll just get
+bailed out by the government.
+And we'll be made whole.
+And then if by some
+magic
+>> [laughter]
+>> magic of the heavens, this actually
+works out, then we've got a free call
+option.
+And the What's your downside? No
+Downside, you get bailed out, you get
+made whole.
+And the upside is you got this call
+option where you're all going to be
+trillionaires.
+I mean,
+it's it's just
+I guess what makes me so frustrated
+about all this is it seems like
+everywhere you look today
+in society,
+it's all just a grift.
+It's all just a financial engineering
+grift
+where the bag holder is just the retail
+investor or the taxpayer.
+It's like that's the model. Like like if
+people sit down
+they say, "Hey, how can we build
+something and just offload all the risk
+to the average Joe and Jane and where we
+just take all the upside?"
+And we don't have to create anything.
+All we have to do is just this shell
+game of financial engineering.
+And it's like that's what everyone's
+taking all their mental bandwidth and
+allocating
+just hours a day to try to figure that
+out.
+It's just
+it's sad.
+Let's see, two straight months of no
+growth in token spend.
+Which they obviously have to have to
+have some sort of economic model.
+Because the argument there is of course,
+well, you've got the deflation in the
+token price. Everyone knew that was
+going to happen, right? And in other
+words, that's revenue going to the
+frontier models here.
+But the argument was, well, growth is
+going to exceed the deflation
+in the price for tokens.
+And therefore on net balance, the
+revenue is still going to grow. But what
+we're seeing is the massive deflation,
+but we ain't really seeing
+the increase in volume or token usage
+that you would need to offset the
+deflation.
+And here I've got to pat myself on the
+back
+for for for this. Because I I called
+this.
+I mean, right out of the gate.
+I'm like, look, what's going to happen
+with these frontier models is they're
+just going to be a commodity.
+They're they're or a utility. That's
+probably a better way to say it. They're
+just going to turn into a utility.
+Where it's just you have very low
+margins and you basically charge just a
+little bit more than it costs you in
+energy.
+And that's it. So basically, the price
+of these tokens just contracts all the
+way down to your electricity cost
+or your cost of cooling or something
+like that.
+And then you just a little bit more, but
+it's like not it's basically like
+Verizon or AT&T.
+The the problem there, of course, is
+>> [laughter]
+>> they're being priced at at some
+astronomical growth rate
+where in reality
+it ain't a growth company
+in terms of of revenue profits. It's a
+utility.
+And I think
+so
+we've been talking about this since day
+one and it's playing out right in front
+of our eyes. That's really the bottom
+line.
+Here you go. AI token prices are
+falling. No surprise there.
+They're talking about price cuts. I
+mean, this is just straight out free
+market deflate well
+free market's a stretch here.
+>> [laughter]
+>> All right, but this is let's say market
+based deflation.
+Uh in tech and you see it all the time
+and it was totally totally predictable.
+I think what they
+uh the bulls
+meaning they uh what they
+fire back with is this what is it?
+Jevons paradox? Is that what it is?
+Let's read about that. Anthropic joins
+the price war. Meanwhile, Anthropic's
+realized token prices has been cut in
+half in just one month.
+Whoa. Anthropic's realized token price
+has been cut in half in just one month.
+So, it's saying
+let's see. Okay, which the Anthropic
+token price index, which measures the
+actual dollars customer pays per token
+consumed, has cratered
+to 83 cents per million tokens
+from $1.70
+$1.70 in mid-September.
+Marking a record low
+since the benchmark launched in June.
+Yeah, I mean, look.
+The The The price of these tokens, it's
+going to zero.
+Or
+just
+0.001 above the energy costs.
+Even after that plunge, Anthropic
+remains pricier than Open AI, who sits
+at 45 cents for the exact same thing.
+Open AI's realized pricing collapsed in
+late July after it slashed rates on GPT
+5.6 Luna and Terra models up to 80%.
+And this is to compete with these
+Chinese models, like they're saying
+Moonshot and Kimi K3.
+And now they're talking about Jevons. Is
+it Jevons paradox? I think that's what
+it is.
+The bulls' reflex answer to this
+relentless price cuts is Jevons paradox.
+Yeah, Jevons paradox.
+Make token tokens cheap enough and usage
+will explode so fast that total revenue
+rises anyway.
+But look, the thing is most people who
+use AI
+I'm not talking about the power users,
+but most people use it for free.
+So, it's it's not even It can't get any
+cheaper than free.
+So,
+>> [laughter]
+>> I mean, there are a lot of people that
+have the $20 subscription or maybe I
+don't even know what it is, the $200
+subscription now, something like that.
+But a vast majority of the people out
+there, I think just use AI like a search
+engine.
+And it's just They They get it for free.
+So,
+how is reducing the price going to
+increase usage?
+And again, maybe I mean I get the
+concept. But we're not seeing it play
+out in the data.
+Here you go. Here's a quote from Goldman
+Sachs. Token demand growth will need to
+outpace declining token prices. We
+talked about this earlier. To support to
+support continued growth
+in investing spending investment
+spending.
+Noting that while Frontier models are
+currently a key source of demand for
+hyperscaler compute, cheap open source
+rivals are rapidly gaining ground.
+By Goldman's estimate built on
+Anara and open router data,
+total token demand has surged roughly
+18-fold since December, but demand for
+high-margin Frontier models has grown
+only half as fast. So, like I said, it
+is true. You're seeing massive deflation
+in the token prices, which everyone
+expected. But what you're not seeing is
+enough demand growth to offset the
+deflationary pressures, and that
+the
+the delta there
+>> [laughter]
+>> is basically
+AI, or excuse me, Open AI, or
+Anthropic's revenue.
+Look at this.
+Demand
+token demand growth is actually
+declining
+for the Frontier models.
+Oh, and here's when they talk about the
+margin squeeze. Yeah, that was exactly
+what I was just referring to.
+So, the margin squeeze flowing directly
+upstream to the companies building the
+data centers.
+Yeah, because uh
+Uh we didn't even get into that.
+Because you've got the concentration
+of revenue with Nvidia, we talked about
+that. The massive epic concentrate, not
+just the concentration but the circle
+jerk
+of open AI, these VC firms, and
+Anthropic. And on top of that, who is
+the customer or like the 80% of the
+revenue coming into these data centers,
+it's basically coming from [laughter]
+from open AI and Anthropic.
+Goldman calculates that realized returns
+on invested capital across Amazon,
+Alphabet, Meta, Microsoft, Oracle has
+fallen from 40% to 25%.
+The lowest reading in the data set going
+back to 2016.
+Hyperscalers, yeah, the hyperfailures
+is what we've been calling them
+on this channel.
+Even Ken Griffin
+just taking a shot at them. Citadel's
+Ken Griffin told Bloomberg that markets
+are almost certainly
+in an AI bubble.
+Apollo chief economist Torsten Slok
+Sloke
+not sure how you pronounce his last
+name. Silicon Valley operates on the
+premise that compute demand is
+unlimited.
+Yet the recent slowdown in token
+spending growth suggests that the
+appetite may exist only when compute is
+effectively free.
+Yeah.
+I mean this is this is all just
+basic common sense.
+I mean anyone could have predicted this
+if they weren't just caught up in this
+hysteria. They could have predicted this
+a year ago, six months ago.
+Sloke concluded corporate buyers will
+only pay a premium if they can translate
+the tokens into higher top-line growth.
+Not just top-line but bottom line.
+Bigger prop bigger profit margins or
+substantially substantial cost savings
+which basically goes into profit
+margins. Little of which is showing up
+at scale yet.
+Maybe that will come in the future, but
+maybe not. But still, even if
+even if the big corporations are like,
+"Yes, now we've figured out a way to
+really, really boost our top line and
+bottom line using AI, so this is totally
+indispensable." I'm sure we'll get to
+that point. I have no doubt in my mind.
+But the problem is when they get to that
+point, then the frontier models
+are just competing for their business,
+because they have no moat around the
+business. I mean, I'm a perfect example
+of this. I use Gemini
+and I use Open AI. But I just bounce
+back and forth. And then for like the
+last 2 months, I've been using Gemini
+because it was working a little bit
+better. But I've I I've noticed recently
+with this new upgrade or whatever you
+call it, that Open AI is working a
+little bit better. So, I just switched
+back over to Open AI.
+I mean, there's there's no
+>> [laughter]
+>> There's no network effect. There's
+there's nothing. It's just you just
+bounce back and forth to the flavor of
+the the the the week or the soup of the
+day.
+So, the point there is these corporate
+buyers are going to be likely to be able
+to do the exact same thing. If not,
+they're or, excuse me, they're going to
+just use their own open-source AI,
+because they don't want to share their
+data with Anthropic or Open AI. But
+assuming that they go that direction
+using one of these frontier models, then
+it's just like, "Okay, hey, you know,
+we're a quarter of your revenue." It
+goes back to that. And Open AI is
+willing to charge us
+50% less on tokens. So, what can you do?
+Well, you got to undercut Open AI. And
+then Open AI has to undercut Anthropic.
+And then it's just this race to the
+bottom till you get to the point where
+you're a utility.
+Your margins are nothing.
+And the problem there is the stock
+market
+isn't priced.
+Meaning the you know, the whole AI CAPEX
+spin, all the spending, which by the way
+is propping up the economy in the form
+of GDP.
+Right? That's a substantial part of the
+little bit of GDP growth, real GDP
+growth we actually have.
+So you've got that, and then you've got
+obviously the legs of the stool there,
+and pretty much one leg of the stool
+now, which asset prices.
+And those asset prices, the breadth
+of the S&P 500 is about the same as the
+breadth of as of Nvidia's revenues.
+>> [laughter]
+>> Like that. It's It's like the gym guy
+that's only got the two customers
+bringing in 40% of the revenue.
+Same thing with S&P 500.
+So when that leg of the stool, you know,
+blows up, then you just got this
+chain reaction.
+And it just seems like it's absolutely
+inevitable.
+And I know I say on this channel
+there are no certainties, there are only
+probabilities. And that's very, very
+true.
+Very, very true.
+But it just seems like the more
+information, the more intel that comes
+out about this
+ecosystem of financial engineering and
+circle jerking
+and lack of profit,
+>> [laughter]
+>> it just seems like
+it's not a matter of if, it's just
+simply a matter of when.
+But I'll let you guys be the judge.
+All right. Josh, we got great news for
+everyone.
+When I do these videos, people always
+say, "George, I get what you're saying.
+It makes a lot of sense. I totally
+agree, but what do I do about it?"
+And I've taken that to into
+consideration. That's a great question,
+right? Because we not only want to be
+aware of what's happening around us,
+but we also want to be prepared.
+And so I came up with a free newsletter.
+We just launched it. The first email
+went out today. It's going to go out
+twice a week. One is a macro alert that
+just goes over everything for the week
+that I think you should be privy to.
+And then we've got a trade alert. And
+the team that's working on this, I said,
+"Guys, we want to focus on three things
+here for these emails, for this free
+newsletter
+called the Rebel Capitalist Newsletter.
+I said, "Number one, we want to make it
+extremely valuable.
+Number two, we want to make it extremely
+actionable.
+And then number three, we want to make
+sure that if someone clicks on that
+email,
+they can consume the whole thing in 30
+seconds.
+Barely have to read anything. So you got
+two or 300 words in there. You just got
+charts, graphs, arrows showing you
+everything that you need to know. Bam,
+you get it. It's that golden nugget that
+you need for the day. And then you just
+move on to picking up your kids from
+school or checking your other emails.
+And I think that we've achieved those
+three objectives extremely
+extremely well. So then you can sign up
+for free.
+And so Josh put a link in the chat,
+please. And then go ahead and we'll put
+a link in the description below. So if
+you want to check it out, you can go
+ahead and do that. I mean, what's your
+downside? Talk about risk reward. It's
+free.
+>> [laughter]
+>> So very little downside on that. All
+right, guys. On that bombshell, enjoy
+the rest of your afternoon. As always,
+make sure you're standing for freedom,
+liberty, free market capitalism, and
+we'll see you in the next video.
