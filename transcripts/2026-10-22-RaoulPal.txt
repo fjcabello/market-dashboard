@@ -1,0 +1,740 @@
+Una de las cosas que me ha importado,
+ que ha impulsado todo el viaje de Real
+ Vision y todo lo que he hecho, es la
+ democratización de la inteligencia
+ financiera. No me gustan los guardianes
+. Tras la llegada de la IA, pensé: "A
+ la [ __ ] con eso". "Simplemente se lo
+ daremos a la gente". La compresión es
+ la forma más elevada de inteligencia.
+ Esto no es una ciencia exacta. Es todo
+ un arte con un marco probabilístico a
+ su alrededor. Creo que estamos en un
+ superciclo debido a los gastos de
+ capital. Así que, rápidamente, antes
+ de pasar al programa de hoy, este
+ episodio es presentado por Pyth. Pyth
+ Network es la empresa de datos
+ financieros de más rápido crecimiento
+ en la actualidad. Con la confianza de
+ Fidelity Investments, el Departamento
+ de Comercio de EE. UU. , Revolut,
+ Kalshi, Jane Street, Coinbase y muchos
+ más. Proporcionan datos de mercado
+ financiero en tiempo real de más de
+ 3,000 acciones, materias primas,
+ criptomonedas, tipos de cambio y, de
+ nuevo, mucho más. Son el primer y
+ mayor proveedor de índices financieros
+ 24/7, y ofrecen la gama más amplia de
+ datos de mercado al menor costo. Así
+ que ve a pith.network para aprovechar
+ su prueba gratuita.
+ Únete a mí, Raoul Pal, mientras
+ emprendo un viaje de descubrimiento a
+ través de los paisajes
+ macroeconómicos, criptográficos y de
+ la era exponencial. En The Journey Man,
+ hablo con las personas más
+ inteligentes del mundo, para que todos
+ podamos ser más inteligentes juntos.
+ Así que, una de las cosas que me ha
+ importado, que ha impulsado todo el
+ viaje de Real Vision y todo lo que he
+ hecho, es la democratización de la
+ inteligencia financiera. No me gustan
+ los guardianes. No me gusta que solo se
+ permita el acceso a algunas personas.
+ Ahora, no todo el mundo puede tener
+ todo, pero cuanta más información se
+ ponga en manos de los inversores
+ individuales, mejor. Porque no
+ necesitas a alguien más para
+ administrar tu dinero. Solo necesitas
+ las herramientas y la comprensión para
+ hacerlo. Durante mucho tiempo, fui
+ pionero, desde finales de los 90, en el
+ uso del ciclo económico, como una
+ herramienta clave para comprender los
+ mercados y las economías globales.
+ Creo que ISI y un equipo en Morgan
+ Stanley y yo realmente fuimos los
+ principales defensores del ciclo
+ económico. Obviamente, también estaba
+ el instituto de ciclos económicos ECRI
+. Pero no había muchas personas
+ haciéndolo. Ahora mucha más gente lo
+ hace. Así que durante mucho tiempo
+ pagué por Bloomberg, Refinitiv y cosas
+ así para construir todos estos
+ indicadores y paneles, y veníamos
+ aquí a impresionarlos con ellos y
+ decirles: miren estos gráficos y todo
+ eso. Y pensé en esto tras la llegada
+ de la IA y pensé: a la [ __ ],
+ simplemente se lo vamos a dar a la
+ gente. Dáselo a la gente, deja que
+ jueguen con ello, que podamos hablar al
+ respecto y así se vayan acostumbrando.
+ Tal como te acostumbraste a TradingView
+ y al análisis técnico. Aunque quizás
+ hayas pagado por análisis técnico en
+ el pasado, y tal vez lo sigas haciendo,
+ empiezas a experimentar por tu cuenta.
+ Y pensé, demonios, ¿por qué no
+ hacemos esto en RealVision si realmente
+ no es algo propietario? Son datos
+ públicos. Eh, no hay nada que sea
+ propietario, más allá de, ya sabes,
+ mi experiencia y cómo puedo añadir
+ valor a ello. Y pensé, me pregunto si
+ puedo, me pregunto si también puedo
+ automatizar eso gracias a la IA. Así
+ que creé los paneles de GMI dentro de
+ RealVision como una forma de lograr
+ esto. Bien, así que construí para
+ ustedes todos los paneles con los que
+ vamos a empezar, el panel gratuito. El
+ panel gratuito que está aquí abajo,
+ cualquiera que se una a RealVision
+ puede obtenerlo. Lo que tengo aquí es
+ la premisa simple que está en todos
+ los paneles: la compresión es la forma
+ más elevada de inteligencia. Deberías
+ ser capaz de comprimir toda la
+ información en lo único que importa.
+ Y en cada nivel, en el panel gratuito,
+ el alpha y el pro, es compresión pero
+ de más cosas. Y ese es el secreto
+ aquí. Cada panel contiene mucho más
+ porque estás en un nivel diferente,
+ pero todo se comprime en lo más
+ sencillo. ¿Qué necesito hacer ahora?
+ Esa es la pregunta que la compresión
+ siempre debe plantear para un inversor.
+ Así que aquí te dice: verano. Es un
+ color y un nombre. Muy simple. ¿Qué
+ significa verano? Verano significa que
+ hace buen tiempo, es agradable, todos
+ están felices. Bien, eso es una
+ compresión en sí misma, la palabra
+ verano. Lo que nos dice es que es bueno
+ para los mercados. Comprimidos aquí
+ están el ciclo económico y el ciclo
+ de liquidez. Así que nos da eso y nos
+ da, eh, el impulso dentro de ello. Bien
+, genial. Así que nos dice que es
+ momento de tomar riesgos. Es un momento
+ feliz. En el nivel gratuito, puedes ver
+ a través de los diferentes sectores o
+ grupos. Así que los sectores aquí,
+ puedo ver qué se ha estado moviendo.
+ Ahora estamos en un mercado alcista
+ tecnológico, así que la tecnología
+ gana en casi todos los niveles.
+ Recientemente, el sector salud en la
+ última semana. Bien, eso te da una
+ idea de qué se está moviendo y dónde
+ están las oportunidades. Y puedes
+ entender la tasa de cambio aquí. Así
+ que la tasa de cambio es: bien, salud
+ durante la última semana, durante el
+ último mes ha sido tecnología. Luego
+ fue energía. Tecnología. Así que te
+ muestra los sectores que quizás
+ quieras empezar a analizar, hacer un
+ poco de análisis técnico o lo que sea
+. Clases de activos, petróleo.
+ Petróleo durante el último año. Y
+ debajo de eso, en los últimos 6 meses,
+ ha sido Solana, luego Ethereum,
+ etcétera. Así que te da una idea, te
+ da el porcentaje o el movimiento de
+ desviación estándar. Las materias
+ primas han tenido un movimiento de dos
+ desviaciones estándar en los últimos
+ 3 meses. Durante un año, las materias
+ primas tienen un movimiento de 1.7
+ desviaciones estándar. Eso te indica
+ que está potencialmente sobrecomprado
+ porque es bastante alto. Así que eso
+ es útil para ti. Los agitadores, qué
+ está sobrecomprado y qué está
+ sobrevendido. Así que añades esa
+ información a esto, lo que te da más
+ contexto. Y ese es un RSI de 14 días
+ frente a su tendencia de 3 meses.
+ Puedes ver que las finanzas cayeron
+ frente a su tendencia, tendencia de 1
+ mes, y luego una puntuación de
+ extensión combinada. ¿Qué es la
+ extensión? Tecnología todavía está
+ muy extendida. Eso es una puntuación Z
+ de tendencia de RSI a 3 meses combinada
+. Y de nuevo, simplemente te da una
+ idea. Y luego el pensamiento libre
+ comprime todo de nuevo y te muestra
+ dónde está cada activo y dónde
+ podría estar la oportunidad. Y hay
+ explicaciones ahí. Entonces, en el
+ nivel gratuito, hay mucho ahí. Es una
+ herramienta realmente muy útil y es
+ gratis para todos ustedes. La mayoría
+ de ustedes aún no la han descubierto.
+ Así que, volvamos a, um, la versión
+ MIT. Bien, ahora tenemos más
+ información. ¿Qué te ofrece el MIT?
+ La profundidad del ciclo económico y
+ la liquidez. Así que de eso trata
+ precisamente esto. Aquí está la
+ compresión de riesgo. La liquidez
+ está aumentando, la economía está
+ creciendo. Estos se generan
+ automáticamente mediante los datos que
+ les mostraré en breve. Y calcula esto
+ y lo pone en un entorno de asignación
+ de activos. Riesgo activo. La temporada
+ macro coincide con el entorno y luego
+ puedes observar los diferentes
+ indicadores, y repasa y explica el
+ porqué y el qué. Así que no voy a
+ repasar todo, pero revisen esto, hagan
+ clic en las cosas, y hay explicaciones.
+ Está lo que lo haría más fuerte, lo
+ que lo rompería, qué está pasando
+ ahora mismo. Bien, las temporadas macro
+ te dan más detalles sobre las
+ temporadas macro. ¿Qué estás
+ buscando aquí? Oh, las pequeñas
+ capitalizaciones están baratas. Bien,
+ eso es interesante. ¿Encuentro alguna
+ pequeña capitalización que sea
+ interesante?¿O aún no están
+ funcionando? De nuevo, el desglose
+ completo explica en el sector qué
+ significa exactamente, dónde estamos,
+ hacia dónde nos hemos movido, todo eso
+. Si quieres saber sobre las
+ macroestaciones, ve a ver el episodio
+ en la Real Vision Academy. Tanto Julian
+ como Andreas analizan el ciclo
+ económico con mucho detalle. Eso te
+ dará los fundamentos. O ve y pídele
+ al RV Brain que te lo explique. En
+ cualquier momento, puedes tomar una
+ captura de pantalla de la imagen.
+ Pregúntale al RV Brain, te ayudará.
+ Pero mi versión de ayudarte es cada
+ semana en MIT, recibes Real's Take. Y
+ esto es yo generando, no generando, en
+ realidad creando una nota cada lunes
+ por la mañana que se publica. También
+ la recibes en tu bandeja de entrada y
+ en la plataforma de Real Vision con los
+ gráficos adjuntos. Pero esta es una
+ manera muy rápida de ver qué está
+ pasando en el entorno macro según Real
+. Ahora, lo que te he dado, la
+ capacidad y el poder en tus manos, es
+ decir que Real está equivocado. O
+ decir que estoy de acuerdo con Real
+ porque he analizado esto, y te lo
+ mostraré en un segundo.
+ Macroestaciones, recorre todas las
+ estaciones completas. Las piezas de
+ dominó. Bien, esta es una parte
+ importante: si quieres comprimir todo
+ el ciclo económico, bueno, las
+ condiciones financieras están al
+ frente y han estado cayendo. De acuerdo
+. Las condiciones financieras se han
+ estado endureciendo debido al dólar,
+ etc. Eso activa una señal de
+ advertencia. Oye, el futuro no parece
+ tan bueno. Esto puede afectar al
+ presente, ya que lidera la liquidez
+ global y eso liderará los mercados. La
+ liquidez global está algo estancada,
+ moviéndose de un lado a otro. Y, de
+ nuevo, podemos observar la evidencia.
+ Si haces clic aquí, te llevará a
+ otras secciones. Todavía estamos en
+ expansión, con un panorama mixto
+ porque las condiciones financieras nos
+ ponen nerviosos, y hablamos de ello.
+ Luego, también hay una lectura
+ completa de IA sobre todo esto. Y
+ cuando todo se actualiza. Así que todo
+ está ahí para que ahora entiendas
+ simplemente de qué se trata. Pero al
+ principio siempre hay una compresión.
+ Y te mostraré de qué se comprime esto
+, porque podrías pensar: "Dios mío,
+ es demasiada información". No tienes
+ idea de cuánta información tengo que
+ digerir en mi cabeza en todo momento.
+ El reloj del ciclo. Esta es nuestra
+ mejor estimación de dónde estamos, el
+ ciclo de refinanciación de deuda.
+ Sabes, creemos que es de unos 5.6 años
+. Eso nos llevaría hasta principios
+ del 27 antes de tener un ciclo de
+ liquidez. Sin embargo, creo que estamos
+ en un superciclo debido al gasto de
+ capital (CapEx). Entonces, tenemos una
+ versión alternativa de esto que se
+ parece más a los años 90, donde las
+ cosas se ralentizan un poco y luego
+ vuelven a acelerar. Así que estamos
+ monitoreando estas cosas y escribo
+ sobre ellas. Una breve pausa en su
+ programación habitual. Si se toma en
+ serio su futuro, obtenga mi informe
+ gratuito llamado Prepárese para 2030.
+ Creo que tiene 5 años para ganar la
+ mayor cantidad de dinero posible y esta
+ guía le ayudará a navegar lo que
+ viene. El enlace está en la
+ descripción. Descárguelo ahora. El "
+código de todo" y el monitor, uno al
+ lado del otro. Entonces, esto es, de
+ acuerdo, ¿qué dice el "código de
+ todo" sobre la liquidez y qué dice el
+ monitor de tendencias basado en las
+ señales semanales? Las señales
+ semanales, si recuerdan, son el
+ indicador GeoMy Trend en TradingView.
+ Es gratis para todos. Pueden ir y
+ echarle un vistazo. Es un indicador de
+ tendencia semanal que le da una idea de
+ dónde se encuentra en la tendencia
+ general. Eso es importante para las
+ personas a las que no les gusta lidiar
+ con la volatilidad de las grandes
+ oscilaciones de los precios de los
+ activos. Así que, puede darse cuenta,
+ de acuerdo, bueno, Bitcoin, su
+ tendencia secular, el "código de todo"
+ dice que debería subir, por la
+ liquidez. Uh, el monitor dice, sí, el
+ mercado lo está confirmando. Está en
+ tendencia. El dólar, el "código de
+ todo" dice que debería estar bajando.
+ Ha estado subiendo. Está estancado. Y
+ luego puede ir al porqué. También le
+ da el desglose de eso. Entonces, puede
+ ver aquí, puede profundizar tanto como
+ quiera o puede tomar el nivel de
+ compresión más alto. Disparadores y
+ cambios donde las cosas pueden cambiar,
+ qué ha salido mal o si han salido
+ datos importantes. El monitor de riesgo
+, ustedes ya deberían estar
+ familiarizados con esto a estas alturas
+. Es otra expresión de la misma idea,
+ pero planteada de forma muy sencilla en
+ términos de, oye, ¿dónde está la
+ liquidez? Le ponemos una de estas
+ súper tendencias. Son puntos verdes,
+ está subiendo. ¿Dónde está el ciclo
+ económico? Puntos verdes, está
+ subiendo. No necesita saber nada más,
+ expansión de ciclo completo. Y luego
+ tiene, de acuerdo, ¿dónde está la
+ tendencia semanal frente a eso? Qué
+ tan riesgosas son estas cosas para
+ asegurarse de dimensionarlas
+ adecuadamente y entender el riesgo que
+ está asumiendo. Eso ayuda a las
+ personas cuando están construyendo una
+ cartera y sus ideas. Si no, vaya a ver
+ el video que creé sobre cómo
+ construyo una cartera y cómo gestiono
+ esto. También en la Real Vision
+ Academy, hay muchísimo sobre esto.
+ Bien. Ahora, el plato fuerte. Esto es
+ solo una compresión de todo esto. Y
+ este es cada gráfico que siempre has
+ necesitado en...Perdón, volveré a la
+ página de compresión. Sobre el ciclo
+ económico. Y puedes jugar con todos
+ ellos tú mismo. ¿Dónde estamos en la
+ liquidez global? Puedes ver la
+ fortaleza del dólar que ha hecho bajar
+ la liquidez global. Podemos acercar la
+ imagen. ¿Cómo es la tendencia a lo
+ largo del tiempo? Ya sabes, todo está
+ aquí para ti. Cada herramienta que
+ siempre has querido. Luego puedes
+ descargarlo. Puedes guardar la imagen.
+ Puedes ponerlos en tu sección de
+ favoritos. También puedes hacer clic
+ en ellos, decir: quiero que quede
+ bloqueado así. O puedes decir: en
+ realidad, quiero volver a la versión
+ de Raoul. Y aparece, se vuelve a
+ completar. Entonces, ahí está la
+ liquidez global año tras año. Los
+ gráficos de correlación, el Nasdaq
+ contra la liquidez global, que sigue
+ siendo un gráfico hermoso. Eh, los
+ gráficos de liquidez global de Bitcoin
+ a largo plazo. Luego están las
+ versiones año tras año de lo mismo.
+ Aquí está la tendencia en la liquidez
+. Ya sabes, ¿cómo se ve año tras
+ año? No tengo tiempo aquí para
+ revisar cada gráfico. Pero aquellos de
+ ustedes que han estado familiarizados
+ con el trabajo y leen MIT, me ven en
+ los informes mensuales, los informes en
+ video, llegan a entender cómo unir
+ todo esto. El ciclo económico completo
+, el código dominó de todo, todos los
+ gráficos que necesitarás están aquí
+, e incluso monitoreamos hacia dónde
+ se desvían las cosas a partir de los
+ adelantos, retrasos, correlaciones y
+ demás. Porque eso también es
+ importante saberlo, porque todo se
+ mueve. No hay una ciencia perfecta
+ aquí. Todo es un arte con un marco
+ probabilístico a su alrededor.
+ Entonces, necesitamos entender todas
+ estas cosas. De nuevo, si te pierdes en
+ el ciclo económico, ¿qué diablos
+ significa todo esto? Ve a la Real
+ Vision Academy. Todos los cursos del
+ ciclo económico están ahí para
+ ayudarte en todo esto, y pregúntale al
+ cerebro de Real Vision. Tenemos
+ gráficos de inflación, y sigue y
+ sigue. Vivienda, tasas, dólar, China,
+ todo lo que siempre has querido está
+ ahora en tus manos. Puedes jugar con
+ cualquier gráfico, puedes cambiar los
+ adelantos y retrasos, puedes mirar
+ cualquier cosa y formular tu propia
+ opinión. Pero no necesitas entender
+ todo aquí. Todo lo que tienes que
+ hacer es realmente tomar una captura,
+ dársela al mentor de Real AI, o
+ dársela al cerebro de RV, y decir: "
+Oye, ayúdame a interpretar esto". ¿
+Qué significa esto?¿Qué debería
+ estar observando aquí? Y así es como
+ empiezas a usar las herramientas a tu
+ favor, para que sientas que tienes el
+ control de todo esto. Entonces, veamos
+ ahora la siguiente versión de esto. Y,
+ de nuevo, solo les insto a que jueguen
+ con todo esto. Bien, si volvemos a la
+ compresión, veamos ahora la versión
+ profesional. ¿En qué se diferencia?
+ La versión profesional contiene las
+ posiciones reales de la cartera
+ profesional. Y te da una idea de dónde
+ estás con esas operaciones y qué
+ está pasando. Y de nuevo, siempre al
+ principio, ¿qué necesitas saber?
+ Mantener. Estamos en una tendencia
+ secular. El mercado está inestable.
+ Tenemos algo de volatilidad. Tenemos
+ cosas como complicaciones con las
+ condiciones financieras. Entonces, te
+ dice lo que deberías estar haciendo y
+ puedes hacer clic en cada una de estas
+ y te da el desglose completo de la
+ información de dónde estamos, qué
+ está sobrecomprado, qué está barato,
+ qué deberías acumular, dónde
+ deberías invertir en grande. Esto no
+ es asesoramiento financiero. Esto es
+ generado por datos. Y está ahí para
+ que lo cuestiones. Está ahí para que
+ lo uses como un marco para decir: "¿
+Qué quiero hacer aquí?¿Hay otra
+ operación que quiera hacer?¿Quiero
+ gestionar mis posiciones?¿Quiero
+ cambiar algo?". Te da, de nuevo, las
+ macroestaciones y los detalles
+ completos. Entonces, echemos un vistazo
+ y tenemos la opinión de Real. Las
+ macroestaciones son las que entendemos,
+ están todas aquí. Dónde estamos y
+ cuál es la estación. Entonces, tienes
+ las cosas de alto nivel que necesitas.
+ Pero luego empezamos a añadir cosas
+ como el libro. Y puedes ver todas las
+ entradas y todo lo demás de las
+ posiciones completas. Pero aquí, nos
+ está diciendo: "Bueno, el Nasdaq" y
+ simplemente haz clic para obtener más
+ información. Es increíble. Y
+ construí todo esto yo mismo, me
+ gustaría que lo supieran. Totalmente
+ yo mismo. Entonces, es como si hubiera
+ estado indicando tomar ganancias
+ durante los últimos meses porque se
+ sobrecompró drásticamente. Está
+ empezando a bajar de su sobrecompra.
+ Pero básicamente es como: "Oye, este
+ no es realmente el momento de añadir
+ esto todavía". Ahora, puede que no
+ estés de acuerdo con eso. Puede que
+ encuentres la configuración técnica
+ que estás buscando. Te da, digamos,
+ una moneda. Entonces, a menudo, cuando
+ ves estos signos de exclamación,
+ significa que la serie de datos no es
+ suficiente o, en este caso, Coinbase
+ tiene una volatilidad extrema. Es
+ mantener donde está frente al valor
+ razonable. El valor justo no es un
+ cálculo basado en ratios P/E ni nada
+ de eso. Es, es un modelo de valoración
+ de tendencias. ¿Dónde está respecto
+ a su tendencia?¿Dónde está respecto
+ a dónde deberíamos estar en el
+ código de todo? Todo eso. Y todas las
+ descripciones están aquí. Todos los
+ detalles que necesitas manejar. Qué
+ significa, dónde se sitúa el libro,
+ qué posiciones tenemos, cómo encajan
+ todas. Y de nuevo, puedes profundizar
+ en todos los detalles de esto.
+ Disparadores de alerta y cambios, te
+ indica que estas serían cosas
+ negativas. Um, los propios disparadores
+ del libro, bueno, tenemos uno rojo, que
+ es el índice de condiciones
+ financieras. No estamos contentos con
+ eso. Necesitamos ver qué está pasando
+ ahí. Um, etcétera. Así que todo eso
+ está ahí. Esas son las ideas de "en
+ qué me equivoco". El código de todo
+ tiene los mismos gráficos, el índice
+ de gráficos obviamente te da cada
+ gráfico para que puedas revisarlos, lo
+ cual es súper útil y puedes buscarlos
+. Uh, eso...no lo sé. Nos falta, uh,
+ me falta un botón aquí. Necesito ir y
+, uh, oh no, ahí está. Perdón.
+ Compresión. Solo yo siendo un idiota.
+ Um, y luego tenemos, um, mis gráficos,
+ así que puedo guardar cualquier
+ gráfico que quiera. No tengo nada
+ guardado ahora mismo. Así que, sí,
+ puedes guardar todos tus propios
+ gráficos ahí también. Todavía no
+ tengo nada guardado en este momento.
+ Entonces, puedes volver a los mismos
+ gráficos que consideras importantes.
+ Puedes cambiarlos. Puedes reordenarlos.
+ El monitor de riesgo ahora usa las
+ posiciones existentes, las posiciones
+ exactas, no solo clases de activos. ¿
+Dónde estamos en la tendencia?¿Qué
+ está pasando?¿Están siendo
+ confirmadas por los indicadores
+ semanales?¿Qué tan volátiles son?
+ Así que, de nuevo, tienes una idea del
+ riesgo que estoy tomando en la cartera
+ y si son adecuados para ti. Luego en la
+ parte inferior, tienes la máquina de
+ interés compuesto. La máquina de
+ interés compuesto es mi forma de
+ ayudarte con las tendencias seculares.
+ Aquí es donde registro Bitcoin y el
+ Nasdaq porque son las mayores
+ tendencias seculares y, dentro de eso,
+ tienes todas las acciones tecnológicas
+ o todos los mercados cripto. Usamos
+ esto como guía. Entonces, puedes poner
+ cualquier inversión, digamos que
+ inviertes cien mil, o quizás menos.
+ Pones diez mil. Y puedes poner tu fecha
+ de inicio, cuando lo hiciste. Quieres
+ comprar cuando el mercado esté
+ sobrevendido a una desviación
+ estándar y media. Quieres vender
+ cuando llegue a dos desviaciones
+ estándar. Quiero vender un 20%. Quiero
+ vender, ya sabes, cantidades fijas de X
+, lo que sea. Y te ofrece tus
+ estadísticas, cómo te ha ido con el
+ tiempo y cómo lo estás haciendo. Y
+ muestra tus compras y ventas, cuándo
+ añadiste, cuándo compraste, cuándo
+ vendiste si quieres venderlo. Esta es
+ la razón por la que no retiré ninguna
+ ganancia para mi estilo de vida, porque
+ nunca llegamos a superar una o dos
+ desviaciones estándar, donde prefiero
+ pensar que el mercado probablemente ha
+ ido demasiado lejos. Así que lo que
+ tuvimos, creo, es una corrección de
+ mitad de ciclo algo similar a esta.
+ Entonces, ¿es este un ciclo alargado?
+ Lo más probable, en mi opinión. Y
+ podemos ver los diferentes tipos de
+ estrategias, y puedes probarlas. Así
+ que, de nuevo, está ahí para que
+ juegues con ello. Y finalmente, llegas
+ a los que mueven el mercado, que está
+ en el nivel gratuito del que hablé
+ antes. Así que, de nuevo, reitereemos
+ la diferencia. Lo que estamos haciendo
+ aquí, o lo que intento hacer, es darte
+ el poder en tus manos. Pero estoy ahí
+ para guiarte. Así que tienes el mentor
+ Real AI. Todo esto está ahí dentro.
+ Todas mis explicaciones, mis videos
+ semanales, cada entrevista que he hecho
+. Eso está ahí para ayudarte en este
+ viaje. La compresión es con lo que
+ empiezas. ¿Qué necesito saber? Luego
+ puedes profundizar. Muy bien, ¿cuáles
+ son los riesgos que están surgiendo?¿
+Cómo se ve esta cartera?¿Qué es Real
+ Vision?¿Puedo...? Me acabo de
+ registrar en Pro. ¿Añado a estas
+ posiciones ahora?¿Qué hago? Bueno,
+ todo está aquí. Todo está aquí y se
+ basa en datos. Las únicas partes que
+ no se basan en datos soy yo. Entonces,
+ cuando doy mi opinión, es cómo estoy
+ interpretando los datos. Y eso está en
+ el resumen semanal o en mis videos.
+ Todo lo demás es para que lo mires y
+ digas: puedo estar de acuerdo, no puedo
+ estar de acuerdo, pero al menos
+ entiende lo que dicen los datos. En la
+ versión gratuita, te da: Oye, ¿dónde
+ encuentro ideas?¿Cuál es el trasfondo
+ del mercado?¿Está bien asumir riesgos
+ ahora o estoy haciendo algo estúpido?
+ Eso detiene el "estoy haciendo algo
+ estúpido". Luego te da: Oye, esto es
+ lo que se está moviendo. Esto es lo
+ que está sobrecomprado. Esto es lo que
+ está sobrevendido. ¿Cómo pienso en
+ buscar cosas? Obviamente, también en
+ los paneles de Real Vision están las
+ configuraciones del día. Lo cual ayuda
+ a usar los datos exclusivos de la
+ comunidad de Real Vision; estos no son
+ paneles de GMI. Quiero decir, yo los
+ construí, pero no son de GMI. Estos
+ son paneles de Real Vision. La
+ configuración del día te muestra lo
+ que se ha estado moviendo y te da
+ configuraciones de operaciones
+ individuales que podrías considerar.
+ Um, basadas en un conjunto determinado
+ de parámetros. Nuevamente, puedes
+ investigar eso. Te proporciona los
+ detalles de los parámetros. Y el mapa
+ de atención es: ¿de qué está
+ hablando la comunidad de Real Vision?¿
+Qué es, ya sabes, oh, Tao, cosas así?
+¿O en qué está realmente enfocada su
+ atención? Bueno, ha estado en Bitcoin,
+ pero Bitcoin no es emocionante para la
+ gente ahora mismo. Sui parece
+ importante en este momento. Está
+ subiendo, y luego puedes revisar y
+ hacer tu propio análisis sobre eso.
+ Pero volviendo aquí, la versión
+ gratuita te da una idea de lo que
+ estás haciendo. ¿Qué debería estar
+ haciendo?¿Dónde hay algunas ideas
+ para que yo pueda ver?¿Qué es
+ tendencia?¿Qué no es tendencia?¿Qué
+ podría estar barato frente a su
+ tendencia? La herramienta de inversión
+ macro incorpora todo el análisis del
+ ciclo económico. Entonces, este es el
+ código de todo. Y es la compresión
+ del código de todo lo que pone el
+ poder en tus manos. Todas las cosas de
+ las que Julian y yo hemos hablado a lo
+ largo de los años, ya sabes, el ISM,
+ el ciclo económico, cómo encaja la
+ inflación, las fichas de dominó del
+ ciclo económico, los ciclos de
+ liquidez, las correlaciones de la
+ liquidez con los activos, todo eso.
+ Está todo ahí para ti. Está
+ comprimido, por lo que te da lo que
+ necesitas saber, o te ofrece los datos
+ sin procesar y la capacidad de jugar
+ con todo. Cuando llega a la versión
+ pro, profundiza un nivel más. Ahora
+ estamos hablando de posiciones reales
+ en mercados reales, cómo pensar en
+ ellas y cómo encaja eso en la
+ compresión general. Por lo tanto, la
+ compresión incluye entonces la cartera
+ en sí misma. Y obviamente, debería
+ animarte a buscar otras ideas para tu
+ cartera, pero te dará una comprensión
+ mucho mejor. Así que, esos son los
+ paneles de GMI. Están ahí para
+ ayudarte en tu camino. Pasé...quiero
+ decir, los construí, como dije, todo
+ yo mismo. Pasé, no sé, 6 o 9 meses
+ construyendo esto, porque realmente
+ quería dárselo a todos. Así que, el
+ poder está en tus manos ahora. Si
+ alguna vez encuentran un error, que lo
+ harán, porque yo mismo construí esto,
+ simplemente, digamos que si entran a la
+ herramienta de macroinversión, les
+ dirá en la página de compresión,
+ vayan al final, solo escriban a
+ bugs@globalmacroinvestor.com. Mi IA lo
+ detectará y lo pondrá en la lista de
+ prioridades. ¿Es urgente, o podemos
+ desarrollar estas cosas? Quiero decir,
+ he completado solicitudes de nuevas
+ funciones en media hora. Así de
+ rápido podemos hacer las cosas hoy en
+ día. No puedo prometer todas las
+ funciones nuevas, porque tengo muchas
+ otras cosas que hacer, pero todo está
+ aquí. Todo está ahí para que lo usen
+, disfrútenlo al máximo. Hasta luego.
+ Este episodio es presentado por Pyth.
+ Pyth Network es la compañía de datos
+ financieros de mayor crecimiento hoy en
+ día. Con la confianza de Fidelity
+ Investments, el Departamento de
+ Comercio de EE. UU. , Revolut, Kalshi,
+ Jane Street, Coinbase y muchos más.
+ Proporcionan datos de mercado
+ financiero en tiempo real de más de
+ 3,000 acciones, materias primas,
+ criptomonedas, tipos de cambio y, de
+ nuevo, mucho más. Son el primer y
+ mayor proveedor de índices financieros
+ 24/7, y ofrecen la gama más amplia de
+ datos de mercado al menor costo. Así
+ que, vayan a pyth.network para
+ aprovechar su prueba gratuita. Entonces
+, obviamente este video les gustó lo
+ suficiente como para llegar al final.
+ Esa es una tarea bastante grande. Pero
+ escuchen, háganme un favor, presionen
+ el botón de me gusta y suscribirse, y
+ también vean qué video sigue porque
+ creo que les encantará. Pero, si
+ quieren aún más, y cuando hablo de
+ más, me refiero a ideas generadas por
+ miembros, investigación alfa
+ increíble, todo ahí para ayudarles en
+ su camino, simplemente diríjanse a
+ realvision.com/join para obtener la
+ mejor inteligencia financiera
+ disponible y el alfa puro que hay
+ dentro de la plataforma.

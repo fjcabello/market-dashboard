@@ -1,0 +1,764 @@
+Hoy quiero hablaros de un riesgo del que
+probablemente muchos de vosotros no sois
+conscientes, pero que puede afectar
+directamente a vuestro dinero, a
+vuestros ahorros y a vuestra seguridad.
+Y no estoy hablando de una crisis
+económica, de una caída de las bolsas o
+de una nueva guerra comercial. Estoy
+hablando de algo que en mi opinión puede
+convertirse en uno de los mayores
+desafíos de los próximos años y es la
+combinación de inteligencia artificial y
+ciberseguridad.
+Para quienes no me conozcáis, soy Pablo
+Hill, economista y llevo más de 40 años
+dedicados a los mercados financieros, la
+inversión y el análisis económico. Y si
+algo me ha enseñado toda esta
+experiencia es que los grandes cambios
+económicos y tecnológicos suelen generar
+oportunidades extraordinarias, pero
+también riesgos que muchas veces no
+somos capaces de identificar hasta que
+ya es demasiado tarde.
+Y precisamente por eso creo que merece
+la pena prestar atención a lo que está
+ocurriendo con la inteligencia
+artificial, porque estamos asistiendo a
+una transformación tecnológica
+extraordinaria, pero hay algo que quizás
+no estamos valorando suficientemente.
+La inteligencia artificial no solamente
+está multiplicando nuestra capacidad
+para investigar, producir o desarrollar
+nuevos productos. También está
+multiplicando la capacidad de quienes
+quieren aprovecharse de las debilidades
+de nuestros sistemas informáticos. Y lo
+que ha ocurrido esta semana es un
+ejemplo bastante preocupante.
+Se han conocido dos problemas de
+seguridad que afectan a elementos
+fundamentales del funcionamiento de
+internet. dos casos diferentes que
+cuando los analizamos juntos nos
+permiten entender hasta qué punto está
+cambiando el mundo en el que vivimos y
+sobre todo por qué creo que estamos
+entrando en una etapa en la que
+tendremos que replantearnos muchas
+cosas. Vamos a empezar por el primero.
+Seguramente muchos de vosotros nunca
+habéis oído hablar de PHP. No os
+preocupéis porque tampoco necesitáis ser
+expertos en informática para entender lo
+que ha ocurrido. PHP es un lenguaje de
+programación que se utiliza para
+construir y hacer funcionar millones de
+páginas web, probablemente en torno al
+70% de todas las páginas web del mundo.
+Para que os hagáis una idea, es como si
+hablásemos de los cimientos de un
+edificio. Cuando entráis en una página
+web, veis las imágenes, los textos, los
+botones o los servicios que ofrecen,
+pero por debajo hay toda una
+infraestructura informática que permite
+que eso funcione. Pues bien, PHP forma
+parte de esa infraestructura y estamos
+hablando de una tecnología que, como
+decía antes, utilizan aproximadamente
+siete de cada 10 páginas web del mundo,
+entre ellas millones de páginas
+construidas con WordPress, además de
+servicios tan conocidos como Wikipedia.
+Es decir, no estamos hablando de una
+tecnología marginal, estamos hablando de
+una de las piezas fundamentales sobre
+las que funciona internet. ¿Y qué es lo
+que ha ocurrido que tanto suscitan mis
+miedos? El pasado 21 de octubre se
+anunció el descubrimiento de varios
+fallos de seguridad extremadamente
+graves que llevaban más de una década
+ocultos. Y cuando digo graves, me
+refiero a que podían permitir que
+alguien desde cualquier parte del mundo
+llegase a controlar el servidor en el
+que se aloja una página web. Y lo más
+preocupante es que en determinadas
+circunstancias podría hacerlo sin
+conocer ninguna contraseña y sin tener
+autorización para acceder. Además, esos
+fallos podían permitir acceder a
+información almacenada temporalmente la
+memoria del servidor, donde pueden
+encontrarse contraseñas, claves de
+acceso y otros datos confidenciales.
+Pensad por un momento lo que eso
+significa. Una empresa puede haber
+invertido mucho dinero en diseñar una
+página web segura, proteger los datos de
+sus clientes y establecer controles de
+acceso. Pero si existe una
+vulnerabilidad en una de las tecnologías
+fundamentales sobre las que funciona esa
+página, buena parte de esas medidas
+pueden resultar insuficientes.
+[resoplido] Es como construir una casa
+con las mejores puertas blindadas del
+mercado y descubrir poco después que el
+problema está en los cimientos. La
+empresa de ciberseguridad Wih, que
+pertenece a Google ha calificado el
+descubrimiento como uno de los más
+importantes de la historia de PHP. Y la
+reacción internacional permite entender
+el por qué. Según la información
+difundida, la Agencia de Seguridad
+Nacional de Estados Unidos, la NSA,
+llegó a emitir un aviso público. Varios
+gobiernos europeos, entre ellos
+Alemania, Francia, Bélgica o Países
+Bajos, desconectaron temporalmente
+algunos servicios oficiales como medida
+de precaución. Wikipedia también adoptó
+medidas preventivas y hasta la primera
+ministra japonesa se pronunció sobre
+este asunto. Ahora bien, más allá de la
+gravedad de los fallos, hay algo que me
+parece todavía más importante.
+¿Sabéis cómo se descubrieron?
+Ni más ni menos que con la ayuda de la
+inteligencia artificial. Los
+investigadores utilizaron modelos
+desarrollados por Google y Openi para
+analizar el funcionamiento de ese
+software y según la empresa que realizó
+el descubrimiento, una sola persona
+apoyándose en esas herramientas
+consiguió hacer en aproximadamente una
+semana de trabajo lo que antes habría
+requerido, meses de investigación por
+parte de un equipo de especialistas.
+Creo que merece la pena detenernos un
+momento en esta idea. Estamos hablando
+de errores que llevaban más de 10 años
+dentro de un software utilizado por
+millones de páginas web. Durante todo
+ese tiempo, miles de programadores e
+investigadores habían trabajado con esa
+tecnología sin llegar a descubrirlos. Y
+ahora aparece una herramienta que
+permite acelerar enormemente el proceso.
+Esto demuestra el potencial
+extraordinario de la inteligencia
+artificial, pero también nos obliga a
+hacernos una pregunta bastante incómoda.
+¿Qué ocurre cuando esa misma capacidad
+está al alcance de quienes quieren
+utilizarla para cometer delitos?
+[resoplido]
+Porque la inteligencia artificial no
+distingue por sí sola entre quién quiere
+proteger un sistema y quién quiere
+atacarlo. Es simplemente una herramienta
+y como ocurre con cualquier tecnología
+poderosa, sus consecuencias dependen en
+buena medida de quién la utilice y para
+qué.
+En este caso, afortunadamente, fueron
+investigadores de seguridad quienes
+descubrieron los problemas y comunicaron
+su existencia para que se pudieran
+corregir, pero no podemos dar por hecho
+que siempre vaya a ocurrir así. Y aquí
+aparece una de esas grandes paradojas de
+la revolución tecnológica. La
+inteligencia artificial está aumentando
+nuestra capacidad de defendernos, pero
+también está reduciendo las barreras que
+antes dificultaban determinados ataques.
+Y eso significa que la velocidad a la
+que se descubren nuevas vulnerabilidades
+puede aumentar muchísimo. El problema es
+que corregirlas, actualizar los sistemas
+y conseguir que millones de empresas
+adoptenas soluciones no siempre resulta
+tan rápido. Y mientras tanto, existe una
+ventana de oportunidad para los
+delincuentes. Pero quiero contaros una
+segunda noticia que me parece igualmente
+reveladora. Cuando entráis en la página
+web de vuestro banco, seguramente os
+habréis fijado en que aparece un pequeño
+candado junto a la dirección. Ese
+símbolo nos indica que la conexión está
+protegida y que existe un certificado
+digital que permite verificar la
+identidad del sitio web. Es decir, una
+parte fundamental de nuestra confianza
+cuando hacemos operaciones por internet
+descansa en unos sistemas de
+certificación determinados. Para
+entenderlo fácilmente, imaginad que
+existe o existen unas empresas que
+actúan como notarios digitales. Su
+función es comprobar determinadas
+identidades y emitir certificados que
+las los navegadores pueden reconocer.
+Pues bien, una de esas empresas es
+Emudra, una compañía india cuyos
+certificados eran reconocidos por los
+principales navegadores y sistemas
+operativos del mundo. Y aquí viene lo
+sorprendente. El pasado 17 de octubre,
+un investigador descubrió que ocho de
+sus certificados habían sido generados
+utilizando claves de seguridad
+extremadamente débiles. ¿Hasta qué
+punto? Normalmente las claves
+criptográficas de este tipo están
+diseñadas para que descubrirlas mediante
+prueba y error resulte prácticamente
+imposible, incluso utilizando una enorme
+capacidad de cálculo. Pero en este caso,
+por un error de generación, las
+posibilidades se habrían reducido
+solamente a 256 intentos. 256.
+Para que os hagáis una idea, sería cómo
+comprar una caja fuerte de máxima
+seguridad y descubrir que por un defecto
+de fabricación su combinación solamente
+puede ser una de 256 posibilidades.
+Un ordenador podría probarlas todas en
+una fracción de segundo. Y aquí quiero
+hacer una distinción importante. No
+estamos hablando de que unos piratas
+informáticos hubieran conseguido entrar
+en los sistemas de mudra. Estamos
+hablando de un error cometido por la
+propia compañía al generar las claves.
+La empresa sostiene que sus sistemas no
+fueron comprometidos y que no se produjo
+ningún robo de información. Y hasta el
+momento al que se refiere esta este esta
+información, tampoco se habían
+encontrado pruebas de que esas
+debilidades se hubieran utilizado para
+cometer ataques, pero el riesgo
+potencial es enorme porque una clave de
+esas características podría permitir
+suplantar determinados certificados
+digitales y hacer que una página
+fraudulante fraudulenta pareciese
+totalmente legítima.
+Imaginad las consecuencias si alguien
+consigue que una página falsa, una
+entidad financiera parezca auténtica
+para el navegador. Lo verdaderamente
+preocupante es que el error habría
+permanecido sin detectar durante
+aproximadamente 17 meses. Y cuando se
+hizo público, las principales
+navegadores reaccionaron rápidamente
+para bloquear los certificados
+afectados, pero el daño reputacional ya
+estaba hecho. Las acciones de Mudra
+llegaron a caer alrededor de un 20% en
+una sola sesión. Y eso también nos
+recuerda algo que quienes seguimos los
+mercados financieros conocemos
+perfectamente. La confianza es uno de
+los activos más importantes de cualquier
+empresa y puede tardar años en
+construirse, pero desaparecer en
+cuestión de horas.
+Ahora bien, ¿por qué creo que estos dos
+casos son especialmente relevantes?
+Porque no estamos ante incidentes que
+podamos analizar de forma completamente
+aislada. Estamos viendo como la
+inteligencia artificial empieza a
+transformar también la economía de la
+ciberdelincuencia.
+Y esto es algo de lo que se habla mucho
+menos que de los avances en
+productividad, automatización o
+desarrollo de nuevos medicamentos. Hasta
+hace relativamente poco tiempo, llevar a
+cabo determinados ataques informáticos
+exigía conocimientos técnicos muy
+avanzados. equipos especializados y una
+inversión considerable de tiempo y de
+dinero. Pero la inteligencia artificial
+está reduciendo algunas de estas
+barreras. Por ejemplo, a finales de
+septiembre se conoció un caso en el que
+un atacante utilizó agentes de
+inteligencia artificial para intentar
+acceder a más de 100 páginas web y según
+la información publicada consiguió
+comprometer aproximadamente un centenar
+de empresas. Entre ellas aparecía John
+Deere, el conocido fabricante de
+maquinaria agrícola. Lo sorprendente es
+que el coste estimado de utilización de
+esas herramientas fue de unos $5,000, es
+decir, aproximadamente $50 por cada
+empresa comprometida. Pensad en lo que
+significa esto. No solamente estamos
+hablando de que los ataques puedan ser
+más sofisticados, estamos hablando de
+que pueden resultar mucho más baratos. Y
+cuando el coste de una actividad cae de
+forma drástica, normalmente aumenta el
+número de personas capaces de llevarlo a
+cabo. Esto es algo que vemos
+continuamente en economía. Si producir
+un determinado bien o prestar un
+servicio resulta mucho más barato,
+aumentar su accesibilidad y pueden
+aparecer nuevos participantes, pues con
+la ciberdelincuencia puede ocurrir algo
+muy parecido y eso es especialmente
+preocupante porque los atacantes no
+necesitan tener éxito siempre les basta
+con conseguirlo en una pequeña
+proporción de sus intentos. También
+hemos
+conocido ataques contra entidades
+financieras de Corea del Sur en los que
+se utilizaron herramientas de
+inteligencia artificial y que según las
+informaciones difundidas afectaron a los
+datos de unas 68,000 personas. Y otro
+incidente reciente de una plataforma de
+programación donde un sistema
+automatizado estuvo intentando vulnerar
+sus defensas durante unas 48 horas. Lo
+que estamos viendo es que estas
+herramientas permiten automatizar
+tareas, analizar posibles
+vulnerabilidades y mantener intentos de
+ataque durante periodos prolongados sin
+necesidad de intervención humana
+constante. Y eso cambia
+considerablemente las reglas del juego,
+porque ya no se trata solamente de quién
+dispone de los mejores especialistas,
+también importa quién tiene acceso a las
+herramientas más potentes y quién es
+capaz de utilizarlas con mayor eficacia.
+Y aquí es donde quiero compartir con
+vosotros una reflexión que va bastante
+más allá de la seguridad informática.
+Llevamos mucho tiempo hablando de las
+oportunidades extraordinarias que ofrece
+la inteligencia artificial. Yo soy el
+primero en reconocerlas. Creo que
+estamos ante una de las revoluciones
+tecnológicas más importantes de nuestra
+historia. Una revolución que puede
+transformar la medicina, la educación,
+la investigación científica, la
+industria y prácticamente cualquier
+actividad económica.
+Pero hay algo que me preocupa, me
+preocupa mucho, y es que históricamente
+el ser humano ha demostrado una enorme
+capacidad para desarrollar nuevas
+tecnologías, pero no siempre la misma
+capacidad para anticipar sus
+consecuencias.
+Muchas veces las grandes medidas de
+seguridad llegan después de que ocurre
+una tragedia.
+En la aviación, numerosos avances en
+seguridad se han producido como
+respuesta a los accidentes. En el
+sistema financiero, buena parte de las
+reformas regulatorias llegaron después
+de crisis que provocaron pérdidas
+enormes. Y mi temor es que con la
+inteligencia artificial podamos terminar
+siguiendo un camino parecido. Hoy existe
+una carrera extraordinaria entre las
+grandes compañías tecnológicas por
+desarrollar modelos cada vez más
+potentes.
+se está invirtiendo cantidades
+gigantescas de dinero y las empresas
+saben que quedarse atrás puede suponer
+perder una posición competitiva que
+después resulte muy difícil recuperar.
+Precisamente por eso existe un incentivo
+evidente para avanzar lo más rápido
+posible.
+Cuando todos los participantes de una
+industria compiten por acelerar, la
+seguridad puede convertirse en una
+preocupación que no siempre recibe la
+atención que merecen. No estoy diciendo
+que las compañías ignoren
+deliberadamente los riesgos. Estoy
+diciendo que los incentivos económicos
+pueden empujar en una dirección mientras
+que las necesidades de seguridad exigen
+avanzar con más prudencia. Y esa tensión
+me parece fundamental. Pero hay otra
+cuestión que me preocupa especialmente y
+que tiene consecuencias directas para
+los mercados financieros y es algo sobre
+lo que llevo tiempo insistiendo.
+Uno de los grandes riesgos que ve
+actualmente las bolsas es la enorme
+concentración que se ha producido en un
+grupo relativamente pequeño de compañías
+vinculadas directa o indirectamente al
+desarrollo de la inteligencia
+artificial. Basta con observar el peso
+que tienen estas empresas en el índice
+SP500 o en el Nasdaq 100.
+Una parte muy importante de las
+expectativas de crecimiento, de los
+beneficios empresariales y también de
+las valoraciones bursátiles descansa
+sobre la idea de que la inteligencia
+artificial va a seguir desarrollándose a
+una velocidad extraordinaria
+y probablemente va a ser así. Pero, ¿qué
+ocurriría si de repente nos viésemos
+obligados a reducir esa velocidad?
+Porque aquí hay un problema que creo que
+no estamos valorando suficiente.
+Estados Unidos y China están inmersos en
+una carrera por conseguir la hegemonía
+tecnológica mundial y las grandes
+empresas que lideran el desarrollo de la
+inteligencia artificial también compiten
+entre ellas por llegar a ser las
+primeras. Todos saben que esta
+tecnología puede proporcionar ventajas
+económicas, militares y estratégicas
+extraordinarias.
+Y en ese contexto, ¿quién está dispuesto
+a frenar?
+Va a hacerlo Estados Unidos mientras
+China continúa avanzando. Va a hacerlo
+China mientras las empresas
+estadounidenses siguen desarrollando
+modelos cada vez más potentes.
+Va a renunciar una compañía tecnológica
+a seguir invirtiendo miles de millones
+porque considera que deberíamos avanzar
+con más prudencia mientras sus
+competidores continúan adelante. Ese es
+precisamente el problema. Aunque todos
+sean conscientes de que existen riesgos,
+ninguno quiere ser el primero en
+quedarse atrás. Ya hemos visto intentos
+de reclamar una pausa o una
+ralentización en el desarrollo de los
+sistemas más avanzados de la
+inteligencia artificial, pero esos
+llamamientos han chocado con los enormes
+intereses económicos y estratégicos que
+existen detrás de esa tecnología.
+Y mi impresión es que va a resultar
+extraordinariamente difícil alcanzar
+acuerdos internacionales que impongan
+límites efectivos, mientras las
+principales potencias consideren que
+hacerlo puede perjudicar su posición
+frente a sus rivales. Por eso llevo
+tiempo planteando una posibilidad que me
+preocupa, que no seamos capaces de
+frenar hasta que ocurra algo realmente
+grave, [resoplido] un accidente que
+tenga consecuencias suficientemente
+importantes como para obligarnos a
+replantear lo que estamos haciendo. Y
+quizá los incidentes de ciberseguridad
+que estamos empezando a conocer sean las
+primeras señales de advertencia. No
+estoy diciendo que los casos que hemos
+comentado hoy vayan a provocar ese
+cambio, pero sí creo que nos estamos
+acercando a un momento en el que
+tendremos que preguntarnos si estamos
+avanzando una velocidad compatible con
+nuestra capacidad para controlar los
+riesgos. Porque hay algo que me parece
+fundamental. Estamos tan fascinados por
+todo lo que podemos conseguir con la
+inteligencia artificial,
+que corremos el riesgo de prestar mucha
+más atención a sus beneficios que a sus
+posibles consecuencias negativas. Y aquí
+siempre me gusta poner el ejemplo de la
+energía nuclear. La energía nuclear nos
+ha permitido producir enormes cantidades
+de electricidad con bajas emisiones de
+carbono. Es una tecnología que puede
+aportar beneficios extraordinarios a la
+humanidad, pero los mismos conocimientos
+científicos que permiten aprovechar la
+energía del átomo también hicieron
+posible desarrollar el arma nuclear.
+¿Significa eso que debemos haber
+deberíamos haber renunciado a la energía
+nuclear? No necesariamente. Lo que
+significa es que una tecnología
+extraordinariamente poderosa necesita
+mecanismos de seguridad, controles y
+contrapesos acordes a los riesgos que
+puede generar. Y con la inteligencia
+artificial creo que estamos ante un
+dilema parecido. [resoplido] El problema
+no es solamente lo que podemos conseguir
+con ella, es también lo que podemos
+hacer mal, voluntaria o
+involuntariamente utilizando esa misma
+tecnología. Y ahora volvamos a los
+mercados financieros. Imaginad que
+mañana se produce un incidente de
+ciberseguridad realmente grave, un
+ataque que paraliza durante días los
+sistemas de pago de un país, que afecta
+a infraestructuras críticas o que
+provoca daños económicos extraordinarios
+y que como consecuencia los gobiernos
+deciden imponer controles mucho más
+estrictos al desarrollo y utilización de
+determinados sistemas de inteligencia
+artificial o que las propias compañías
+tecnológicas ante el riesgo
+reputacional, económico y legal se ven
+obligadas a ralentizar sus planes de
+desarrollo. ¿Qué ocurriría entonces con
+las expectativas de beneficios que hoy
+están descontando los mercados?
+Porque las cotizaciones bursátiles no
+reflejan solamente lo que las empresas
+ganan actualmente, muchas de ellas
+pierden dinero. Reflejan sobre todo lo
+que los inversores esperan que sean
+capaces de ganar en el futuro. Y cuando
+una compañía cotiza a múltiples a
+múltiplos muy exigentes porque se espera
+que sus beneficios crezcan
+extraordinariamente durante los próximos
+años, cualquier [resoplido] pequeño
+cambio importante en esas expectativas
+puede provocar correcciones muy
+significativas, incluso aunque la
+empresa siga siendo realmente buena,
+incluso aunque su tecnología siga
+teniendo un futuro brillante. Y esto es
+algo que creo que debemos tener muy
+presente. No hace falta que la
+revolución de la inteligencia artificial
+fracase
+para que las compañías vinculadas a ella
+puedan sufrir grandes caídas bolsátiles.
+Bastaría con que el mercado descubriese
+que los beneficios que espera obtener
+dentro de dos o tres años van a tardar
+bastante más en materializarse
+o que los costes de desarrollar y
+utilizar esa tecnología van a ser muy
+superiores a los previstos. ¿Por qué hay
+que incorporar nuevas medidas de
+seguridad, controles o restricciones con
+las que antes no contábamos? Y si eso
+ocurre en un mercado donde un pequeño
+grupo de empresas tiene un peso
+extraordinariamente grande en los
+principales índices, las consecuencias
+podrían extenderse al conjunto de las
+bolsas. Por eso creo que estamos ante
+uno de los momentos más delicados de
+esta revolución tecnológica desde un
+punto de vista financiero, no porque
+dude de su potencial, todo lo contrario.
+Creo que la inteligencia artificial va a
+transformar profundamente nuestra
+economía y nuestra sociedad. De hecho,
+ya lo está haciendo. Pero una cosa es
+que una tecnología tenga un futuro
+extraordinario por delante y otra muy
+distinta es que cualquier precio que
+paguemos hoy por las empresas que se
+desarrollan esté justificado y mucho
+menos si estamos dando por hecho que ese
+desarrollo va a continuar sin
+obstáculos. Quizá [resoplido]
+el próximo gran riesgo para las bolsas
+no venga de una recesión económica, de
+una subida de tipos de interés o de un
+problema de inflación.
+Quizás venga de un acontecimiento que
+nos obligue a reconocer que hemos
+avanzado demasiado de prisa sin
+construir antes los mecanismos
+necesarios para hacerlo con suficiente
+seguridad. Y si eso sucede, el mercado
+tendrá que revisar no solamente sus
+expectativas sobre la tecnología, sino
+también las valoraciones que hoy está
+dispuesto a pagar por ella.
+Porque como tantas veces os he dicho,
+una gran revolución tecnológica no
+garantiza que todas las inversiones
+realizadas a su alrededor vayan a ser
+rentables. Y precisamente de todos estos
+riesgos, de cómo está cambiando el
+entorno económico y de las oportunidades
+y amenazas que estamos viendo en los
+mercados, vamos a hablar en el próximo
+directo gratuito que celebraré el 9 de
+noviembre. Analizaremos qué está
+ocurriendo en las bolsas, cuáles son los
+principales riesgos que tenemos por
+delante y qué debemos vigilar a la hora
+de tomar nuestras decisiones de
+inversión. Si todavía no os habéis
+apuntado, os dejo el enlace en la
+descripción del vídeo para que podáis
+reservar vuestra plaza. Creo que en un
+momento como el actual, entender lo que
+está pasando es un una de las cosas más
+importantes que se pueden hacer. Pero
+volvamos a la cuestión de la seguridad,
+porque más allá de lo que pueda ocurrir
+en los mercados, hay algo que nos afecta
+directamente a todos, porque la misma
+tecnología que puede facilitar
+determinados ataques también permite
+descubrir vulnerabilidades antes de que
+sean aprovechadas por los delincuentes.
+De hecho, eso es precisamente lo que
+ilustra el caso de PHP y probablemente
+veremos como la inteligencia artificial
+se convierte en una herramienta
+fundamental para reforzar la seguridad
+de empresas, administraciones públicas y
+particulares. Por eso, en mi opinión, la
+cuestión no es si la inteligencia
+artificial es buena o mala. La cuestión
+es si nuestra capacidad para protegernos
+va a avanzar al mismo ritmo que nuestra
+capacidad para desarrollar nuevas
+herramientas. Y esa es una carrera cuyo
+resultado todavía desconocemos. Y como
+siempre os digo, mi objetivo con estos
+vídeos no es dar recomendaciones de
+inversión y deciros qué tenéis que
+comprar o vender. Lo que intento es
+compartir con vosotros mi experiencia,
+mi análisis y mi visión de lo que está
+ocurriendo para que cada uno pueda sacar
+sus propias conclusiones y tomar sus
+decisiones con el mayor conocimiento
+posible, porque al final nadie debería
+preocuparse más por vuestro dinero que
+vosotros mismos. Pero hay otra cuestión
+que no quiero dejar de lado. ¿Qué
+podemos hacer nosotros ante este
+escenario? Porque es evidente que
+ninguno de nosotros puede controlar cómo
+desarrollan sus modelos las grandes
+compañías tecnológicas. Tampoco podemos
+garantizar que todos los bancos, las
+administraciones públicas o las empresas
+con las que trabajamos tengan sistemas
+completamente seguros, pero sí podemos
+reducir nuestra exposición a
+determinados riesgos. Y aquí hay algunas
+medidas muy sencillas que conviene
+incorporar a nuestra rutina. La primera
+es mantener actualizados nuestros
+dispositivos y programas. Muchas veces
+posponemos las actualizaciones del
+ordenador o del teléfono porque nos
+resultan incómodas, pero una parte
+importante de esas actualizaciones
+consiste precisamente en corregir fallos
+de seguridad. La segunda es no ignorar
+las advertencias de los navegadores
+cuando nos indican que una conexión no
+es segura. La tercera, utilizar
+contraseñas diferentes para los
+distintos servicios y activar sistemas
+de doble verificación. especialmente en
+nuestras cuentas bancarias y en el
+correo electrónico. La cuarta, si tenéis
+una empresa, una tienda online o una
+página web, aseguraros de que las
+personas responsables de su
+mantenimiento están aplicando las
+actualizaciones necesarias. Y la quinta,
+que probablemente es una de las más
+importantes, es desconfiar de los
+mensajes que intentan provocar una
+reacción inmediata. un correo que os
+dice que vuestra cuenta bancaria va a
+ser bloqueada, un mensaje que os pide
+verificar urgentemente vuestra identidad
+o una llamada de alguien que asegura
+pertenecer a vuestro banco y necesita
+que le facilitéis determinados códigos.
+La inteligencia artificial también está
+haciendo que algunos de estos engaños
+sean cada vez más convincentes y por eso
+debemos extremar las precauciones.
+Quiero terminar con una reflexión.
+Durante años hemos hablado de la
+digitalización como un proceso que nos
+permitiría ser más eficientes, reducir
+costes y mejorar nuestra calidad de
+vida. Y en buena medida así ha sido.
+Pero también hemos construido una
+sociedad cada vez más dependiente de
+sistemas tecnológicos que la inmensa
+mayoría de las personas no entiende y
+sobre los que apenas tiene control. Y
+ahora estamos incorporando una nueva
+tecnología que multiplica enormemente
+tanto las oportunidades como los
+riesgos. Por eso creo que el gran
+desafío de los próximos años no será
+solamente desarrollar una inteligencia
+artificial cada vez más potente, será
+conseguir que esa potencia venga
+acompañada de sistemas de seguridad,
+mecanismos de control y
+responsabilidades acordes con su
+capacidad.
+Porque una tecnología puede ser
+extraordinariamente útil y al mismo
+tiempo generar riesgos enormes si no
+aprendemos a utilizarla correctamente.
+Y hay algo que tengo bastante claro. El
+verdadero progreso tecnológico no
+consiste solamente en ser capaces de
+hacer cada vez más cosas, sino en
+asegurarnos de que podemos seguir
+controlando las consecuencias de lo que
+hacemos. Y me gustaría conocer vuestra
+opinión. ¿Creéis que estamos avanzando
+demasiado rápido en el desarrollo de la
+IA sin prestar suficiente atención a sus
+riesgos? ¿O pensáis que, como ha
+ocurrido con otras grandes revoluciones
+tecnológicas, terminaremos desarrollando
+las herramientas necesarias para
+protegernos? Os leo en los comentarios y
+si este vídeo os ha parecido
+interesante, compartidlo porque creo que
+es un tema que nos afecta absolutamente
+a todos, independientemente de nuestros
+conocimientos tecnológicos. Un abrazo y
+nos vemos en el próximo vídeo.
