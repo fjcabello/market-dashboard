@@ -13,3 +13,5 @@
 **Activos mencionados:** OAT, BTP, Bund, CAC 40, Euro Stoxx, Ibex, Brent (110 $), CoreWeave, Oracle, Treasuries a 10 y 30 años (>5%), S&P 500, Nasdaq, Micron.
 
 **Tono:** neutro (cauteloso; recomienda diversificar y mantener liquidez)
+
+**Nota cruzada:** en [[2026-10-25-LaPizarraDeAndres]] Andrés da el diferencial OAT-Bund en ~160 pb (Bund ~3,2%). Su invitado Pablo González (Ábaco) no comparte el momento de compra en Treasuries largos: cree que faltan "meses" para alargar duración y que antes deben ampliarse los diferenciales de crédito.

@@ -12,3 +12,5 @@
 **Activos mencionados:** Ninguno.
 
 **Tono:** bajista
+
+**Nota cruzada:** la idea continúa en [[2026-10-25-PabloGilTrader]] (salario real estancado 8 años) y se desarrolla en [[2026-10-25-PabloGilTrader-VmVnNELpXd4]] (clase media sin capacidad de ahorro y Estado sin margen para compensarlo).

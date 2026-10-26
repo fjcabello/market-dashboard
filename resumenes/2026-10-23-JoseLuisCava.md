@@ -13,3 +13,5 @@
 **Activos mencionados:** Nasdaq 100 (futuro dic.), QQQ (<700), RSP (objetivo 219), oro, crudo, ratio crudo/oro (251), bono EE. UU. a 10 años, VIX.
 
 **Tono:** alcista (contrario; espera agotamiento antes de comprar)
+
+**Nota cruzada:** en [[2026-10-26-JoseLuisCava]] reconoce que la subida aún no ha llegado (las bolsas cayeron durante esa semana), pero mantiene el escenario alcista por miedo extremo hasta el 3 de noviembre, con posible prolongación hacia el 20 de noviembre.
