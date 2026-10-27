@@ -13,3 +13,5 @@
 **Activos mencionados:** S&P 500, MSCI World, MSCI ACWI, emergentes, bonos, fondos indexados de Vanguard, oro y plata (vía ETFs), cripto.
 
 **Tono:** educativo
+
+**Nota cruzada:** otros fragmentos de la misma entrevista en [[2026-10-26-CarlosGalan]] (qué pasa si quiebran Trade Republic o Indexa) y [[2026-10-26-CarlosGalan-zyxYJajkCOs]] (fondos frente a ETFs).

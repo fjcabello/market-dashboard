@@ -43,3 +43,5 @@
 **Contraste con datos:** `fred_data.csv` marca el 10 años de EE. UU. (DGS10) en **4,96%** el 25 de octubre, no en el ~5,5% que cita Cava. El oro cerró en **4.007,9 $** el 23 de octubre, en línea con la "zona de los 4.000".
 
 **Nota cruzada:** sigue a [[2026-10-23-JoseLuisCava]], donde esperaba la capitulación del Nasdaq y un rebote brusco, probablemente junto al oro, hacia las elecciones de medio mandato. Hoy admite que la subida no ha llegado, pero mantiene el escenario y la ventana hasta el 3 de noviembre, con posible prolongación hacia el 20. El tema generacional lo trata también [[2026-10-25-PabloGilTrader-VmVnNELpXd4]], aunque Pablo Gil evita culpar a una generación concreta.
+
+**Nota cruzada (posterior):** en [[2026-10-27-JoseLuisCava]] vuelve sobre China: da el bono a 10 años en ~1,6% (aquí ~1,5%) y explica la caída del oro, pese a las compras chinas, por la falta de liquidez del banco central chino. Prevé que tanto China como EE. UU. "necesitan una crisis" como excusa para inyectar liquidez.

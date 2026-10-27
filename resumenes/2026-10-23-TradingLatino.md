@@ -13,3 +13,5 @@
 **Activos mencionados:** BTC (81.953 $; objetivo 84.000-85.000 $), oro, plata, ETH, Link, Solana, Apple, Caterpillar (700-750 → >900), Netflix (máx. 80).
 
 **Tono:** alcista
+
+**Nota cruzada:** en [[2026-10-27-TradingLatino]] (directo del 26 de octubre), el precio está en ~79.700 y no en 84.000-85.000. Jaime Merino reconoce que la proyección no se ha cumplido, rebaja el techo diario a 85.000 y avisa de un posible lateral de 78.000-88.000 hasta mediados de diciembre. Sobre el oro, en vez de cerrar o cubrirse, dice que solo puede "esperar".

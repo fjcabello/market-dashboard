@@ -13,3 +13,5 @@
 **Activos mencionados:** petróleo (110$ → 150$), oro, plata, dólar (bajista), bancos, Fannie Mae y Freddie Mac.
 
 **Tono:** bajista
+
+**Nota cruzada:** [[2026-10-26-PeterSchiff]] repite casi literalmente estas cifras (IPP +1,3%, exportación +2,2%, petróleo 110$ → 150$); probablemente es un recorte de este mismo vídeo.

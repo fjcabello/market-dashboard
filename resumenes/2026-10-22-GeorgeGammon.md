@@ -13,3 +13,5 @@
 **Activos mencionados:** T10Y (~4,95%), T2Y, Nasdaq (-2,6%), Dow, oro (-2,7%, cerca de 4.000 $), petróleo (+2%), Bitcoin (~-4%), Meta (-7%), Google, Oracle, OpenAI (ronda de hasta 30.000 M$), bonos CCC, DXY.
 
 **Tono:** bajista
+
+**Nota cruzada:** en [[2026-10-26-GeorgeGammon]], ya con el S-1 de Anthropic publicado, desarrolla la tesis de que esa OPV puede marcar el techo de la burbuja por exceso de oferta de acciones (Meta, SpaceX, OpenAI).
