@@ -1,0 +1,576 @@
+Hola, compañeros de Rebel Capitals.
+ Espero que estéis bien. Tenemos a
+ Anthropic saliendo a bolsa. Tenemos
+ más información sobre cuánto dinero
+ están incinerando. Y Meta ha salido a
+ decir que necesitan emitir más capital
+, alrededor de 95 000 millones de
+ dólares. Y Microsoft ha salido hoy y
+ ha dicho que básicamente van a
+ despedir a 60 000 personas. Lo están
+ tergiversando. Lo repasaremos en un
+ minuto. ¿Y por qué hacen esto? Porque
+ tienen que gastar cada vez más, más,
+ más y más dinero en la IA. El auge
+ del capex, o mejor, la caída. Vayamos
+ ahora a Zero Hedge; vamos a revisar las
+ cifras y trataremos de entender de qué
+ se trata todo esto. Se está volviendo
+ un poco confuso con esta OPV de
+ Anthropic y luego vamos a ver otras
+ noticias en el sector tecnológico en
+ el espacio de la burbuja del gasto de
+ capital de IA de MAG 7 e intentaremos
+ conectar algunos puntos aquí. Bueno,
+ pónganse a pensar, abróchense los
+ cinturones, sírvanse esa bebida fuerte
+ y vayamos directo a Zero Hedge. Aquí
+ vamos. Anthropics S1 ya está
+ disponible. Un beneficio operativo de
+ 974 millones de dólares. La buena
+ noticia es que están empezando a...si
+ te puedes fiar de los números, ¿
+verdad? Si te puedes fiar de la
+ contabilidad, que creo que puede ser un
+ poco confusa, están empezando a
+ mostrar beneficios, un beneficio
+ operativo, pero el problema es que su
+ factura de computación también se
+ está disparando. E incluso si están
+ mostrando un beneficio de, digamos, mil
+ millones de dólares, vale, eso es
+ genial. Pero su valoración es de 1,5
+ billones de dólares o eran dos
+ billones. Quiero decir, no lo sé. Hay
+ muchas empresas por ahí que están
+ ganando mil millones de dólares y que
+ no valen un billón y medio de dólares
+. Ahora bien, es cierto que la escala
+ está creciendo mucho y los ingresos
+ están aumentando, pero más dinero,
+ más problemas. Creo que esa es
+ realmente la conclusión principal.
+ Pero vayamos al grano. Tienen una
+ pérdida semestral de 80.000 millones
+ de dólares. Y piensas: "Bueno, eso no
+ parece una ganancia". Creo que esa
+ ganancia llegó en el último trimestre
+. Pero si combinas los dos trimestres,
+ son 80.000 millones de dólares. Y
+ aquí es donde me pongo un poco
+ escéptico porque tienen un gran
+ incentivo, un gran incentivo para
+ seguir adelante y obtener tantos
+ ingresos como sea posible e invertirlos
+ en el trimestre justo antes de salir a
+ bolsa. Y no lo sé. Ya veremos.
+ Probablemente seáis mejores en
+ contabilidad que yo. Así que podéis
+ hacerme saber vuestras opiniones en los
+ comentarios y en el chat. Pero parece
+ que existe un gran riesgo de que hayan
+ asumido gran parte de las pérdidas que
+ deberían haber asignado a este
+ trimestre y las hayan devuelto al
+ trimestre anterior solo para mostrar
+ una ganancia para el trimestre anterior
+ a la salida a bolsa. Pero sigamos.
+ Entonces, calcula la factura que ahora
+ asciende a 780 u 810 mil millones de
+ dólares, el beneficio operativo del
+ primer trimestre. Y luego, de nuevo,
+ con GAP, también se vuelve un poco
+ confuso porque ustedes que saben de
+ contabilidad, yo sé lo suficiente
+ sobre contabilidad de GAP para darme
+ cuenta de que tienes que contabilizar
+ tus gastos e ingresos juntos. Entonces,
+ ya sabes, en teoría, si tienen todos
+ estos gastos computados para los que ya
+ han recaudado dinero, ¿lo ponen en la
+ cuenta de pérdidas y ganancias?¿No lo
+ hacen? No lo sé. Simplemente creo que
+ hay mucho margen de maniobra para que
+ estas cifras se modifiquen, digamos.
+ Los últimos trimestres, el gran
+ trimestre según cualquier estándar
+ normal, implicaron un colapso del
+ crecimiento mensual de aproximadamente
+ un tercio a dígitos medios. Aquí hay
+ otro problema. Entonces, sí, es cierto
+ que los ingresos mensuales están
+ creciendo sustancialmente, pero el
+ ritmo de cambio se está ralentizando.
+ Mira esto. Tenemos 10976 48 y aquí
+ tienes 144 el último trimestre, pero
+ aquí bajamos a un aumento del 45%. Por
+ lo tanto, creo que hay mucho que
+ podrías eliminar si eres optimista,
+ pero también hay mucho que podrías
+ eliminar si eres pesimista. Sigamos. Oh
+, aquí hay una cosa que me pondría en
+ el bando pesimista sin duda. Las
+ primeras versiones del modelo lanzadas
+ en los seis meses al 30 de septiembre
+ representaron más del 80%de los
+ ingresos. Así que para mí esto dice
+ que están en una rueda de hámster y
+ que solo tienen que sacar nuevos
+ modelos. Nuevos modelos o modelos
+ Frontier, creo que los llaman. Así que
+ solo tienen que hacer estas
+ actualizaciones constantemente. Eso no
+ es barato. ¿Y sabes cuáles son los
+ rendimientos decrecientes en términos
+ de su capacidad para producir modelos
+ que realmente valgan, digamos, el
+ dinero adicional en comparación con
+ todo lo demás? Esa es una gran
+ incógnita. Pero esto es simplemente
+ una rueda de hámster económica y eso
+ significa que incluso si están
+ obteniendo ganancias ahora mismo, lo
+ cual, de nuevo, dudo, tendrían que
+ estar invirtiendo enormes cantidades de
+ dinero cada trimestre, una y otra y
+ otra vez, solo para intentar seguir el
+ ritmo de los modelos de vanguardia que
+ están saliendo de Gemini u OpenAI.
+ Simplemente, nunca termina. Eres tan
+ bueno como tu último modelo, por así
+ decirlo. Y no hay un foso alrededor del
+ modelo. Así que aquí dicen que están
+ obteniendo más ingresos por dólar de
+ computación. Así que eso sería algo
+ bueno. Pero, de nuevo, no sé si
+ justifica un precio de 1,5 billones de
+ dólares, especialmente con todos los
+ riesgos de los que hablábamos antes.
+ Digamos que Zero Hedge dice que este es
+ el caso alcista en un solo gráfico.
+ Sí, eso tiene sentido. Dicen que lo
+ captan si solo se ejecuta el contrato
+ de SpaceX. Vale. Bueno, ahora están
+ hablando, y ya lo comentamos la semana
+ pasada, de cómo la gran mayoría de
+ sus ingresos provienen de unos pocos
+ actores. Y lo más loco es que esos
+ pocos actores también dependen en gran
+ medida de ellos. Ya hablaremos de eso.
+ Es un círculo vicioso. Nunca termina.
+ Bueno, aquí lo tienes. El truco está
+ en lo que viene a continuación. Zero
+ Hedge indica que el contrato de IA de
+ Space X supone unos 9300 millones al
+ trimestre tras entregarse por completo
+ en diciembre. Casi 1,7 veces la factura
+ de computo del Q2 de Anthropic. Y eso
+ es antes de que Microsoft sume 44 900
+ millones desde noviembre, a menos que
+ los ingresos sigan así. La proporción
+ va a ser mucho menos halagadora. Bueno,
+ esto, disculpa, este es el contrato que
+ tienen o están obligados a pagar a
+ SpaceX y luego están obligados a pagar
+ a Microsoft y entran en una especie de
+ lista detallada de todo el dinero que
+ deben. Veamos, ¿de dónde sacamos?
+ Veamos la explicación de la pérdida
+ de 72.000 millones de dólares en papel
+. Vale, entonces tienen esta pérdida
+ de papel. Creo que es un poco confuso
+ aquí dónde tuvieron que pagar más.
+ Déjame intentarlo. Vale. Aquí mismo,
+ Anthropic vendió acciones preferentes
+ de la serie G1 en enero y febrero a
+ 259,14 por acción, recaudando 23.000
+ millones. De nuevo, están perdiendo
+ dinero a borbotones. Así que tuvieron
+ que hacer lo que fuera para obtener los
+ 23.000 millones necesarios. Pero creo
+ que tuvieron que...Oh, entonces la
+ serie H1 de mayo y junio tuvieron que
+ pagar 589 dólares. Eso es un margen de
+ beneficio de 2,3 veces en unos 4 meses
+ y cada dólar de ese importe fue
+ directamente a la cuenta de pérdidas y
+ ganancias como una pérdida. Así que,
+ de nuevo, hay que manipular mucho los
+ números y es muy fácil hacerlo con
+ estos gigantes. Quiero decir,
+ pregúntale a Enron, ¿no? Y es como si
+ a mí, como inversor, me pareciera que
+ hay todos estos interrogantes y no
+ tiene mucho sentido, y hay todas estas
+ pérdidas en papel y contabilidad de
+ brechas aquí, y manipulación de
+ números aquí, e ingeniería
+ financiera aquí, y financiación
+ circular allí, y solo una
+ consolidación masiva o no realmente
+ una consolidación, pero tus ingresos
+ son básicamente el resultado de tres o
+ cuatro entidades. Y, por cierto,
+ algunas de esas entidades poseen
+ capital en tu empresa. Por lo tanto,
+ tienen incentivos para darte contratos
+ y nunca recibes ese dinero solo por la
+ OPV. No lo olvidemos. Para mí, como
+ inversor, considero que existen
+ demasiadas cosas; hay demasiadas zonas
+ grises aquí mismo. Simplemente no es
+ para mí. Pero creo que la pregunta
+ más importante que debemos hacernos en
+ este vídeo es: ¿esto marca el tope?¿
+Es el pico de la IA?¿Miraremos atrás
+ dentro de 5 años y diremos: "Sí, eso
+ fue todo. Esa fue la OPV antrópica.
+ Eso fue lo que hizo estallar la burbuja
+ de la IA"? Y lo que quiero decir con
+ eso es que si esto va viento en popa,
+ es muy similar a la OPV de SpaceX. Si
+ va viento en popa, vale, todavía hay
+ capital dispuesto a asumir este riesgo
+ o este tipo de riesgo, pero digamos que
+ fracasa estrepitosamente y se cae de
+ bruces, entonces creo que eso tiene un
+ efecto dominó, un efecto dominó en
+ todo el ecosistema. Y entonces tienes
+ que hacerte la pregunta: ¿OpenAI
+ siquiera sale a bolsa? Y entonces
+ tienes que hacerte la pregunta: vale,
+ tienes tanto capital ahí fuera, pero
+ estás persiguiendo tantas acciones. Y
+ acabo de oír a Jim Chenos hablar de
+ cómo suelen funcionar estos ciclos en
+ los que empiezan a emitir más y más y
+ más acciones al mercado. Estas
+ empresas que cotizan en bolsa llegan a
+ un punto en el que hay demasiadas
+ acciones, no hay suficiente capital y
+ la oferta supera a la demanda. ¿Y qué
+ pasa con los precios de las acciones?
+ Tienen que bajar. Entonces hablaron de,
+ veamos. Básicamente, esta es la
+ factura a quién le deben dinero. Así
+ que se comprometieron a alquilar
+ equipos a cinco años a Google. Son 161
+ 000 millones. Google Cloud, 114 000
+ millones. Space X, 120 000 millones. ¿
+Entiendes lo que digo? Cuando hago
+ estos vídeos de pizarra y hablo de la
+ pirámide invertida y hablo de todo lo
+ que se encuentra en esa pieza de Jenga,
+ y esa pieza de Jenga son estos modelos
+ de frontera, porque si no ganan dinero
+ de forma constante y legítima, no solo
+ mediante el manejo de la contabilidad
+ GAP, sino a menos que lo hagan,
+ entonces tienen que ganar mucho dinero,
+ no solo mil millones de dólares aquí
+ y allá. Tienen que ganar cientos y
+ cientos y cientos de miles de millones
+ de dólares. Y si no lo hacen, este es
+ el ecosistema. Broadcom no cobra.
+ Google no cobra. SpaceX no cobra.
+ Amazon no cobra. Microsoft no cobra.
+ AMD no cobra. Nscale, lo que sea. ¿
+Entiendes lo que digo? Es como si todas
+ estas empresas y una buena parte de sus
+ ingresos dependieran de estos modelos
+ de frontera que son básicamente una
+ rueda de hámster. Entonces entran en
+ otras cosas que son un poco dudosas
+ aquí. Quiero decir que Elon es su
+ casero. No quiero profundizar demasiado
+ en eso porque quiero centrarme más en
+ las repercusiones que esto podría
+ tener en el mercado de valores en
+ general porque, como sabes, solo
+ queremos adoptar esa visión macro.
+ Así que te recomiendo encarecidamente
+ que leas este artículo de Zero Hedge
+ porque es increíblemente exhaustivo y
+ puede darte todos los datos que
+ necesitas. Pero mi principal
+ conclusión es que hay demasiadas
+ incógnitas aquí. Hay demasiadas,
+ muchísimas incógnitas. Hay demasiados
+ riesgos. Hay, sobre todo, cuando ves la
+ cantidad de dinero que deben. Y ese
+ riesgo para todo el ecosistema. Y
+ también porque un porcentaje tan alto
+ de sus ingresos totales proviene de
+ unos pocos actores que están en el
+ mismo ecosistema. Y además de eso, el
+ 80%de los ingresos que provienen de sus
+ modelos más recientes los mantiene en
+ esa rueda de hámster. Y para mí, eso
+ no es, la verdad, un buen modelo de
+ negocio. Pero sigamos adelante e
+ intentemos pensar en cómo afecta esto
+ realmente al mercado en general. Ahora
+ bien, creo que todos sabemos que si va
+ bien e incluso razonablemente bien,
+ como una oferta pública inicial de
+ SpaceX, probablemente tengas algo más
+ de tiempo y creo que eso es lo que el
+ NASDAQ está valorando ahora mismo.
+ Vayamos allí rápidamente y puedes...
+Oh, Dios. Mira, esto es más...Deja que
+ abra el NASDAQ y luego tenemos que
+ repasar lo que creo que es la pregunta
+ más importante y la pregunta más
+ importante es que estamos recibiendo
+ una avalancha de capital llegando al
+ mercado. Entonces, ¿hay suficiente
+ capital? Y si no lo hay, entonces sabes
+ que la probabilidad de que esta OPV no
+ salga bien es muy alta. Y entonces
+ simplemente entras en ese bucle fatal
+ que se alimenta de todo lo demás, esa
+ especie de espiral descendente. Vayamos
+ rápidamente a la CNBC, chicos. Sí.
+ Sí. Mira, el NASDAQ subió un poco
+ más antes de salir en directo. Así
+ que creo que, en el balance neto, el
+ mercado está percibiendo que estas
+ cifras que está registrando Zero Hedge
+ son positivas. Aunque no son solo
+ cifras extraordinarias. Así que
+ tómatelo como lo que vale. Pero ahora
+ veamos un gráfico que nos da una idea
+ de lo que Chenos estaba hablando el
+ otro día. Y mira los bonos
+ corporativos y la emisión de acciones
+ de EE. UU. y mira dónde estamos aquí.
+ Acabamos de superar donde estábamos
+ antes de la crisis financiera global y
+ hemos superado donde estábamos en toda
+ la locura de los spas de 2021 y sabemos
+ cómo acabaron esos spaxs. Entonces, lo
+ que quiere decir Chainos es que, cuando
+ se produce este aumento masivo en la
+ cantidad de emisiones en un momento
+ determinado, simplemente supera la
+ cantidad de capital que no solo está
+ disponible, sino que está dispuesto a
+ invertir en lo que son empresas de alto
+ riesgo. Por lo tanto, esto no incluye
+...a ver, supongo que esto incluye
+ Space X, pero, obviamente, esto no
+ incluye la oferta pública inicial de
+ Anthropic que se avecina. Y no incluye
+ lo que está pasando con Meta, y si
+ está pasando con Meta, es probable que
+ le pase a todos los demás. Y de lo que
+ estoy hablando aquí, justo aquí. Meta
+ anuncia una oferta de 95 000 millones
+ de dólares para financiar la IA. Ya no
+ hay más dinero. Ya no hay más flujo
+ de caja positivo. De lo que estoy
+ hablando es de que, básicamente,
+ tienen un flujo de caja negativo. Y
+ bueno, y he estado hablando de esto en
+ mis vídeos de pizarra durante bastante
+ tiempo. Así que ahora solo tienen dos
+ opciones. O emites más y más deuda, y
+ eso no funciona porque vemos que los
+ CDS se disparan y los diferenciales de
+ crédito de la deuda corporativa,
+ especialmente con las hiperfracturas,
+ se disparan. Y así, el mercado ha
+ dicho: "Oh, no, no, no, se acabó el
+ tiempo, tenemos que pisar el freno a la
+ deuda, estamos saturados. Tenemos
+ demasiado". Entonces, la única otra
+ opción que tienen estas hiperfracturas
+ es simplemente emitir capital, más y
+ más capital. Vale. Bueno, eso se suma
+ a la emisión masiva de SpaceX. Eso se
+ suma a la emisión masiva de Anthropic.
+ Y eso se suma a la emisión masiva que
+ verías si OpenAI realmente saliera a
+ bolsa. Y puedes sentarte y decir: "
+Bueno, 95 mil millones no es tanto, ¿
+verdad?" Pero estás asumiendo que este
+ es el final, que es algo que se hace
+ una vez y ya. ¿Qué pasa cuando los
+ 95.000 millones se conviertan en
+ 195.000 millones el próximo trimestre
+ y luego en 500.000 millones el
+ siguiente trimestre?¿Y qué pasa si,
+ ya sabes, Google empieza a hacer eso?¿
+Qué pasa cuando Oracle empieza a hacer
+ eso?¿Qué pasa cuando Amazon empieza a
+ hacer eso en lo que respecta a la
+ emisión de capital? Y mira esto.
+ Nvidia, AMD y Broadcom estaban
+ interesadas en adquirir hasta 5.000
+ millones en acciones. Mira la pirámide
+ invertida. Y ten en cuenta que Nvidia
+ vende hardware, GPU. Vale, genial. Pero
+ gran parte de esa computación o la
+ capacidad de pagar por la computación
+ proviene de fuentes antrópicas y es
+ solo una pequeña pieza sacada del
+ rompecabezas de Jenga y todo el
+ castillo de naipes se derrumba. Y no
+ soy el único que lo dice. Quiero decir
+, Elon tenía una de las citas más
+ graciosas que he visto nunca. Comparó
+ las...las...las...las...neonubes,
+ perdón. Comparó las neonubes con un
+ montón de peces guppy. Supongo que si
+ alguna vez has tenido una pecera, los
+ guppys son muy sospechosos, como si una
+ fluctuación de medio grado en la
+ temperatura del agua los hiciera morir
+ al instante. Entonces, dijo que los
+ neoclouds iban a sufrir una muerte
+ similar a la de los guppys, creo que
+ esa fue su cita exacta. No sé por qué
+ pensé que era tan gracioso, pero es
+ que...casi se me saltaron las lágrimas
+ cuando lo leí, pero es verdad. Es como
+ si no fueran solo los neoclouds. Es
+ como todo. Es solo una pequeña
+ diferencia de medio grado en la
+ temperatura del agua del acuario y todo
+ se va al garete por completo. Pasemos a
+ Microsoft. Hablando de los neo o los
+ hiperfracasos y el ecosistema,
+ Microsoft ofrece adquisiciones
+ voluntarias, tienes que amar el giro
+ del marketing. Tienes que amar el giro
+ de las relaciones públicas. Oh, no, no
+, no. No estamos despidiendo
+ trabajadores porque estemos jodidos en
+ lo que respecta a nuestro flujo de caja
+ y tengamos que tener más y más, ya
+ sabes, otros 80 billones de dólares
+ para gastar en capex de IA o todo
+ nuestro modelo se vendrá abajo. No, no
+, no, no, no, no. Esto no son despidos.
+ Son adquisiciones voluntarias. Es muy,
+ muy diferente. Vaya. Así que la
+ cuestión aquí o la conclusión
+ principal es que, si tienen que
+ despedir a 60 000 empleados, ¿qué
+ crees que van a tener que hacer a
+ continuación? Van a tener que emitir
+ capital. Vas a tener que emitir capital
+. En definitiva, si no lo estás
+ haciendo ahora, dale unos 6 meses.
+ Microsoft ha estado aumentando el gasto
+ en centros de datos. Sí. Y luego
+ alquilan esos centros de datos a
+ Anthropic. Mira, es una locura. Esto es
+ una locura. aumentando el gasto en
+ centros de datos para dar cabida a la
+ alta demanda de IA, proporcionando
+ servicios en la nube a Anthropic, Open
+ AI y a un montón de otras empresas,
+ pero sobre todo a Anthropic y Open AI,
+ seamos sinceros. Y vaya, iba a decir
+ que probablemente Microsoft. Quiero
+ decir, tienen una posición enorme en
+ OpenAI, ¿no? Puede que vosotros lo
+ sepáis mejor que yo, pero ni siquiera
+ me sorprendería que tuvieran una
+ participación accionaria en Anthropic.
+ Bueno, todo esto es...bueno, supongo
+ que no despedirían a 60 000 personas
+ si fuera solo una estrategia de
+ marketing. Vale. Bueno, dicen que esto
+ está suponiendo una enorme presión
+ para las finanzas de Microsoft. Una
+ salida voluntaria. Oh, os encantará
+ este giro. La oferta de salida
+ voluntaria refleja una parte importante
+ de cómo estamos evolucionando nuestro
+ enfoque del cambio, creando una mayor
+ flexibilidad y, siempre que sea posible
+, más formas para que los empleados
+ den forma al siguiente capítulo. Vaya,
+ es una forma estupenda de decir que
+ estás despedido. Es decir, claro,
+ puede que ahora mismo les estén dando
+ la opción, pero lo que sucederá es
+ que si no la aprovechan, ya no la
+ tendrán disponible dentro de un mes
+ aproximadamente. Pero creo que la
+ conclusión, la parte más importante
+ de la historia general, chicos, y a lo
+ que tenemos que prestar atención, no
+ son los detalles minuciosos de esta
+ oferta pública inicial, aunque eso sea
+ muy interesante y aterrador al mismo
+ tiempo, sino que se trata más bien de
+ oferta y demanda. Es como, vayamos al
+ grano. No compliquemos demasiado las
+ cosas y pensemos solo en la oferta y la
+ demanda. Tienes esta cantidad de
+ capital, y quizá incluso una cantidad
+ menor que está dispuesta a asumir este
+ tipo de riesgo, pero tienes cantidades
+ enormes de oferta que están llegando
+ al mercado, que ya han llegado al
+ mercado en forma de SpaceX, que van a
+ llegar al mercado en forma de oferta
+ pública inicial de Anthropic, también
+ de Openi, y que van a llegar al mercado
+ a partir de los propios fallos de Hyper
+. Como Meta, y casi podría
+ garantizarte que Microsoft lo hará muy
+ pronto; y muy probablemente Amazon,
+ junto con todas y cada una de las
+ demás empresas del grupo MAG7, porque
+ sencillamente no cuentan con el flujo
+ de caja necesario. Y luego la otra
+ opción es la deuda, y el mercado de
+ deuda los está poniendo en un tiempo
+ muerto; y luego la única otra opción
+ es capital o despedir a 60.000 personas
+, o ambas. Tenemos que ver cómo se
+ desarrolla esto. Si esta OPV es como la
+ de SpaceX, creo que les da un poco más
+ de tiempo, pero si no lo es, si fracasa
+, entonces creo que se acabó la fiesta
+ y la música se detuvo. Muy bien,
+ chicos. Sobre esa bomba. Quiero
+ recordarles a todos que comenzamos un
+ boletín gratuito que me tiene muy
+ entusiasmado, el boletín Rebel
+ Capitalist. Y Josh seguirá adelante y
+ pondrá una descripción en el enlace.
+ Pondremos una descripción en el chat.
+ Pueden registrarse gratis. Y el equipo
+ que tenemos trabajando en este
+ increíble boletín, dije que tenían
+ tres objetivos aquí, chicos. Número
+ uno, tenemos que asegurarnos de que
+ esto tenga un valor épico. Número dos
+, tenemos que asegurarnos de que sea
+ procesable. Solo quiero hablar de la
+ parte teórica. Y número tres, tiene
+ que ser de lectura muy rápida. Tiene
+ que poder consumirse en tan solo un par
+ de minutos. Y así no tienes que
+ sentarte y leer un informe de 10
+ páginas dos veces por semana. Tenemos
+ la alerta macroeconómica que sale una
+ vez por semana. Y tenemos la alerta
+ comercial, que es básicamente una idea
+ comercial de la semana de su servidor.
+ Pueden ir directo, hacer clic en ese
+ enlace y registrarse ahora mismo de
+ forma gratuita. Pueden asegurarse de
+ apuntarse a la lista para recibir el
+ próximo correo electrónico que
+ saldrá mañana. Muy bien, chicos. Con
+ esa bomba, disfruten el resto de la
+ tarde. Como siempre, asegúrense de
+ defender la libertad, la independencia
+ y el capitalismo de libre mercado. Nos
+ vemos en el próximo video.

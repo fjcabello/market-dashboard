@@ -1,0 +1,210 @@
+Os quiero hacer una pregunta que
+preocupa mucha gente. Hm. Porque claro,
+Red Republic, Indexa, sois grandes y
+sois actores ya bastante relevantes en
+España, pero no sois Banco Santander,
+que tenemos una oficina debajo y que
+decimos, "Vale, eh, confío plenamente,
+¿no? Entonces, ¿cómo funciona la
+seguridad? ¿Qué pasa si tre republice
+pues tienen problemas y en un escenario
+catastrófico quiebran? ¿Qué pasaría con
+el dinero que yo tengo en TR Republic,
+con el dinero que yo tengo en Indexa? Si
+eso ocurre, ¿qué cortafuegos hay? ¿Cómo
+funciona?
+Bueno, decías que no somos en nuestro
+caso Banco Santander, pero tenemos en
+Europa la misma licencia que ellos
+tienen. Nosotros tenemos licencia eh
+bancaria que cubre a los más de 10
+millones de clientes que tenemos y más
+de 150,000 millones de activos bajo
+custodia. Y y yo suelo repetir una frase
+que es que nosotros estamos supervisados
+por más reguladores que Kaisaban en
+España, porque nosotros eh aparte de
+tener Buffing, que es el regulador
+principal, el que nos dio la licencia
+bancaria, eh tenemos una supervisión de
+más de 15 eh reguladores por por toda
+Europa, porque al final donde hemos ido
+abriendo una sucursal, pues también
+entramos bajo ese paraguas de de
+supervisión local. Entonces, eh primero
+entender un poco cuál es el el contexto
+regulatorio y y que al final los
+reguladores, antes de dar una licencia
+para dar este tipo de de servicios, pues
+te hacen un análisis interno de todos
+los procesos de de cómo está
+estructurado tu capital. Luego hay otro
+punto muy importante de de entender de
+cómo funciona TR Republic como banco
+frente al banco tradicional, eh, porque
+en nuestro caso nosotros no damos
+crédito y eso al final reduce mucho el
+riesgo, ¿no? Al final, eh, si tú miras
+históricamente los principales problemas
+eh que han tenido los los bancos o
+cuando ha habido quiebras, ha sido
+siempre conectado a un evento de que
+pues eh han dado más créditos de de lo
+que se podían permitir y luego sobre
+todo lo vimos en la crisis de 2008, eh
+pues bueno, todas las restricciones que
+que se incorporaron en en Basilea. Al
+final nosotros ese lo to deposit igual a
+cero. Hace poco decía el fundador de de
+Revolut que ellos lo tienen en torno al
+6% y eso les hace ser un banco con menos
+riesgo, pues en nosotros en ese caso
+iría a cero. Pero contestándote
+exactamente, nosotros al final tenemos
+la parte bancaria y la parte de
+inversiones. La parte bancaria, todo el
+efectivo de de nuestros clientes no se
+encuentra en nuestro balan. Eh, por
+bueno, yo lo he explicado muchas veces,
+pero por tener una mayor agilidad.
+Nosotros tenemos unos acuerdos
+estratégicos con eh una serie de bancos
+que son los bancos más grandes del
+mundo, como puede ser JP Morgan,
+CityBank, Societ General, etcétera, y al
+final el efectivo está en en esos
+bancos. Entonces, eh si oye algún día
+ocurriera algo que que oye eh puede
+ocurrir, pues ahí entraría el Fondo de
+Garantía de Depósitos Europeo. Eh yo, en
+mi caso, por ejemplo, mi efectivo eh
+está en en Crédit Agricol y bueno, tengo
+esa visibilidad dentro de mi aplicación
+y pues entraría el Fondo Garantía
+Depósitos Francés y recuperaría mi
+dinero en en 7 días, ¿no? Que es lo que
+te dice la hoja del depositante, que
+también está accesible. Y en la parte de
+de inversión, es decir, de todos los
+productos de inversión que nosotros
+tenemos, eh bueno, pues cumple el
+principio de segregación, es decir,
+todos esos activos están totalmente
+segregados de nuestro balance y, por
+tanto, nunca entrarían dentro del
+concurso eh de acreedores eh si algún
+día TR Republic pudiera quebrar.
+Entonces, oye, si ocurriera ese evento,
+pues simplemente tendrías que indicar a
+qué comercializador quieres tú recibir
+esos valores y en muy pocos días, pues
+tendrías todos esos valores en ese
+comercializador. A día de hoy ya puedes
+traspasar tus fondos de TR Republic a
+cualquier comercializador en España y
+también tus acciones y ETFs. Entonces,
+pues es un proceso muy similar que
+entraría pues el supervisor
+a a gestionarlo y pero bueno, también
+por terminar de de subrayar eh al final
+creo que tanto Indexa como nosotros
+tenemos ya un tamaño suficientemente
+grande e para que cualquier situación
+así pudiera ocurrir, pero creo que es
+también muy importante que la gente
+entienda eh todos los procesos eh que
+hay eh en el caso de que pudiera ocurrir
+algo parecido.
+Muy bien. Si el, o sea, indexa no es
+banco, somos agencia de valores. Como
+agencia de valores estamos supervisados
+también por la CNMV en España.
+El, pero más importante que que esto,
+luego vuelvo a indexa, el lo más
+importante es que abrimos cuentas de
+valores a nombre de cada cliente, ¿no?
+Entonces, tus inversiones, tus
+participaciones en fondos están en una
+cuenta a tu nombre, en un custodio que
+es uno de los principales custodios en
+España, puede ser Inversis Banco o CB.
+tú eliges en el la apertura de la cuenta
+e lo que hace que si desapareciese
+indexa de un día para otro o incluso si
+desapareciese el banco custodio, ah,
+pues tus activos están segregados, como
+decía Pablo, están en una cuenta
+segregada del balance tanto de Indexa
+como del Banco y signa tu nombre. ¿Qué
+pasa concretamente si desaparece Indexa?
+Pues la CNMV nombraría a otro gestor de
+tu cartera porque tienes un contrato de
+gestión de cartera con con nosotros. lo
+pasarían esta cartera de de de clientes,
+¿no?, a otro gestor de cartera que
+seguiría con este mandato. Y tú como
+cliente, como son fondos de inversión ah
+traspasables, pues si quieres si no te
+gusta la el nuevo proveedor, pues te lo
+puedes llevar donde donde quieras. El
+Entonces es un es un es un montaje muy
+robusto que no depende de nuestra
+solidez. Ahora bien, pues como entidad
+regulada estamos super supervisados.
+Llevamos 10 años, somos una empresa
+rentable, tenemos un ratio de solvencia
+de en torno a 200% que es el doble del
+mínimo
+exigido y y y tampoco prestamos dinero,
+entonces hay poco riesgo, ¿no? Pero
+incluso habiendo poquísimo riesgo, en el
+peor de los casos estás a salvo porque
+tus inversiones están fuera del del
+balance. Y luego está el Fogin, ¿no?
+Y el Fondo de Garantía de Depósitos,
+¿no? El Fogin, que es lo que cubreí. El
+Fogain, que es el Fondo de garantía de
+inversiones, es el fondo al que
+contribuimos nosotros desde Indexa y
+cubre tu tu tus inversiones en caso de
+fraude por, bueno, lo cubre en realidad
+en caso de fraude o de quiebra, pero
+como el riesgo de quiebra es casi
+inexistente y aunque hubiera quiebra e
+tus activos están fuera del balance, el
+fogán cubriría el caso de de quiebra si
+la inversión estuviera en nuestro
+balance, pero que no no es el caso y y
+cubre también el caso de de fraude de de
+Entonces en el en su existencia el Fogan
+pues en el pasado, por ejemplo, ha
+cubierto
+alguna empresa que ha apetado por tema
+de opciones e esfera hace unos años
+habría cubierto Gescartera si hubiera
+existido el Fogin en la época de
+Gescartera, pero no existía. Entonces,
+no de hecho se ha creado en parte por
+esto. Entonces, el Fogan cubre cualquier
+problema que pueda ocurrir por culpa de
+Indexa y el fondo de garantía de
+depósitos cubre cualquier problema que
+pudiera ocurrir por culpa del banco
+custodio. El banco custodio aporta al
+fondo de garantía de depósitos y
+nosotros aportamos al fog. Tiene esa
+doble cobertura
+pero solo se activaría una según de
+quién es la culpa.
+Muy bien, ¿no? Pues gracias, porque yo
+creo que así queda mucho más claro y
+efectivamente yo creo que cada vez más
+pues la gente va confiando en pues en
+estas propuestas quizá más digitales,
+pero que el mundo va hacia ahí y y yo
+creo que poco a poco pues vamos
+consiguiendo pues eso que que propuestas
+con también con costes más bajos, que es
+la idea de de todo esto, tanto de trade
+como de indexa, pues se vayan
+popularizando As
