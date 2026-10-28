@@ -14,3 +14,5 @@
 **Tono:** bajista (pesimismo político, sin tesis de mercado)
 
 **Nota cruzada:** sigue la línea de [[2026-10-24-PabloGilTrader]] (un Estado del bienestar sin margen que "no lo dice").
+
+**Nota cruzada (posterior):** [[2026-10-27-PabloGilTrader]] parece otro recorte del mismo vídeo y matiza este: allí defiende que "la rotación a veces es fundamental".

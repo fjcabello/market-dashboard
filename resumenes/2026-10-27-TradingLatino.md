@@ -59,3 +59,5 @@
 **Contraste con datos:** `fred_data.csv` da Bitcoin en **80.272** el 26 de octubre y el oro en **4.031,4**. Con su entrada en oro en **4.264** (ver [[2026-10-20-TradingLatino]]), la caída del precio es de ~5,5%, así que el 24-28% de pérdida que declara debe de ser sobre margen apalancado.
 
 **Nota cruzada:** en [[2026-10-23-TradingLatino]] fijaba **84.000-85.000 y subiendo para el 26 de octubre** y calificaba el retroceso como "segunda oportunidad". Llegado el 26, el precio está en ~79.700 y él mismo reconoce que la proyección "tendría que" haber dejado el precio por encima de 83.000. En el oro, entonces decía que cerraría o buscaría cobertura si no rebotaba "la próxima semana"; hoy dice que solo puede "esperar".
+
+**Nota cruzada (posterior):** en [[2026-10-28-TradingLatino-z0jib-pzpxg]] ejecuta el largo que aquí anunciaba ("todavía no"): lo abre en futuros a 10x en **80.919** tras un mínimo de ~79.500, sin stop loss, con el techo diario todavía en 85.000.

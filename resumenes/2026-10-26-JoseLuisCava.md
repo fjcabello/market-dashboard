@@ -45,3 +45,5 @@
 **Nota cruzada:** sigue a [[2026-10-23-JoseLuisCava]], donde esperaba la capitulación del Nasdaq y un rebote brusco, probablemente junto al oro, hacia las elecciones de medio mandato. Hoy admite que la subida no ha llegado, pero mantiene el escenario y la ventana hasta el 3 de noviembre, con posible prolongación hacia el 20. El tema generacional lo trata también [[2026-10-25-PabloGilTrader-VmVnNELpXd4]], aunque Pablo Gil evita culpar a una generación concreta.
 
 **Nota cruzada (posterior):** en [[2026-10-27-JoseLuisCava]] vuelve sobre China: da el bono a 10 años en ~1,6% (aquí ~1,5%) y explica la caída del oro, pese a las compras chinas, por la falta de liquidez del banco central chino. Prevé que tanto China como EE. UU. "necesitan una crisis" como excusa para inyectar liquidez.
+
+**Nota cruzada (posterior):** en [[2026-10-28-JoseLuisCava]] da la capitulación por producida a partir de una nota de Goldman Sachs (ventas de futuros del Nasdaq por los CTAs de 3.000 M$ en 3 días) y espera una subida a corto plazo hacia la resistencia, aunque avisa de que puede preceder a nuevas ventas.
