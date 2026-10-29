@@ -29,3 +29,5 @@
 **Tono:** educativo
 
 **Nota cruzada:** es otro fragmento de la misma entrevista que [[2026-10-20-CarlosGalan]], donde ya se citaban los 10 millones de clientes y los 150.000 M bajo custodia de Trade Republic.
+
+**Nota cruzada:** la intervención de Pablo López sobre el efectivo y la segregación se repite casi literalmente en el clip [[2026-10-28-CarlosGalan]]. La parte de la entrevista sobre la rentabilidad esperada está en [[2026-10-28-CarlosGalan-fVfes2R7QfU]].

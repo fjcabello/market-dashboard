@@ -42,3 +42,5 @@
 **Contraste con datos:** `fred_data.csv` da Bitcoin en **80.159,7** el 27 de octubre, coherente con los ~80.900 de su entrada.
 
 **Nota cruzada:** en [[2026-10-27-TradingLatino]] veía la 1 hora y las 4 horas bajistas, esperaba otra caída "por debajo de 80.000" y decía "yo voy a entrar en long también, pero todavía no". Hoy cumple ese plan y abre el largo en 80.919 tras un mínimo de ~79.500. Mantiene el techo diario rebajado a 85.000 y el aviso de que un lateral prolongado estropearía el semanal. El clip corto del mismo día es [[2026-10-28-TradingLatino]].
+
+**Nota cruzada (29-10):** el directo nocturno de la misma noche, [[2026-10-29-TradingLatino-RBizdZ_KikY]], mantiene la flecha diaria y el largo (citado allí en 80.940) y añade el aviso de salir del mercado en el primer semestre de 2027. El clip [[2026-10-29-TradingLatino]] es un recorte de este directo (la entrada "topadito a la media").
