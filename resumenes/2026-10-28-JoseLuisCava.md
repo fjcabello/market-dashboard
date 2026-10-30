@@ -46,3 +46,5 @@
 **Nota cruzada:** cierra el escenario de [[2026-10-23-JoseLuisCava]] y [[2026-10-26-JoseLuisCava]], donde esperaba una capitulación del Nasdaq antes de las elecciones de medio mandato. Hoy la da por producida con la nota de Goldman, pero matiza que el rebote previsto puede ser solo la antesala de nuevas ventas de los CTAs. El tema de pensiones y jóvenes continúa [[2026-10-27-JoseLuisCava]] ("insensatos fiscales" que prometen subir pensiones sin decir de dónde sale el dinero).
 
 **Nota cruzada (29-10):** en [[2026-10-29-JoseLuisCava]] vuelve a la tesis de la crisis de liquidez y de los CDS frente a los puts, y busca refugio en salud y medios de pago. En [[2026-10-29-RaoulPal]], los contertulios sacan del folleto de Anthropic la lectura contraria (excluyendo el convertible, los ingresos crecen ~15x frente a costes de cómputo 4-5x).
+
+**Nota cruzada:** el rebote del Nasdaq que anticipa aquí lo desarrolla en [[2026-10-30-JoseLuisCava]], con soporte en QQQ ~700 y MAGS ~66,62, y un rebote que puede alargarse en noviembre.

@@ -41,3 +41,5 @@
 **Contraste con otros canales:** en la tertulia del mismo día del canal de Raoul Pal ([[2026-10-29-RaoulPal]]), Andreas y David reconocen la tensión en la financiación de la IA (bonos de CoreWeave −15% en un día), pero niegan que haya burbuja o exceso de oferta de cómputo, porque los alquileres de GPU suben un 40-50% desde enero. Para ellos, el detonante sería que los hiperescaladores defraudaran en resultados, no una crisis de deuda soberana.
 
 **Nota cruzada:** es en gran parte una reedición de la tesis de los CDS frente a los puts de [[2026-10-21-JoseLuisCava]] y de la competencia por la liquidez de [[2026-10-20-JoseLuisCava]], con el mismo horizonte de riesgo de 6 meses tras el 3 de noviembre. No retoma el rebote del Nasdaq por la capitulación de los CTAs de [[2026-10-28-JoseLuisCava]].
+
+**Nota cruzada:** en [[2026-10-30-JoseLuisCava]] da por terminada la distribución en las tecnológicas ("ya han descargado"), espera un último barrido en MAGS (~66,62) y QQQ (~700) y después un rebote preelectoral. Reconoce que su escenario de octubre se ha desplazado en el tiempo.

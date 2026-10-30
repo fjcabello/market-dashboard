@@ -52,3 +52,5 @@
 **Contraste con datos:** `fred_data.csv` da Bitcoin en **80.376** el 28 de octubre, coherente con los ~79.900-80.000 del directo nocturno.
 
 **Nota cruzada:** continúa [[2026-10-28-TradingLatino-z0jib-pzpxg]] con la misma flecha diaria, el mismo largo (80.919 allí, 80.940 aquí) y el mismo *bull trap* en 90.000. Lo nuevo es el aviso explícito de salir del mercado en el primer semestre de 2027, que coincide en fecha, aunque no en dirección, con el ciclo de liquidez que Raoul Pal sitúa a principios de 2027 ([[2026-10-28-RaoulPal]]). Los clips del mismo día son [[2026-10-29-TradingLatino]] y [[2026-10-29-TradingLatino-CJUqZCTuJ5A]].
+
+**Nota cruzada:** en el directo siguiente ([[2026-10-30-TradingLatino]], grabado el 29 por la noche) Bitcoin ya había perdido los 78.000 (~77.500), tras un hackeo anunciado por Binance. Merino mantiene el largo sin stop, con liquidación en ~73.000. Los clips [[2026-10-30-TradingLatino--jWaaDlA3WY]] (acciones tokenizadas) y [[2026-10-30-TradingLatino-uuTxiegQFMo]] (ETH/BTC "a cero") son recortes de este directo.

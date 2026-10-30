@@ -11,3 +11,5 @@
 **Activos mencionados:** Ninguno.
 
 **Tono:** educativo
+
+**Nota cruzada:** el bloque completo sobre ETFs frente a fondos, con la respuesta de Pablo López y la réplica sobre Bélgica, está en [[2026-10-29-CarlosGalan]].
