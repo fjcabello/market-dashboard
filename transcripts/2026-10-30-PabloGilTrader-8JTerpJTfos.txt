@@ -1,0 +1,363 @@
+Imagínate que mañana te levantas, abres
+la aplicación donde tienes depositadas
+tus criptomonedas y descubres que la
+plataforma ha sufrido un hackeo
+informático.
+Pero no hablamos de un robo pequeño,
+hablamos de un impacto estimado de unos
+6.300 millones de dólares. Y para
+complicar las cosas, cuando intentas
+retirar tus fondos descubres que las
+retiradas están suspendidas
+temporalmente. Es lo que Binance,
+una de las mayores plataformas de
+compraventa y custodia de criptomonedas
+del mundo, ha comunicado este 30 de
+octubre. La noticia ha sacudido al
+sector y ha vuelto a plantear una
+pregunta fundamental. ¿Qué riesgos
+asumimos cuando dejamos nuestro dinero
+en manos de un intermediario?
+Te invito a un directo el 9 de noviembre
+a las 7:07 p.m. hora de Madrid, donde te
+enseñaré cómo tomar decisiones de
+inversión en un entorno de
+incertidumbre. Cuándo actuar, cuándo
+esperar y cuándo cambiar de opinión,
+analizando el contexto macroeconómico y
+geopolítico, y así como activos, bolsa,
+bitcoin, oro y otros mercados relevantes
+en este momento.
+Para quienes no me conozcáis, soy Pablo
+Gil, economista, llevo más de 40 años
+vinculado a los mercados financieros
+tanto desde la gestión profesional como
+desde el análisis y la formación. Y una
+de las lecciones más importantes que he
+aprendido es que las grandes pérdidas no
+siempre llegan por equivocarnos con el
+precio del activo. A veces llegan por no
+entender a quién hemos confiado nuestro
+patrimonio.
+Hoy vamos a separar los hechos de las
+hipótesis. Veremos qué se sabe del
+ataque, qué parte del dinero ha podido
+bloquearse, por qué algunos
+investigadores apuntan a Corea del Norte
+y qué consecuencias puede tener para
+bitcoin. Y sobre todo, explicaremos por
+qué no es lo mismo tener criptomonedas
+en un exchange que guardadas en un
+wallet frío.
+Empecemos por la magnitud. Según la
+información comunicada inicialmente, el
+impacto estimado asciende a 6.300
+millones de dólares. Es una cifra
+extraordinaria incluso para un sector
+acostumbrado a titulares enormes. El
+ataque a Bybit de febrero de 2025, que
+hasta ahora figuraba entre los mayores
+conocidos, afectó aproximadamente a unos
+1.500 millones. Es decir,
+que la cifra atribuida al incidente de
+Binance sería más de cuatro veces
+superior.
+Ahora bien, una cifra comprometida no
+equivale necesariamente a una pérdida
+definitiva.
+Y esta distinción es decisiva para
+evitar conclusiones equivocadas. Binance
+afirma haber trabajado con otros actores
+del sector para congelar unos 3.000
+millones de dólares de los activos
+relacionados con el incidente
+reciente. Queda un importe
+restante de unos 3.300 millones cuya
+situación final todavía no está
+aclarada.
+Congelar no significa recuperar. En
+determinadas criptomonedas,
+especialmente algunas monedas estables
+emitidas por empresas, existen
+mecanismos para bloquear tokens en
+direcciones específicas.
+Pero que el activo esté inmovilizado no
+garantiza que vuelva de inmediato a su
+propietario. Hay procesos técnicos,
+jurídicos y, por supuesto, de
+coordinación entre plataformas que
+pueden hacer que este proceso tarde
+bastante. Además, no todas las
+criptomonedas funcionan igual. Bitcoin
+no tiene una empresa emisora que pueda
+congelar unilateralmente las monedas en
+una dirección.
+Algunas stablecoins sí tienen mecanismos
+de bloqueo. Esa diferencia importa mucho
+cuando se analiza la capacidad de los
+atacantes para mover o convertir los
+fondos.
+La pregunta es cómo pudo ocurrir. Según
+la información preliminar, los atacantes
+habrían comprometido el portátil de un
+ingeniero de Box y a partir de ahí
+habrían logrado interferir en la
+infraestructura de firma y autorización
+de transacciones de Binance.
+No es todavía una reconstrucción técnica
+definitiva. La empresa señala que por el
+momento no ha encontrado pruebas de una
+filtración de las claves privadas de sus
+monederos.
+Y esto demuestra que no basta con
+proteger las claves, también hay que
+proteger los sistemas que procesan y
+autorizan las órdenes.
+Para entender la gravedad, pensemos en
+una empresa con varios niveles de
+autorización. No basta con tener cajas
+fuertes resistentes si alguien consigue
+manipular el sistema que decide cuándo
+se abre la caja.
+En los sistemas digitales, los equipos
+de empleados, las herramientas de
+despliegue, los permisos y las
+conexiones con proveedores forman parte
+de la seguridad.
+Y aquí hay una idea que quiero subrayar.
+Cuando compramos una criptomoneda,
+solemos estudiar el precio, la tendencia
+y las noticias. Pero casi nunca
+dedicamos el mismo tiempo a entender la
+infraestructura que la custodia. El
+problema es que una cadena de bloques
+puede seguir funcionando perfectamente
+mientras una plataforma que opera sobre
+ella sufre un incidente grave.
+Y precisamente de cómo tomar decisiones
+de inversión en un mundo cargado de
+incertidumbre hablaremos en el directo
+gratuito del próximo 9 de noviembre a
+las 7:07 de la tarde, hora de Madrid.
+Cuándo hay que actuar, cuándo hay que
+esperar y cuándo revisar nuestras
+hipótesis a medida que cambian los
+datos. Entre otras cosas, analizaremos
+en detalle la situación de Bitcoin y del
+resto de las criptomonedas o altcoins.
+Te dejo el enlace para apuntarte
+gratuitamente en la descripción del
+vídeo. Pero volvamos a Binance. Algunas
+[resoplido] firmas de análisis
+blockchain han apuntado a actores
+vinculados con Corea del Norte.
+Conviene ser rigurosos. Una atribución
+de una empresa de inteligencia no
+equivale a una sentencia judicial ni a
+una confirmación definitiva.
+Pero sí existe un precedente relevante.
+El FBI atribuyó actores norcoreanos el
+ataque en 2025 contra Bybit.
+Esto añade una dimensión geopolítica. Un
+robo de esta escala no es solamente una
+cuestión de delincuencia común. Cuando
+intervienen grupos vinculados a estados,
+las criptomonedas pueden convertirse en
+una vía de financiación y un objetivo
+y la capacidad de rastrear movimientos
+en una blockchain no siempre se traduce
+en capacidad para detener a los
+responsables o recuperar los fondos.
+¿Qué [resoplido] sucede ahora con los
+clientes?
+Binance se ha comprometido a reembolsar
+las pérdidas ocasionadas por el ataque
+con sus propios recursos financieros.
+Según Coindesk, ha dispuesto
+aproximadamente de 6.340 millones de
+dólares para cubrirlas.
+Eso no significa que vaya a perder
+definitivamente toda esta cantidad.
+Parte de los activos comprometidos está
+congelada y todavía puede recuperarse.
+Lo importante es distinguir el
+comportamiento de la compensación de la
+pérdida final,
+que por [resoplido] cierto, aún no
+sabemos cuál va a ser.
+Binance cuenta también con un fondo de
+protección de usuarios, lo que conocemos
+con el nombre de Safu,
+y sin embargo, no debemos dar por hecho
+que ese fondo vaya a financiar estas
+compensaciones.
+Con la información disponible, lo
+confirmado es el compromiso de emplear
+recursos propios. La capacidad real de
+respuesta va a depender del dinero
+recuperado, de los recursos disponibles
+y del resultado final de la
+investigación.
+Hay tres conceptos que conviene separar:
+seguridad, liquidez y solvencia.
+Seguridad es impedir accesos y
+operaciones no autorizadas. Liquidez es
+poder en atender retiradas cuando los
+clientes las solicitan. Y solvencia es
+disponer de activos suficientes para
+responder de las obligaciones.
+Un incidente de seguridad no demuestra
+automáticamente insolvencia,
+pero puede desencadenar una crisis de
+confianza que termina afectando a la
+liquidez.
+Y por eso la suspensión temporal de
+retiradas genera nerviosismo. Una cosa
+es que una criptomoneda pierda precio
+porque el mercado vende y otra es no
+poder mover tus activos porque el
+intermediario ha paralizado las
+operaciones.
+Son riesgos distintos y deben
+gestionarse de manera distinta.
+La siguiente pregunta es por qué cayó
+Bitcoin.
+No porque se ha demostrado una
+vulnerabilidad en el protocolo de
+Bitcoin, sino porque el mercado
+reacciona a la incertidumbre. Algunos
+inversores reducen exposición, otros
+buscan liquidez y el apalancamiento
+puede amplificar los movimientos. Si las
+caídas obligan a liquidar posiciones
+financiadas con deuda, esas ventas
+pueden acelerar todavía más la
+corrección.
+Pero sería un error atribuir toda la
+debilidad reciente del mercado a la a lo
+que ha ocurrido en este incidente. Las
+expectativas de tipos de interés, la
+liquidez global, el apetito por el
+riesgo y los flujos de inversión también
+importan.
+Un shock de confianza puede ser el
+detonante de una caída sin ser
+necesariamente su única causa. Y aquí
+llegamos a la parte más práctica del
+vídeo. ¿Qué ventaja tiene una wallet
+fría frente a dejar las criptomonedas en
+un exchange?
+La diferencia fundamental es quién
+controla las claves privadas.
+Cuando mantienes Bitcoin en una
+plataforma de custodia, normalmente es
+esa empresa quien controla las claves
+que permiten mover los fondos.
+Tú accedes mediante tu cuenta, pero
+dependes de la seguridad y la
+disponibilidad de la plataforma.
+Una wallet fría de autocustodia funciona
+de otra manera. Las criptomonedas no
+están físicamente dentro de un
+dispositivo, siguen registradas en la
+blockchain.
+Lo que se protege son las claves que
+permiten autorizar movimientos. Un
+dispositivo diseñado para mantener las
+aisladas de internet reduce la
+exposición de esas claves a ciertos
+ataques remotos potenciales.
+Si tus bitcoins
+están en una wallet fría que controlas
+personalmente, un hackeo de la
+infraestructura de firma de Binance no
+da al atacante acceso directo a tus
+claves.
+Tampoco necesitas que Binance autorice
+una retirada para mover tus monedas. Esa
+es la gran ventaja. Reduces la
+dependencia del intermediario y parte
+del riesgo de contraparte, aunque sigue
+siendo responsable de custodiar
+correctamente tus claves. Pero no
+confundamos autocustodia con seguridad
+absoluta. Si pierdes la frase de
+recuperación y no tienes otra vía de
+acceso, podrías perder todos tus fondos
+para siempre. Si alguien obtiene
+[resoplido] esa frase, podría robarlos,
+aunque nunca toque tu dispositivo. Y una
+wallet fría no no te protege de
+autorizar tú mismo una operación
+fraudulenta, enviar fondos a una
+dirección equivocada o firmar una
+interacción maliciosa. Por eso no existe
+una solución universal. Para alguien que
+opera con frecuencia, puede resultar
+práctico mantener una cantidad limitada
+en una plataforma. Para [resoplido] una
+inversión a largo plazo, probablemente
+tiene sentido estudiar la autocustodia,
+siempre que se comprendan bien sus
+exigencias técnicas. Y para otras
+personas, un servicio de custodia
+profesional con controles adecuados
+puede ser una alternativa razonable.
+Cada opción desplaza los riesgos, pero
+no los elimina.
+[carraspeo]
+Hay una frase famosa en el mundo cripto.
+Si no controlas tus claves, no controlas
+directamente tus monedas. Es una
+simplificación, pero sirve para recordar
+la diferencia entre ser titular de un
+saldo en una plataforma y poder
+autorizar personalmente el movimiento de
+tus activos.
+En el fondo, este episodio nos obliga a
+cambiar el orden de nuestras preguntas.
+Antes de pensar cuánto puede subir
+Bitcoin, deberíamos entender dónde está
+custodiado, quién controla las claves,
+qué ocurriría si la plataforma
+suspendiera
+las retiradas y qué capacidad tenemos
+para recuperar el acceso ante una
+incidencia de este tipo.
+En los próximos días habrá que comprobar
+cuánto dinero se recupera realmente, qué
+revela el informe técnico, si se
+confirma la atribución de los
+responsables y cómo responde Binance
+ante sus clientes. No tenemos todavía
+todas las respuestas y sería
+irresponsable fingir que sí.
+Pero hay una lección que ya podemos
+extraer.
+Invertir bien no consiste solamente en
+buscar rentabilidad, también consiste en
+identificar los riesgos que podrían
+impedirnos conservar y recuperar nuestro
+patrimonio.
+Y esos riesgos, precisamente,
+porque muchas veces no se ven en un
+gráfico de precios, merecen tanta
+atención como el mercado.
+Antes de despedirme, recuerda que todo
+lo que comparto en este canal tiene una
+finalidad educativa e informativa. No
+doy recomendaciones personalizadas de
+inversión ni señales para comprar o
+vender. Mi objetivo es ayudarte a
+entender mejor los mercados y
+desarrollar tu propio criterio. Y mucho
+cuidado con las suplantaciones. Yo no te
+escribo por Telegram, WhatsApp o
+mensajes privados para ofrecerte
+inversiones, prometerte rentabilidades o
+enviarte señales de compraventa. Si
+alguien utiliza mi nombre o mi imagen
+para hacerlo, desconfía porque es un
+fraude y te agradezco si lo denuncias.
+Nos vemos ya en el próximo vídeo. Un
+saludo y mucha suerte.
