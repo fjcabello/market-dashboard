@@ -48,3 +48,5 @@
 **Contraste con otros canales:** Jaime Merino también veía al Nasdaq en su "último movimiento bajista", con largos en torno a 28.000 ([[2026-10-29-TradingLatino-RBizdZ_KikY]]), en línea con el rebote a corto plazo que espera Cava.
 
 **Nota cruzada:** desarrolla el rebote del Nasdaq por la capitulación de los CTAs de [[2026-10-28-JoseLuisCava]] y matiza [[2026-10-29-JoseLuisCava]]. Allí decía que las instituciones "están vendiendo acciones" de las tecnológicas; aquí da esa distribución por terminada ("ya han descargado"). Mantiene las fuertes caídas a partir del 3 de noviembre, pero ahora las retrasa por el desplazamiento de su escenario.
+
+**Nota cruzada:** el clip [[2026-10-31-JoseLuisCava]] es un tráiler de titulares ("dos veces en la historia…", escenario para las elecciones de medio mandato) sin contenido nuevo.

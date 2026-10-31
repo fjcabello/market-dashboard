@@ -13,3 +13,5 @@
 **Tono:** bajista (pesimismo político, sin tesis de mercado)
 
 **Nota cruzada:** sigue la serie de recortes políticos de [[2026-10-26-PabloGilTrader]] y [[2026-10-27-PabloGilTrader]]. Sobre la vivienda, en [[2026-10-20-PabloGilTrader]] atribuía el problema a la falta de oferta, y en [[2026-10-25-PabloGilTrader]] al estancamiento del salario real en los mismos 8 años.
+
+**Nota cruzada:** la crítica a la política de vivienda continúa en [[2026-10-30-PabloGilTrader]] (la analogía del juego de las sillas: un problema de oferta).

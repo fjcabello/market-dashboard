@@ -8,7 +8,7 @@
   - Precio en directo: **77.522**, "77.56", **77.600** y "774" (probablemente **77.400**). "Todo está rojo… cuando Bitcoin cae, cae todo".
   - Unas 2 horas antes apareció en la cuenta oficial de Binance un comunicado sobre un hackeo. Le parece "entendible" que se suspendan los retiros 24 horas por seguridad y pide que Binance reponga el dinero. Pero "siempre va a haber una razón del por qué cae… después". Recuerda que Binance es el número uno en volumen cripto y considera que, para una noticia así, la caída desde ~80.900 "no ha sido tan grave".
   - Insinuación sin desarrollar: "muchas veces se autohackean… Titanic 1, Titanic 2, el seguro… No estoy diciendo ni insinuando nada, solo… negocios".
-  - El hackeo no se puede contrastar con otros datos del corpus.
+  - El hackeo no se puede contrastar con datos de mercado del corpus. Sí lo recoge otro canal: Pablo Gil ([[2026-10-30-PabloGilTrader-8JTerpJTfos]]) cifra el impacto en ~6.300 M$, con ~3.000 M congelados y un compromiso de reembolso con recursos propios.
 
 - **Posición propia declarada (futuros):**
   - Largo ("glon" en la transcripción) en "80.000, 80.900 creo más o menos", a **10x**, sin stop: "no pienso hacer nada".

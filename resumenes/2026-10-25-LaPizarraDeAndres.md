@@ -77,3 +77,5 @@
 **Contraste con datos:** `fred_data.csv` (25 de octubre) marca Fed funds (DFF) en **3,88%**, IPC interanual en **4,02%**, tipo real a 10 años (DFII10) en **2,64%** (por debajo del 3,1-3,2% que cita González, quizá porque él se refiere a plazos más largos) y diferencial high yield (BAMLH0A0HYM2) en **3,40%**, compatible con una apertura "pequeña".
 
 **Nota cruzada:** en [[2026-10-23-LaPizarraDeAndres]] Andrés situaba el diferencial OAT-Bund en **152 pb** (OAT ~5% frente a Bund ~3,4%). Hoy lo da en ~160 pb con el Bund al 3,2%. En aquel vídeo también veía los Treasuries por encima del 5% como buen punto de compra, mientras que González cree que aún faltan "meses" para alargar duración.
+
+**Nota cruzada:** en [[2026-10-30-LaPizarraDeAndres]], con Javier Ruiz (Horos), Andrés cuenta que los fondos de Ábaco y BH van "cerca del 1 y pico, del 2" este año. Ruiz atribuye el bajo rendimiento de su propio fondo de renta fija (por debajo del 2%, frente al 4,5% esperado) a la tensión en la deuda pública, y también señala a CoreWeave (deuda del 8-9% al 15-16%).
