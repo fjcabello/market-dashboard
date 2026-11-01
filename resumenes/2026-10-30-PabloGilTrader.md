@@ -12,3 +12,5 @@
 **Tono:** crítico con la política de vivienda; sin tesis de mercado.
 
 **Nota cruzada:** continúa la crítica de [[2026-10-29-PabloGilTrader]], donde decía que la vivienda ha pasado del problema nº 18 al nº 1 en 8 años de gobierno sin que se invierta "más de un 2%" en ella.
+
+**Nota cruzada:** la serie de recortes políticos sigue al día siguiente con las pensiones en [[2026-10-31-PabloGilTrader]].

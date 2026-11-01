@@ -33,3 +33,5 @@
 **Tono:** educativo / promocional.
 
 **Nota cruzada:** el desglose de costes (0,30 + 0,09 + 0,08 < 0,5%) ya aparecía en [[2026-10-20-CarlosGalan]]. El modelo de ingresos de Trade Republic, incluidas las retrocesiones de gestoras que Indexa dice no cobrar, está en el clip del mismo día [[2026-10-30-CarlosGalan-WdB-E9997xA]].
+
+**Nota cruzada:** el pasaje de Pablo López sobre Indexa (planes de pensiones, atención al cliente) se volvió a publicar como clip suelto en [[2026-10-31-CarlosGalan]].
