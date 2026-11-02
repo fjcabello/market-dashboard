@@ -40,3 +40,5 @@
 **Tono:** autocrítico con el resultado mensual, pero tranquilo y alcista a largo plazo sobre sus acciones; escéptico con la calidad de la subida de los índices.
 
 **Nota cruzada posterior:** en [[2026-10-04-LaPizarraDeAndres]], Rubén (Ver Capital) defiende en detalle Nextil y Amper (flujo de caja libre positivo en Nextil; guía de Amper de 320 M de ventas y 55 M de EBITDA) y pide no vender en 3-6 meses.
+
+**Nota cruzada posterior:** el repaso de octubre en [[2026-11-01-LaPizarraDeAndres]] parte de estos 178.284 € y cierra el segundo mes negativo seguido (~−1%/−1,19%; base 154,91; +7,40% en el año), con la metal en 7.790 € frente a 7.760 € del MSCI World + emergentes.

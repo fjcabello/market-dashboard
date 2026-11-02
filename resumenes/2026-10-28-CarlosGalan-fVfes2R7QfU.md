@@ -28,3 +28,5 @@
 **Activos mencionados:** carteras indexadas globales (80/20: 8% anual histórico, ~4% previsto), renta variable global (<5% previsto), bonos (<4% previsto). Gestoras citadas: Vanguard, BlackRock, State Street, Franklin Templeton, JP Morgan.
 
 **Tono:** neutro / educativo. Prudente sobre la rentabilidad futura, que esperan de la mitad que la pasada.
+
+**Nota cruzada posterior:** el pasaje de rentabilidad (8% anual histórico; ~4% previsto; doblar en 12 años) se volvió a publicar como clip suelto en [[2026-11-02-CarlosGalan]].

@@ -50,3 +50,5 @@
 **Nota cruzada:** desarrolla el rebote del Nasdaq por la capitulación de los CTAs de [[2026-10-28-JoseLuisCava]] y matiza [[2026-10-29-JoseLuisCava]]. Allí decía que las instituciones "están vendiendo acciones" de las tecnológicas; aquí da esa distribución por terminada ("ya han descargado"). Mantiene las fuertes caídas a partir del 3 de noviembre, pero ahora las retrasa por el desplazamiento de su escenario.
 
 **Nota cruzada:** el clip [[2026-10-31-JoseLuisCava]] es un tráiler de titulares ("dos veces en la historia…", escenario para las elecciones de medio mandato) sin contenido nuevo.
+
+**Nota cruzada posterior:** en [[2026-11-02-JoseLuisCava]] cree que el mercado ya ha descontado la victoria demócrata en las elecciones de medio mandato y espera, pasado el 3 de noviembre, el tramo al alza "antes de la caída" que viene pronosticando.

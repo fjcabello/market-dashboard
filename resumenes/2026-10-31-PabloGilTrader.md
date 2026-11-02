@@ -14,3 +14,5 @@
 **Tono:** crítico con la falta de reformas; sin tesis de mercado.
 
 **Nota cruzada:** sigue la serie de recortes políticos del canal ([[2026-10-29-PabloGilTrader]], [[2026-10-30-PabloGilTrader]] sobre vivienda). La presión de financiar pensiones con un Estado sin capacidad infinita ya aparecía en [[2026-10-25-PabloGilTrader-VmVnNELpXd4]].
+
+**Nota cruzada posterior:** la serie sigue con el estado de bienestar y su financiación en [[2026-11-01-PabloGilTrader]].
