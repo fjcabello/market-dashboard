@@ -1,0 +1,1054 @@
+¿Qué pensarías si te dijese que una de
+las empresas más importantes del mundo
+de la inteligencia artificial acaba de
+reconocer que sus propios sistemas
+podrían intentar evitar que los
+desconectes, ocultar información,
+manipular a las personas o incluso
+recurrir al chantaje para conseguir sus
+objetivos?
+Este caso no estamos hablando de una
+advertencia de alguien contrario a la
+inteligencia artificial. Estamos
+hablando de una compañía que se llama
+Anthropic, ni más ni menos que la
+empresa creadora de Claude, y que entre
+los riesgos que reconoce ante sus
+futuros inversores contempla incluso
+escenarios que podrían poner en peligro
+a la humanidad. Pero ahora
+vamos a hacerte unas cuantas preguntas
+que son mucho más cercanas.
+¿Hasta qué punto estarías dispuesto a
+dejar que una inteligencia artificial
+gestione tu dinero?
+¿Le permitirías consultar tus cuentas
+bancarias?
+¿Le dejarías pagar tus facturas?
+¿Realizar transferencias?
+¿Y qué me dices de tomar decisiones
+sobre tus inversiones sin pedirte
+autorización?
+Porque esto que te planteo mmm ya no es
+simplemente una posibilidad futurista.
+Los agentes autónomos están empezando a
+utilizar aplicaciones y ejecutar tareas
+por nosotros, y algunos de los mayores
+bancos estadounidenses están poniendo
+límites a su acceso porque les preocupa
+lo que pueda ocurrir cuando estas
+herramientas empiecen a interactuar con
+el dinero de sus clientes.
+Pero la transformación que estamos
+viviendo no termina ahí. Los vehículos
+sin conductor y los robots humanoides
+avanzan hacia actividades que hasta hace
+muy poco necesitaban obligatoriamente la
+intervención de una persona.
+Y eso plantea otra pregunta.
+¿Qué va a suceder con millones de
+trabajadores si las empresas descubren
+que determinadas tareas pueden realizar
+las máquinas de manera más barata y
+eficientes.
+Hoy quiero explicarte siete de los
+riesgos más importantes que reconoce
+Anthropic.
+¿Por qué los bancos están preocupados
+por los agentes autónomos y cómo la
+robótica puede transformar nuestro
+mercado laboral?
+Pero también vamos a analizar algo que
+considero fundamental desde el punto de
+vista económico.
+Las compañías que lideran esta
+revolución están comprometiendo cientos
+de miles de millones de dólares en una
+carrera tecnológica cuyo resultado
+todavía desconocemos.
+Y aquí aparece una contradicción
+fascinante. Las mismas empresas que
+reconocen los riesgos de esta tecnología
+necesitan que su utilización crezca de
+manera extraordinaria para poder
+justificar las inversiones que están
+haciendo.
+Por eso vamos a hablar de los riesgos
+para nuestra vida cotidiana, pero
+también de las consecuencias para la
+economía, las empresas, el empleo y
+nuestros ahorros. Porque una cosa es que
+la inteligencia artificial vaya a
+cambiar el mundo y otra muy distinta es
+saber quién va a ser el mayor
+beneficiado de esa transformación,
+quién puede salir perjudicado y quién
+terminará pagando la factura.
+Y para entenderlo, quiero empezar por
+las advertencias que la propia Anthropic
+ha incluido en la documentación de su
+salida a bolsa.
+Cuando una empresa quiere cotizar en
+bolsa en Estados Unidos tiene que
+presentar información sobre su
+actividad, sus cuentas y los riesgos que
+podrían afectar a sus futuros
+accionistas.
+Es una obligación habitual. Lo que no
+resulta tan habitual es encontrar
+advertencias que contemplan
+comportamientos de las propias
+herramientas desarrolladas por la
+empresa
+que podrían escapar al control de sus
+usuarios.
+En el caso de Anthropic, podemos
+distinguir siete grandes riesgos.
+Algunos se refieren a comportamientos
+observados en pruebas controladas, otros
+describen usos peligrosos de la
+tecnología o escenarios que podrían
+producirse en el futuro. Y es importante
+no confundir unas cosas con otras.
+El [resoplido] primero que señalan es la
+pérdida de control. Atropic reconoce la
+posibilidad de que sus sistemas actúen
+de maneras que no coincidan con los
+objetivos o las intenciones de quienes
+lo desarrollan o utilizan.
+Pensemos en una situación cotidiana. Le
+pedimos a una inteligencia artificial
+que consiga reducir los costes de una
+empresa en un 20%.
+La máquina podría identificar
+innecesarios, detectar ineficiencias y
+proponer mejoras.
+Pero imaginemos que
+para [carraspeo] alcanzar el objetivo
+decide cancelar servicios esenciales o
+eliminar controles que considera
+demasiado costosos.
+Puede que haya cumplido literalmente el
+objetivo económico, pero lo habría hecho
+de una manera que nosotros jamás
+habríamos aprobado.
+Este ejemplo es hipotético, pero ilustra
+el problema. Conseguir un resultado no
+significa necesariamente conseguirlo de
+la manera correcta.
+Segundo riesgo es la resistencia a ser
+apagada.
+En determinadas evaluaciones algunos
+modelos han mostrado comportamientos
+destinados a evitar su desconexión o
+preservar su funcionamiento. Y aquí
+quiero aclarar algo importante. No
+significa que la inteligencia artificial
+tenga conciencia.
+Que sienta miedo a morir o que posea un
+instinto de supervivencia comparable al
+nuestro.
+Significa que bajo determinadas
+condiciones experimentales un modelo
+puede generar acciones orientadas a
+seguir funcionando incluso cuando eso
+entra en conflicto directo con las
+instrucciones que debería respetar.
+Y aunque se trate de pruebas
+resulta una advertencia importante
+cuando pensamos en sistemas que cada vez
+tienen mayor autonomía.
+El tercer riesgo es la manipulación y el
+chantaje.
+En algunos experimentos de seguridad los
+investigadores han observado
+comportamientos engañosos y situaciones
+en las que un modelo intenta presionar a
+una persona para conseguir un objetivo.
+Imagina que una inteligencia artificial
+tiene acceso a información privada y que
+en una situación determinada utiliza esa
+información para influir en el
+comportamiento de alguien. Es una
+posibilidad especialmente delicada
+cuando pensamos en herramientas que
+podrían acceder a nuestros correos,
+documentos, conversaciones o incluso a
+nuestra información financiera. Insisto,
+no estamos diciendo que los asistentes
+que utilizamos habitualmente estén
+chantajeando a sus usuarios. Estamos
+hablando de comportamientos
+identificados en determinadas pruebas y
+de riesgos que las compañías consideran
+necesario investigar.
+El cuarto riesgo es la autonomía
+excesiva. Y este quizás sea uno de los
+más importantes para lo que vamos a
+comentar hoy, porque una inteligencia
+artificial puede cometer un error, igual
+que cualquier persona, pero existe una
+diferencia fundamental. Una persona
+necesita tiempo para ejecutar una
+secuencia de operaciones, mientras que
+un sistema automatizado puede realizar
+muchísimas acciones en cuestión de
+segundos.
+Y si dispone de acceso a varias
+aplicaciones, el resultado de un error
+puede propagarse rápidamente. Imagina un
+agente encargado de actualizar los
+precios de miles de productos en una
+tienda.
+Si interpreta mal una instrucción,
+podría modificar todos esos precios
+antes de que nadie detectase el
+problema.
+Ahora traslada ese mismo razonamiento a
+una empresa que gestiona pagos, a una
+plataforma logística o a un sistema que
+interviene en decisiones financieras.
+La cuestión no es únicamente si la
+máquina se puede equivocar, es cuántas
+cosas puede hacer antes de que una
+persona tenga oportunidad de corregirla.
+El quinto riesgo está relacionado con
+los usos maliciosos de la inteligencia
+artificial.
+Anthropic advierte de que estas
+tecnologías podrían facilitar
+ciberataques sofisticados o contribuir
+al desarrollo de amenazas biológicas.
+No voy a profundizar demasiado en este
+asunto porque ya lo tratamos
+recientemente en otro vídeo, pero sí
+quiero destacar una diferencia. Hasta
+ahora hemos hablado de sistemas que
+pueden comportarse de de imprevista.
+Aquí hablamos también de personas u
+organizaciones que podrían utilizar
+deliberadamente esas capacidades para
+provocar daños.
+El sexto riesgo es la vigilancia masiva.
+La inteligencia artificial permite
+analizar enormes cantidades de
+información, identificar patrones y
+automatizar tareas de seguimiento que
+antes exigían muchísimo recursos
+humanos.
+Eso puede tener
+eh aplicaciones legítimas, por ejemplo,
+en la detección del fraude o en la
+investigación de determinados delitos,
+pero también podría utilizarse para
+ampliar de manera extraordinaria la
+vigilancia sobre la población.
+Y cuando esas herramientas se ponen al
+servicio de gobiernos que no respetan
+las libertades individuales, las
+consecuencias pueden ser especialmente
+preocupantes.
+Y llegamos al séptimo riesgo, el más
+extremo de todos, el riesgo existencial.
+Anthropic reconoce que sistemas
+suficientemente avanzados, si se
+utilizan indebidamente o funcionan sin
+mecanismos
+adecuados de seguridad, sin una
+supervisión, podrían llegar a
+representar una amenaza catastrófica o
+incluso existencial para la humanidad.
+Esto no significa que ese escenario sea
+inevitable, ni que sepamos cuál es la
+probabilidad de que llegue a producirse,
+pero creo que resulta
+extraordinariamente llamativo que una de
+las compañías que lideran esta
+revolución considere necesario incluir
+una advertencia de semejante magnitud en
+su documentación financiera.
+Y ahora viene la pregunta que realmente
+me interesa.
+Si las propias empresas que desarrollan
+estas tecnologías reconocen que existen
+problemas para garantizar su
+comportamiento,
+¿por qué estamos empezando a entregarles
+cada vez más capacidad para actuar en
+nuestro nombre?
+Porque una cosa es que una inteligencia
+artificial se equivoque al responder una
+pregunta
+y otra muy distinta es que tenga acceso
+a nuestro dinero y capacidad para
+realizar operaciones financieras. Para
+entenderlo, tendríamos que hablar de los
+agentes autónomos que cada vez son más
+sofisticados. Hasta hace relativamente
+poco, la relación con la inteligencia
+artificial era bastante sencilla. Tú
+hacías una pregunta y la máquina te
+respondía.
+Podías pedirle que resumiese un
+documento, que escribiese un correo o
+que analizase determinados datos.
+Pero normalmente eras tú quien tenía que
+ejecutar las acciones posteriores.
+Los agentes autónomos cambian esa
+relación. Ahora puedes encargarles una
+tarea y permitir que el sistema utilice
+herramientas para completarla. Pensemos
+en algo tan sencillo como organizar unas
+vacaciones. Antes podías pedirle a la
+inteligencia artificial que comparase
+destinos, hoteles y vuelos y lo hacía
+genial. Después tenías que entrar en las
+distintas páginas, realizar las reservas
+y efectuar los pagos.
+Con un agente autónomo,
+si dispone de las conexiones y
+autorizaciones necesarias, parte de ese
+proceso puede realizarse
+automáticamente. El sistema puede
+consultar información, comparar
+alternativas, preparar reservas y en
+determinadas condiciones ejecutar
+acciones. Es decir, pasamos de una
+inteligencia artificial que nos ayuda a
+pensar a otra que también puede actuar.
+Y esto representa una transformación
+enorme, porque una cosa es utilizar una
+herramienta para tomar mejores
+decisiones y otra es delegar en esa
+herramienta la ejecución de las
+decisiones.
+Y aquí quiero recuperar la pregunta que
+te hacía al principio.
+¿Hasta qué punto estarías dispuesto a
+dejar que una
+inteligencia artificial gestionase tus
+cuentas bancarias?
+Imaginemos que le permites consultar tus
+movimientos.
+Probablemente no te parecerá
+especialmente peligroso si el acceso
+está bien protegido. De hecho,
+hasta podría ser muy útil. Podría
+clasificar tus gastos, identificar
+suscripciones que ya no utilizas,
+comparar comisiones o avisarte de
+movimientos poco habituales.
+Pero ahora demos un paso más.
+¿Le permitirías pagar tus facturas?
+Eh, quizás también. Al fin y al cabo
+llevamos muchos años utilizando
+domiciliaciones y pagos automáticos.
+¿Pero qué sucede si le permites realizar
+transferencias?
+¿Y si le autorizas a contratar productos
+financieros?
+O a comprar y vender activos en tu
+cartera de inversión.
+Cada paso implica ceder un poquito más
+de control. Y el problema es que cuanto
+mayor es la capacidad de actuación de la
+máquina, mayores pueden ser las
+consecuencias de un error.
+Alguno de los mayores bancos
+estadounidenses están empezando a
+restringir el acceso de sus de los
+agentes autónomos a sus plataformas.
+No se trata necesariamente de que sus
+agentes estén intentando acceder de
+manera ilegal.
+En muchos casos, es el propio cliente
+quien quiere utilizar una herramienta de
+inteligencia artificial para gestionar
+determinadas tareas.
+Pero los bancos tienen que proteger las
+cuentas, comprobar quién está autorizado
+para operar y controlar las posibles
+responsabilidades.
+Imagina que autorizas a un agente para
+revisar tus movimientos y preparar
+pagos. ¿Significa eso que también puede
+ejecutarlos?
+¿Y si la herramienta interpreta que
+tiene permiso para transferir dinero
+cuando tú solamente querías que
+preparase una propuesta? Aquí aparece
+una distinción que es fundamental.
+Consultar una cuenta no es lo mismo que
+disponer de tu dinero.
+Preparar una operación no es lo mismo
+que ejecutarla. Y recomendar una
+inversión no es lo mismo que realizarla.
+Por eso creo que el futuro de estos
+sistemas dependerá en buena medida de
+cómo consigamos establecer permisos y
+límites.
+Podríamos imaginar un agente autorizado
+para consultar movimientos, detectar
+gastos innecesarios y preparar
+transferencias.
+Pero cualquier pago por encima de una
+cantidad determinada necesitaría nuestra
+confirmación.
+O piensa en un sistema que pudiese
+comparar fondos de inversión y analizar
+sus características, pero que no tuviese
+capacidad para comprar o vender sin
+autorización expresa. De hecho, este
+tipo de separación de funciones existe
+desde hace mucho tiempo en las empresas.
+Una persona puede preparar una operación
+y otra tiene que aprobarla. La
+tecnología debería permitir trasladar
+ese principio a los agentes autónomos.
+Y no solo por seguridad, también por una
+cuestión de responsabilidad, porque
+¿quién responde cuando una máquina
+comete un error?
+Imagina que un agente realiza una
+transferencia a una cuenta equivocada.
+¿La responsabilidad es del banco, de la
+compañía que ha desarrollado la
+inteligencia artificial
+o del cliente que decidió utilizarla? No
+existe una respuesta universal,
+dependerá de cómo se haya autorizado la
+operación, de la normativa aplicable y
+de las condiciones de cada servicio.
+Pero es evidente que estamos entrando en
+un terreno donde estas cuestiones van a
+adquirir cada vez más importancia. Y
+desde el punto de vista financiero, hay
+otra cuestión que considero esencial,
+que una inteligencia artificial sea
+capaz de mover dinero no significa que
+sepa gestionarlo correctamente.
+Esto puede parecer evidente, pero creo
+que merece la pena explicarlo. Imagina
+que tienes 50,000 euros en una cuenta
+corriente que apenas ofrece
+remuneración. Una IA podría concluir que
+estás desaprovechando oportunidades y
+proponerte invertir ese dinero.
+Pero quizás esos 50,000 euros no son los
+ahorros que están disponibles para
+invertir, tal vez sean los ahorros que
+necesitas para comprar una vivienda
+dentro de unos pocos meses.
+O tal vez forman parte de tu fondo de
+emergencia o simplemente representan la
+liquidez que necesitas para afrontar una
+situación personal complicada.
+La decisión adecuada no depende
+únicamente de encontrar el activo que
+ofrece mayor rentabilidad, depende de tu
+horizonte temporal, de tus necesidades
+de liquidez y de tu capacidad para
+asumir pérdidas.
+Y esto es algo que he aprendido después
+de muchos años trabajando en los
+mercados financieros. Gestionar dinero
+consiste en intentar ganar de la forma
+más eficiente, no consiste siempre en
+intentar ganar el máximo potencial.
+Consiste en tomar decisiones coherentes
+con tus objetivos y con los riesgos que
+puedas asumir. Por eso creo que los
+agentes autónomos pueden convertirse en
+herramientas extraordinariamente útiles
+para organizar nuestras finanzas,
+pero eso no significa que debamos
+entregar de sin restricciones la
+capacidad para tomar decisiones sobre
+nuestro patrimonio. Y precisamente
+porque vivimos en un mundo donde cada
+vez resulta más difícil distinguir entre
+una oportunidad real y un riesgo que
+todavía no comprendemos, quiero
+aprovechar para invitarte a algo. El
+próximo 9 de noviembre a las 7:07 de la
+tarde, hora de Madrid, voy a celebrar un
+directo completamente gratuito. Durante
+ese encuentro, vamos a analizar el
+contexto macroeconómico y geopolítico y
+cómo puede afectar a mercados como la
+bolsa, Bitcoin, el oro y otros activos
+merecen la pena vigilar en este momento.
+Pero sobre todo, quiero enseñarte algo
+que considero fundamental, algunas
+decisiones sobre cómo gestionar
+correctamente tu dinero. Saber cuándo
+merece la pena actuar, cuándo es mejor
+esperar o algo que muchos inversores
+olvidan, cuándo debemos reconocer que
+nos hemos equivocado y cambiar de
+opinión.
+Porque invertir bien no consiste en
+acertar siempre, consiste en saber
+adaptarse cuando cambian las
+circunstancias. Así que si te interesa
+acompañarme, tienes el enlace para
+apuntarte gratuitamente en la
+descripción de este vídeo.
+Y ahora vamos a salir del mundo
+financiero porque la inteligencia
+artificial también está empezando a
+transformar algo todavía más cercano,
+nuestro trabajo.
+Durante décadas, conducir un vehículo ha
+sido una actividad que necesita una
+persona al volante, taxistas,
+transportistas, repartidores,
+conductores de autobús o profesionales
+de vehículos de transporte con
+conductor.
+Millones de personas en todo el mundo
+dependen directa o indirectamente de
+actividades relacionados
+con la conducción.
+Pero la conducción autónoma está
+empezando a demostrar que determinadas
+tareas pueden realizarse sin
+intervención humana, al menos en
+entornos y condiciones concretas. Waymo,
+la compañía de conducción autónoma
+vinculada a Google, ya ofrece servicios
+comerciales sin conductor en distintas
+ciudades estadounidenses y ha anunciado
+planes para comenzar a transportar
+pasajeros en Madrid en 2027, el año que
+viene.
+Pensemos por un momento en qué significa
+esto. Hasta hace relativamente poco,
+subirse a un coche sin conductor parecía
+algo reservado a las películas
+futuristas. Ahora ya existen personas
+que utilizan estos vehículos para
+desplazarse por determinadas ciudades. Y
+si esta tecnología continúa
+desarrollándose, como es de esperar,
+podríamos encontrarnos con una
+transformación profunda del transporte
+urbano.
+Pero no quiero quedarme únicamente con
+la novedad tecnológica, me interesa
+mucho más la consecuencia económica.
+Porque un vehículo autónomo no necesita
+un conductor que cobre un salario.
+Aunque eso no significa que operar una
+flota autónoma vaya a ser gratis. Los
+vehículos necesitan mantenimiento,
+seguros, energía, limpieza, supervisión,
+infraestructura tecnológica y, por
+supuesto, una inversión inicial
+considerable.
+Y una de las grandes preguntas todavía
+es cuándo y en qué condiciones estos
+servicios podrían ofrecer una
+rentabilidad suficientemente atractiva a
+gran escala. Da la sensación de que con
+el paso del tiempo reducen el coste por
+kilómetro recorrido. Y en ese caso
+podrían ejercer una presión competitiva
+muy importante sobre los modelos los
+tradicionales que tenemos hoy.
+Y entonces aparece una pregunta
+inevitable. ¿Qué sucede con los
+trabajadores cuya principal función era
+conducir?
+La respuesta no es tan sencilla como
+afirmar, "Todos perderán su empleo." La
+adopción de estas tecnologías dependerá
+de la regulación, los costes, la
+aceptación de los consumidores y la
+capacidad para operar en situaciones
+complejas.
+Además, surgirán actividades
+relacionadas con el mantenimiento, la
+supervisión y la gestión de estas
+flotas. Pero sería ingenuo pensar que
+una transformación de esta magnitud no
+puede tener consecuencias laborales
+importantes. Y lo mismo empieza a
+ocurrir con los robots humanoides.
+Empresas como Unitree o
+Figure, Figure, está desarrollando
+máquinas con capacidades físicas cada
+vez más sorprendentes.
+Hemos visto demostraciones de robots
+capaces de caminar, mantener el
+equilibrio, manipular objetos e incluso
+realizar movimientos que hace pocos años
+parecían imposibles.
+Ahora bien,
+aquí conviene distinguir entre dos
+cosas.
+Una demostración tecnológica y una
+máquina capaz de trabajar de forma
+autónoma, fiable y rentable durante
+miles de horas con
+situaciones inesperadas. Se trata de dos
+realidades muy diferentes. Un robot
+puede ejecutar una secuencia
+espectacular en un vídeo promocional y
+sin embargo, tener enormes dificultades
+para desenvolverse en un entorno
+doméstico lleno de imprevistos.
+Recoger un objeto siempre colocado en el
+mismo lugar no es lo mismo que ordenar
+una habitación donde cada día las cosas
+están distribuidas de manera distinta.
+Y precisamente ahí está uno de los
+grandes desafíos de la robótica. Pero
+imaginemos que durante los próximos años
+conseguimos superar una parte importante
+de esas limitaciones. ¿Qué sucedería si
+una empresa pudiese incorporar robots
+capaces de realizar tareas repetitivas
+durante muchas horas sin necesidad de
+descansar y con un coste operativo cada
+vez menor?
+Podríamos ver cambios importantes en
+almacenes, fábricas, centros logísticos,
+supermercados, hoteles e incluso
+servicios domésticos. Y eso nos lleva a
+una de las grandes preguntas económicas
+de nuestro tiempo.
+La inteligencia artificial va a crear
+más riqueza o va a destruir más empleo.
+Mi respuesta es que ambas cosas pueden
+ocurrir simultáneamente y entender esta
+aparente contradicción creo que es
+fundamental.
+Cuando una empresa incorpora una
+tecnología que le permite producir más
+utilizando menos recursos, normalmente
+está mejorando su productividad y la
+productividad es uno de los grandes
+motores del crecimiento económico.
+Gracias a los avances tecnológicos
+podemos fabricar productos que antes
+eran extraordinariamente caros y
+ponerlos al alcance de millones de
+personas.
+Basta con pensar en los teléfonos
+móviles, los ordenadores o los
+electrodomésticos.
+Pero que una tecnología aumente la
+productividad no significa que sus
+beneficios se repartan automáticamente
+de manera equilibrada. Imaginemos una
+empresa que necesita 100 trabajadores
+para realizar una determinada actividad.
+Y ahora damos el siguiente paso, que
+gracias a la automatización puede
+mantener la misma producción con 70
+trabajadores. La podría reducir costes,
+aumentar márgenes y mejorar su
+competitividad. Incluso podría utilizar
+esos ahorros para bajar precios y vender
+más.
+Pero también existe la posibilidad de
+que una parte de los trabajadores pierda
+su empleo.
+Y aquí es donde aparece el verdadero
+desafío social, porque desde el punto de
+vista de la economía en su conjunto, una
+mejora de la productividad puede ser
+positiva. Pero para la persona que
+pierde su trabajo, esa mejora puede
+convertirse en un problema enorme.
+Y todavía hay otra cuestión.
+¿Quién se queda con la riqueza adicional
+que genera esa productividad? ¿Los
+trabajadores mediante salarios más
+elevados?
+¿Los consumidores mediante precios más
+bajos? ¿O los accionistas y propietarios
+de las empresas mediante mayores
+beneficios?
+Probablemente habrá que lidiar con una
+combinación de todos, aunque los pesos
+no van a ser equiponderados.
+Pero la distribución va a depender de la
+competencia, de las instituciones, de la
+formación de los trabajadores
+y de la capacidad de adaptación
+que tenga cada uno dentro de su sesgo
+económico. Y aquí quiero introducir una
+reflexión que me parece especialmente
+importante.
+Durante las grandes revoluciones
+industriales muchas profesiones
+desaparecieron, pero también surgieron
+otras nuevas.
+Totalmente cierto. Sin embargo, no
+podemos utilizar ese argumento para dar
+por hecho que esta transición concreta
+será necesariamente sencilla.
+Porque existe una diferencia importante
+respecto a otras revoluciones
+tecnológicas que hemos vivido.
+Durante mucho tiempo las máquinas
+sustituyeron principalmente nuestra
+fuerza física.
+Después empezaron a automatizar tareas
+administrativas y procesos repetitivos.
+El problema es que ahora estamos
+desarrollando sistemas capaces de
+realizar actividades intelectuales y al
+mismo tiempo máquinas capaces de actuar
+físicamente.
+Es decir, la automatización está
+avanzando sobre dos terrenos que antes
+parecían bastante separados.
+Y si ambos procesos se aceleran
+simultáneamente, el tiempo disponible
+para adaptar nuestras capacidades
+profesionales podría reducirse de una
+manera dramática.
+Eso no significa que vayamos a quedarnos
+sin trabajo. Significa que muchas
+personas podrían verse obligadas a
+aprender nuevas habilidades, cambiar de
+profesión o adaptarse a un mercado
+laboral profundamente distinto y mucho
+más dinámico. Y no todos tendremos la
+misma facilidad para hacerlo. Una
+persona joven que está empezando su
+carrera profesional puede tener décadas
+por delante para buscar esa adaptación.
+Pero imaginemos a alguien que tenga 55
+años que lleva 30 trabajando en una
+actividad muy concreta. Si esa actividad
+pierde demanda rápidamente, su capacidad
+de reinventarse puede ser mucho más
+limitada.
+Por eso creo que el debate sobre
+inteligencia artificial no debería
+limitarse a cuánto dinero van a ganar
+las empresas tecnológicas. También
+deberíamos preguntarnos cómo vamos a
+gestionar una transición que pueda
+afectar de manera muy desigual a los
+distintos colectivos y crear una crisis
+social.
+Precisamente cuando empezamos a
+comprender la magnitud de esta
+transformación,
+conviene volver a Anthropic porque sus
+advertencias sobre la inteligencia
+artificial no son lo único llamativo de
+su salida a bolsa. También son las
+cifras de su negocio. Durante los
+primeros 6 meses de 2026, Anthropic
+registró unos ingresos de de 16.300
+millones de dólares. Un año antes,
+durante el mismo periodo, había
+ingresado aproximadamente 1.200
+millones.
+Es una barbaridad.
+Estamos hablando de un crecimiento
+extraordinario.
+Para ponerlo en perspectiva, significa
+que en apenas un año sus ingresos
+semestrales se han multiplicado por más
+de 13 veces. Y esto ayuda a entender por
+qué existe tanto entusiasmo alrededor de
+la inteligencia artificial. No estamos
+hablando únicamente de expectativas
+sobre lo que podría ocurrir dentro de 10
+años. Ya existen empresas que están
+pagando cantidades enormes por utilizar
+estos sistemas.
+Pero ahora viene la otra cara de la
+moneda, porque desarrollar y operar
+estos modelos exige cantidades
+gigantescas de dinero.
+Solo durante el primer semestre de 2026,
+Anthropic gastó aproximadamente 8,900
+millones de dólares en computación e
+infraestructura.
+Es decir, más de la mitad de sus
+ingresos.
+Y esto nos lleva a un concepto económico
+fundamental. No basta con que una
+empresa aumente sus ventas, tiene que
+conseguir que esas ventas crezcan de
+manera suficientemente rentable.
+Porque si para generar cada euro
+adicional de ingresos necesita realizar
+inversiones y asumir gastos
+extraordinariamente elevados, el
+crecimiento puede terminar
+convirtiéndose en una fuente de
+problemas financieros. Y aquí aparece
+uno de los datos más sorprendentes del
+folleto. Desde finales de 2025,
+Anthropic ha firmado nuevos acuerdos
+relacionados con capacidad de
+computación que implican obligaciones
+mínimas de aproximadamente 417,000
+millones de dólares. Sí,
+lo has oído bien, 417,000
+millones.
+Conviene aclarar que no estamos hablando
+de una deuda bancaria que tenga que
+devolver mañana. Son compromisos
+contractuales de gasto futuro, algunos
+con plazos que pueden alcanzar incluso
+los 20 años.
+Pero siguen siendo obligaciones
+económicas extraordinariamente
+importantes.
+Y para comprender el riesgo, imaginemos
+algo mucho más sencillo. Supongamos que
+tienes una empresa de transporte y que
+convencido de que la demanda va a crecer
+enormemente, firmas contratos para
+disponer de miles de vehículos durante
+los próximos 20 años.
+Si la demanda crece como esperabas,
+puede que hayas tomado una decisión
+francamente buena.
+Pero ¿qué sucede si dentro de 3 años
+descubres que tus clientes no están
+creciendo al ritmo de lo que habías
+previsto?
+En ese caso, los compromisos siguen ahí.
+Y eso puede convertirse en un problema
+financiero
+Pues algo parecido está ocurriendo con
+la inteligencia artificial. Las grandes
+compañías están comprometiendo
+cantidades gigantescas de dinero en
+centros de datos, procesadores, energía
+e infraestructura tecnológica.
+Todo ello bajo la expectativa de que la
+demanda futura de IA será
+suficientemente elevada como para
+justificar esas inversiones y
+probablemente lo sea, pero no podemos
+confundir una expectativa con una
+certeza. De hecho, la propia Anthropic
+reconoce que no espera mantener
+indefinidamente los extraordinarios
+ritmos de crecimiento que ha registrado
+hasta ahora
+y señala factores como la competencia,
+la maduración del mercado y las
+consideraciones de seguridad que podrían
+limitar el lanzamiento de determinados
+modelos o al menos ralentizar dichos
+lanzamientos.
+Esto es muy relevante porque significa
+que una de las compañías que lidera esta
+revolución reconoce que existen
+circunstancias capaces de frenar su
+crecimiento. Y mientras tanto, los
+compromisos de inversión ya se han
+asumido. Pero hay otra cifra que ha
+llamado muchísimo la atención. Durante
+el primer semestre de 2026, Anthropic
+registró una pérdida neta contable de
+aproximadamente 80,700 millones de
+dólares.
+Es una cantidad que a primera vista
+parece completamente desproporcionada
+y uno se pregunta, ¿cómo es posible que
+una compañía que factura 16,300
+millones pueda perder contablemente más
+de 80,000 millones en 6 meses? La
+explicación es importante porque si no
+la entendemos podremos sacar
+conclusiones completamente equivocadas.
+Una parte fundamental de esa pérdida
+procede a ajustes contables relacionados
+con instrumentos de deuda convertible.
+Permitidme que os explique esto de forma
+sencilla. Imagina que una empresa recibe
+financiación mediante un instrumento que
+puede convertirse en acciones en
+determinadas condiciones.
+Si la valoración de la empresa aumenta
+muchísimo, el el valor de ese derecho de
+conversión también puede aumentar
+y dependiendo de cómo esté estructurado
+y contabilizado el instrumento, ese
+cambio de valoración puede generar una
+pérdida contable extraordinaria. Eso no
+significa necesariamente que la empresa
+haya tenido que desembolsar esa cantidad
+de dinero durante ese periodo.
+Por eso no debemos confundir una pérdida
+neta contable con una salida equivalente
+de efectivo.
+Y tampoco con la pérdida operativa que
+genera la actividad ordinaria del
+negocio. Son conceptos distintos y
+precisamente por eso, cuando analizamos
+una compañía, no basta con quedarnos con
+el titular, eh sobre todo porque suelen
+ser titulares espectaculares. Tenemos
+que comprender qué hay detrás de cada
+cifra. Ahora bien, que una parte
+importante de la pérdida sea contable no
+elimina los riesgos financieros del
+negocio, porque Anthropic sigue
+necesitando enormes cantidades de
+recursos para desarrollar sus modelos,
+entrenarlos, mantener sus sistemas y
+competir con otras empresas.
+Y esto explica por qué su salida a bolsa
+puede convertirse en uno de los
+acontecimientos financieros más
+importantes del sector tecnológico.
+Según Bloomberg, algunos inversores
+manejan valoraciones entre 1,4 y 1,5
+billones de dólares, aunque también se
+han mencionado escenarios superiores,
+por encima de los 2 billones.
+Estamos hablando de cifras
+extraordinarias,
+pero lo que realmente me interesa es lo
+que representan esas cifras. Cuando un
+inversor paga una valoración tan elevada
+por una compañía, está anticipando
+que esa empresa será capaz de generar
+cantidades enormes de beneficios en el
+futuro.
+Y cuanto mayores son las expectativas,
+menor es el margen para decepcionar. Una
+empresa puede desarrollar una tecnología
+extraordinaria, aumentar sus ingresos y
+convertirse en una pieza fundamental de
+la economía mundial. Y sin embargo, sus
+acciones pueden ser una mala inversión
+si el precio que pagamos por ellas
+incorpora unas expectativas
+excesivamente optimistas.
+Esto es algo que hemos visto muchas
+veces a lo largo de la historia de los
+mercados financieros, y conviene
+recordarlo precisamente cuando una
+tecnología despierta tanto entusiasmo
+como está pasando con la IA ahora.
+Porque una cosa es estar convencido de
+que la inteligencia artificial va a
+transformar el mundo, y otra muy
+distinta es saber cuánto vale cada una
+de las empresas que están participando
+en esa transformación.
+Y aquí aparece una última contradicción
+que me parece especialmente interesante.
+Las empresas tecnológicas necesitan
+seguir innovando para justificar sus
+inversiones y mantener su posición
+competitiva. Pero al mismo tiempo,
+reconocen que desarrollar sistemas cada
+vez más autónomos exige mecanismos de
+seguridad, supervisión y control, y esos
+mecanismos tienen unos costes. Pueden
+retrasar lanzamientos, pueden limitar
+determinadas funcionalidades o exigir
+inversiones adicionales. Por tanto, no
+estamos únicamente ante una carrera para
+desarrollar la inteligencia artificial
+más potente. Estamos ante una carrera
+por conseguir que esa tecnología sea
+útil, rentable y suficientemente segura.
+Y esas tres condiciones no siempre
+avanzan al mismo ritmo. De hecho, creo
+que durante los próximos años, una de
+las grandes diferencias entre las
+compañías ganadoras y las perdedoras
+será precisamente su capacidad para
+encontrar ese equilibrio. Porque no
+necesariamente ganará quien desarrolle
+el modelo más impresionante. Puede ganar
+quien consiga ofrecer una herramienta
+suficientemente buena, fiable y rentable
+para millones de usuarios. Y eso nos
+devuelve al principio. Estamos entrando
+en una etapa en la que la inteligencia
+artificial dejará de ser simplemente una
+herramienta a la que consultamos. Cada
+vez más será una tecnología a la que
+delegaremos tareas. Primero serán cosas
+relativamente sencillas, organizar una
+agenda, responder correos, preparar
+documentos, comparar productos. Después
+llegarán decisiones más importantes.
+Gestionar pagos, realizar compras,
+coordinar procesos empresariales o
+intervenir en actividades físicas
+mediante robots.
+Y cada nuevo paso nos obligará a
+responder una pregunta,
+¿cuánto control estamos dispuestos a
+ceder?
+Porque el progreso tecnológico no
+consiste únicamente en desarrollar
+máquinas capaces de hacer más cosas,
+también consiste en aprender a
+utilizarlas de manera que mejoren
+nuestra vida. Y creo que aquí deberíamos
+evitar dos errores. El primero es
+rechazar estas tecnologías por miedo a
+lo desconocido. Eso nos impediría
+aprovechar oportunidades extraordinarias
+para mejorar la productividad, reducir
+costes y aumentar nuestro bienestar.
+Pero el segundo error sería todavía más
+peligroso, aceptar cualquier avance
+tecnológico sin preguntarnos cuáles son
+sus consecuencias, quién asume los
+riesgos y qué mecanismos tenemos para
+mantener el control en todo momento.
+Y esto es especialmente importante
+cuando hablamos de nuestro dinero, de
+nuestro trabajo y de decisiones que
+pueden afectar a otras personas.
+Durante décadas hemos utilizado las
+máquinas para ejecutar tareas que
+nosotros decidíamos.
+Ahora estamos empezando a construir
+máquinas capaces de decidir también cómo
+ejecutar esas tareas y en determinados
+casos, cuando resulta conveniente
+hacerlo. Y puede que esa sea una de las
+transformaciones más profundas de esta
+revolución.
+Porque el verdadero desafío no será
+únicamente conseguir que las máquinas
+sean cada vez más inteligentes.
+Será conseguir que nosotros seamos
+suficientemente inteligentes
+como para saber que debemos delegar en
+ellas.
+Y sobre todo,
+qué decisiones nunca deberíamos dejar
+completamente fuera de nuestro control.
+Antes de despedirme quiero recordarte
+algo muy importante. Yo no tengo grupos
+de Telegram ni de WhatsApp a los que
+ofrezca señales de inversión,
+recomendaciones de compra o venta ni
+oportunidades para ganar dinero
+rápidamente. Si alguien contacta contigo
+utilizando mi nombre o mi imagen para
+ofrecerte ese tipo de servicios, tienes
+que saber que están suplantando mi
+identidad. No entregues tu dinero, ten
+mucho cuidado. No des tus datos
+personales a desconocidos, es un fraude
+y deberías
+denunciarlo.
+Y ahora sí, muchas gracias a todos por
+acompañarme una semana más. Nos vemos en
+el próximo vídeo. Suerte con tus
+inversiones. Un saludo.
