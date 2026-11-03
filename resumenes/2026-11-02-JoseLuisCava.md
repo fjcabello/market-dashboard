@@ -39,3 +39,5 @@
 **Nota cruzada:** el "tramo al alza antes de la caída" conecta con su analogía de 1929 en [[2026-10-30-JoseLuisCava]] (rebote fuerte y luego mercado bajista) y con [[2026-10-20-JoseLuisCava]], donde ya decía que las bolsas podían aguantar hasta el 3 de noviembre. La venta de oro barrido en soporte aparecía en [[2026-10-23-JoseLuisCava]]. La crítica a sindicatos y pensiones coincide en el tiempo con los recortes políticos de Pablo Gil ([[2026-10-31-PabloGilTrader]], [[2026-11-01-PabloGilTrader]]).
 
 **Contraste con otros canales:** el mismo día, Mark Moss ([[2026-11-02-MarkMoss]]) lee las elecciones de medio mandato con estadística histórica: suelo en octubre y un S&P 500 más alto 12 meses después en 20 de 20 casos, independientemente del resultado. Cava, en cambio, ve solo un rebote previo a una caída mayor.
+
+**Nota cruzada posterior:** al día siguiente, en [[2026-11-03-JoseLuisCava]], mantiene el esquema de rebote a corto plazo seguido de reanudación bajista y lo concreta en el SOXX (461; soporte en 465/455; objetivo en 367): "el suelo aún no lo hemos visto".

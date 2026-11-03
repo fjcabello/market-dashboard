@@ -50,3 +50,5 @@
 **Contraste con datos:** `fred_data.csv` da Bitcoin en **81.681,9** el 29 de octubre, muy por encima de los ~77.500 del directo nocturno, de modo que el dato diario de la serie no recoge la caída de esa noche. El oro está en **4.033,6** el 29, coherente con los "4.000" que menciona.
 
 **Nota cruzada:** en el directo de la noche anterior ([[2026-10-29-TradingLatino-RBizdZ_KikY]]) esperaba una última caída de onda 2 hasta ~79.400 y decía que perder 78.000 "pondría en riesgo la tendencia alcista del gráfico diario". 24 horas después, Bitcoin está por debajo de ese nivel. El mismo largo figura allí con entrada en 80.940. Los clips [[2026-10-30-TradingLatino--jWaaDlA3WY]] y [[2026-10-30-TradingLatino-uuTxiegQFMo]] son recortes de ese directo del 28, no de este.
+
+**Nota cruzada posterior:** en [[2026-11-03-TradingLatino]] (directo del 2 de noviembre), antes del plazo del 10-12 de noviembre, ya proyecta en 4 horas que los rebotes del oro hacia 4.000-4.300 serán "para seguir cayendo", con el oro en 3.945. Bitcoin cotiza en ~76.700-77.000 y el largo sigue en pérdidas.

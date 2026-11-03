@@ -49,3 +49,5 @@
 **Tono:** bajista (sobre la capacidad de ahorro de la clase media y las finanzas públicas), con matices explícitos para no sonar catastrofista.
 
 **Nota cruzada:** es la versión larga del clip [[2026-10-25-PabloGilTrader]] (salario real estancado 8 años) y continúa [[2026-10-24-PabloGilTrader]] (estado del bienestar sin margen). El mismo tema generacional lo trata [[2026-10-26-JoseLuisCava]], pero con otro enfoque: él señala a los mayores de 60 años como grupo beneficiado del gasto social, mientras que Pablo Gil evita culpar a una generación ("no todos los mayores son propietarios").
+
+**Nota cruzada posterior:** el mismo planteamiento (cuánto le queda a una familia tras pagar lo necesario) reaparece como clip corto en [[2026-11-02-PabloGilTrader]].

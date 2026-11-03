@@ -36,3 +36,5 @@
 **Contraste:** José Luis Cava, en [[2026-10-27-JoseLuisCava]], interpreta los mismos 60.000 despidos de Microsoft al revés: un ahorro de ~20.000 M$ que financia el capex en IA y puede acelerar la tendencia alcista de la acción. También coinciden en que el cuello de botella de la IA es la financiación.
 
 **Nota cruzada:** desarrolla la especulación de [[2026-10-22-GeorgeGammon]] de que la OPV de Anthropic marque el techo de la burbuja, ahora con el S-1 ya publicado.
+
+**Nota cruzada posterior:** en [[2026-11-02-GeorgeGammon]] prolonga esta tesis con la caída del Treasury a 10 años (de 5,33% a 4,89%) pese al petróleo alto, que lee como una señal de desinflación y recesión por el pinchazo de la IA, y con la compra de Lumentum por Marvell pagada con acciones (115.000 M$).

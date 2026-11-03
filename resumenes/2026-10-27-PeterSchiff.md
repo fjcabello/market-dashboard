@@ -49,3 +49,5 @@
 **Contraste con datos:** `fred_data.csv` da el oro en **4.038,4** el 26 de octubre y **4.071,5** el 27, coherente con los 4.014 que cita durante la grabación. El tipo efectivo de los fondos federales (DFF) está en **3,88%**.
 
 **Contraste con otros canales:** George Gammon ([[2026-10-26-GeorgeGammon]]) da **95.000 M$** para la ampliación de capital de Meta frente a los "alrededor de 35.000 M$ o algo así" de Schiff. Las dos cifras no cuadran y Schiff la da con duda expresa. José Luis Cava ([[2026-10-28-JoseLuisCava]]) desmonta al día siguiente las cuentas de Anthropic presentadas en el folleto de la OPV.
+
+**Nota cruzada posterior:** en [[2026-11-03-PeterSchiff]] (grabado el 2 de noviembre), el oro cerró el viernes por debajo de **3.900** y la plata por debajo de **49**, perforando los dos niveles que aquí daba como suelo. Schiff reconoce que no esperaba "ni de lejos" una corrección tan grande y la llama "mercado bajista cíclico".
