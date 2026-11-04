@@ -48,3 +48,5 @@
 **Nota cruzada:** en [[2026-10-30-TradingLatino]] mantenía el largo en Bitcoin desde ~80.900 con la liquidación en ~73.000, y daba al oro de plazo hasta el **10-12 de noviembre** para llegar a **4.200-4.300** antes de ponerle la flecha bajista. Hoy, antes de ese plazo, ya proyecta que los rebotes del oro hacia 4.000-4.300 serán para seguir cayendo. Los clips del mismo día [[2026-11-03-TradingLatino-5kHsAPg3JAo]] (tamaño de la posición en futuros) y [[2026-11-03-TradingLatino-qVK0DdQ7xwU]] (rebote del oro) recortan pasajes relacionados.
 
 **Contraste con otros canales:** Peter Schiff ([[2026-11-03-PeterSchiff]]), con el oro en el mismo precio (3.945), lo ve por encima de 4.000 en días y llama a comprar ya. Merino, aunque está largo, proyecta más caídas.
+
+**Nota cruzada posterior:** en [[2026-11-04-TradingLatino]] (directo de la noche del 3 de noviembre) cambia de opinión sobre Nvidia y la ve de compra por debajo de 200 (192-198), aunque "estamos en una burbuja". Mantiene la tesis de Bitcoin.

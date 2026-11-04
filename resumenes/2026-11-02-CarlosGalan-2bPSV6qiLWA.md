@@ -34,3 +34,5 @@
 **Tono:** educativo / promocional, con un desacuerdo abierto entre los ponentes sobre los planes de pensiones.
 
 **Nota cruzada:** el mismo día se publicó [[2026-11-02-CarlosGalan]], que repite el pasaje sobre rentabilidad esperada de [[2026-10-28-CarlosGalan-fVfes2R7QfU]]. La recomendación de Pablo López de usar Indexa para planes de pensiones ya aparecía en [[2026-10-30-CarlosGalan]].
+
+**Nota cruzada posterior:** el siguiente clip de la entrevista, [[2026-11-03-CarlosGalan-ayC6YFErw40]], explica cómo se empieza a invertir en cada plataforma y cómo gana dinero Trade Republic.

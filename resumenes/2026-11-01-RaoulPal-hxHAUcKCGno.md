@@ -40,3 +40,5 @@
 **Tono:** alcista estructural a largo plazo (IA y robótica como motor de crecimiento y desapalancamiento hacia 2030). Prudente sobre los datos actuales: productividad aún por debajo de la inflación, PTF sin cambios y mercado laboral débil.
 
 **Nota cruzada:** es el capítulo de la fase tres del vídeo largo de [[2026-10-25-RaoulPal]] (mismas cifras de productividad, nóminas y paro). La fase dos, la era exponencial, se publicó el mismo día en [[2026-11-01-RaoulPal]].
+
+**Nota cruzada posterior:** la pieza anunciada, "El código universal" y sus cuatro leyes, se publicó en [[2026-11-04-RaoulPal]].

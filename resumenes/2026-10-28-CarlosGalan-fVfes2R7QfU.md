@@ -30,3 +30,5 @@
 **Tono:** neutro / educativo. Prudente sobre la rentabilidad futura, que esperan de la mitad que la pasada.
 
 **Nota cruzada posterior:** el pasaje de rentabilidad (8% anual histórico; ~4% previsto; doblar en 12 años) se volvió a publicar como clip suelto en [[2026-11-02-CarlosGalan]].
+
+**Nota cruzada posterior:** la analogía del pintor se volvió a publicar como clip suelto en [[2026-11-03-CarlosGalan]].

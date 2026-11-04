@@ -42,3 +42,5 @@
 **Nota cruzada:** en [[2026-11-02-JoseLuisCava]] anticipaba que, pasadas las elecciones, podía "desplegarse un tramo al alza antes de la caída" y ya atribuía la caída del oro a las ventas forzadas por el desplome de semiconductores y memoria. Hoy mantiene el mismo esquema (rebote y luego reanudación bajista) y lo concreta en los niveles del SOXX.
 
 **Contraste con otros canales:** George Gammon ([[2026-11-02-GeorgeGammon]]) lee la caída del 10 años con el petróleo alto como una señal de recesión por el pinchazo de la IA, y Peter Schiff ([[2026-11-03-PeterSchiff]]) cree que podríamos estar "a un par de trimestres de la recesión". Cava, en cambio, descarta la recesión y atribuye la bajada de rendimientos a las compras de Bessent.
+
+**Nota cruzada posterior:** en [[2026-11-04-JoseLuisCava]], al día siguiente de las elecciones, mantiene el rebote a corto (ahora apoyado en el flujo de opciones, hasta el vencimiento de noviembre), pero ya no descarta la recesión: sospecha que Bessent y Warsh podrían "provocar" una crisis a partir de enero de 2027 para justificar la inyección de liquidez. Fija el 4,80% del 10 años como nivel clave.

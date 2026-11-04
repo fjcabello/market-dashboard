@@ -61,3 +61,5 @@
 **Nota cruzada:** en [[2026-10-27-PeterSchiff]] veía los **4.000$** como suelo del oro ("no creo que vayamos a bajar mucho de 4.000") y decía que le "sorprendería" ver la plata por debajo de **50** ("esa es realmente la ruptura"). Una semana después los dos niveles se han perforado, y él mismo reconoce que no esperaba una caída así.
 
 **Contraste con otros canales:** el mismo día, José Luis Cava ([[2026-11-03-JoseLuisCava]]) no ve ningún fallo macro ni riesgo de recesión (el S&P 500 equiponderado está en máximos) y atribuye la caída de los rendimientos a que Bessent compra en el tramo largo. George Gammon ([[2026-11-02-GeorgeGammon]]) lee la misma caída del 10 años por debajo del 5% como una señal de desinflación y recesión por el pinchazo de la IA. Schiff la considera temporal dentro de una tendencia alcista de los rendimientos.
+
+**Nota cruzada posterior:** el pasaje sobre los intereses de la deuda (3-4 billones frente a ~5 billones de ingresos; "condenados si lo hacemos y condenados si no") se publicó como clip suelto en [[2026-11-04-PeterSchiff]].

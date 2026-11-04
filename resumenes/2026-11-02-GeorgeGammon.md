@@ -45,3 +45,5 @@
 **Nota cruzada:** prolonga la tesis de [[2026-10-26-GeorgeGammon]] (ampliación de Meta de 95.000 M$, despidos de Microsoft, OPV de Anthropic y "tiempo muerto" del mercado de deuda) y ahora añade el comportamiento del 10 años como confirmación.
 
 **Contraste con otros canales:** Peter Schiff ([[2026-11-03-PeterSchiff]]) lee la misma bajada del 10 años por debajo del 5% como "temporal" y espera rendimientos mucho más altos por inflación y déficit, justo el argumento de déficit que Gammon descarta. José Luis Cava ([[2026-11-03-JoseLuisCava]]) atribuye la caída de rendimientos a las compras de Bessent en el tramo largo y no ve riesgo de recesión.
+
+**Nota cruzada posterior:** en [[2026-11-03-GeorgeGammon]] amplía la tesis al mercado laboral: el JOLTS de septiembre (7,5 M de vacantes) solo es fuerte por el capex en IA y el empleo público, mientras Disney, Netflix y Microsoft despiden.
