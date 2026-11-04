@@ -1,0 +1,22 @@
+Solo quería mostrarles un gráfico
+ sobre los precios de alquiler de las
+ GPU. Tenemos los datos en vivo de las
+ B200, las Black Well, y también de las
+ H100 más antiguas. Así que, tanto las
+ GPU nuevas como las viejas siguen
+ subiendo de precio en alquiler, lo cual
+ es una gran sorpresa, diría yo. Y algo
+ que me parece especialmente interesante
+ aquí es que he revisado básicamente
+ todas las investigaciones sobre IA de
+ los grandes bancos de inversión. He
+ preguntado por los supuestos integrados
+ en sus modelos de flujo de caja
+ descontado al valorar las grandes
+ empresas tecnológicas, y no he
+ encontrado un solo banco de inversión
+ que no asuma una caída en los precios
+ de alquiler de las GPU con el tiempo.
+ Todos asumen eso, lo cual probablemente
+ sea la suposición correcta, digamos,
+ dentro de 10 años.
