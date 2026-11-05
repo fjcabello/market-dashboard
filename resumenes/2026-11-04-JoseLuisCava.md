@@ -36,6 +36,6 @@
 
 **Contraste con datos:** `fred_data.csv` da el 10 años (DGS10) en **4,94%** el 3 de noviembre, todavía por encima del 4,80% que Cava marca como nivel clave, y la nota a 2 años (DGS2) en **4,56%**, por debajo de la resistencia del 5%. George Gammon ([[2026-11-02-GeorgeGammon]]) daba como máximo del 10 años un **5,33%**, frente al "5,4" que cita Cava.
 
-**Nota cruzada:** mantiene el esquema de [[2026-11-03-JoseLuisCava]] (rebote a corto y suelo solo con liquidez de Warsh más compra pública de acciones), ahora con fecha tentativa (enero de 2027) y con el flujo de opciones como argumento para el rebote. Allí descartaba la recesión; hoy no la descarta e incluso la ve posible como algo "provocado".
+**Nota cruzada:** mantiene el esquema de [[2026-11-03-JoseLuisCava]] (rebote a corto y suelo solo con liquidez de Warsh más compra pública de acciones), ahora con fecha tentativa (enero de 2027) y con el flujo de opciones como argumento para el rebote. Allí descartaba la recesión; hoy no la descarta e incluso la ve posible como algo "provocado". El vídeo de energía anunciado sale en [[2026-11-05-JoseLuisCava]] (ETF QDVF y XLE como refugio), donde el fondo de la crisis se retrasa a finales del segundo trimestre de 2027.
 
 **Contraste con otros canales:** George Gammon ([[2026-11-03-GeorgeGammon]]) también ve el capex en IA como el único motor del empleo y teme su frenazo, pero sin esperar que se retome.

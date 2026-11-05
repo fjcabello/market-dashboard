@@ -45,3 +45,5 @@
 **Nota cruzada:** en [[2026-11-03-TradingLatino]] mantenía la flecha bajista en Nvidia ("quizás ahora cambie de opinión, pero todavía no"). Hoy, con la acción en la zona de 200, ya la ve de compra por debajo de ese nivel. La tesis de Bitcoin (lateral 78.000-88.000, onda B como *bulltrap* por encima de 90.000) es la misma. Los clips del mismo día [[2026-11-04-TradingLatino-fKpDyWtXtQU]] y [[2026-11-04-TradingLatino-oJskAT7Fg-Y]] recortan el análisis semanal al que se refiere aquí ("lo revisamos ayer en semanal").
 
 **Posiciones propias:** el largo en spot "en 68.000" encaja con el spot comprado "entre 60.000 y 70.000" de [[2026-10-30-TradingLatino]]. Es distinto del largo en futuros desde ~**80.900** con liquidación en ~73.000 ([[2026-11-03-TradingLatino-5kHsAPg3JAo]]), del que hoy no habla.
+
+**Nota cruzada posterior:** en el directo siguiente ([[2026-11-05-TradingLatino]]), con Bitcoin rebotando a ~80.600, Merino da ya alcistas el gráfico de 4 horas y el de 1 hora ("vamos para arriba… a buscar esos 90.000"), sin cambiar el diario ni el semanal.
