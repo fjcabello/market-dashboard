@@ -42,3 +42,5 @@
 **Nota cruzada:** cumple el vídeo sobre energía anunciado en [[2026-11-04-JoseLuisCava]]. Retrasa el calendario de la crisis: el día anterior apuntaba que "a lo mejor la crisis la provocan a partir de enero" de 2027; hoy sitúa su punto más profundo hacia finales del segundo trimestre de 2027. Sigue la serie de refugios iniciada en [[2026-10-29-JoseLuisCava]] (salud, QDVG).
 
 **Contraste con otros canales:** Pablo Gil ([[2026-11-04-PabloGilTrader-SZDj59sl6P0]]) toma al pie de la letra el mensaje de Warsh ("seguirán subiendo el coste de financiación"), mientras que Cava lo ve como "teatrillo".
+
+**Nota cruzada posterior:** en [[2026-11-06-JoseLuisCava]], tras la caída del S&P 500 del 5 de noviembre (−4,4%), dice que la crisis será "peor de lo que esperábamos" por el resultado electoral y que todavía no ve suelo. Mantiene el desenlace: Warsh bajará tipos e inyectará liquidez, y se declara "exultantemente alcista en oro".

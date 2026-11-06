@@ -55,3 +55,5 @@
 **Contraste con datos:** `fred_data.csv` da Bitcoin en **80.479** y oro en **4.075** al cierre del 4 de noviembre, en línea con los ~80.600 que cita para Bitcoin y algo por debajo de los 4.116 que da para el oro.
 
 **Nota cruzada:** en [[2026-11-04-TradingLatino]] (directo de la noche anterior, con Bitcoin a ~76.100) mantenía la flecha bajista en 1 hora y 4 horas ("los rebotes son solo para seguir cayendo"). Hoy, con Bitcoin a ~80.600, las da alcistas. El diario y el semanal no cambian. El largo en futuros desde ~80.900 es el de [[2026-11-03-TradingLatino-5kHsAPg3JAo]].
+
+**Nota cruzada posterior:** en [[2026-11-06-TradingLatino]] (directo del 5 de noviembre) Bitcoin vuelve a ~76.250 y Merino sigue sin cambiar la flecha del diario y el semanal. Mantiene el largo en futuros a la espera de duplicar en 73.500-74.000 y abre un largo propio en Nvidia por debajo de 200.

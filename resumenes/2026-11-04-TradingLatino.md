@@ -47,3 +47,5 @@
 **Posiciones propias:** el largo en spot "en 68.000" encaja con el spot comprado "entre 60.000 y 70.000" de [[2026-10-30-TradingLatino]]. Es distinto del largo en futuros desde ~**80.900** con liquidación en ~73.000 ([[2026-11-03-TradingLatino-5kHsAPg3JAo]]), del que hoy no habla.
 
 **Nota cruzada posterior:** en el directo siguiente ([[2026-11-05-TradingLatino]]), con Bitcoin rebotando a ~80.600, Merino da ya alcistas el gráfico de 4 horas y el de 1 hora ("vamos para arriba… a buscar esos 90.000"), sin cambiar el diario ni el semanal.
+
+**Nota cruzada posterior:** en [[2026-11-06-TradingLatino]] (directo del 5 de noviembre) ejecuta esa compra: entra largo en Nvidia con 5x por debajo de 200 (cita entre 181 y 185) y sitúa las ventas en 215-225.
