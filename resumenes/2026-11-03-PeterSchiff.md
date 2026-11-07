@@ -62,4 +62,4 @@
 
 **Contraste con otros canales:** el mismo día, José Luis Cava ([[2026-11-03-JoseLuisCava]]) no ve ningún fallo macro ni riesgo de recesión (el S&P 500 equiponderado está en máximos) y atribuye la caída de los rendimientos a que Bessent compra en el tramo largo. George Gammon ([[2026-11-02-GeorgeGammon]]) lee la misma caída del 10 años por debajo del 5% como una señal de desinflación y recesión por el pinchazo de la IA. Schiff la considera temporal dentro de una tendencia alcista de los rendimientos.
 
-**Nota cruzada posterior:** el pasaje sobre los intereses de la deuda (3-4 billones frente a ~5 billones de ingresos; "condenados si lo hacemos y condenados si no") se publicó como clip suelto en [[2026-11-04-PeterSchiff]].
+**Nota cruzada posterior:** el pasaje sobre los intereses de la deuda (3-4 billones frente a ~5 billones de ingresos; "condenados si lo hacemos y condenados si no") se publicó como clip suelto en [[2026-11-04-PeterSchiff]]. En el siguiente podcast, [[2026-11-07-PeterSchiff]], el oro está en ~4.070 (llegó a superar los 4.100) y los demócratas ganan Cámara y Senado: Schiff da por cumplidas las dos previsiones.

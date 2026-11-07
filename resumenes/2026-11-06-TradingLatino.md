@@ -40,6 +40,6 @@
 
 **Contraste con datos:** `fred_data.csv` da Bitcoin en **75.942** al cierre del 5 de noviembre, en línea con los ~76.250 que cita. Nvidia no está en el fichero. El S&P 500 cae un **4,4%** ese día (7.688,6 → 7.353,7).
 
-**Nota cruzada:** cumple lo que anunciaba en [[2026-11-04-TradingLatino]] (compra de Nvidia por debajo de 200, "en la siguiente velita roja"). En [[2026-11-05-TradingLatino]] (directo del 4) Bitcoin rebotaba a ~80.600 y apuntaba a 90.000; un día después vuelve a ~76.250 sin que cambie la flecha. El clip del mismo día [[2026-11-06-TradingLatino-aA90DKvYcTU]] trata de laterales y de Intel.
+**Nota cruzada:** cumple lo que anunciaba en [[2026-11-04-TradingLatino]] (compra de Nvidia por debajo de 200, "en la siguiente velita roja"). En [[2026-11-05-TradingLatino]] (directo del 4) Bitcoin rebotaba a ~80.600 y apuntaba a 90.000; un día después vuelve a ~76.250 sin que cambie la flecha. El clip del mismo día [[2026-11-06-TradingLatino-aA90DKvYcTU]] trata de laterales y de Intel. En el directo siguiente, [[2026-11-07-TradingLatino]] (6 de noviembre), la posición de Nvidia va un +12,26% a favor y Bitcoin sigue en ~76.000. El pasaje del ABC semanal se publicó como clip suelto en [[2026-11-07-TradingLatino-HhKjAUuyuWo]].
 
 **Contraste con otros canales:** Cava ([[2026-11-06-JoseLuisCava]]) no ve suelo en las bolsas y espera más caídas por la venta de los gestores. Merino cree que Nvidia ya ha hecho la mayor parte de la caída.
