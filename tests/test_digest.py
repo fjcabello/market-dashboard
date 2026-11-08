@@ -158,6 +158,20 @@ with mock.patch("urllib.request.urlopen", side_effect=err):
         msg = str(e)
 check("propaga la description", "chat not found" in msg, msg)
 check("el error no contiene el token", token not in msg and "SECRETO" not in msg, msg)
+def error_for(description: str) -> str:
+    e = urllib.error.HTTPError("u", 400, "x", {}, io.BytesIO(json.dumps({"ok": False, "description": description}).encode()))
+    with mock.patch("urllib.request.urlopen", side_effect=e):
+        try:
+            sd.send(token, "c", "hola")
+        except RuntimeError as err:
+            return str(err)
+    return ""
+
+
+check("pista: token inválido", "TELEGRAM_BOT_TOKEN" in error_for("Not Found"))
+check("pista: chat_id de un bot", "TELEGRAM_CHAT_ID tiene el id de un bot" in error_for("Forbidden: the bot can't send messages to the bot"))
+check("pista: chat inexistente", "TELEGRAM_CHAT_ID no corresponde" in error_for("Bad Request: chat not found"))
+check("sin pista para errores desconocidos", error_for("Bad Request: message is too long").endswith("message is too long"))
 ok_resp = mock.MagicMock()
 ok_resp.__enter__.return_value = io.BytesIO(b'{"ok":true,"result":{}}')
 with mock.patch("urllib.request.urlopen", return_value=ok_resp) as uo:
