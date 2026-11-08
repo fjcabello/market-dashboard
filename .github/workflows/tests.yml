@@ -31,5 +31,8 @@ jobs:
       - name: Run smoke tests
         run: python tests/test_pipeline.py
 
+      - name: Run digest tests
+        run: python tests/test_digest.py
+
       - name: Compile all sources
-        run: python -m compileall -q fetch_liquidity.py download_transcripts.py tests/
+        run: python -m compileall -q fetch_liquidity.py download_transcripts.py tools/ tests/
