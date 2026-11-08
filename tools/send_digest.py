@@ -152,7 +152,9 @@ def main() -> int:
         print(f"Franja de silencio ({QUIET_START}:00-{QUIET_END}:00 Madrid): {len(todo)} digest(s) quedan para la siguiente ejecución.")
         return 0
 
-    token, chat = os.environ.get("TG_TOKEN", ""), os.environ.get("TG_CHAT", "")
+    # Un salto de línea final (secret guardado con `gh secret set < fichero`)
+    # acaba dentro de la URL y Telegram responde "Not Found".
+    token, chat = os.environ.get("TG_TOKEN", "").strip(), os.environ.get("TG_CHAT", "").strip()
     if not args.dry_run and not (token and chat):
         print("ERROR: faltan TG_TOKEN o TG_CHAT (secrets TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID).", file=sys.stderr)
         return 1

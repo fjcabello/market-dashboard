@@ -95,6 +95,16 @@ with tempfile.TemporaryDirectory() as tmp:
         sd.main()
         check("un re-run no reenvía", sent == [])
 
+    (d / "2026-11-09.md").write_text("## 2026-11-09-D\ncuatro")
+    got = []
+    with mock.patch.object(sd, "DIGESTS", d), \
+         mock.patch.object(sd, "send", lambda t, c, text: got.append((t, c))), \
+         mock.patch.object(sd, "in_quiet_hours", lambda now: False), \
+         mock.patch.dict(os.environ, {"TG_TOKEN": "123:abc\n", "TG_CHAT": " 42\n"}), \
+         mock.patch.object(sys, "argv", ["send_digest.py"]):
+        sd.main()
+        check("limpia saltos de línea de los secrets", got == [("123:abc", "42")], str(got))
+
     (d / "2026-11-08.md").write_text("## 2026-11-08-C\ntres")
     with mock.patch.object(sd, "DIGESTS", d), \
          mock.patch.object(sd, "send", lambda t, c, text: sent.append(text)), \
