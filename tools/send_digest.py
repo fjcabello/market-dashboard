@@ -15,6 +15,8 @@ Cada sección ## lleva el nombre base del resumen en resumenes/. Este script
 convierte cada digest sin marcador digests/YYYY-MM-DD.sent en uno o varios
 mensajes HTML para el chat privado de Paco y, si Telegram los acepta todos,
 crea el marcador (el workflow lo commitea), así que un re-run no reenvía nada.
+Si falla a mitad de un digest de varios mensajes, digests/YYYY-MM-DD.partial
+guarda cuántos se enviaron y la siguiente ejecución sigue desde ahí.
 
 Usa el bot @PaquitosAgent_bot solo para enviar (sendMessage). Nunca llamar a
 getUpdates ni a setWebhook con ese token: la sesión de Durbar en el VPS es la
@@ -166,10 +168,16 @@ def main() -> int:
             for m in messages:
                 print(f"----- {date} ({len(m)} caracteres)\n{m}")
             continue
-        for m in messages:
-            send(token, chat, m)
+        # .partial guarda cuántos mensajes de este digest aceptó ya Telegram:
+        # si falla a mitad, el re-run sigue desde ahí en vez de repetirlos.
+        partial = path.with_suffix(".partial")
+        done = int(partial.read_text().strip() or 0) if partial.exists() else 0
+        for i in range(done, len(messages)):
+            send(token, chat, messages[i])
+            partial.write_text(f"{i + 1}\n", encoding="utf-8")
         path.with_suffix(".sent").write_text(datetime.now(MADRID).isoformat(timespec="seconds") + "\n", encoding="utf-8")
-        print(f"Enviado digest {date} ({len(messages)} mensaje(s)).")
+        partial.unlink(missing_ok=True)
+        print(f"Enviado digest {date} ({len(messages) - done} mensaje(s)).")
     return 0
 
 
