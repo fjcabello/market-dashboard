@@ -41,11 +41,23 @@ jobs:
             --permission-mode acceptEdits \
             --allowedTools "Read,Write,Bash,Glob,Grep,Skill"
 
+      # Digest del día por Telegram (bot @PaquitosAgent_bot, solo sendMessage:
+      # la sesión de Durbar en el VPS es la única que lee ese bot). Envía los
+      # digests/ sin marcador .sent y respeta la franja de silencio de
+      # 23:00-07:00 Madrid. Si falla, los resúmenes se commitean igual y el
+      # digest queda pendiente para la siguiente ejecución.
+      - name: Enviar digest por Telegram
+        continue-on-error: true
+        env:
+          TG_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TG_CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python3 tools/send_digest.py
+
       - name: Commit changes
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add resumenes/
+          git add resumenes/ digests/
           git diff --staged --quiet || \
             git commit -m "resumenes: generación diaria automática $(date -u +%Y-%m-%d)"
           # Otro workflow puede haber empujado a main mientras este corría:

@@ -41,4 +41,22 @@ Este skill no genera ninguna síntesis cruzada — solo mantiene al día `resume
 
 5. Escribe cada resumen en `resumenes/YYYY-MM-DD-Canal.md` (el nombre de canal es la parte del fichero de transcript entre la fecha y `.txt`).
 
-6. Al terminar, informa de cuántos resúmenes nuevos se generaron y de la cobertura final (`transcripts/` vs `resumenes/`). **No hagas commit ni push** — eso lo decide quien invoque el skill; en CI, el propio workflow se encarga después de que termines.
+6. Si has escrito al menos un resumen nuevo, escribe también el digest del día para Telegram en `digests/YYYY-MM-DD.md`, con la fecha UTC de hoy (`date -u +%F`), no la de los vídeos. Si el fichero ya existe (re-run del mismo día), añade al final las secciones de los resúmenes nuevos sin repetir las que ya están. Formato exacto, porque lo lee `tools/send_digest.py`:
+
+   ```markdown
+   Opcional: 1-2 frases con el panorama del día si varios vídeos coinciden o se contradicen en algo.
+
+   ## 2026-11-07-PeterSchiff
+   1-2 frases con lo esencial: tesis, cifra o nivel clave y tono.
+
+   ## 2026-11-07-TradingLatino-HhKjAUuyuWo
+   ...
+   ```
+
+   - Una sección `## ` por resumen nuevo, con el nombre base exacto del fichero de `resumenes/`, sin `.md`. El script construye a partir de él el enlace y el nombre del canal.
+   - Texto plano, en español y sin Markdown ni HTML: nada de negritas, enlaces ni listas. El script escapa el texto y añade el formato.
+   - Máximo ~300 caracteres por vídeo. Si el vídeo no tiene contenido de mercado, dilo en una frase.
+   - Las mismas reglas que en los resúmenes: no opines sobre si el comentarista acierta, y señala las cifras dudosas.
+   - Si no hay resúmenes nuevos, no crees el digest.
+
+7. Al terminar, informa de cuántos resúmenes nuevos se generaron y de la cobertura final (`transcripts/` vs `resumenes/`). **No hagas commit ni push** — eso lo decide quien invoque el skill; en CI, el propio workflow se encarga después de que termines. Tampoco envíes nada por Telegram: lo hace el workflow con `tools/send_digest.py`.
