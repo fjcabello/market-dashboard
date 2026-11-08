@@ -114,6 +114,38 @@ with tempfile.TemporaryDirectory() as tmp:
         sd.main()
         check("en silencio no envía ni marca", sent == [] and not (d / "2026-11-08.sent").exists())
 
+print("reanuda un digest de varios mensajes que falló a mitad")
+with tempfile.TemporaryDirectory() as tmp:
+    d = Path(tmp)
+    (d / "2026-11-10.md").write_text(long_digest)
+    total = len(sd.render("2026-11-10", long_digest))
+    calls = []
+
+    def flaky(t, c, text):
+        calls.append(text)
+        if len(calls) == 2:
+            raise RuntimeError("Telegram no responde: timeout")
+
+    env = {"TG_TOKEN": "t", "TG_CHAT": "c"}
+    with mock.patch.object(sd, "DIGESTS", d), mock.patch.object(sd, "send", flaky), \
+         mock.patch.object(sd, "in_quiet_hours", lambda now: False), \
+         mock.patch.dict(os.environ, env), mock.patch.object(sys, "argv", ["send_digest.py"]):
+        try:
+            sd.main()
+        except RuntimeError:
+            pass
+    check("guarda el progreso parcial", (d / "2026-11-10.partial").read_text().strip() == "1"
+          and not (d / "2026-11-10.sent").exists())
+    first_run = list(calls)
+    calls.clear()
+    with mock.patch.object(sd, "DIGESTS", d), mock.patch.object(sd, "send", lambda t, c, text: calls.append(text)), \
+         mock.patch.object(sd, "in_quiet_hours", lambda now: False), \
+         mock.patch.dict(os.environ, env), mock.patch.object(sys, "argv", ["send_digest.py"]):
+        sd.main()
+    check("el re-run no repite el primer mensaje", first_run[0] not in calls and len(calls) == total - 1,
+          f"{len(calls)} de {total}")
+    check("termina con .sent y sin .partial", (d / "2026-11-10.sent").exists() and not (d / "2026-11-10.partial").exists())
+
 print("errores de Telegram sin filtrar el token")
 token = "123456:SECRETO-NO-IMPRIMIR"
 err = urllib.error.HTTPError("https://api.telegram.org/bot" + token + "/sendMessage", 400, "Bad Request", {},
