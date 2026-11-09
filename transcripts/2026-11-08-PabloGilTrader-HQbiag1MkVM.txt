@@ -1,0 +1,870 @@
+Bueno, eh la situación ha cambiado de
+forma drástica. Según se conoció el
+éxito de los demócratas tomando el
+control del Congreso en su totalidad,
+primero con la victoria en la Cámara de
+Representantes y también en el Senado,
+las bolsas cerraron con relativa fuerza
+y al día siguiente ha venido la
+reflexión y el desplome de buena parte
+de las compañías tecnológicas y
+especialmente de los semiconductores.
+Hemos pasado de lo que podría ser la
+euforia al pánico y es lo que vamos a
+analizar en el vídeo de hoy. ¿Estamos
+ante una mera corrección? ¿Es algo más
+severo?
+Ehm, las preguntas que me gustaría
+responder es ehm qué supone eh y por qué
+el mercado está interpretando este nuevo
+entorno eh tras la derrota de Donald
+Trump en
+en estas elecciones de medio término,
+cómo puede afectar al Nasdaq 100 que ha
+sido evidentemente el motor principal de
+la subida de la bolsa de los últimos
+años, ehm
+cómo distinguir entre una corrección
+sana y algo más grave, a partir de qué
+momento deberíamos preocuparnos mucho y
+qué compañías eh desde un punto de vista
+de estructura gráfica tienen más riesgo.
+Ehm, la idea es que de alguna forma
+saquéis niveles que debéis de vigilar
+tanto en términos de índices generales
+como en términos de compañías concretas.
+Así que vamos con ello. [resoplido]
+En primer lugar,
+la pregunta de qué supone eh para el
+mercado la derrota de Donald Trump, yo
+creo que hay como varios puntos que
+deberíamos eh que deberíamos comentar.
+Antes del cambio electoral eh de de esta
+victoria demócrata ya había eh algunas
+sin signos de de de duda entre los
+inversores sobre cómo de rentable va a
+ser eh la IA, cuándo van a llegar esos
+resultados sobre todo,
+si va a compensar estas inversiones
+gigantescas que están llevando a cabo
+pues muchas de las compañías que lideran
+hoy por capitalización los índices
+bursátiles.
+Es evidente que había una relación entre
+los principales CEOs o presidentes de
+estas compañías y Donald Trump.
+Estuvieron presentes todas ellas y
+aportaron dinero, todas ellas en el
+momento en que eh ganó las elecciones en
+su segundo mandato y había una relación
+económica en algunos casos muy visible
+como por ejemplo la de Elon Musk que se
+había convertido en uno de los
+principales donantes de la campaña de
+Donald Trump.
+Ehm, a cambio Donald Trump lo que ha
+hecho es es favorecer la expansión
+acelerada de la inteligencia artificial,
+ha estado reduciendo obstáculos y
+aumentando ehm
+las facilidades para que se incrementase
+la velocidad de implementación y y y
+creación de centros de datos. Hemos
+llegado a ver incluso ehm que cuando
+algunos CEOs recientemente querían
+frenar el desarrollo de la IA ante los
+evidentes casos de
+de vulneración de líneas rojas y casos
+de seguridad preocupantes, el propio
+Trump fue el primero en decir, no, sé,
+aquí no frena nadie. Con lo cual ha sido
+un gran acelerador de este proyecto
+hasta este momento.
+Eh, cuando hablamos de aceleración de
+proyectos quiere decir que hay unas
+inversiones multitudinarias en en en en
+todos los flancos, no? Eh,
+principalmente en centros de datos hemos
+visto como estos centros de datos son
+unas infraestructuras gigantescas
+que además eh conlleva eh un problema de
+refrigeración, de suministro eléctrico
+y cuanto mayores son esos centros de
+datos
+más venden las empresas de
+semiconductores porque tienen que
+proveer de esos chips para el
+entrenamiento de los distintos modelos
+de la IA. Por tanto, la primera
+sensación que da es que al haber ganado
+los demócratas
+ehm lo que va a pasar es que
+vamos a cambiar de un entorno donde se
+favorecía la expansión reduciendo
+obstáculos a de repente todo lo
+contrario, eh de reducción de obstáculos
+por parte de Trump. Ahora probablemente
+va a haber más capas de supervisión que
+van a hacer que los procesos sean más
+lentos. Por otro lado, ehm es muy
+probable que, teniendo en cuenta que hay
+hay problemas de capacidad en muchas
+redes y que se ha producido un
+encarecimiento muy notable del coste de
+la energía, tanto para hogares como para
+empresas,
+a raíz de de de esta de esta evolución
+de los centros de datos eh los
+demócratas pongan más más problemas para
+que se pueda implementar y exijan
+ciertas garantías de que no va a haber
+un impacto en el precio que pagan en la
+factura los particulares. Todo esto lo
+que quiere decir es que
+aunque se sigan haciendo centros de
+datos, es muy probable que eh el proceso
+de inversión se ralentice y en el
+momento en que ralentizas ese proceso de
+creación de centros de datos, pues la
+demanda de chips a las empresas de
+semiconductores, pues probablemente
+también hay que ajustarlo a la baja.
+Eh, aparte de eso, no hay que descartar
+que pueda haber riesgos de
+investigaciones parlamentarias
+promovidas por los demócratas sobre
+determinados ejecutivos y su relación
+con Donald Trump y los contratos
+públicos. Eh, ha habido un
+enriquecimiento muy notable de
+determinadas figuras y muy especialmente
+del entorno, además del presidente
+Donald Trump, y ya desde el principio,
+en las primeras horas después de la
+victoria demócrata, el mensaje que
+estaban mandando es ya pueden ir ustedes
+contratando abogados porque les vamos a
+hacer eh pasar un calvario ehm desde el
+punto de vista judicial. Por tanto, se
+va a analizar con lupa el posible
+conflicto de intereses entre eh
+[resoplido] aquello que ha promovido
+Donald Trump y que de lo cual se han
+beneficiado estas compañías respecto a
+si efectivamente se han vulnerado
+ciertas legislaciones o no.
+En cualquier caso, eh vamos a entrar en
+un terreno mucho más complejo del que
+había antes, donde prácticamente nadie
+ponía en cuestión lo que se estaba
+haciendo.
+Eh, cuando hablamos de una mayor
+supervisión eh quiere decir que vamos a
+ver mayor lentitud a la hora de aprobar
+determinadas políticas y que va a haber
+más restricciones. Es decir, se va a
+desacelerar el proceso eh y eso nos
+obliga o obliga a los inversores a
+cuantificar hasta qué punto las
+expectativas de beneficio y de
+valoración que hoy día cotizaban en el
+mercado son realistas bajo este nuevo
+marco. Creo que esto es lo que de alguna
+manera ha provoca este primer conato de
+en en semiconductores y en compañías
+tecnológicas, que no ha afectado a todas
+por igual ni muchísimo menos. Ahora
+vamos a ver exactamente a quiénes, pero
+este es el marco que en principio parece
+que está teniendo un impacto muy
+negativo y, como digo siempre, hoy es el
+primer día, ni siquiera ha cerrado la
+sesión de hoy donde estamos viendo, eso
+sí, caídas muy importantes de más de un
+6% en el Nasdaq, de más de un 4% en en
+el S&P 500 y caídas de de casi doble
+dígito en algunas empresas de
+semiconductores. Ehm, la pregunta es
+cómo cerrará la sesión de hoy y,
+especialmente, cómo cerrará mañana
+viernes, esto lo estaréis viendo ya el
+domingo, cómo cerrará la semana, porque
+muchas veces cuando hacemos análisis
+sobre gráficos semanales lo importante
+es que se consolide el movimiento con un
+cierre semanal. Dicho esto, ehm
+¿cómo afecta a a las multinacionales, a
+las grandísimas empresas que están
+relacionadas con la IA? Recordad que una
+de los problemas eh problemas entre
+comillas que existen es que eh el peso
+que han alcanzado estas compañías en
+índices globales es extraordinariamente
+alto. Sin ir más lejos, cuando miramos
+el S&P 500 vemos que eh algo más de una
+tercera parte de lo que pesa un índice
+compuesto por 500 compañías, simplemente
+se aglutina en siete nombres, en siete
+empresas. Es decir, que siete empresas
+marcan el destino de más de un tercio de
+un índice tan global como el S&P 500.
+Ehm, y si nos fuésemos al Nasdaq 100,
+que es un índice de 100 compañías,
+descubriríamos que prácticamente la
+mitad del índice depende de lo que pase
+con estas eh estos siete nombres. Por
+tanto, hay un problema de concentración
+enorme en un en un entorno donde el
+mercado eh ha ha premiado a al índice
+tecnológico sobre cualquier otro índice
+estadounidense desde el año 2009 de una
+forma brutal. Al principio las
+diferencias entre el año 2009 eh y el
+año al año probablemente 2020 no eran
+tan grandes. Fijaos que las diferencias
+de retorno, esto está indexado a 100, lo
+cual quiere decir que 2020 mientras que
+el Nasdaq subía un 500% el resto de los
+índices estaban subiendo entre un 200 y
+un 300, pero es que a partir del año
+2020 eh vemos un comportamiento
+espectacular y ya con con el impacto
+total de la IA, pues la revalorización
+que llegó a acumular, en este caso el
+Nasdaq 100, superaba eh en los 2500%
+mientras que en el resto de los índices,
+pues el SP que tenía componentes
+tecnológicos también rozaba 800% y el
+Dow Jones y el índice de pequeñas
+compañías, el small caps, se quedaba en
+el entorno de un 500 500 y pico por
+ciento, con lo cual una diferencia entre
+ellos abismal ehm que explica buena
+parte de esa concentración en unos pocos
+nombres a los que hacíamos alusión al
+principio.
+Ehm,
+la siguiente pregunta que habría que
+hacerse es eh cómo se traduce esto en el
+comportamiento del Nasdaq, qué es lo que
+ha pasado realmente con el índice
+tecnológico. Si miramos la última gran
+crisis se se forma en el año 2008 y
+desde el año 2009 podemos ver una
+estructura bastante ordenada en el caso
+del Nasdaq 100 en un gráfico mensual con
+escala logarítmica, donde se aprecia un
+soporte que se ha puesto a prueba en
+múltiples ocasiones ehm y que en este
+momento se movería en el entorno de los
+23.000
+23.200 y pico puntos. Ehm, estamos en un
+en un momento clave, ahora lo
+analizaremos más en detalle en un
+gráfico semanal, pero como veis el
+movimiento correctivo apenas se se nota
+en un en un movimiento tan sumamente
+sólido como el que lleva eh mostrando
+desde hace ya prácticamente 16 17 años
+el Nasdaq 100. ¿Dónde está el problema?
+El problema está en en la estructura que
+se está empezando a a dibujar aquí
+arriba, es lo que conocemos por una
+estructura distribución tipo doble
+techo. Ehm, y no está claro si
+finalmente se va a activar o no, por eso
+decía que es tan importante el
+[resoplido] cierre de hoy y
+especialmente el cierre de mañana. En el
+caso de que se llegase a completar esta
+estructura eh no sería nada raro que
+veamos rotaciones hacia niveles de
+23.230
+e incluso 22.000 largos ehm donde
+aparecería el el gran soporte que ofrece
+la directriz de largo plazo, además de
+una zona pivote marcada por ehm a los
+máximos de 2024 y 2025 y los mínimos de
+2026. Ehm, por tanto, bueno, no hay que
+descartar que podamos tener un
+movimiento correctivo bastante intenso,
+pero que no cambia la estructura gráfica
+del Nasdaq 100.
+Eh, la pregunta del millón es eh si soy
+inversor a largo plazo, estoy
+simplemente ante una corrección sana o
+debería preocuparme porque esto puede
+ser algo mucho más grave. Eh, como
+decíamos antes, hay una estructura
+potencial tipo doble techo
+cuyo objetivo a la baja roza el 13% de
+proyección, es la altura que tenía la la
+propia estructura. Si se consolidase
+este cierre eh implicaría que vamos a
+ver caídas del 13% pero podría incluso
+ser un poco más mayor si nos vamos a
+buscar la directriz y la zona pivote.
+Pero este este tipo de correcciones ya
+las hemos visto antes. Sin ir más lejos
+en el año 2025 con la implementación de
+la guerra arancelaria por parte de
+Donald Trump aquel día nefasto con la
+pizarra
+vimos como se producía un movimiento de
+caída muy muy grande hasta un 26% y que
+también nacía de una pequeña estructura
+anterior tipo doble techo, una
+estructura muy similar solo que más
+pequeña a la que tenemos aquí.
+Con lo cual nos debería sorprender este
+movimiento de un potencial 26% desde
+máximos para buscar esa zona de apoyo.
+Entiendo que no, entiendo que esto sería
+una corrección severa evidentemente,
+pero no deja de ser una corrección como
+las que hemos tenido, además no hace
+demasiado, hace escasamente año, año y
+medio. Pero lo más interesante es poner
+esto en contexto con lo que lleva
+ocurriendo desde el año 2009 y muy
+especialmente desde el año 2018 2019
+porque cuando a la gente le hablas de
+una potencial caída de un 26 27%
+normalmente te tachan de alarmista,
+de bajista y dices, no, perdona,
+en 2019 tuvimos una corrección de un 23,
+en 2020 tuvimos una corrección de un 31,
+en 2022 tuvimos una corrección de un
+casi un 37%
+y como decíamos antes en torno a un 26
+en el año 2025. Es decir,
+que hemos vivido prácticamente cuatro
+correcciones muy severas en el
+transcurso de los últimos siete ocho
+años.
+Sería muy raro que de repente aquí
+tuviésemos una corrección similar, no,
+sería casi hasta normal. Y de hecho,
+mientras la caída no sobrepase este
+punto me atrevería a decir que estamos
+en la típica corrección que hay que
+comprar, la típica corrección
+contratendencia que en un momento dado
+genera muchas [carraspeo] dudas al
+inversor, pero que mantiene intacta la
+estructura que viene funcionando desde
+hace más de década y media
+y que en esos niveles encuentra un nivel
+de soporte suficientemente gordo como
+para que vuelva la confianza al mercado
+y con ello el dinero. Por tanto, ese
+sería el primer nivel, entre 22 y 23.000
+puntos, probablemente es un objetivo
+agresivo a la baja, que no quiere decir
+que vaya a ocurrir porque va a depender
+de cómo cierre esta semana, pero que no
+podemos descartar porque estaría muy en
+línea con lo que ya ha pasado
+anteriormente.
+se para, eh que realmente empezamos a a
+detectar rupturas de directrices que
+llevan funcionando eh 15 16 años. ¿Cómo
+de grave es la situación? ¿Qué se puede
+esperar? Eh, [resoplido] yo creo que hay
+dos niveles que salen muy rápidamente
+cuando miramos el gráfico. Eh, el
+primero sería la zona pivote formada por
+los techos de 2021 y los suelos de 2025.
+Eso supone aproximadamente áreas de
+16.000 17.000, lo cual representaría
+cerca de un 50% de corrección, entre un
+46 y un 47 %.
+Eh, ¿es descabellado? No, no es
+descabellado. Evidentemente hay una
+concentración sectorial enorme en muy
+pocos nombres, con una exposición del
+retail o del minorista estadounidense
+como no hemos visto en la historia.
+Podría haber pánico, hay mucho
+apalancamiento, hay mucho uso de
+derivados. Claro que puede ocurrir.
+Dices, vale, y el y el segundo escenario
+eh digo, pues pues la otra opción es
+volver a un soporte mucho más bajo que
+está en torno a los 10 11.000, que
+supondría una caída de un 65%
+evidentemente cuando alguien comenta
+esto te dice, buah, eso es imposible.
+Digo, bueno, imposible no hay nada. En
+en el año 2001 2002 se acumuló una caída
+superior al 80% en el Nasdaq, eh un 82
+83% de caída y es verdad que la
+situación no era idéntica a la actual,
+pero el comportamiento del mercado
+muchas veces no funciona en base a
+fundamentales o a nivel macro, sino puro
+sentimiento y posicionamiento, con lo
+cual si algo he aprendido a lo largo de
+40 años que llevo en el mundo eh
+financiero profesional es a no decir
+esto es imposible, porque he visto
+tantas cosas que parecía que no podían
+ser y luego han sido que evidentemente
+me parece crucial
+tenerlo tener la mente abierta y no dar
+por cerrada ninguna puerta.
+Aun así, si os interesa un análisis más
+en detalle eh os invito al directo que
+voy a hacer eh mañana lunes
+eh a las 7:07 hora de Madrid y va a ser
+totalmente gratuito y voy a hacer un
+análisis no solamente del Nasdaq y
+algunas acciones del Nasdaq, sino de la
+bolsa en general, riesgos y
+oportunidades, qué pasa con el oro, qué
+pasa con las criptomonedas. Os voy a
+enseñar una aplicación de megatendencias
+porque creo que estamos cada vez más en
+un mundo donde lo que va a primar es el
+stock picking o la selección de ideas y
+de compañías más que exponerte
+directamente un índice y esa aplicación
+os ayudará mucho a localizar esas
+megatendencias, con lo cual si os
+apetece un análisis mucho más profundo
+es totalmente gratuito el directo, os
+dejo en la descripción del vídeo el
+enlace para que os podáis suscribir.
+[resoplido] Dicho eso,
+evidentemente el comportamiento a priori
+no sabemos cuál va a ser, pero lo que sí
+podemos hacer es ver
+qué compañías pueden tener más riesgo y
+para eso no quiero entrar en
+fundamentales, quiero simplemente ver
+estructuras que se están desarrollando
+desde el punto de vista técnico con
+algunas señales de indicadores y
+lógicamente si una compañía ha liderado
+el comportamiento alcista desde desde
+hace años es Nvidia. Nvidia se ha
+convertido un poco en la compañía de
+éxito que suministra Eh, solamente los
+chips, sino que financia una parte de la
+infraestructura
+a lo que llamamos economía circular que
+sustenta eh lo que está ocurriendo. Es
+decir, financia compañías que crean
+centros de datos, luego esas compañías
+le compran a Nvidia los chips para
+entrenamiento de de modelos. Al final
+hay una hay una relación eh enorme entre
+compañías que pesan muchísimo y ese es
+el gran riesgo, que si de repente esto
+pincha, pues [resoplido] no afecta a un
+nombre, sino que afecta a muchas
+compañías que pesan demasiado en los
+índices. Eh, como digo, en el caso de
+Nvidia estamos como en el Nasdaq,
+estamos ahí tonteando con la posibilidad
+de completar una estructura tipo doble
+techo
+que tendría como objetivo, si se
+completa eh una proyección a la baja de
+un 22% lo cual quiere decir que
+estaríamos agregando el primer tramo de
+caída más el segundo, en total una caída
+cercana al 44% y eso nos pondría eh a
+nos nos llevaría a poner a prueba todos
+los techos de 2024 y 2025 eh y podría
+ser un soporte muy bueno desde el cual
+Nvidia encontrase eh un suelo para
+estabilizar el proceso correctivo. Como
+digo, no es seguro porque no hemos visto
+todavía el cierre semanal, pero para
+cuando estéis viendo este vídeo ya
+tendréis si la semana ha confirmado
+cierres por debajo de 189 y medio o no.
+Otro de las compañías eh que siempre
+está como en el en el ojo del huracán es
+Oracle o Oracle porque es una compañía
+que tiene eh eh un endeudamiento
+extraordinariamente alto y hemos visto y
+hemos comentado muchas veces como el
+el
+seguro de impago, el lo que llamamos el
+CDS o Credit Default Swap eh
+ha alcanzado cotas muy elevadas, lo cual
+quiere decir que los inversores otorgan
+un riesgo elevado a que esta compañía,
+si las cosas se tuercen, con la cantidad
+de deuda que que en la que ha incurrido
+pudiese tener problemas financieros muy
+severos. Como veis, desde el año 2001 la
+tendencia en el caso de Oracle es es muy
+estable, pero sí había tenido una
+aceleración desde 2022 en adelante
+espectacular, seguida de esta corrección
+que, como veis, no corresponde a a un
+movimiento a raíz del resultado
+electoral, sino que veníamos ya
+denotando una un castigo en el precio
+bastante sonoro.
+Y ahora la pregunta es
+si si esta caída, perdón,
+[tos]
+si esta caída se extiende simplemente
+para poner a prueba una vez más la
+directriz, pues podríamos bajar ar desde
+cotas cercanas a 118 a niveles del
+entorno de 85 80, es decir, quedaría un
+movimiento de un 34% adicional a la
+baja. Eh, si entendemos que esto que se
+ha generado aquí es un hombro cabeza
+hombro, es una figura de distribución eh
+muy importante, en ese caso eh
+la proyección de este hombro cabeza
+hombro nos llevaría a una situación
+radicalmente distinta. Estaríamos
+hablando probablemente de caídas hacia
+cotas de 40 y llevarnos por delante pues
+la gran tendencia alcista que ha estado
+vigente prácticamente en más de dos
+décadas. Por tanto, otra compañía que
+debemos vigilar muy de cerca. La tercera
+es TSMC,
+Taiwan Semiconductor
+es una de las compañías que mejor
+desempeño ha tenido eh a lo largo de los
+últimos años, especialmente 2025 y 2026
+han sido muy buenos y ahora, como podéis
+apreciar, hay un riesgo eh de potencial
+figura de vuelta. Eh, no está ni
+siquiera el precio rompiendo todavía el
+soporte, pero merece la pena vigilar esa
+zona en torno a 2,20 porque de romperse
+automáticamente se habilitaría un
+recorrido a la baja algo superior al 15%
+y nos dejaría un poco en la sensación de
+que se ha acabado el último impulso, que
+empezamos un proceso correctivo y aunque
+el objetivo, como digo, es en torno a un
+15 15 16%
+eh nos hemos nos hemos alejado mucho de
+la directriz de largo plazo que empieza
+en 2023 y podríamos tener correcciones
+incluso más grandes las inicialmente ehm
+previstas. Eh, por tanto, esta sería la
+tercera compañía que creo que hay que
+vigilar de cerca.
+Y luego hay algunas otras que no tienen
+estructuras de distribución, no tienen
+estructuras gráficas con unos objetivos
+concretos, pero que han tenido un
+comportamiento tan positivo en en en en
+muy poco tiempo, en en 2025 y principios
+de 2026 y que ahora pues empiezan a
+acercarse a soportes que son muy muy
+importantes. Algunos corrigen por un
+motivo y otro por y otros por por otros
+distintos. En el caso de Google fue
+curioso porque después de resultados
+venía a decir como que se estaba
+canibalizando a sí mismo con la IA, que
+una de sus principales fuentes de de
+ingresos provenía de la publicidad, pero
+que al al activar el modo IA dentro de
+los buscadores la mayoría de los
+usuarios ya no pasaba por las páginas
+donde se paga por publicidad, sino que
+buscaban el resumen que hacía la IA, que
+era muy eficiente, y eso reducía eh eh
+los ingresos, a pesar de aumentaba eh
+los clientes que usaban su navegador, lo
+cual te da una idea de hasta qué punto
+esta nueva tecnología está cambiando los
+parámetros de los modelos de negocio de
+muchas muchas empresas. En cualquier
+caso, la zona en torno a 270 271 es muy
+importante, es donde se frenó la última
+gran corrección y si empezásemos a
+perder ese nivel de suelos no sería nada
+raro que eh la corrección se extienda
+hacia la directriz. Es una directriz que
+viene funcionando desde el año 2009 con
+eh de forma muy precisa y como veis,
+pues implicaría caídas adicionales en
+torno a un 30 31 por ciento.
+Ehm, por otro lado tenemos Broadcom. Eh,
+Broadcom también ha tenido un desempeño
+buenísimo. Eh, de nuevo aquí hemos visto
+cómo a partir de 2022 se acelera mucho
+la tendencia, nos alejamos de esa línea
+eh de tendencia estructural y ahora
+estamos en ese punto clave en torno a
+294 con un soporte crítico que que fue
+el mínimo anterior y la directriz que
+une pues toda la secuencia de mínimos
+crecientes desde el año 2022 en adelante
+y de romperse 294 no hay un objetivo a
+la baja concreto, pero lo que sí nos
+indica es que podríamos tener un
+movimiento eh bastante más intenso a
+nivel correctivo que en el peor de los
+casos, evidentemente, pues nos podría
+acercar a la base de esa directriz en
+torno a 100 105.
+Ehm, Samsung Electronics, estamos
+hablando
+de otra de las compañías que ha tenido
+un 2024 y 2025 excepcionales y luego ya
+en 2026 se ha empezado el proceso
+correctivo. Ese proceso correctivo, como
+podéis ver, no viene precedido una
+formación concreta de vueltas, es verdad
+que hay una vela envolvente bajista muy
+llamativa
+y la clave es si se frena en torno a 174
+que sería como el el 61,8%
+de Fibonacci, de corrección de
+Fibonacci. Eh, hasta ahí lo
+entenderíamos como una mera corrección.
+Si excediese ese nivel, recordad que
+estamos en escala semilogarítmica, eh
+por ese motivo veis el desplazado los
+porcentajes de Fibonacci a la parte de
+arriba, pero están bien calculados. Si
+perdiésemos 174 el riesgo es que la
+corrección se pueda extender hacia cotas
+de 87 90, que sería poner a prueba los
+máximos de 2021 de 2024 y la directriz
+que marca toda la subida desde
+prácticamente principios de los años 90.
+Ehm, por otro lado tenemos también el
+gráfico de SK Hynix, es una es una
+empresa ehm que que ha protagonizado
+también una verticalidad en la subida eh
+increíble a lo largo de del último
+período y que al igual que le pasa a a
+Samsung Electronics está muy cerquita de
+esa zona del 61,8 de corrección de
+Fibonacci. Si se frena ahí no hay ningún
+problema, si excede esa corrección no
+sería nada raro que empecemos a ver cómo
+una parte importante de este proceso eh
+de subida vertical se empieza a limpiar
+y a una velocidad similar a la que eh
+ocurrió en el en el en el caso del
+movimiento impulsivo. Normalmente
+siempre encontramos ciertos paralelismos
+en las velocidades entre los procesos de
+subida y los procesos de bajada. Por
+tanto, atentos a esa cota en torno a
+1212 que creo que es bastante relevante.
+Al final
+podríamos sintetizar todo esto en el
+índice de semiconductores. Eh hemos
+visto muchas compañías que se dedican a
+a esto eh y dices, bueno, ¿y el índice
+en sí qué aspecto tiene? El índice de
+semiconductores de Filadelfia, como
+podéis observar, eh tiene ya máximos y
+mínimos decrecientes. Ehm la tendencia
+desde el año 2009 es muy buena,
+pero estamos a un 46% de esa de esa
+directriz. Es decir,
+eh la euforia que que se ha desatado eh
+en los últimos años nos ha hecho eh
+irnos muy por encima de lo que era la
+línea de apoyo tradicional. No quiere
+decir que tengamos que volver
+directamente a esa línea eh con toda
+seguridad, pero siempre viene bien saber
+dónde está la zona segura, la zona de
+confort. Es decir, eh en qué punto eh
+dirías, bueno, yo aquí sí que quiero
+estar otra vez en semiconductores porque
+estamos en una tecnología que creo que
+es que va que va a durar mucho tiempo,
+que que va a cambiarnos, ya nos ha
+cambiado la forma de hacer las cosas,
+pero los cambios que va a traer van van
+a ser increíbles
+y quiero mantener mi confianza en el
+medio largo plazo en este tipo de
+activo. Y la pregunta es, ¿dónde? Te
+digo, bueno, pues en torno a 5000 tienes
+un soporte espectacular que viene
+formado por por esa directriz, por los
+antiguos máximos que se alcanzaron en el
+año 2023 y el problema es que está muy
+lejos, que estamos hablando de
+movimientos de más de un 40% de
+corrección antes de llegar ahí. Pero eso
+me ayuda a entender cuánto riesgo estoy
+asumiendo si las cosas se salen de
+madre, que no digo que vaya a ocurrir,
+pero que pudiese pasar.
+Ehm
+¿qué qué nos faltaría? Nos faltaría una
+un punto importantísimo. Ya sabéis que
+yo analizo mucho en términos relativos
+porque eh hm con frecuencia consigo eh
+de alguna manera confirmar si lo que
+estoy viendo es un problema incipiente,
+o simplemente una señal fallida, una una
+señal que que no va a ir a más. Eh, me
+[carraspeo] gusta en este caso analizar
+qué está pasando con el Nasdaq respecto
+a la bolsa mundial. Y y como veis,
+cuando nos movemos a ese entorno sí que
+se aprecia eh un doble techo ya bastante
+claro con una activación que se podría
+revertir si si rebota el mercado antes
+del cierre de hoy y mañana, pero ya hay
+un doble techo activado con un objetivo
+un 8% favorable a la a la bolsa mundial
+frente al Nasdaq 100. Es decir, está
+perdiendo de alguna manera ese liderazgo
+el Nasdaq 100 y eh la caída no es grave
+porque nos llevaría a poner a prueba lo
+que ya fue un gran soporte en 2024 y
+2025, con lo cual estaríamos simplemente
+rotando a la parte de abajo y desde aquí
+podríamos volver a rebotar, pero merece
+la pena eh poner en contexto ese
+potencial movimiento a la baja hacia
+162-164,
+qué implicaciones tienen en el gráfico
+de largo plazo. Y aquí es donde saltan
+las alertas, ¿por qué? Porque desde el
+año 20 2008-2009
+la tendencia a favor del Nasdaq 100
+frente a la bolsa global ha sido
+espectacularmente fiable. Fijaos que
+tenemos pues muchísimos puntos de apoyo
+eh y ahora mismo si se llegase a
+proyectar ese doble techo que comentaba
+y, por tanto, retestear estos mínimos de
+aquí implicaría que nos hemos cargado la
+tendencia que marcaba mejor
+comportamiento del Nasdaq contra la
+bolsa global desde el año 2008-2009.
+Ya anticipaba hace un tiempo, señores,
+desde el año 2024 la bolsa SP 500 no
+lidera la bolsa mundial, por tanto,
+tiene que haber bolsas que lo están
+haciendo mejor. Esa hegemonía
+estadounidense [resoplido] que en el SP
+contra el índice
+ya se había roto a finales de 2024 y
+desde entonces está marcando máximos y
+mínimos decrecientes. Si ahora se
+confirmase con el Nasdaq, quiere decir
+que la bolsa americana empieza a tener
+un comportamiento relativo claramente
+peor que el resto de bolsas mundiales y
+teniendo en cuenta la concentración que
+ha habido en términos de de de
+performance, de rentabilidad entre la
+bolsa americana y el resto del mundo y
+más allá, cómo se ha concentrado en un
+sector muy concreto que es el
+tecnológico y en pocos nombres, pues
+ehm
+empiezas a tener una conclusión clara de
+que si se confirman todos estos hechos,
+probablemente
+el riesgo de un proceso correctivo
+intenso para poner a prueba las bases de
+las directrices de largo plazo empieza a
+tener cada vez más lógica. ¿Cuáles son
+las conclusiones? Ehm [carraspeo]
+creo que hay dos factores ehm que son
+fundamentales, ¿no? Ehm hay una
+moderación en el ritmo de expansión de
+infraestructura tecnológica y, por otro
+lado, una impaciencia cada vez más
+evidente por parte del inversor de saber
+cuándo va a generar beneficios reales
+estas inversiones que son
+extraordinariamente elevadas. Por otro
+lado, hemos visto que esa derrota eh por
+parte del gobierno eh de Trump y el
+Partido Republicano, pues mete una mayor
+incertidumbre, mayores supervisiones
+regulatorias, posibles restricciones a
+la expansión de los centros de datos y
+Trump va a tener menos margen para
+impulsar su agenda tecnológica porque ha
+sido un gran fan de este de este tipo de
+tecnología.
+Ehm el desplome que estamos viendo en
+los fabricantes de semiconductores lo
+que refleja es una vulnerabilidad ante
+una posible revisión simplemente a la
+baja de las expectativas de crecimiento
+que están vinculadas con la inteligencia
+artificial. Decíamos, no puede salir
+nada mal porque los múltiplos a los que
+cotizan eh es casi el escenario idílico,
+con lo cual, como haya cualquier
+accidente, como haya cualquier problema
+que nos haga
+eh las proyecciones de de cifras que nos
+están dando cada vez que publican
+resultados, se puede caer ese castillo
+en el aire, puede puede caerse y si se
+cae probablemente va a afectar a muchas
+empresas simultáneamente.
+Eh, aun así no debemos confundir lo que
+llamamos el riesgo político del riesgo
+financiero. El primero [resoplido]
+está actuando como detonante eh de
+ventas eh desde un punto de vista
+táctico, ¿no? Reajuste de carteras. El
+segundo eh determina realmente hasta qué
+punto esta corrección está justificada
+en base a los beneficios futuros. Eh,
+normalmente eh lo primero que llega es
+el cambio de sentimiento que ha venido
+provocado probablemente por este el
+cambio electoral. Ehm,
+a partir de ahí lo que todo inversor va
+a mirar es cómo impacta esto en
+resultados reales y en función de cuánto
+pueda impactar realmente estaremos ante
+un movimiento más o menos severo. Ehm,
+como digo, estamos a las puertas. La
+primera reacción, las primeras horas
+después de conocerse la ola azul, la
+victoria demócrata, el mercado lo
+celebró positivamente. Al día siguiente
+hemos visto unas correcciones de las más
+grandes que se acumulan en un solo día
+desde hace muchos meses y es
+probablemente por
+pensar
+qué repercusión pueda tener esto en
+compañías que tienen un peso enorme y
+donde hay muchísima gente montada desde
+hace años. Como siempre, gracias a
+todos. Recordad, yo no doy
+recomendaciones de inversión a través
+redes de redes sociales. Si estáis en
+Telegram, si estáis en WhatsApp
+recibiendo y habéis pagado dinero para
+recibir eh señales de compra y venta por
+mi parte, es suplantación de identidad,
+es una auténtica estafa y os agradecería
+que, por supuesto, eh
+me aviséis y que y que lo denunciéis.
+Ehm, suerte, como digo, y si queréis más
+información sobre esto, acordaos, mañana
+lunes día 9 tenéis un directo eh donde
+analizaré eh extensamente lo que está
+pasando en el mercado. Suerte a todos
+con las inversiones y nos vemos en la
+próxima emisión. Un saludo y hasta la
+vista.
+[música]
