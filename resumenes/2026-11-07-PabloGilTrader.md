@@ -11,3 +11,5 @@
 **Activos mencionados:** ninguno.
 
 **Tono:** neutro en mercados; pesimista en lo social.
+
+**Nota cruzada:** el clip siguiente, [[2026-11-08-PabloGilTrader]], continúa la serie: por qué cuesta ahorrar aunque la inflación se modere (el "escalón" de precios se queda).

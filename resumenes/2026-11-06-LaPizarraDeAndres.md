@@ -41,3 +41,5 @@
 **Contraste con otros canales:** Peter Schiff ([[2026-11-07-PeterSchiff]]) da el Nasdaq en "más de un 5,5%" ese día y atribuye la caída a los gobernadores demócratas que prometen frenar los centros de datos, la misma idea que Andrés recoge como "rumores". Merino ([[2026-11-06-TradingLatino]]) compra Nvidia en esa caída, mientras que Andrés desaconseja concentrarse en tecnología.
 
 **Nota cruzada:** en [[2026-11-04-LaPizarraDeAndres]] Andrés se describía "viendo los toros desde la barrera" porque sus carteras "no son muy tecnológicas"; aquí lo aplica a una sesión de pánico.
+
+**Nota cruzada (posterior):** el directo con Gabriel Castro publicado en [[2026-11-08-LaPizarraDeAndres]] se grabó ese mismo 5 de noviembre: un gestor con poca tecnología que ese día iba "plano".

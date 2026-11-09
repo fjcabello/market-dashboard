@@ -37,3 +37,5 @@
 **Tono:** educativo / promocional de la inversión indexada.
 
 **Nota cruzada:** sigue la serie de clips de la misma entrevista ([[2026-10-26-CarlosGalan]], [[2026-10-28-CarlosGalan-fVfes2R7QfU]], [[2026-10-30-CarlosGalan]], [[2026-10-31-CarlosGalan]]). Al día siguiente, en [[2026-11-02-CarlosGalan-2bPSV6qiLWA]], ambos ponentes cuentan cómo invierten personalmente. El fragmento de la "burbuja de los indexados" se volvió a publicar como clip suelto en [[2026-11-07-CarlosGalan]].
+
+**Nota cruzada (posterior):** en [[2026-11-08-CarlosGalan]] se retoma la idea de añadir emergentes al MSCI World y se defiende que el peso de EE. UU. (~70%) es "correcto".

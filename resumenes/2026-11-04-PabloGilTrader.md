@@ -10,3 +10,5 @@
 **Tono:** crítico con la clase política; sin tesis de mercado.
 
 **Nota cruzada:** sigue la línea del clip del día anterior, [[2026-11-03-PabloGilTrader]] (la narrativa como única preocupación de los políticos).
+
+**Nota cruzada (posterior):** en [[2026-11-08-PabloGilTrader-HQbiag1MkVM]], grabado el 5 de noviembre, el foco pasa a la caída de la tecnología tras el resultado electoral: más supervisión de los centros de datos, posible doble techo en el Nasdaq 100 y niveles en los semiconductores.

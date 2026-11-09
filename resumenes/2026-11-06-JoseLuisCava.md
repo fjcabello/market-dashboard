@@ -44,3 +44,5 @@
 **Nota cruzada:** en [[2026-11-05-JoseLuisCava]] situaba lo más profundo de la crisis hacia finales del segundo trimestre de 2027 y describía el S&P 500 "en zona de máximos". Un día después, con la bolsa un 4,4% más abajo, dice que la crisis será peor de lo previsto, pero mantiene el mismo desenlace: Warsh acabará inyectando liquidez. El clip [[2026-11-06-JoseLuisCava-xtTxWAUZO1Q]] es un avance de otro vídeo sobre el hundimiento de los semiconductores.
 
 **Contraste con otros canales:** Merino, en [[2026-11-06-TradingLatino]] (directo de la noche del 5), compra Nvidia en la caída por debajo de 200 y cree que ya ha caído "un 80-90% de lo que va a caer", mientras que Cava no ve suelo todavía.
+
+**Nota cruzada (posterior):** en [[2026-11-09-JoseLuisCava]] aplica la misma lectura a Nvidia, tras la noticia del NYT sobre Jensen Huang: ve la ruptura de 235,5 como una trampa y espera un barrido hasta 150-165.
