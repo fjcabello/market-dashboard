@@ -110,6 +110,22 @@ def render(date: str, text: str) -> list[str]:
     return messages
 
 
+# Errores de configuración que ya han pasado, con qué secret revisar. Se
+# aplica la primera que coincide, así que las más específicas van antes.
+HINTS = [
+    ("can't send messages to the bot", "TELEGRAM_CHAT_ID tiene el id de un bot (¿el número antes de ':' del token?): pon el de tu chat privado con el bot"),
+    ("chat not found", "TELEGRAM_CHAT_ID no corresponde a ningún chat del bot: revisa el número y que hayas escrito al bot alguna vez"),
+    ("bot was blocked by the user", "has bloqueado el bot en Telegram: desbloquéalo"),
+    # Va después de "chat not found": Telegram responde solo "Not Found" cuando el token no existe.
+    ("not found", "TELEGRAM_BOT_TOKEN no es un token válido: tiene que ser <id>:<clave>, sin 'bot' delante ni comillas"),
+]
+
+
+def hint(description: str) -> str:
+    d = description.lower()
+    return next((f" ({h})" for key, h in HINTS if key in d), "")
+
+
 def send(token: str, chat: str, text: str) -> None:
     data = urllib.parse.urlencode({
         "chat_id": chat,
@@ -130,7 +146,8 @@ def send(token: str, chat: str, text: str) -> None:
     except (urllib.error.URLError, TimeoutError) as e:
         raise RuntimeError(f"Telegram no responde: {getattr(e, 'reason', e)}") from None
     if not body.get("ok"):
-        raise RuntimeError(f"Telegram rechazó el mensaje: {body.get('description', 'sin descripción')}")
+        description = body.get("description", "sin descripción")
+        raise RuntimeError(f"Telegram rechazó el mensaje: {description}{hint(description)}")
 
 
 def pending(digests: Path) -> list[Path]:
