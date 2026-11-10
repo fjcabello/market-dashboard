@@ -40,3 +40,5 @@
 **Nota cruzada:** en [[2026-11-06-JoseLuisCava]] decía que las bolsas "todavía no han hecho suelo" y apuntaba al riesgo político para la IA con los demócratas. Hoy aplica la misma lectura a Nvidia y espera un último barrido hasta 150-165.
 
 **Contraste con otros canales:** Merino ([[2026-11-06-TradingLatino]]) compró Nvidia en 181-185 la noche del 5 de noviembre, con ventas previstas en 215-225. Pablo Gil ([[2026-11-08-PabloGilTrader-HQbiag1MkVM]]) vigila los cierres semanales bajo 189,5 y contempla una caída total del 44% si se completa un doble techo. Los tres coinciden en que Nvidia está en un punto de decisión, pero Cava espera más caída que Merino.
+
+**Nota cruzada (posterior):** en [[2026-11-10-JoseLuisCava]] amplía la lectura: cree que la filtración busca un chivo expiatorio del fallido bloqueo de chips a China de 2018, ante una IA china que podría ir por delante, y esa vez no da niveles.

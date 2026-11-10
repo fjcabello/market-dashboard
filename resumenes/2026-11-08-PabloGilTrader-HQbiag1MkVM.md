@@ -50,3 +50,5 @@
 **Nota cruzada:** en [[2026-11-04-PabloGilTrader]] analizaba el resultado electoral desde el coste de la vida y la política exterior, sin hablar de la IA. Aquí, un día después, el foco pasa a la tecnología. El clip del mismo día [[2026-11-08-PabloGilTrader]] no tiene contenido de mercado.
 
 **Contraste con otros canales:** Merino ([[2026-11-06-TradingLatino]]) compró Nvidia esa misma noche por debajo de 200, convencido de que ya había caído "un 80-90% de lo que va a caer". Gil ve que Nvidia aún podría completar un doble techo con una caída total del 44%. Cava ([[2026-11-09-JoseLuisCava]]) sitúa el suelo de Nvidia en 150-165. Raoul Pal ([[2026-11-08-RaoulPal]]) cree que nadie puede frenar el capex en IA.
+
+**Nota cruzada (posterior):** en el seminario del día siguiente ([[2026-11-09-PabloGilTrader-7wJ-kzhRF-8]]) sitúa el Nasdaq cerca de 27.000 tras la caída del jueves, con 23.000 como siguiente soporte y 16.000-17.000 si se rompe la tendencia de 2009.

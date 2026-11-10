@@ -48,3 +48,5 @@
 **Nota cruzada:** sigue las operaciones de [[2026-11-06-TradingLatino]] (directo del 5), donde compró Nvidia entre 181 y 185 esperando "un rebote alcista que tiene fuerza" al día siguiente. Al día siguiente la posición va un 12,26% a favor. El clip del mismo día [[2026-11-07-TradingLatino-HhKjAUuyuWo]] repite el pasaje del ABC semanal de ese directo.
 
 **Contraste con otros canales:** Peter Schiff ([[2026-11-07-PeterSchiff]]), con Bitcoin en 75.900, cree que "está a punto de implosionar" tras la derrota republicana y aconseja venderlo ya. Merino lo deja alcista hasta 85.000-90.000 en diario y semanal.
+
+**Nota cruzada (posterior):** los clips [[2026-11-09-TradingLatino]] (flechas de Bitcoin) y [[2026-11-10-TradingLatino-n-1w2StmAgQ]] (RGTI) son pasajes de este directo. En el directo del 9 de noviembre ([[2026-11-10-TradingLatino]]) confirma la entrada del oro en **4.264**, pasa 4 horas y 1 hora de Bitcoin a bajista y baja el límite de compras a 83.000.
