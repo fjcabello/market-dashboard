@@ -35,3 +35,5 @@
 **Nota cruzada:** prolonga [[2026-11-02-GeorgeGammon]] (señal de recesión en el 10 años) y [[2026-10-26-GeorgeGammon]] (despidos de Microsoft y emisión masiva de acciones para financiar el capex en IA), ahora con el JOLTS. Retoma su crítica a los datos JOLTS de [[2026-10-05-GeorgeGammon]].
 
 **Contraste con otros canales:** al día siguiente, José Luis Cava ([[2026-11-04-JoseLuisCava]]) coincide en que si se frenan los proyectos de IA "la economía de Estados Unidos se desacelera, porque ese es el motor del crecimiento", pero cree que tras la efervescencia electoral los centros de datos "se van a retomar".
+
+**Nota cruzada (posterior):** en [[2026-11-10-GeorgeGammon]], con el IPC de octubre, sostiene que la inflación viene de un *shock* energético que ya revierte y que la Fed no subirá 50 pb porque sabe que la economía está débil.

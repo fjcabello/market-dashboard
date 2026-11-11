@@ -14,3 +14,5 @@
 **Tono:** neutro / educativo; mensaje de calma ante caídas.
 
 **Nota cruzada:** sigue al clip de la víspera, [[2026-11-08-CarlosGalan]] (peso de EE. UU. en el MSCI World), de la misma entrevista.
+
+**Nota cruzada (posterior):** [[2026-11-10-CarlosGalan-Q6nzTNoKxqU]] es otro clip de la misma entrevista, sobre el "contrato contigo mismo" de Indexa.

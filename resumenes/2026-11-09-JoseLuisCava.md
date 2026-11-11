@@ -42,3 +42,5 @@
 **Contraste con otros canales:** Merino ([[2026-11-06-TradingLatino]]) compró Nvidia en 181-185 la noche del 5 de noviembre, con ventas previstas en 215-225. Pablo Gil ([[2026-11-08-PabloGilTrader-HQbiag1MkVM]]) vigila los cierres semanales bajo 189,5 y contempla una caída total del 44% si se completa un doble techo. Los tres coinciden en que Nvidia está en un punto de decisión, pero Cava espera más caída que Merino.
 
 **Nota cruzada (posterior):** en [[2026-11-10-JoseLuisCava]] amplía la lectura: cree que la filtración busca un chivo expiatorio del fallido bloqueo de chips a China de 2018, ante una IA china que podría ir por delante, y esa vez no da niveles.
+
+**Nota cruzada (posterior):** en [[2026-11-11-JoseLuisCava]] baja los objetivos de Nvidia: no se fía del soporte de 163,9, espera un lateral por debajo de 189-190 hasta el 20 de noviembre y ve 147 como zona de compra, con 120 y 95 más abajo.

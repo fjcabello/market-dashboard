@@ -31,3 +31,5 @@
 **Nota cruzada:** continúa [[2026-11-09-JoseLuisCava]], donde ya veía la noticia como una maniobra política, preguntaba por qué el Departamento de Comercio dejó exportar chips a China y esperaba que Nvidia bajara a 150-165. Hoy no da niveles.
 
 **Contraste con otros canales:** Raoul Pal ([[2026-11-10-RaoulPal]]) defiende el mismo día que la IA estadounidense está financiada por flujos de caja enormes y una "demanda infinita", sin mencionar la competencia china.
+
+**Nota cruzada (posterior):** en [[2026-11-11-JoseLuisCava]] vuelve a dar niveles: no ve suelo en Nvidia, desconfía del rebote del 6% y ve 147 como primer objetivo de compra.

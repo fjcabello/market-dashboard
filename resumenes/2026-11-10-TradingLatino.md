@@ -42,3 +42,5 @@
 **Nota cruzada:** el clip [[2026-11-10-TradingLatino-n-1w2StmAgQ]] (RGTI) y el clip [[2026-11-09-TradingLatino]] (flechas de Bitcoin) son pasajes del directo del 6 de noviembre, no de este.
 
 **Contraste con otros canales:** sobre el oro, Pablo Gil ([[2026-11-09-PabloGilTrader-7wJ-kzhRF-8]]) no espera que caiga, pero compraría más en 3.100-3.120. Merino solo duplicaría en 3.500.
+
+**Nota cruzada (posterior):** en el directo del 10 de noviembre ([[2026-11-11-TradingLatino]]) confirma que ya ha duplicado contratos en el largo de Bitcoin, con el precio en 73.680, y espera un rebote en 4 horas hasta 75.000 para el jueves 12. El clip [[2026-11-11-TradingLatino-Xp11l6wskQ4]] es el pasaje de este directo sobre añadir margen hasta dejar el precio de liquidación en cero.

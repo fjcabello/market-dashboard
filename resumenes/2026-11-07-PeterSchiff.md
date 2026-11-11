@@ -59,3 +59,5 @@
 **Nota cruzada:** en [[2026-11-03-PeterSchiff]] (podcast del 2 de noviembre, con el oro por debajo de 3.900) preveía que el oro volvería por encima de 4.000 antes del siguiente podcast y un barrido demócrata. Las dos cosas se cumplen según este episodio, en el que mantiene las mismas tesis sobre déficits y la Fed.
 
 **Contraste con otros canales:** Merino ([[2026-11-07-TradingLatino]]) mantiene Bitcoin alcista hasta 85.000-90.000 y sigue largo, frente al "véndelo ahora" de Schiff. Andrés ([[2026-11-06-LaPizarraDeAndres]]) también señala el oro como "el ganador" del desplome del jueves, pero no lo tiene en cartera.
+
+**Nota cruzada (posterior):** en [[2026-11-11-PeterSchiff]], tras el IPC de octubre, insiste en vender Bitcoin (73.500, "gráficos rotos", posible caída muy por debajo de 50.000) y en comprar oro y plata en la caída del día.
