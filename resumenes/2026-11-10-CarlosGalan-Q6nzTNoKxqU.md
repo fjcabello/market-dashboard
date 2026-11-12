@@ -12,3 +12,5 @@
 **Tono:** neutro / educativo; mensaje de no vender en las caídas.
 
 **Nota cruzada:** sigue a los clips de la misma entrevista [[2026-11-08-CarlosGalan]] y [[2026-11-09-CarlosGalan]] (qué hacer si la bolsa cae un 40%).
+
+**Nota cruzada (posterior):** [[2026-11-11-CarlosGalan]] y [[2026-11-12-CarlosGalan]] son otros clips de la misma entrevista: por qué cuesta aguantar una caída del 40% y el 97% de menores que no retiran al cumplir 18.

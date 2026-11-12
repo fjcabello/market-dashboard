@@ -37,3 +37,5 @@
 **Nota cruzada:** encaja con [[2026-11-03-GeorgeGammon]], donde ya veía "dos economías" y un mercado laboral débil fuera del capex en IA, y esperaba las nóminas como dato decisivo.
 
 **Contraste con otros canales:** Peter Schiff ([[2026-11-11-PeterSchiff]]) comenta el mismo IPC y el mismo discurso de Waller (sitúa la probabilidad de 50 pb en un 15%), pero llega a la conclusión contraria: la Fed "ha perdido la guerra" contra la inflación, que en 2026 ya suma un 4,15% y podría llegar al 5%. Gammon la atribuye a un *shock* energético transitorio.
+
+**Nota cruzada (posterior):** en [[2026-11-11-GeorgeGammon]] entra ya en la burbuja de la IA a través de los resultados de CoreWeave, que ve como señal de "desesperación".

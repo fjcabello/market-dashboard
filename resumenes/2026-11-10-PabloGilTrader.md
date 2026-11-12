@@ -10,3 +10,5 @@
 **Activos mencionados:** ninguno (vivienda en general). Sin niveles.
 
 **Tono:** neutro; reflexión social sobre la pérdida de margen económico de la clase media.
+
+**Nota cruzada (posterior):** al día siguiente, [[2026-11-11-PabloGilTrader-q42axejcMdw]] analiza una posible rotación de Wall Street a Europa, con niveles en las ratios S&P 500/Euro Stoxx 50 y S&P 500/Stoxx 600.

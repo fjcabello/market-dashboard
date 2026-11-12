@@ -44,3 +44,5 @@
 **Nota cruzada:** sigue a [[2026-11-10-TradingLatino]] (directo del 9), donde dijo que duplicaría por debajo de 74.000 y pasó 4 horas y 1 hora a bajista. Hoy confirma la duplicación y pasa 4 horas a rebote. El clip [[2026-11-11-TradingLatino-Xp11l6wskQ4]] es el pasaje del margen de aquel directo.
 
 **Contraste con otros canales:** sobre Nvidia, José Luis Cava ([[2026-11-11-JoseLuisCava]]) no ve suelo y esperaría a 147 para comprar, tras un lateral por debajo de 189-190 hasta el 20 de noviembre; Merino compra ya. Sobre Bitcoin, Peter Schiff ([[2026-11-11-PeterSchiff]]), con 73.500, ve "los gráficos rotos" y pide vender ante una posible caída muy por debajo de 50.000.
+
+**Nota cruzada (posterior):** en [[2026-11-12-TradingLatino]] (directo del 11) el precio llega a 74.868, sin tocar los 75.000. Merino mantiene la flecha para el jueves 12, da su precio medio tras duplicar (76.772,10, con la entrada original en 80.900) y cerrará en 77.000. Los clips [[2026-11-12-TradingLatino-hH5S1yE3VfQ]] y [[2026-11-12-TradingLatino-YwMx1tmfMoM]] son el pasaje de este directo sobre "ser sinvergüenza".

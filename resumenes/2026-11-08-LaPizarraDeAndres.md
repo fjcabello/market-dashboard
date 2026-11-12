@@ -49,3 +49,5 @@
 **Nota cruzada:** se grabó el mismo día que [[2026-11-06-LaPizarraDeAndres]] (jueves 5 de noviembre, en plena caída), donde Andrés defendía la diversificación con cifras de la sesión. Este directo pone el ejemplo práctico: un gestor con poca tecnología que ese día estaba "plano". Castro ya aparecía en [[2026-08-07-LaPizarraDeAndres]] y [[2026-08-09-LaPizarraDeAndres]] (su mixto con un 6,5% en el año y Sigma Internacional con un +20% anualizado). Hoy da un 15% anualizado para Sigma.
 
 **Contraste con otros canales:** Pablo Gil ([[2026-11-08-PabloGilTrader-HQbiag1MkVM]]) cuantifica la misma concentración (siete empresas, más de un tercio del S&P 500 y la mitad del Nasdaq 100) y alerta de que el Nasdaq puede perder su liderazgo frente a la bolsa mundial. En cambio, en [[2026-11-08-CarlosGalan]] se defiende que el peso de EE. UU. en el MSCI World (~70%) es "correcto" porque lo fija el mercado.
+
+**Nota cruzada (posterior):** en [[2026-11-11-LaPizarraDeAndres]] Andrés da el balance de la semana de la caída (MSCI World −2,35%; sus perfiles entre −0,40% y −1,20%) y dice que hoy lleva menos indexación de lo habitual.

@@ -35,3 +35,5 @@
 **Nota cruzada:** en [[2026-11-09-JoseLuisCava]] esperaba que Nvidia barriera los *stops* bajo 165 y bajara a 150-165, sin perforar 150. Hoy fija el soporte en 163,9, ve más probable 147, por debajo de aquel 150, y añade 120 y 95. En [[2026-11-10-JoseLuisCava]] ya relacionaba la filtración sobre Jensen Huang con algo "malo" de fondo (una IA china que podría ir por delante).
 
 **Contraste con otros canales:** Merino ([[2026-11-11-TradingLatino]]), la noche anterior y con Nvidia en 168, ve las caídas "para comprar" en *spot*, porque la bajada de 225 a 180 sería ya el 70-80% de la corrección. Cava no ve suelo y esperaría a 147.
+
+**Nota cruzada (posterior):** en [[2026-11-12-JoseLuisCava]] no vuelve a Nvidia: habla de liquidez, del resultado de las elecciones, del oro y de las aseguradoras europeas como refugio.
