@@ -1,0 +1,17 @@
+¿Por qué los bancos están preocupados
+por los agentes autónomos? En el caso de
+Anthropic, podemos distinguir siete
+grandes riesgos. Algunos se refieren a
+comportamientos observados en pruebas
+controladas. Otros describen usos
+peligrosos de la tecnología o escenarios
+que podrían producirse en el futuro.
+Esto no significa que ese escenario sea
+inevitable ni que sepamos cuál es la
+probabilidad de que llegue a producirse,
+pero creo que resulta
+extraordinariamente llamativo que una de
+las compañías que [música] lideran esta
+revolución considere necesario incluir
+una advertencia de semejante magnitud en
+su documentación financiera.
