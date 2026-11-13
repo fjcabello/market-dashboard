@@ -1,0 +1,784 @@
+La salida de Jensen Juan de Nvidia ha
+desencadenado una crisis que va mucho
+más allá de Wall Street. Vamos a
+analizar las investigaciones sobre
+posible desvío de chips avanzados a
+China, las consecuencias para las
+relaciones entre Washington y Pekín, el
+impacto bursátil y los riesgos para el
+futuro de la compañía. También
+estudiaremos algunos gráficos de envidia
+para identificar zonas técnicas que
+puedan ser importantes después del
+desplome vivido.
+Más de tres décadas construyendo una de
+las empresas más exitosas de la
+historia, una fortuna personal de miles
+de millones de dólares, una compañía
+convertida en símbolo de la revolución,
+de la inteligencia artificial. Y de
+repente un escándalo que termina con la
+dimisión de su fundador y consejero
+delegado provoca un desplome gursátil y
+amenaza con desencadenar una nueva
+crisis entre Estados Unidos y China.
+Esto es lo que acaba de ocurrir con
+Nvidia y Jensen Juan. Pero lo más
+preocupante no es la relación ex
+extramatonial que ha precipitado su
+salida, es lo que las investigaciones
+están descubriendo alrededor de una
+compleja red de empresas vinculadas a
+China. la posible llegada de chips
+prohibidos a territorio chino y las
+sospechas de espionaje que rodean a una
+de las personas implicadas. Las
+consecuencias pueden ser enormes, pero
+no solamente para envidia que ha llegado
+a perder unos 600,000 millones de
+dólares de capitalización durante una
+sola sesión bursátil, sino también para
+la industria tecnológica, para las
+relaciones entre Washington y Pekín y
+para millones de inversores que tienen
+una parte de su patrimonio expuesta a
+esta compañía.
+Hoy, como os decía, vamos a reconstruir
+lo sucedido, analizar las
+responsabilidades que se están
+investigando, valorar si envidia puede
+mantener su liderazgo sin su CEO y
+Jensen One y estudiar qué nos está
+diciendo su cotización después del
+desplome, porque hay una pregunta
+especialmente importante. ¿Estamos ante
+una crisis temporal de confianza o ante
+el comienzo de un cambio mucho más
+profundo?
+Para quienes no me conozcáis, soy Pablo
+Gil, economista y llevo más de cuatro
+décadas trabajando en los mercados
+financieros, tanto en análisis como en
+gestión de inversiones. Y esta
+experiencia me ha enseñado que cuando
+una compañía alcanza semejante
+protagonismo conviene analizar no
+solamente sus oportunidades, sino
+también los riesgos que el mercado puede
+estar pasando por alto. Para entender la
+magnitud de lo que está sucediendo,
+tenemos que retroceder a 1993.
+Aquel año, Jensen Juang fundó Envidia
+junto a Chris Malakowski y Kurtis Prim.
+Su objetivo, al menos inicialmente, era
+desarrollar procesadores gráficos, una
+tecnología asociada fundamentalmente a
+los videojuegos y al procesamiento de
+imágenes.
+Durante sus primeros años, Nvidia fue
+construyendo una posición cada vez más
+sólida en el mercado. Pero lo
+verdaderamente importante llegó cuando
+Wang comprendió que aquellas tarjetas
+gráficas podían servir para mucho más
+que mover imágenes en una pantalla. A
+diferencia de los procesadores
+tradicionales, las GPUs podían realizar
+multitud de operaciones matemáticas en
+paralelo y eso las convertía en una
+herramienta extraordinariamente útil
+para determinadas tareas científicas y
+de computación. En 2006, Nvidia lanzó
+CUDA, una plataforma que permitió a los
+desarrolladores utilizar sus
+procesadores gráficos para aplicaciones
+mucho más amplias. Aquella decisión
+terminó siendo una de las apuestas
+estratégicas más importantes de la
+historia de la industria tecnológica.
+Cuando comenzó a despegar el aprendizaje
+profundo, los investigadores
+descubrieron que las GPU de Nvidia eran
+especialmente adecuadas para entrenar
+redes neuronales y cuando llegó la
+explosión de la inteligencia artificial
+generativa, Nvidia ya estaba preparada.
+No solamente tenía los chips, tenía
+también el software, las herramientas de
+desarrollo, las interconexiones y un
+ecosistema tecnológico que sus
+competidores no podían reproducir
+fácilmente.
+Nvidia no vendía simplemente un
+producto, había construido una
+plataforma de la que dependía buena
+parte de la industria. Microsoft,
+Amazon, Google, Meta y numerosas
+empresas dedicadas a desarrollar modelos
+de inteligencia artificial. comenzaron a
+invertir cantidades extraordinarias de
+dinero en centros de datos y una parte
+muy importante de ese dinero terminaba
+llegando a envidia. Su cotización se
+multiplicó, su capitalización bursátil
+alcanzó varios billones de dólares y
+Jensen One se convirtió en una figura
+casi legendaria.
+Pero aquí aparece una cuestión que
+siempre me ha parecido muy importante.
+¿Hasta qué punto estamos comprando un
+negocio? y hasta qué punto estamos
+comprando la confianza que tenemos en
+una persona. Cuando una compañía depende
+durante más de 30 años en un mismo
+líder, esa figura puede convertirse
+simultáneamente en su mayor fortaleza y
+en uno de sus principales riesgos. La
+crisis comenzó a tomar forma cuando
+salieron a la luz varias relaciones
+extramatrimoniales de Jensen Wang, pero
+la controversia adquirió una dimensión
+completamente diferente al conocerse que
+una de esas relaciones había sido con
+Alice Wang, una empresaria vinculada a
+compañías tecnológicas con operaciones
+en Singapur y China. Según las
+informaciones publicadas, las
+autoridades estadounidenses eh sospechan
+que Alice podría haber mantenido
+vínculos con los servicios de
+inteligencia chinos. Quiero subrayar
+algo. Estamos hablando de sospechas e
+investigaciones. No existe una
+conclusión pública definitiva que
+permita firmar que esta mujer haya sido
+una espía. Alice fundó en 2023 una
+compañía llamada Megasped, dedicada a
+servicios de computación en la nube y
+esa empresa aparece vinculada a una
+investigación sobre el posible desvío de
+procesadores avanzados de envidia hacia
+China.
+Estados Unidos lleva años imponiendo
+restricciones a la exportación de
+determinados semiconductores para evitar
+que China pueda acceder a la tecnología
+más avanzada de inteligencia artificial.
+Las investigaciones apuntan a que
+algunos de esos chips podrían haber
+llegado a instalaciones chinas
+utilizando intermediarios y empresas
+establecidas en terceros países. La
+relación personal entre Jensen Juang y
+una empresaria vinculada a este
+entramado plantea preguntas muy muy
+incómodas. ¿Qué sabía realmente?
+¿Existieron fallos en los mecanismos de
+control? ¿Se utilizaron relaciones
+personales para facilitar operaciones
+comerciales? ¿Hasta qué punto pudieron
+verse comprometidos los intereses de
+seguridad nacional estadounidenses? De
+momento, ninguna de esas preguntas debe
+darse por resuelta. Según las
+informaciones publicadas por Bloomberg,
+Juang abandonó su puesto el jueves
+mientras el consejo investigaba sus
+relaciones personales. La compañía
+designó a Colet Cres, hasta entonces
+directora financiera como consejera
+delegada en interina. Envidia afronta
+uno de los mayores cambios de liderazgo
+de su historia en un momento que es
+especialmente delicado para la
+industria. Quiero que te fijes en este
+diagrama que publicaba Bloomberg porque
+ayuda a seguir el recorrido de los
+equipos y las conexiones empresariales.
+Arriba aparece Envidia relacionada con
+dos socios de su programa de nube,
+Aperia y Megasped. Aperia compró
+servidores que posteriormente
+aparecieron en Shanghai. Megped, fundada
+en 2023 por Alice, utilizó incluso una
+imagen del centro de datos de Delta del
+J, una presentación a inversores de
+2024. A la derecha vemos las sociedades
+chinas y a Shanghai Hexi vinculada a la
+financiación del proyecto. Abajo aparece
+Kangway identificado en en distintas
+fuentes como directivo relacionado con
+el centro y con Shanghai Hexi. Las
+líneas discontinuas indican vínculos de
+distinta naturaleza. No todas
+representan inversiones ni
+responsabilidades probadas. El gráfico
+permite comprender el entramado, pero no
+demuestra que Jensen Juan conociera el
+destino de los servidores, ni que Alice
+participara personalmente en su desvío.
+Según la documentación examinada por
+Bloomberg, una empresa china fundada
+anteriormente por Alice terminó
+disponiendo de servidores que
+incorporaban procesadores envidia
+sujetos a restricciones estadounidenses.
+Entre ellos figuran los H800, H100 y
+H200, algunos de los chips utilizados
+para aplicaciones avanzadas de
+inteligencia artificial. Una parte de
+los servidores habría sido vendida
+originalmente aia, una compañía
+establecida en Singapur que había
+formado parte del programa oficial de
+socios de Nvidia. Sin embargo, los
+equipos terminaron apareciendo en un
+centro de datos de Shanghai. Los
+documentos identifican 22 servidores
+Dell con chips H800 y otros 52 equipos
+super micro con procesadores H100 o
+H200. El conjunto de los 193 servidores
+declarados como garantía de financiación
+tenía un valor aproximado de 73,000000.
+No significa que todos los equipos
+procedieran de operaciones ilegales ni
+que Envidia conociera su destino final.
+Los documentos no permiten establecer
+cómo se obtuvo todo el material ni si
+Alice participó personalmente en esas
+transacciones, pero sí muestran por qué
+los investigadores consideran necesario
+reconstruir toda la cadena comercial. No
+estamos hablando de un producto de
+consumo que alguien compra en una tienda
+y después revende por internet. Estamos
+hablando de sistemas informáticos
+avanzados con un valor extraordinario,
+sujetos a controles de exportación y
+utilizados para entrenar modelos de
+inteligencia artificial de última
+generación. Si esos controles pueden
+eludirse mediante empresas
+intermediarias, centros de datos en
+terceros países u estructuras
+societarias complejas, las restricciones
+comerciales pierden buena parte de su
+eficacia y eso tiene consecuencias que
+van mucho más allá de envidia. Este
+segundo gráfico también resulta muy
+revelador. Muestra como los ingresos de
+Nvidia registrados en Singapur han
+aumentado de forma espectacular durante
+los últimos años. Y hay un dato que
+llama especialmente la atención. Desde
+su creación en 2023, Megasped ha
+importado equipos de Nvidia por un valor
+de al menos 4,600 millones de dólares
+según Bloomberg, convirtiéndose en uno
+de los clientes más importantes de
+Singapur.
+Es una cantidad demasiado importante
+como para que una compañía pueda ignorar
+las dudas sobre el destino final de
+estos equipos. Ahora bien, hay que
+distinguir entre las ventas registradas
+en Singapur y la ubicación física donde
+finalmente se utilizan los chips. Una
+empresa puede facturar una operación a
+un cliente establecido en Singapur sin
+que eso signifique que todos los equipos
+permanezcan allí. Precisamente esa
+diferencia entre el comprador formal y
+el usuario final es uno de los grandes
+problemas que intenta resolver la
+autoridad estadounidense. Para envidia,
+el riesgo no es solamente que se
+descubran irregularidades en operaciones
+concretas, sino que Washington decida
+endurecer de forma generalizada las
+condiciones para vender sus procesadores
+fuera de Estados Unidos, porque eso de
+ocurrir podría afectar una parte
+importantísima de su mercado potencial.
+Y aquí aparece otra dimensión de esta
+historia que en mi opinión puede
+terminar siendo incluso más importante
+que el escándalo personal. Las
+investigaciones ya no se limitan a las
+relaciones entre Jensen One o las
+operaciones comerciales de determinadas
+empresas. También están poniendo bajo
+presión al gobierno estadounidense, en
+particular al secretario de comercio,
+Horwart Ludnick, y a los responsables
+del Bureau of Industry and Security,
+encargado de supervisar las
+exportaciones de tecnología avanzada.
+Según las informaciones que ha publicado
+Bloomberg y Axios, varios legisladores
+quieren conocer por qué determinadas
+medidas contra el posible desvío de
+chips a China no se aplicaron antes.
+También se examina hasta qué punto los
+directivos de grandes compañías
+tecnológicas pudieron influir en las
+decisiones del gobierno.
+Jensen Juan había defendido públicamente
+una posición relativamente favorable a
+mantener determinadas ventas de
+semiconductores a China. Su argumento
+era que impedir completamente esas
+operaciones podía resultar
+contraproducente. Si Estados Unidos
+dejaba de suministrar chips al mercado
+chino, las empresas locales tendrían
+todavía más incentivos para desarrollar
+alternativas propias. Y a largo plazo
+eso podría perjudilar perjudicar tanto a
+Nvidia como al liderazgo tecnológico
+estadounidense. Desde una perspectiva
+puramente empresarial, el argumento
+tiene lógica, pero desde una perspectiva
+de seguridad nacional, el problema es
+muy diferente. Washington teme que el
+acceso a procesadores avanzados permita
+a China acelerar el desarrollo de
+sistemas de inteligencia artificial con
+aplicaciones militares de vigilancia y
+de inteligencia. Tras la salida de
+Huang, quienes defienden una política
+mucho más restrictiva pueden encontrar
+ahora menos resistencia. El Congreso
+está estudiando distintas iniciativas
+para reforzar los controles, mientras el
+Departamento de Comercio prepara medidas
+destinadas a limitar el acceso remoto a
+empresas chinas, a chips estadounidenses
+instalados en centros de datos de otros
+países. Hasta ahora, buena parte del
+debate se había concentrado en impedir
+que los chips llegaran físicamente a
+China. Pero, ¿qué ocurre si una empresa
+china no necesita importarlos porque
+puede alquilar capacidad de computación
+en Singapur? Malasia o Tailandia. El
+resultado práctico puede ser parecido.
+Obtiene acceso a una tecnología que
+Washington pretende restringir. Por eso,
+las nuevas medidas podrían extender el
+control desde la venta del hardware
+hasta el acceso a la capacidad de
+cálculo. Y esa es una frontera
+regulatoria mucho más difícil de
+gestionar.
+Aquí aparece una de las grandes
+contradicciones de la estrategia
+estadounidense. Las medidas que buscan
+frenar el desarrollo tecnológico chino
+podrían terminar acelerando su
+independencia respecto a Estados Unidos.
+Si Washington consigue cerrar los
+canales alternativos de acceso a sus
+semiconductores,
+China puede encontrarse con dificultades
+importantes a corto plazo. Por supuesto,
+sus empresas necesitan una enorme
+capacidad de procesamiento para entrenar
+modelos avanzados de IA. Y aunque
+compañías como Huawei están
+desarrollando sus propios procesadores,
+todavía existen diferencias tecnológicas
+importantes respecto a los sistemas más
+avanzados de los que dispone Nvidia.
+Además, China continúa enfrentándose a
+restricciones para acceder a
+determinados equipos de fabricación de
+semiconductores, especialmente los
+sistemas los sistemas de litografía
+ultravioleta extrema de la compañía
+ASML. Por tanto,
+perdón, por tanto, una política
+estadounidense más restrictiva puede
+ralentizar el desarrollo tecnológico
+chino, pero eso no significa
+necesariamente que vaya a conseguir
+detenerlo. De hecho, podría acelerar una
+tendencia que ya estamos observando, la
+decisión de Pekín de reducir su
+dependencia de los proveedores
+estadounidenses. Y eso, cuanto mayor sea
+la incertidumbre sobre el acceso a los
+chips de Nvidia, más incentivos crea
+para que las empresas chinas puedan
+utilizar alternativas nacionales. Cuanto
+mayor sea la demanda de esas
+alternativas, más recursos podrá dedicar
+las compañías chinas a mejorar sus
+propios productos. Por eso creo que hay
+que distinguir entre dos horizontes
+temporales a corto plazo. Endurecer las
+restricciones, por supuesto que puede
+perjudicar claramente a China. A largo
+plazo existe el riesgo de que Estados
+Unidos esté contribuyendo a crear un
+competidor tecnológico mucho más
+independiente. Y eso también afecta
+envidia porque podría terminar perdiendo
+una parte de su mercado, al menos una
+parte de un mercado gigantesco que está
+explotando. A todo ello se añade la
+posibilidad de represarias comerciales
+chinas, especialmente en términos de
+materias primas estratégicas o lo que
+llamamos tierras raras. Es decir, una
+crisis empresarial puede convertirse en
+un nuevo foco de tensión entre las dos
+mayores potencias económicas del mundo.
+Y por eso me parece un error interpretar
+lo que está ocurriendo como un simple
+problema de gobierno corporativo.
+Vamos ahora a los mercados financieros
+porque las cifras son impresionantes.
+Nvidia había llegado a cotizar en el
+entorno de los 240 por acción en sus
+máximos recientes. Eso ponía una
+valoración bursátil cercana a los 5,8
+billones de dólares, utilizando como
+referencia aproximadamente 24,100
+millones de acciones. Estamos hablando
+de una valoración superior al producto
+interior bruto anual de Alemania, pero
+la corrección ya había comenzado antes
+de conocerse la división del CEO Jensen
+One. Y esto es importante porque no
+podemos atribuir toda la caída bursátil
+al escándalo. Las dudas sobre las
+valoraciones de la compañía tecnológica,
+las enormes inversiones relacionadas con
+la inteligencia artificial y el
+deterioro general del sector ya estaban
+provocando algunas ventas. El anuncio de
+la salida del consejero delegado lo que
+añadió es una incertidumbre enorme a una
+cotización que venía mostrando cierta
+debilidad. Durante la sesión del jueves
+12 de noviembre, las acciones llegaron a
+caer aproximadamente un 14% hasta
+niveles próximos a $149.
+En ese momento, Nvidia había perdido
+alrededor de 600,000 millones de dólares
+de capitalización respecto al cierre
+anterior. Pero a medida que avanzaba la
+sesión, comenzaron a aparecer
+compradores y la cotización se fue
+recuperando hasta
+conseguir subsanar una parte muy
+importante del desplome inicial.
+Finalmente, Nvidia cerraba en $16,19
+con una caída de tan solo 4,34%,
+lo cual equivale a perder 182,000
+millones de dólares de capitalización en
+una sola sesión. Si comparamos ese
+cierre con los máximos recientes, la
+pérdida acumulada de valoración ronda
+los 1,8 billones de dólares. Esa pérdida
+acumulada no es consecuencia exclusiva
+de la dimisión de su CEO, incluye toda
+la corrección previa desde máximos. Para
+poner las cifras en perspectiva, Nvidia
+había alcanzado una capitalización
+aproximada de 5,8 billones dólares en
+máximos frente a los 4 billones al
+cierre del 12 de noviembre. Durante la
+sesión llegó a perder unos 600,000
+millones de dólares respecto al cierre
+anterior, pero luego la pérdida real se
+redujo a los 182,000 millones. Son
+estimaciones redondeadas, pero reflejan
+la magnitud del movimiento.
+Nvidia no es una compañía más dentro de
+Wall Street. Su extraordinaria
+revalorización
+la había convertido en una de las
+empresas con mayor influencia sobre los
+índices estadounidenses. Antes de la
+dimisión de su CEO, Nvidia representaba
+aproximadamente el 6,4
+del ETF Spider, el SPY, que replica al
+SP500 y el 6,8% del QQQ vinculado al
+NASAQ 100. Eso significa que por cada
+$100 invertidos en estos vehículos,
+alrededor del 6 7% estaban expuestos
+directamente a envidia. Y no olvidemos
+que otras grandes compañías de esos
+mismos índices también dependen en
+distinta medida del desarrollo de la
+inteligencia artificial. Por tanto, el
+riesgo de concentración es todavía mayor
+si analizamos toda la temática
+tecnológica y no solamente una empresa
+concreta. Tras la caída del jueves y
+suponiendo que el resto de componentes
+no variase, el peso de envidia se habría
+reducido aproximadamente al 6,1% en el
+SP500 y al 6,5 en el NASDAQ 100. son son
+estimaciones mecánicas, no ponderaciones
+oficiales actualizadas, pero permiten
+entender algo importante. Aunque una
+empresa pierda cientos de miles de
+millones de capitalización, puede seguir
+teniendo una influencia extraordinaria
+sobre el mercado. Solamente la caída del
+4,34% de envidia habría restado
+alrededor de 3 décimas porcentuales a
+cada uno de estos índices, manteniendo
+constantes las demás componentes. Y sin
+embargo, el mercado consiguió absorber
+una parte importante del golpe porque
+otras empresas de semiconductores se
+comportaron mucho mejor. Los inversores
+no estaban abandonando
+indiscriminadamente toda la industria de
+la inteligencia artificial. En parte
+estaban diferenciando entre los
+problemas específicos de envidia y las
+perspectivas del resto del sector.
+Probablemente esta sea la pregunta más
+importante desde el punto de vista
+empresarial. Envidia ha perdido a un
+consejero delegado que no solamente
+dirigía la compañía, era su principal
+estratega, su figura pública más
+reconocible y una pieza fundamental en
+sus relaciones con clientes, proveedores
+y gobiernos.
+Sustituir a una persona así no va a ser
+sencillo. Jensen Wang tenía una visión
+tecnológica extraordinaria, pero también
+una enorme capacidad para identificar
+hacia dónde se dirigía el mercado y
+posicionar su empresa antes que sus
+competidores.
+Su apuesta de por CUDA, por ejemplo, es
+uno de los mejores ejemplos y su
+capacidad para transformar envidia en
+una compañía de infraestructura para
+inteligencia artificial ha sido otra
+decisión histórica brillante. Sin
+embargo,
+conviene evitar una conclusión
+excesivamente simplista. Envidia no ha
+perdido sus patentes, ni sus ingenieros,
+ni sus contratos, ni su ecosistema de
+software, ni su posición competitiva
+porque haya dimitido su consejero
+delegado. La empresa continúa teniendo
+activos extraordinarios. Además, Colet
+Cres conoce perfectamente el negocio,
+lleva envidia desde 2013 y ha
+desempeñado un papel fundamental en su
+crecimiento financiero. Su perfil es
+diferente al de Juan, está claro, y
+precisamente por eso puede aportar una
+visión más prudente en determinados
+aspectos. Según informaciones
+publicadas, CRES había cuestionado
+algunas de las grandes apuestas
+financieras impulsadas por su CEO,
+especialmente los compromisos
+relacionados con inversiones en
+infraestructura de inteligencia
+artificial.
+Eso puede convertirse en una fortaleza
+si el mercado comienza a exigir más
+disciplina financiera. Pero también
+plantea una duda. ¿Puede una compañía
+que ha triunfado anticipándose a
+revoluciones tecnológicas mantener el
+mismo liderazgo con una dirección menos
+inclinada a asumir riesgos? Todavía no
+tenemos la respuesta. Sería un error dar
+por hecho tanto que Nvidia está
+condenada a perder su liderazgo como que
+la marcha de su CEO no tendrá
+consecuencias. El próximo 17 de
+noviembre, cuando la empresa presente
+sus resultados, tendremos la primera
+oportunidad para comprobar cómo intenta
+transmitir confianza al mercado su nueva
+dirección.
+Ahora quiero que veamos un gráfico
+diario de Nvidia porque hay un par de
+cosas que me parecen especialmente
+relevantes. La primera es que durante
+las últimas semanas la cotización había
+formado una estructura de distribución
+bastante clara, solemos llamarla doble
+techo. También hemos visto varios
+intentos de superar la zona de máximo
+sin conseguir consolidar nuevas subidas
+y posteriormente una pérdida de soportes
+que terminó activando esta figura con un
+objetivo bajista. Pues bien, ese
+objetivo ya se ha cumplido y
+prácticamente ha coincidido con la zona
+donde la acción encontró compradores
+tras conocerse la dimensión de Jensen
+One. Fíjate en que después de una
+apertura realmente negativa, Nvidia
+llegó a aproximarse a los $149, una zona
+de soporte muy muy importante que
+anteriormente había actuado como
+referencia para el mercado. Desde ahí
+vimos una recuperación muy
+significativa.
+¿Significa eso que la corrección ha
+terminado? No necesariamente. Significa
+que el mercado ha encontrado compradores
+en una zona técnicamente relevante y que
+de momento esa referencia ha funcionado.
+Una cosa es que una acción encuentre
+soporte y otra muy distinta es que haya
+recuperado una tendencia alcista sólida.
+Por arriba, la antigua zona de soporte
+situada alrededor de los $190 puede
+convertirse ahora en una resistencia
+importante. Por abajo, la franja
+aproximada a los $150 es la primera
+referencia que lógicamente debemos
+vigilar. Pero hay otro gráfico que nos
+permite poner todo esto en perspectiva.
+En este caso, estamos viendo la
+evolución de Nvidia durante casi dos
+décadas, utilizando una escala
+logarítmica y lo primero que llama la
+atención es la magnitud extraordinaria
+de la subida acumulada. Estamos hablando
+de una de las grandes historias de
+creación de valor bursátil de los
+últimos 20 años.
+La zona próxima a los $150 también tiene
+una relevancia en este gráfico de largo
+plazo. Pero si la crisis empresarial se
+agravara mucho y el mercado empezara a
+cuestionar seriamente las perspectivas
+futuras de Nvidia, hay una segunda
+región que no podemos ignorar. Me
+refiero a la zona próxima a los 80 90
+donde confluyen antiguas referencias de
+precio a la gran directriz alcista que
+viene acompañando la cotización desde
+hace muchos, muchos años. Evidentemente
+no estoy diciendo que Nvidia tenga que
+caer hasta allí. Sería una corrección
+extraordinariamente importante desde los
+niveles actuales. Simplemente quiero
+mostrar dónde podría encontrarse una
+referencia estructural de largo plazo si
+las circunstancias se deterioran de
+forma mucho más severas.
+Que una compañía sea extraordinaria no
+significa que su acción pueda comprarse
+a cualquier precio. Ni siquiera
+significa que una caída del 30 o del 40%
+convierta automáticamente su valoración
+en atractiva. Todo depende de cuánto
+dinero sea capaz de ganar en el futuro,
+de cómo evolucione su ventaja
+competitiva
+y de los riesgos que tengamos que asumir
+para participar en su negocio.
+Quiero terminar con una reflexión
+personal. Llevo muchos años siguiendo
+los mercados y he visto compañías
+extraordinarias atravesar crisis que
+parecían imposibles de imaginar cuando
+todo iba bien. Y hay algo que se repite
+con bastante frecuencia. Durante las
+fases de euforia, los inversores tienden
+a pensar que el éxito de una empresa es
+prácticamente inevitable, que sus
+ventajas competitivas son permanentes,
+que sus directivos son insustituibles y
+que las dificultades siempre terminan
+resolviéndose, pero la realidad es
+bastante más compleja. Nvidia ha sido
+una compañía extraordinaria. Jensen Jang
+ha demostrado una capacidad de
+anticipación tecnológica que muy pocos
+empresarios han tenido y nada de lo
+ocurrido durante estos días borra lo que
+ha conseguido construir, pero tampoco
+podemos ignorar lo que está sucediendo.
+Aquí confluyen tres riesgos importantes.
+El primero es el riesgo de liderazgo.
+Nvidia tiene que demostrar que puede
+seguir innovando y ejecutando su
+estrategia sin la persona que ha marcado
+su rumbo durante más de 30 años. Podría
+pasar. Hemos visto casos similares, por
+ejemplo, en compañías como Apple. El
+segundo es el riesgo regulatorio y
+geopolítico. La posibilidad de que
+Estados Unidos endurezca los controles
+sobre las exportaciones de chips puede
+acabar afectando al crecimiento futuro
+de la empresa y acelerar el desarrollo
+de competidores chinos. Y el tercero es
+el riesgo de valoración, porque cuando
+una compañía ha alcanzado semejante
+tamaño y el mercado descuenta un futuro
+extraordinario, cualquier cambio en las
+expectativas puede provocar movimientos
+bursátiles muy importantes.
+Pero quiero añadir una cuarta reflexión.
+Desde hace tiempo vengo advirtiendo del
+riesgo que supone la enorme
+concentración de los índices
+estadounidenses en un pequeño grupo de
+compañías relacionadas con la
+inteligencia artificial. Este episodio
+nos recuerda que esa concentración no
+solamente implica depender de unos
+beneficios empresariales
+extraordinarios, también significa estar
+expuestos a decisiones políticas,
+tensiones internacionales, problemas de
+gobierno corporativo y acontecimientos
+que nadie había previsto. No creo que la
+dimisión de Jensen Wang signifique el
+final de envidia. Tampoco creo que
+podamos afirmar que la compañía vaya a
+recuperar rápidamente todo lo que ha
+perdido. Lo que sí creo es que estamos
+ante un cambio importante en la
+percepción del riesgo. Hasta hace muy
+poco, para muchos inversores, Nvidia
+representaba casi exclusivamente las
+oportunidades de la inteligencia
+artificial. Ahora el mercado empieza a
+recordar que incluso las empresas más
+exitosas del mundo tienen
+vulnerabilidades.
+En bolsa no basta con identificar a los
+grandes ganadores del futuro. También
+hay que entender que puede salir mal.
+¿Cuándo estamos pagando por ellos? O
+cuánto, perdón, estamos pagando por
+ellos y qué parte de nuestro patrimonio
+estamos dispuestos a arriesgar si las
+cosas no salen como esperábamos. Porque
+el éxito de una empresa y la
+rentabilidad de una inversión no siempre
+son lo mismo. Y Envidia acaba de
+ofrecernos un ejemplo extraordinario de
+por qué nunca deberíamos olvidarlo. Como
+siempre, os recuerdo que yo no doy
+recomendaciones de inversión en redes
+sociales. Mi objetivo es compartir
+análisis, información y argumentos que
+os ayuden a entender mejor los mercados
+y a tomar vuestras propias decisiones.
+Espero que el de hoy os haya ayudado.
+Nos vemos en el próximo vídeo. Mucha
+suerte con vuestras inversiones.
