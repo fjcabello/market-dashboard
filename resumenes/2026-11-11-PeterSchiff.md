@@ -49,3 +49,5 @@
 **Nota cruzada:** continúa [[2026-11-07-PeterSchiff]], donde, tras el barrido demócrata, ya pedía vender Bitcoin porque "está a punto de implosionar" y preveía más déficit e inflación con los demócratas.
 
 **Contraste con otros canales:** George Gammon ([[2026-11-10-GeorgeGammon]]) comenta el mismo IPC y el mismo discurso de Waller (12% de probabilidad de 50 pb), pero ve un *shock* energético que ya revierte y una Fed que solo "habla duro" porque sabe que la economía es débil. Merino ([[2026-11-11-TradingLatino]]), con Bitcoin en 73.680, duplicó esa noche su largo en futuros y espera un rebote a 75.000 para el jueves.
+
+**Nota cruzada (posterior):** en [[2026-11-13-PeterSchiff-IyuhgRDtyKo]] repite que el mercado vende el oro ante noticias que son alcistas para él y sitúa el suelo en torno a 4.000. En [[2026-11-13-PeterSchiff]] anuncia una crisis "mucho peor que la de 2008" por las pérdidas latentes en hipotecas.

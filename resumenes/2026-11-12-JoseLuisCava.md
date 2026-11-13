@@ -38,3 +38,5 @@
 **Nota cruzada:** en [[2026-11-10-JoseLuisCava]] ya anunciaba que desarrollaría la idea "desde el punto de vista de la liquidez" y relacionaba la noticia de Nvidia con el Congreso demócrata. En [[2026-11-11-JoseLuisCava]] no veía suelo en Nvidia. Hoy no menciona Nvidia.
 
 **Contraste con otros canales:** Mark Moss ([[2026-11-12-MarkMoss]]) coincide en que el déficit y la deuda seguirán subiendo gobierne quien gobierne y en la hostilidad demócrata a los centros de datos, pero lo lee en clave de sectores y prevé bolsas más altas a 12 meses. Cava espera antes una crisis de liquidez.
+
+**Nota cruzada (posterior):** en [[2026-11-13-JoseLuisCava]] vuelve a Nvidia (capitulación en 149-150 y rebote hacia 178) y repite la tesis de la crisis de liquidez, comparándola con 1929.

@@ -37,3 +37,5 @@
 **Contraste con otros canales:** Merino ([[2026-11-11-TradingLatino]]), la noche anterior y con Nvidia en 168, ve las caídas "para comprar" en *spot*, porque la bajada de 225 a 180 sería ya el 70-80% de la corrección. Cava no ve suelo y esperaría a 147.
 
 **Nota cruzada (posterior):** en [[2026-11-12-JoseLuisCava]] no vuelve a Nvidia: habla de liquidez, del resultado de las elecciones, del oro y de las aseguradoras europeas como refugio.
+
+**Nota cruzada (posterior):** en [[2026-11-13-JoseLuisCava]] dice que el mínimo llegó ya el 12 de noviembre en 148,80, antes del vencimiento del 20 que esperaba, con capitulación en 150 y entrada de "manos fuertes" en 149. Pasa a esperar un rebote hacia 178 mientras aguante 160, con 200 como "muro", y no vuelve a mencionar los objetivos de 120 y 95.
