@@ -53,3 +53,5 @@
 **Nota cruzada:** en [[2026-11-10-GeorgeGammon]], la víspera, evitó hablar de "Jensen y la espía china" y de la burbuja de la IA. Este vídeo retoma ese tema.
 
 **Contraste con otros canales:** el mismo día, La Pizarra de Andrés ([[2026-11-11-LaPizarraDeAndres]]) plantea la IA como una ".com 2.0" posible pero no segura y reduce su exposición a indexados. José Luis Cava ([[2026-11-11-JoseLuisCava]]) atribuye el rebote del 6% de Nvidia a la "cancelación de posiciones cortas", la misma lectura que hace Gammon del +25% de CoreWeave.
+
+**Nota cruzada (posterior):** en [[2026-11-13-GeorgeGammon]], tras la dimisión de Jensen Huang, Gammon amplía esta idea: Nvidia sería un "banco en la sombra" del ecosistema de la IA. Vuelve a citar la rebaja de la deuda de CoreWeave del 15% al ~7% gracias al aval de Nvidia y advierte que "vuelve directo al 15%" si ese aval se retira.

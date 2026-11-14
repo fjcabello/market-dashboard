@@ -42,3 +42,5 @@
 **Nota cruzada:** continúa [[2026-11-08-LaPizarraDeAndres]], el directo con Gabriel Castro grabado el día de la caída, en el que ya se decía que las 10 primeras empresas pesan el 40% del S&P 500.
 
 **Contraste con otros canales:** Carlos Galán y los ponentes de Indexa Capital ([[2026-11-10-CarlosGalan]], [[2026-11-11-CarlosGalan]]) defienden mantener el plan indexado en las caídas. Andrés cree que el momento actual justifica algo más que indexados.
+
+**Nota cruzada (posterior):** en [[2026-11-13-LaPizarraDeAndres]], el día de la dimisión de Jensen Huang, Andrés ve a Nvidia barata por múltiplos (PER ~18, *forward* ~10) y por la valoración de los analistas (311 de media), aunque no compra y mantiene su escepticismo con el sector.

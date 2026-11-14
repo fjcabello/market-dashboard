@@ -58,3 +58,5 @@
 **Nota cruzada:** sigue a [[2026-11-11-TradingLatino]] (directo del 10), donde proyectó el rebote a 75.000 para el jueves 12 y confirmó la duplicación sin dar precio medio. Los clips del mismo día, [[2026-11-12-TradingLatino-hH5S1yE3VfQ]] y [[2026-11-12-TradingLatino-YwMx1tmfMoM]], son pasajes de aquel directo sobre "ser sinvergüenza".
 
 **Contraste con otros canales:** sobre Nvidia, José Luis Cava ([[2026-11-11-JoseLuisCava]]) no ve suelo y solo compraría en 147 si aparece una figura de agotamiento; Merino ya está largo y compraría acciones en 140.
+
+**Nota cruzada (posterior):** en [[2026-11-14-TradingLatino-FzZxl2uGPVU]] (directo del viernes 13), Bitcoin cae a ~67.400. Merino mantiene el precio medio de 76.772 con liquidación en 55.251,50 y duplicaría por debajo de 60.000. Sitúa ahora la compra de acciones de Nvidia en 160 (aquí decía 140) y el largo en futuros de Nvidia con liquidación en 123,29. Del oro dice que no duplicará (marca en 3.883,69; liquidación en 3.498).
