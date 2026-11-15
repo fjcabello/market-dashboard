@@ -1,0 +1,190 @@
+Creo que deberíamos hablar del día en
+que Microsoft se apagó y el mundo
+descubrió eh su fragilidad. Eh, una de
+las preguntas que siempre me hago es,
+¿qué ocurre cuando una de las mayores
+empresas tecnológicas del planeta deja
+de funcionar durante unas horas? Creo
+que la respuesta la hemos vivido
+escasamente hace unos días. Empresas
+paralizadas, administraciones públicas
+con problemas para comunicarse,
+hospitales que tienen que reprogramar eh
+eh intervenciones y operadores
+financieros que vuelven a utilizar el
+teléfono o incluso el fax para seguir
+trabajando. La caída global de Microsoft
+eh iniciada el jueves 12 de noviembre ha
+afectado a servicios tan habituales como
+Outlook, Teams, OneDrive, eh Microsoft
+365, Copilot. Se han registrado cientos
+de miles de avisos de incidencias en más
+de 70 países y la compañía ha pasado más
+de medio día eh intentando restablecer
+completamente sus servicios, pero
+[resoplido] lo verdaderamente
+preocupante no es cuántos usuarios se
+han quedado sin correo electrónico, sino
+hasta qué punto nuestra economía depende
+de que unos pocos sistemas tecnológicos
+funcionen sin sin interrupciones.
+Eh, los ejemplos son, creo que
+especialmente reveladores. En Reino
+Unido, algunos centros del sistema
+público de salud que llamamos NHS se han
+tenido que reprogramar eh intervenciones
+porque sus profesionales no podían
+comunicarse con normalidad. En Japón
+hemos visto varios ministerios que han
+recuperado los avisos en papel para
+informar a a periodistas. Nueva Zelanda
+ha ha tenido que suspender temporalmente
+la tramitación de visados. Pero
+quizá uno de los casos más sorprendentes
+lo encontramos en los mercados
+financieros. Operadores de Singapur, de
+Londres, de Tokio han tenido que
+recurrir al teléfono, al WhatsApp o
+incluso al fax para continuar
+trabajando. Bolsas como Euronext, Nasdaq
+y Deutsche Börse han comunicado
+problemas con sus correos electrónicos
+mientras algunas entidades financieras
+han sufrido retrasos en la confirmación
+de operaciones y en liquidaciones.
+Hay empresas como Richmond o Workhorse
+que se han visto obligadas a retrasar
+publicaciones de resultados. Es difícil
+encontrar una imagen que sea más
+ilustrativa de nuestra vulnerabilidad.
+En plena revolución de la inteligencia
+artificial, algunas de las instituciones
+más sofisticadas del planeta han tenido
+que recuperar herramientas de hace
+décadas para poder seguir funcionando. Y
+lo más llamativo es que, según
+Microsoft, eh no existen indicios de que
+haya un ciberataque detrás. El problema
+parece estar relacionado con un fallo
+técnico que dejó fuera de servicio parte
+de sus servidores. A partir de ahí, el
+tráfico se desvió hacia los que seguían
+funcionando, provocando una sobrecarga
+que terminó extendiendo la incidencia.
+Al final es un efecto dominó que,
+además, está resultando mucho más
+difícil de solucionar de lo que
+inicialmente tenían previsto. Y aquí
+aparece una cuestión que considero
+fundamental. Hemos construido una
+economía extraordinariamente eficiente
+gracias a la digitalización, pero
+también cada vez más vulnerable a los
+fallos de unas pocas infraestructuras.
+[resoplido]
+Durante décadas, las empresas invertían
+en sus propios servidores, en sus
+sistemas informáticos y en sus centros
+de datos. Hoy, buena parte de esa
+infraestructura se ha trasladado a la
+nube y ahí gigantes como Microsoft,
+Amazon y Google concentran una parte muy
+importante de los servicios digitales
+que utilizan empresas y administraciones
+de todo el mundo. El cambio tiene
+enormes ventajas porque reduce costes,
+facilita el acceso a tecnologías
+avanzadas y permite que pequeñas
+empresas utilicen herramientas que antes
+estaban reservadas única y
+exclusivamente a grandes
+multinacionales.
+Pero también genera un riesgo que muchas
+veces infravaloramos,
+que es la concentración del riesgo.
+Cuando miles de compañías dependen de un
+mismo proveedor, un fallo aparentemente
+localizado puede convertirse en un
+problema sistémico. Incluso empresas que
+compiten en la carrera de inteligencia
+artificial, como pueden ser OpenAI o
+Anthropic, han comunicado incidencias
+relacionadas con servicios conectados a
+la infraestructura de Microsoft.
+Y no estamos ante un episodio aislado.
+En 2024 una actualización defectuosa de
+CrowdStrike provocó interrupciones
+informáticas en todo el mundo, afectando
+incluso al tráfico aéreo y causando
+pérdidas multimillonarias. En 2025 una
+caída de Amazon Web Services durante
+unas 15 horas dejó fuera de servicio
+cientos de páginas web.
+Tres episodios diferentes que apuntan
+hacia un mismo problema. Estamos
+concentrando una parte creciente de
+nuestra actividad económica en
+infraestructuras tecnológicas cuyo fallo
+puede desencadenar consecuencias
+globales. Además, estamos entrando en
+una nueva fase de esta dependencia con
+la expansión de la inteligencia
+artificial. Cada vez más compañías están
+delegando procesos administrativos,
+análisis de información, atención al
+cliente e incluso decisiones operativas
+en sistemas automatizados conectados a
+grandes plataformas tecnológicas. Eso
+significa que la dependencia digital no
+solo está aumentando, sino que empieza a
+extenderse a funciones que antes podían
+seguir desarrollándose sin conexión
+permanente a servicios externos. Desde
+una perspectiva económica, el problema
+es especialmente relevante porque la
+eficiencia
+y la seguridad no siempre avanzan en la
+misma dirección. Durante años hemos
+reducido costes eliminando sistemas
+duplicados, infraestructuras propias y
+procedimientos manuales, pero esas
+redundancias que aparece que parecían
+innecesarias cuando todo funcionaba
+correctamente eran precisamente las que
+nos protegían cuando algo fallaba. Y
+aquí surge una pregunta incómoda.
+¿Cuánto estamos dispuestos a pagar por
+disponer de un sistema alternativo que
+probablemente no utilizaremos casi
+nunca, pero que puede resultar
+imprescindible cuando falle nuestra
+infraestructura principal?
+No creo que la solución sea renunciar a
+la digitalización, sería absurdo, pero
+sí deberíamos preguntarnos si empresas,
+gobiernos y organismos estratégicos
+están invirtiendo lo suficiente en
+sistemas de respaldo y planes de
+continuidad que permitan seguir
+funcionando cuando la tecnología falla.
+Estamos construyendo un mundo cada vez
+más conectado, automatizado y
+dependiente de la tecnología, pero no
+necesariamente más resistente. Hemos
+aprendido a medir los beneficios de la
+digitalización en términos de
+productividad y reducción de costes,
+pero quizá estamos prestando demasiada
+poca atención al precio de esa
+dependencia.
+La caída de Microsoft acabará
+solucionándose. Lo que no desaparecerá
+cuando sus servidores vuelvan a
+funcionar es la vulnerabilidad que este
+episodio ha dejado al descubierto y
+convendría que no esperásemos a sufrir
+una interrupción mucho más grave para
+empezar a tomárnosla en serio.
+Gracias por vuestra atención. Nos vemos
+en el próximo vídeo.
+[música]
