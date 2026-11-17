@@ -39,3 +39,5 @@
 **Nota cruzada:** desarrolla lo que planteó en [[2026-11-11-GeorgeGammon]] sobre CoreWeave, cuando ya hablaba de que Nvidia "avala" deuda de sus clientes (15% → 7%).
 
 **Contraste con otros canales:** el mismo día, Pablo Gil ([[2026-11-13-PabloGilTrader]]) pone el foco en el riesgo de liderazgo y regulatorio (chips desviados a China) y no cree que la dimisión "signifique el final de Nvidia". Andrés ([[2026-11-13-LaPizarraDeAndres]]) cree que, por múltiplos (PER ~18, *forward* ~10), el castigo es "demasiado severo". Gammon no habla de valoración: lo que le preocupa es el papel de Nvidia como financiadora del sector.
+
+**Nota cruzada (posterior):** en [[2026-11-16-GeorgeGammon]] da esta hipótesis por "confirmada", a partir de una exclusiva del Wall Street Journal: la directora financiera interina, Colette Kress, limitará la financiación de Nvidia a clientes y startups.

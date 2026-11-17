@@ -27,3 +27,5 @@
 **Conflicto de interés:** vídeo patrocinado por Freedom24 (código QR y enlace en la descripción).
 
 **Nota cruzada:** en [[2026-11-13-JoseLuisCava]] veía en 149 la entrada de "manos fuertes" y esperaba 178 mientras Nvidia aguantara 160. Hoy no actualiza esos niveles. Al rebote solo llega por otra vía (las puts) y le añade una advertencia bajista (el formulario 144). El "vídeo anterior" que menciona, el de la trampa en abstracto, no tiene transcript propio en el corpus. Para el contexto de la dimisión, ver [[2026-11-13-PabloGilTrader]] y [[2026-11-13-LaPizarraDeAndres]].
+
+**Nota cruzada (posterior):** en [[2026-11-17-JoseLuisCava]] desarrolla la idea de las puts: da por vistos los mínimos y espera un rebote por la cobertura de deltas de los *dealers*. No vuelve sobre el formulario 144.

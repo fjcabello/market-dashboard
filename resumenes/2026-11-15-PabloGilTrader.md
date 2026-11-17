@@ -5,3 +5,5 @@
 **Activos mencionados:** fabricantes de semiconductores en general (sin nombres ni niveles).
 
 **Tono:** bajista-prudente sobre el sector de semiconductores y la IA por valoración.
+
+**Nota cruzada (posterior):** el clip [[2026-11-16-PabloGilTrader]] sigue la misma línea: la derrota republicana añade incertidumbre, y el inversor muestra impaciencia por ver beneficios de la inversión en IA.

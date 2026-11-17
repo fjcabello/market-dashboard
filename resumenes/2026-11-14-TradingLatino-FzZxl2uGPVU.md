@@ -41,3 +41,5 @@
 **Nota cruzada:** sigue a [[2026-11-12-TradingLatino]] (directo del 11), con Bitcoin en 73.800 y un rebote a 75.000-76.000 si no perdía 73.000; el precio ha caído hasta los 67.000. Los dos clips del 14 de noviembre ([[2026-11-14-TradingLatino]] y [[2026-11-14-TradingLatino-EFFbjeT--bE]]) hablan de 4 horas y de la media de 55 con sesgo alcista, pero no salen de este directo.
 
 **Contraste con otros canales:** sobre Nvidia, Andrés ([[2026-11-13-LaPizarraDeAndres]]) ve el castigo excesivo pero no compra. José Luis Cava ([[2026-11-13-JoseLuisCava]]) ve manos fuertes comprando en 149 y espera 178 mientras aguante 160. Merino sigue largo desde 187 y no duplicaría hasta 130.
+
+**Nota cruzada (posterior):** los clips del 17 de noviembre [[2026-11-17-TradingLatino]] (Nvidia), [[2026-11-17-TradingLatino-wG3zNl770Jo]] (Bitcoin) y [[2026-11-17-TradingLatino-ZA-D07kkSyM]] (oro) son los pasajes de este directo sobre sus tres posiciones, con las mismas cifras.
