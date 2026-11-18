@@ -13,3 +13,5 @@
 **Nota cruzada:** sigue la línea de [[2026-11-15-PabloGilTrader]] (Trump con "menos margen" para su agenda tecnológica y semiconductores vulnerables a una revisión de expectativas de la IA).
 
 **Contraste con otros canales:** la "impaciencia" por los beneficios de la inversión en IA es el mismo tema que Gammon ([[2026-11-16-GeorgeGammon]]) lleva al extremo el mismo día, con Nvidia retirando su financiación a clientes sin ingresos.
+
+**Nota cruzada (posterior):** [[2026-11-17-PabloGilTrader]] (riesgo político frente a financiero) y, con niveles, [[2026-11-18-PabloGilTrader]] (S&P 500 en el soporte de 7.230-7.320).

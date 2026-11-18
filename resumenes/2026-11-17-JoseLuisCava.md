@@ -43,3 +43,5 @@
 **Nota cruzada:** retoma el mínimo de 148,8 y las compras de "manos fuertes" de [[2026-11-13-JoseLuisCava]], pero no repite los objetivos de 178 y 200. El rebote por la cobertura de los *dealers* desarrolla la segunda pregunta de [[2026-11-16-JoseLuisCava]] (el récord de puts), sin volver sobre la advertencia de que Huang podría vender sin presentar el formulario 144. La tesis de liquidez y el oro siguen la línea de [[2026-11-12-JoseLuisCava]].
 
 **Contraste con otros canales:** Gammon ([[2026-11-16-GeorgeGammon]]) parte de la misma amenaza de una subida de 50 pb y de la misma crítica (no frena una inflación de energía), pero llega a la conclusión contraria: con Nvidia retirando su financiación, ve "el polvorín encendiéndose", no un suelo.
+
+**Nota cruzada (posterior):** en [[2026-11-18-JoseLuisCava]], ya con los resultados de Nvidia publicados, mantiene el rebote a corto plazo (estacional, hasta Reyes) seguido de una crisis. Pone techo en 170 al rebote de Nvidia y advierte de la caída del margen bruto (75%, hacia ~70%).

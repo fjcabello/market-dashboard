@@ -43,3 +43,5 @@
 **Contraste con otros canales:** sobre Nvidia, Andrés ([[2026-11-13-LaPizarraDeAndres]]) ve el castigo excesivo pero no compra. José Luis Cava ([[2026-11-13-JoseLuisCava]]) ve manos fuertes comprando en 149 y espera 178 mientras aguante 160. Merino sigue largo desde 187 y no duplicaría hasta 130.
 
 **Nota cruzada (posterior):** los clips del 17 de noviembre [[2026-11-17-TradingLatino]] (Nvidia), [[2026-11-17-TradingLatino-wG3zNl770Jo]] (Bitcoin) y [[2026-11-17-TradingLatino-ZA-D07kkSyM]] (oro) son los pasajes de este directo sobre sus tres posiciones, con las mismas cifras.
+
+**Nota cruzada (posterior 2):** en el directo del 17 de noviembre ([[2026-11-18-TradingLatino]]) habla de recomprar Bitcoin en *spot* en "zonas de 45.000", lo que podría ser la cifra cortada de este directo, aunque no lo confirma. Allí sitúa su compra de acciones de Nvidia en ~162 y dice que el oro "tiene que llegar a 3.500" para duplicar, frente al "no duplicaré" de este directo. El clip [[2026-11-18-TradingLatino-jYOojgncxMQ]] (riesgo de liquidación) también sale de este directo.
