@@ -1,0 +1,1364 @@
+Es como, ¿quién demonios va a seguir en
+el negocio y quién va a quebrar?
+Es realmente increíble.
+Así que rápidamente, antes de empezar
+con el programa de hoy, este episodio es
+presentado por PYTH. PYTH Network es la
+empresa de datos financieros de más
+rápido crecimiento en la actualidad. Con
+la confianza de Fidelity Investments, el
+Departamento de Comercio de EE. UU. ,
+Revolut, Kalsi, Jane Street, Coinbase y
+muchos más. Proporcionan datos de
+mercado financiero en tiempo real de más
+de 3,000 acciones, materias primas,
+criptomonedas, tipos de cambio y, de
+nuevo, mucho más. Son el primer y mayor
+proveedor de índices financieros 24/7 y
+ofrecen la más amplia gama de datos de
+mercado al menor costo. Así que ve a
+pyth.network para aprovechar su prueba
+gratuita.
+Acompáñame, Raoul Pal, en este viaje de
+descubrimiento a través de los panoramas
+macro, cripto y de la era exponencial.
+En el camino, hablo con las personas más
+inteligentes del mundo para que todos
+podamos ser más inteligentes juntos.
+Andreas, siempre es bueno tenerte aquí.
+Qué bueno verte, amigo mío.
+Hay tanto por analizar. Están pasando
+muchas cosas y creo que a la gente le
+interesará mucho conocer tus
+pensamientos y los míos y cómo estamos
+analizando esto. Entonces, ¿qué tienes
+en mente?
+Me llama la atención que las empresas
+que están construyendo la tecnología más
+importante de nuestras vidas tengan un
+precio de negocios moribundos en este
+momento.
+Es extraordinario. Eso lo escribiste
+ayer en X, y creo que es una de las
+cosas más ridículas que he visto.
+Estoy bastante de acuerdo contigo en
+esto. Es una locura.
+Sí.
+Obviamente, siempre es algo que podría
+terminar humillándote cuando dices que
+el mercado está increíblemente
+equivocado en algo.
+Así que, al menos para empezar, trataré
+de ser humilde al respecto.
+Cuando observas las ganancias
+proyectadas de todo, desde Nvidia hasta
+Zendesk, Micron e incluso Anthropic,
+según los números que conocemos antes de
+la salida a bolsa este mes.
+Yo diría que estamos valorando todo el
+espectro de la IA al menos a la mitad de
+los múltiplos del mercado promedio y a
+una cuarta parte de los múltiplos de
+Costco, Walmart y todos esos nombres
+estables, ¿verdad?
+Esa es la imagen especular exacta de lo
+que ocurrió en el año 2000, la imagen
+exacta, porque Walmart, Costco, etc.,
+cotizaban a múltiplos de 10 veces las
+ganancias en el 2000, mientras que Cisco
+y todos esos nombres estaban a 100 veces
+.
+Así que, a menos que haya una burbuja
+enorme en las ganancias, lo cual me
+cuesta ver ahora mismo, aquí está
+pasando algo extraño.
+Y me he sentido tentado a decir, y lo he
+dicho desde hace un tiempo, que la
+mayoría de los gestores de cartera
+tienden a pelear la última guerra.
+Y la última vez que vieron algo así,
+todo salió mal, por eso son
+extremadamente cautelosos y entiendo por
+qué, si viviste la burbuja punto com y
+tal vez la crisis financiera también,
+entiendo por qué eres un poco cauteloso
+y entiendo por qué estás nervioso. El
+mercado está increíblemente nervioso.
+Quiero decir, mientras grabamos, el
+mercado ha subido un 15%en todos los
+nombres que acabo de mencionar, ¿cierto
+? Un día baja 20, al día siguiente sube
+15.
+Nunca había visto algo así, pero para mí
+se siente como la imagen exacta en el
+espejo de la era punto com.
+Sí, y creo que la gente está marcada por
+eso y asumen que hay ciclicidad.
+Mm.
+Y lo que piensan es que no se puede
+valorar el futuro debido a la ciclicidad
+.
+Y la pregunta que debes hacerte es: ¿
+van a bajar los ingresos o quizás se
+estabilizarán un poco?
+Y simplemente no veo que los ingresos
+bajen. Cada componente de esta operación
+, tú y yo hablábamos de esto hace poco,
+cada componente de esta operación, desde
+TSMC hasta NVIDIA, los hiperescaladores
+y Anthropic, están generando
+rendimientos extraordinarios.
+Tienen tanta demanda que físicamente no
+pueden construir suficiente cómputo.
+Existe
+la incapacidad de poder construir
+cómputo puede ralentizar los chips un
+poco.
+Pero lo que también hemos encontrado, y
+los laboratorios se lo dicen a todos y
+nadie está escuchando, es que más
+cómputo trae RSI, que es IA entrenando
+IA, lo que crea necesidades de más
+cómputo porque sigue siendo exponencial
+.
+Y tengo la tasa de cómputo de producción
+de inteligencia por unidad de energía,
+mi índice de era exponencial,
+duplicándose cada 3.4 meses.
+Y la otra forma en que le planteo esto a
+la gente es que este es el único bien
+con demanda infinita, porque cuanto más
+cómputo construyes, mejor se vuelve la
+IA, más agentes usa y más cosas hace. Y
+apenas hemos comenzado.
+Lo que más escucho de algunos de los
+gestores de cartera veteranos
+involucrados en esta operación es que
+una expansión siempre termina en
+lágrimas, porque el mercado, por diseño
+, siempre se excede cuando hay escasez,
+así que terminaremos construyendo
+demasiada capacidad de cómputo.
+Ese es el argumento en contra que recibo
+cada vez.
+Y otro argumento que recibo es que,
+bueno, en dos, tres o cuatro años, la
+mayoría de nuestras tareas simples se
+ejecutarán en nuestro iPhone o cualquier
+dispositivo móvil que tengamos.
+Déjame empezar con el primero.
+Si observamos la capacidad de cómputo,
+si escuchas a todos los laboratorios,
+siguen diciendo que tienen un problema
+de capacidad.
+Si miras el tercer trimestre de
+Anthropic, estuvo dominado en gran
+medida por la falta de capacidad para
+satisfacer la demanda del mercado. No
+fue un problema de demanda, fue un
+problema de capacidad.
+Ahora se están acercando a resolver ese
+problema de capacidad.
+Hemos visto un gran impulso en el
+negocio de Anthropic en las últimas
+cuatro a seis semanas, pero he dicho
+continuamente que el mayor riesgo para
+el caso de Anthropic es que no han
+asegurado suficiente cómputo a futuro.
+Es decir, tomaron todo el Colossus uno
+de Elon, absolutamente todo.
+Sí, creo que pagaron 5 mil millones de
+dólares solo por servicios de SpaceX en
+el tercer trimestre, por lo cual
+tuvieron un tercer trimestre ligeramente
+más débil comparado con el segundo al
+ver los márgenes. Simplemente tuvieron
+que pagar más por el cómputo al contado
+en comparación con los acuerdos a futuro
+que puedes fijar en mejores condiciones
+.
+Dicho esto, ¿verdad?
+Ahora que estamos del otro lado de las
+elecciones de medio término, no creo
+realmente en la noción de que los
+demócratas terminarán con el desarrollo
+de la IA, pero sí vemos problemas
+relacionados con todo, desde la
+regulación hasta el rechazo de la
+población respecto al ritmo de expansión
+, ¿no? Así que es realmente difícil
+construir al ritmo necesario para
+igualar la demanda de cómputo.
+Creo que es un entorno muy, muy
+diferente al despliegue de fibra del año
+2000, donde simplemente podías construir
+, ¿verdad? No era un problema.
+A, podías simplemente construir, pero
+construías antes de que hubiera
+cualquier demanda. Esto es lo opuesto.
+Estás tratando de construir tan rápido
+como puedes porque la demanda supera
+completamente tu capacidad de suministro
+.
+Y luego esta noción de que terminarás
+con un exceso de oferta en el espacio de
+centros de datos porque terminaremos
+usando modelos locales en nuestros
+teléfonos y qué sé yo.
+Creo que es similar a decir que, oh, tan
+pronto como obtuviste, no sé, 16 GB de
+espacio de memoria en tu teléfono, nadie
+usaría la nube después de eso porque
+tienes tanto espacio localmente que
+nunca terminarías consumiendo espacio en
+, sí.
+Y la gente no entiende que la IA estará
+en cada objeto individual. Cada objeto
+electrónico tendrá IA.
+No lo es, es una paradoja de Jevons. Se
+vuelve más barato y vendes más. Ahora
+mismo, tengo una demanda que se duplica
+por cada unidad que baja de precio.
+Así que tampoco estamos viendo caer la
+demanda, que era el otro argumento.
+Dicen, bueno, simplemente se volverá tan
+barato que todos los márgenes se verán
+aplastados. No, los márgenes han subido
+en los modelos de vanguardia a medida
+que la IA real se ha vuelto más barata.
+Es extraordinario.
+Exactamente. Y, ya sabes, piénsalo de
+esta manera. Sí, por ejemplo, Anthropic
+, han gastado muchísimos dólares
+entrenando sus modelos.
+Pero si miras la proporción entre
+entrenamiento e inferencia, nos estamos
+moviendo tan rápido hacia, ya sabes,
+servicios pagos, inferencia en relación
+con el entrenamiento, que no será un
+problema dentro de dos, tres o cuatro
+trimestres.
+Ya no es un problema ahora mismo.
+Um, ellos ya tienen flujo de caja
+positivo, lo cual es extraordinario dado
+lo mucho que gastaron, ¿verdad?
+Um, y por lo tanto, realmente me cuesta
+aceptar la noción de que la IA va a
+desacelerarse increíblemente rápido
+hacia 2028, 2029, que es lo que obtienes
+si miras los precios a futuro,
+básicamente.
+Mira, el otro punto interesante en esta
+ecuación es SpaceX.
+Entonces, Elon siempre se anticipa en
+estas cosas, y es como, hace como 18
+meses que estaba hablando de
+transformers.
+Todos decían, ¿qué carajos es un
+transformer? Y él decía, hay hay
+problemas. Va a haber, así que lo que
+básicamente hizo fue asegurar todo de
+antemano. Luego fue y compró un negocio
+de turbinas de gas móviles antes de que
+nadie hubiera descubierto lo que iba a
+pasar.
+Así que ahora va a poner, no sé cuántos
+gigavatios de cómputo, como 13
+gigavatios de cómputo el próximo año
+cuando nadie más puede levantar un
+centro de datos.
+Amazon, Google, Microsoft ya tienen todo
+eso pre-vendido.
+Y él está aprovechando los precios al
+contado. Parece que si hace esto bien,
+habrá tenido un retorno de inversión de
+un año.
+Quiero decir, el retorno sobre el
+capital es jodidamente extraordinario, y
+aun así la gente no quiere creerlo.
+Simplemente no creen que pueda suceder.
+También esta semana, ¿verdad? Bueno,
+recibimos el informe trimestral de
+CoreWeave, ya sabes, una de las
+neo-nubes que ha enfrentado la ira del
+mercado con mayores diferenciales de
+crédito.
+Y realmente no han podido acceder al
+mercado de bonos por un tiempo, y
+básicamente nos dijeron que, ya sabes,
+en el futuro previsible, pueden
+financiar sus gastos de capital mediante
+las operaciones de centros de datos
+existentes.
+¿Qué pasa si relativamente pronto
+llegamos al punto en que las operaciones
+actuales de los centros de datos
+financien las siguientes, sin necesidad
+de recurrir a los mercados de capital?
+No es un escenario descabellado.
+Bueno, es que la gente no entiende
+cuánto flujo de efectivo genera esto, y
+Elon está a punto de demostrarlo. Mira,
+sí, él hace todo con márgenes
+marginalmente superiores a los de los
+demás porque es simplemente un ingeniero
+brillante.
+Pero aun así, si logra eso, podrá
+construir centros de datos infinitos
+porque los financiará solo con el flujo
+de caja.
+Sí.
+Y es algo que podría ocurrir, digamos, a
+finales de 2027 o principios de 2028. No
+es algo que falten 5 o 10 años para ver
+. Ya está sucediendo.
+Y lo que es aún más interesante es esta
+idea de que las GPU antiguas no podrán
+generar el retorno necesario para
+financiar su continuidad.
+La evidencia real está dejando en
+ridículo a Michael Burry con esa tesis,
+¿no crees?
+Porque su tesis es que la depreciación
+de una GPU es de máximo tres, quizás
+cuatro años.
+Y de nuevo, Cowen, por ejemplo, nos dijo
+que están alquilando sus H100 por los
+próximos tres, cuatro o cinco años en
+contratos a futuro y ya están
+amortizadas.
+Y nos habían dicho que las H100
+quedarían obsoletas en cuanto tuviéramos
+las Vera Rubin y todo eso en línea.
+Eso no ha resultado ser así debido a la
+escasez, ¿verdad?
+Así que...
+hay diferentes casos de uso para
+distintas cosas. Sabes, la inferencia no
+requiere chips Vera Rubin. El
+entrenamiento sí, por ejemplo;
+simplemente pueden aprovechar toda la
+capacidad de cómputo.
+Sí.
+Entonces...
+estamos dando vueltas en lo mismo, Raoul
+, si es que no todos lo están
+entendiendo.
+Pero sinceramente creo que esta es una
+de las encrucijadas más interesantes que
+he visto desde el punto de vista del
+mercado, donde el mercado básicamente
+estima que el ciclo de los
+semiconductores caerá, no sé, un 40 o 50
+%para mediados del próximo año.
+Es decir, el desplome tendría que
+ocurrir muy, muy pronto para que el
+mercado tenga razón.
+Y cuando dices desplome, ¿te refieres a
+la tasa de cambio, que podría reducirse
+, o esperas que el gasto absoluto en
+dólares disminuya?
+Dólares a cero. Sí. Eso es lo extraño.
+Claro, Bloomberg publicó un artículo
+esta semana donde decía, o más bien
+afirmaba, que la primera derivada del
+gasto de capital (CAPEX) de los
+proveedores de nube ha comenzado a
+descender.
+Y yo estaba tipo, sí, esa es una
+matemática bastante simple. Quiero decir
+, no puedes crecer al 150%para siempre.
+No puedes, al menos no aumentando la
+tasa de crecimiento.
+No.
+Eh, pero si digamos que crecen un 50%al
+año desde aquí en términos de CAPEX, eso
+es enorme en dólares nominales.
+Um, hice este simple ejercicio en un
+informe de investigación esta semana
+donde simplemente dije, está bien, ¿qué
+pasa si aumentan el CAPEX un 25%desde
+ahora hasta el 2035?
+Significa que ya habríamos duplicado el
+CAPEX desde el estado actual en dos años
+y medio, algo así, dado que el 2027 ya
+está casi escrito en piedra. Así que si
+el 28 crece un 25%, el 29 un 25%,
+entonces ya estamos más que al doble de
+los niveles en los que estamos
+actualmente.
+Um, creo que estamos subestimando esto,
+realmente subestimando esto,
+esencialmente porque lo único que podría
+arruinar esto, Raoul, serían los
+vigilantes de los bonos. Pero si el
+flujo de caja es lo suficientemente
+fuerte como para ignorar a los
+vigilantes de los bonos, lo cual
+probablemente será el caso a más tardar
+en un año, entonces no deberíamos
+preocuparnos por el mercado de bonos.
+Además, si has visto cómo se está
+desarrollando esto hasta ahora, lo ves
+mucho en Amazon.
+Hacen este gran ciclo de CAPEX y luego,
+cuando terminan el ciclo, las ganancias
+vuelven a subir porque produces nuevas
+eficiencias o nuevos productos.
+Así que cualquier inversión que todos
+ellos estén haciendo ahora en esto,
+simplemente se convierte en producción
+después.
+La gente asume que van a estar quemando
+efectivo para siempre.
+Lo que podríamos encontrar es que queman
+efectivo por períodos de tiempo debido a
+las cosas intensivas, porque esta es una
+gran construcción nueva de CAPEX, luego
+, tan pronto como comienza a funcionar,
+sus ganancias suben de nuevo porque ves
+que la productividad aumenta y nadie
+quiere creer eso todavía tampoco. La
+productividad ha subido en los últimos
+tres trimestres del 1.1%al 3.6%.
+Se está acelerando, um, y esa ha sido la
+visión para demostrarlo. Si si la
+productividad aumenta, entonces todos
+van a ganar aquí.
+Sí.
+Sabes, a veces me gusta mantenerlo
+simple y estúpido con respecto a la
+productividad. La productividad es muy,
+muy difícil de medir en la vida.
+Pero yo tenía un equipo de investigación
+de 15 personas produciendo quizás 15 o
+20 informes de investigación a la semana
+hace dos años.
+Ahora mi socio Mickle y yo producimos
+más.
+Producimos más que ese equipo de 15.
+Cuando lo mantengo tan simple como eso,
+no puedo llegar a la conclusión de que
+no es una ganancia de productividad.
+O sea, es una ganancia de productividad
+de muchas veces, ¿verdad?
+Una de las formas en que veo esto es que
+creo que lo más escaso a lo que nos
+enfrentamos ahora es la atención humana
+.
+¿Verdad? Porque todos pueden hacer lo
+que tú haces y todos lo están haciendo,
+¿cierto?
+Entonces, ¿cómo lees todo esto?¿Cómo
+absorbes todo esto? Así que todos lo
+están haciendo en su Claude o su ChatGPT
+.
+ChatGPT o Claude ahora lee todos tus
+correos, todas tus publicaciones en X,
+ya sabes, la información, resumiéndola
+para ti, leyendo todos los informes de
+investigación, y se está convirtiendo en
+la plataforma de nuestras vidas.
+Que todo está siendo absorbido por estas
+cosas. O te conectas y accedes a través
+de ello y usas la inteligencia para
+superponerla, o simplemente lo
+construyen ellos mismos.
+Y justo mencionabas esto antes de
+empezar, que esto es como Microsoft
+Windows o el sistema operativo otra vez
+.
+Sí.
+Así que, he tomado mis últimos
+trimestres, cada vez que enfrentaba el
+obstáculo de tener que crear soluciones
+alternativas para integrar algunas de
+mis licencias de software existentes en
+Claude, simplemente le enviaba un correo
+a mi gerente de cuenta: "¿Por qué no lo
+integran directamente en Claude?
+Porque ahí es donde está mi flujo de
+trabajo".
+Y hace tres años, habría tenido la misma
+opinión si no ofrecían un archivo de
+Excel para una aplicación de Windows, ¿
+verdad?
+Piénsalo de esta manera: para empezar,
+Bloomberg, por ejemplo, era una terminal
+, ¿no? Vendías hardware junto con esa
+licencia de Bloomberg.
+En algún momento, tomaron la gran
+decisión de decir: "Está bien, tenemos
+que construir esto para Windows porque
+ahí es donde están los usuarios".
+Me cuesta un poco comprenderlo del todo
+, pero por supuesto, Bloomberg debe
+incorporarse a Claude muy pronto.
+Sí, aún no han llegado a esa conclusión
+, pero si quieren existir en cinco o
+diez años, probablemente necesiten
+funcionar dentro del ecosistema de
+Claude, en mi opinión.
+Yo acabo de deshacerme de la mía.
+Me deshice de ella porque puedo obtener
+toda la información que necesito o
+construirla muy fácilmente, porque nadie
+usa los 58,000 modelos de crédito y toda
+esa [ __ ] que es para algún
+especialista.
+Ya sabes, lo básico, puede hacer todo
+eso muy fácilmente. Puedes acceder a la
+mayor parte de la información que
+necesites, a menos que seas un gran
+especialista buscando bonos lituanos de
+1962, ya sabes, cosas así, sí, está bien
+. Pero aparte de eso, no lo necesitas
+porque Claude puede hacerlo todo.
+Y hay muchísimos conectores MCP. Digo,
+estamos viendo esto para Real Vision
+también. Es simplemente decir, ya sabes
+, deberíamos integrar Real Vision dentro
+de Claude.
+Darte acceso a todo este material. Y
+también estoy viendo qué hacer con mis
+datos de GMI. Es como que mejor ir a
+donde está la gente y dejar que usen la
+capa de inteligencia que ya están usando
+.
+Sí.
+Creo que es muy acertado. Y es algo que
+, ya sabes, he estado tratando de
+promover activamente en las empresas que
+poseo o que he cofundado. Y
+en ese sentido, bueno, si intentamos, ya
+sabes, terminar esta analogía histórica
+, Windows se popularizó por el 94 o 95,
+algo así.
+Sí.
+Si hiciéramos esa comparación con el
+punto com, entonces, ya sabes, estamos
+increíblemente temprano, ¿verdad? Porque
+ni siquiera creo que la gente haya
+llegado a la conclusión de que Claude es
+el nuevo Windows. Creo que sucederá
+pronto, pero, bueno, de nuevo, realmente
+me cuesta aceptar la idea de que estamos
+en el 99 o 2000, muy avanzados en este
+ciclo. Pero sí.
+Déjame decirlo de otra manera.
+Y tuvimos esta conversación en el chat
+de RV Pro: ¿qué pasa si todo esto es
+solo narrativa y el hecho es que las
+condiciones financieras se ajustaron por
+Irán y la liquidez se redujo?
+Así que los precios han bajado por la
+liquidez y todos intentan atribuirle una
+narrativa.
+Bien, el mejor ejemplo de por qué creo
+que eso es cierto es la historia sobre
+Jensen Huang.
+La historia de que tuvo una aventura con
+una supuesta espía china tenía más de
+una semana cuando envió el correo a sus
+empleados diciéndoles que tuvo una
+aventura.
+Nadie vendió Nvidia cuando el Wall
+Street Journal escribió sobre ello ocho
+días antes de ese correo.
+Cuando ese correo circuló, todos
+empezaron a vender Nvidia probablemente
+porque consideraron que los
+diferenciales de crédito estaban
+ajustados. Ya sabes, es difícil
+medirlo fuera de hacerlo a través de las
+condiciones financieras. Pero creo que
+tienes razón en que el dólar ha estado
+demasiado fuerte, los diferenciales de
+crédito demasiado amplios, el precio del
+petróleo demasiado alto, ya sabes, todo
+eso.
+Simplemente succiona la liquidez del
+sistema y, por lo tanto, cualquier tipo
+de mala noticia o algo que se
+malinterprete, el mercado simplemente no
+puede soportarlo porque no hay
+suficiente liquidez alrededor.
+Sí, y si observas la reducción de
+apalancamiento que hemos visto,
+especialmente en los fondos de cobertura
+, tanto los de posiciones largas y
+cortas como los multiestrategia, durante
+el mes de octubre y los primeros días de
+noviembre, probablemente todos han
+estado operando muy, muy cerca de su
+capacidad máxima establecida por los
+gestores de riesgo, ¿verdad?
+Y cuando algo así aparece, está bien,
+hay un titular, sé que estoy cerca de mi
+límite de riesgo, así que lo reduzco.
+Creo que eso es lo que sucede en la
+práctica, como también he publicado en
+las redes sociales, creo que más de cien
+gestores de carteras de fondos de
+cobertura macro tuvieron que dejar sus
+puestos durante el mes de octubre.
+Nunca había visto algo así en mi vida.
+Quiero decir, tú también has estado
+cubriendo fondos de cobertura desde
+siempre, Raul, y todavía hablas con
+muchos de ellos.
+Creo que octubre es el peor mes de la
+historia para los fondos de cobertura,
+debido a que las condiciones financieras
+los obligan a simplemente cerrar sus
+posiciones.
+Y además, ya sabes, he hablado de esto
+durante mucho tiempo, no hay
+diversificación, todo es riesgo activo o
+riesgo pasivo, y eso es solo una función
+de la liquidez. La liquidez significa
+riesgo activo; cuando la liquidez se
+retira, es riesgo pasivo. Por eso todo
+el mundo observa esta tendencia.
+Así que, si eres un fondo de cobertura y
+eres direccional, no tienes más remedio
+que seguir la tendencia, porque si no,
+tampoco ganas dinero.
+Y lo que sucede es que todos son
+eliminados al mismo tiempo.
+Y el apalancamiento ha aumentado en el
+sistema desde la crisis financiera
+global y también desde el año 2000. Sé
+que a muchos les gusta mirar la deuda de
+margen de la organización FINRA y
+tomarla como una proporción del PIB o de
+M2 para tener una idea de cuánto
+apalancamiento existe.
+Creo que subestima enormemente la
+cantidad de apalancamiento en el sistema
+porque es una forma muy anticuada de
+usar el apalancamiento, ¿verdad?
+Ahora tienes apalancamiento a través de
+ETFs. Las opciones se han vuelto mucho
+más accesibles para los inversores
+minoristas.
+He perdido la cuenta de la cantidad de
+suscriptores y ex miembros, etc., que me
+han enviado mensajes a mi bandeja de
+entrada.
+¿Crees que debería ir en largo 3x en el
+índice de semiconductores a través de un
+ETF? Y siempre les digo que no, es un
+producto pésimo, pero está disponible
+para todos, ¿verdad? Y es tan evidente
+cuando observas, por ejemplo, la acción
+del precio en los semiconductores, que
+hay tantos jugadores apalancados que
+entran y salen de estos ETFs y otras
+estructuras a diario. Es
+simplemente
+muy
+visible. Exagera las narrativas, eh, la
+forma en que está la estructura del
+mercado ahora.
+Así que una breve pausa en su
+programación habitual. Si te tomas en
+serio tu futuro, obtén mi informe
+gratuito llamado Prepárate para 2030.
+Creo que tienes cinco años para ganar la
+mayor cantidad de dinero posible y esta
+guía te ayudará a navegar lo que viene.
+El enlace está en la descripción.
+Descargando ahora.
+Y sabes que así es como continúan los
+mercados alcistas.
+Mi antiguo jefe solía llamarlas la pausa
+que refresca.
+Y es como si estás en un mercado alcista
+serio, tienes un montón de estas, um, y
+eliminan a todos porque todos se exceden
+y luego todos miran atrás y dicen, bueno
+, ¿por qué estoy fuera de la posición?
+Solía pasarme y nunca lo olvido porque
+estaba manejando una cartera durante, um
+, la burbuja del 2000 y estaba, ya sabes
+, muy corto y tuve unos buenos años
+basándome en eso.
+Pero la mitad de las veces cierras tus
+posiciones, ya sabes, cuando el mercado
+va en tu contra y al día siguiente dices
+, [ __ ], solo quiero volver a abrir las
+posiciones porque sabes dónde está la
+tendencia, sabes lo que está pasando.
+Um, y entonces, ¿qué más vas a operar?
+Y dijiste que hay precios donde todo
+vuelve a estar barato.
+Hemos bajado de los niveles de espuma.
+Sí, el Nasdaq estaba bastante
+sobrecomprado en la cima.
+Ahora se ha corregido bastante bien. Ha
+vuelto a su especie de tendencia
+logarítmica, a su valor justo. Es como,
+sí, de acuerdo, ¿qué es lo que no te
+puede gustar aquí?
+A menos que el panorama de liquidez
+empeore.
+Y no me gustó lo que pasó ayer y hoy con
+los bonos y el dólar.
+Es como, [ __ ], podría prescindir de
+esto porque si el dólar sigue subiendo
+desde aquí, entonces realmente tenemos
+problemas mayores.
+Creo que la respuesta simple a esta
+pregunta, Raul, es que las condiciones
+financieras son actualmente demasiado
+ajustadas para obtener un rally muy
+fuerte en todo lo relacionado con la IA
+y las criptomonedas, por ejemplo.
+Aunque los fundamentos son
+increíblemente fuertes y mejoran
+mientras hablamos.
+En todo, en cripto, todo está haciendo
+esto, pero los precios no.
+Pero no importa mientras la liquidez no
+esté ahí.
+Y las condiciones financieras, ya sabes
+, el dólar es obviamente lo más
+importante para las condiciones
+financieras en mi opinión, pero lo
+segundo más importante es probablemente
+la energía.
+Y
+Mis famosas últimas palabras en este
+podcast, porque ya he dicho exactamente
+lo mismo tres o cuatro veces este año,
+son que parece que lo peor ha quedado
+atrás en relación con los precios de la
+energía, la guerra en Irán y todo eso.
+Tú y yo charlamos a principios de esta
+semana sobre la posibilidad de que Trump
+pase los dos últimos años de su
+presidencia intentando resolver estos
+asuntos por una cuestión de legado.
+Sí. ¿
+Todavía quiere el Premio Nobel de la Paz
+?
+Sí.
+Realmente lo quiere.
+Puedo decirte, tras hablar con mis
+amigos noruegos, que están bastante
+molestos con estas llamadas telefónicas
+después de enterarse.
+Dicho esto, Raúl,
+hay cierto impulso, en mi opinión, en
+relación con el conflicto entre Ucrania
+y Rusia.
+Sí, lo vimos hoy, ¿verdad? Lo de Kushner
+, el intercambio de prisioneros y cosas
+así, es positivo.
+Sí, y si Putin quiere aprovechar este
+momento, tiene que hacerlo antes de que
+haya un nuevo presidente en la Casa
+Blanca, ¿no?
+Lo que me cuesta entender es cómo
+responderán los europeos a esto, porque
+en muchos sentidos se les ha dejado
+fuera de la conversación. Parece que
+Rusia y Estados Unidos están intentando
+redefinir cómo ven a Europa entre ellos
+, lo cual es obviamente algo extraño de
+experimentar como europeo al no estar
+presente, pero
+justo esta mañana vi al presidente
+ucraniano Zelenski aquí en Copenhague.
+Visitó a nuestro primer ministro y dio
+un discurso en el parlamento.
+Y Dinamarca es, por mucho, y repito, por
+mucho, el país que más apoyo brinda a
+Ucrania per cápita y como porcentaje del
+PIB.
+Pero muchos países de Europa básicamente
+ya no apoyan a Ucrania económicamente.
+Así que creo que varios de estos países
+, sin haberlo declarado explícitamente
+hasta ahora, simpatizan con lo que está
+ocurriendo entre Trump y Putin.
+Y esa es mi visión cínica de lo que está
+sucediendo. Creo que hay una fatiga que
+se hace cada vez más presente también
+dentro de la Unión Europea sobre este
+tema.
+Y si pueden resolver la guerra de
+Ucrania, también pueden resolver la
+guerra en Irán. Creo que la guerra de
+Ucrania es la más difícil de las dos.
+Y todavía me parece probable que los
+republicanos hayan concluido básicamente
+que perdieron las elecciones de medio
+término debido a esas guerras.
+Así que necesitan deshacerse de eso si
+quieren un asiento en la mesa después
+del 28.
+Y la gente realmente no entiende lo que
+hizo Estados Unidos con Venezuela.
+Ese petróleo venezolano llegará al
+mercado, se construirán refinerías para
+él y todo lo demás.
+Y si logran resolver ambas situaciones,
+el precio del petróleo se desploma y se
+mantiene bajo por un periodo prolongado
+.
+Digo, ¿qué harán Rusia e Irán si
+obtienen acceso abierto al mercado para
+vender petróleo?
+Venderán todo lo que puedan para
+recuperar los flujos de ingresos que les
+han faltado.
+Y los saudíes lo saben. Todos ellos lo
+saben.
+Eh, simplemente sucederá. Y eso
+significa que el petróleo volverá a los
+30 o 40 dólares, lo cual es una gran
+diferencia. Pero tenemos que llegar al
+otro lado porque he pensado como tú, he
+estado pensando que esto se va a
+resolver. A todos les interesa
+resolverlo, pero aún no ha sucedido.
+El petróleo parece estar operando mejor
+, pero el maldito dólar todavía no.
+Probablemente, al igual que muchos de
+los productos petrolíferos, no esté
+realmente operando mejor aún. O sea, el
+diésel sigue increíblemente elevado, ¿
+verdad? Debido a la falta de capacidad
+de refinación.
+Y eso, por supuesto, es un problema para
+la eurozona, Japón y algunos de los
+importadores, ¿cierto?
+Así que creo que necesitamos una
+solución adecuada para la guerra de Irán
+y para los ataques a la capacidad de
+refinación en Rusia y todo eso, para
+llevar al mercado energético a un punto
+donde el euro pueda apreciarse frente al
+dólar nuevamente.
+Eh, pero creo que estamos llegando ahí.
+Y sabes, admito que tengo una posición
+corta en dólares en mi cartera ahora
+mismo, una inclinación leve, no muy
+grande, pero no creo que la relación
+riesgo-recompensa sea muy buena para
+perseguir al dólar al alza aquí.
+Sí, pero todos tenemos una posición
+corta en dólares por la naturaleza de
+nuestras apuestas, porque si la tasa de
+cambio del dólar sube mucho desde aquí,
+entonces eso significa la liquidación de
+la liquidez y, por tanto, la liquidación
+de todas las operaciones beta.
+Creo que si miras hacia el 2027,
+si estas guerras no se resuelven,
+entonces creo que hay un riesgo claro de
+que los bancos centrales suban las tasas
+de interés hasta un punto que acabe con
+el ciclo económico debido a las
+condiciones financieras. Creo que ese
+riesgo es evidente.
+Eh, también dado que este shock de
+oferta ha hecho que algunos de los
+miembros clave del Comité de la Reserva
+Federal hablen de 50 puntos básicos a la
+vez y todo eso. ¿
+Era eso de lo que hablaba Waller?
+Lo, lo, lo extraño, Roul, es que sabes,
+esencialmente, al no ofrecer una guía
+prospectiva, Kevin Warsh ahora le ha
+entregado las llaves de la Reserva
+Federal a algunos de sus lugartenientes
+, porque ellos siguen dando esa guía, y
+Waller dijo 50 puntos básicos, y el
+mercado simplemente lo persiguió, a
+pesar de que no tenemos ni idea de si
+los otros miembros lo apoyan o si Kevin
+Warsh lo respalda.
+Pero creo que es una idea tan mala que
+el presidente no proporcione una guía
+prospectiva cuando todos sus
+lugartenientes andan por ahí dándola
+continuamente, ¿o no es así?
+O no decir nada y dejar que el mercado
+decida, pero no puedes tener una cosa
+sin la otra.
+Porque Warsh quiere que el mercado
+decida, lo cual, sinceramente, me genera
+simpatía por la dirección a la que
+intenta llevar a la Fed, pero entonces
+también necesita silenciar a sus
+lugartenientes. Diles que se callen. Es
+así de simple.
+Si Waller sigue declarando que, bueno,
+estamos considerando 50 puntos básicos,
+entonces no tiene sentido que Warsh no
+dé una guía prospectiva, porque él la
+está dando por él.
+Pero, ¿cómo pueden subir las tasas?
+Simplemente no lo entiendo.
+Ya estamos hablando de que las
+condiciones financieras se han
+endurecido porque las tasas han subido,
+el dólar ha subido y el petróleo estaba
+alto.
+Entonces, ¿de qué sirve subir las tasas
+?¿Detiene el auge de los gastos de
+capital? No, porque a los
+hiperescaladores realmente no les
+importa y ya han asegurado gran parte de
+su financiamiento a diez años o más.
+Um, a quien realmente perjudica en el
+extremo corto es al gobierno de EE. UU.
+, porque son el mayor emisor en ese
+tramo, y si las tasas suben, toda su
+curva de pago de intereses aumenta aún
+más.
+Creo que si observas, si observas el
+ciclo de construcción, por ejemplo, en
+los EE. UU. , un buen indicador del
+ciclo económico tradicional, fuera de
+los centros de datos y la expansión de
+la red, el ciclo económico va muy mal.
+Sí, tenemos una economía en forma de K y
+la Fed no quiere reconocerlo, porque ven
+lo brillante de las máquinas generadoras
+de ingresos más grandes de la historia
+gastando mucho dinero en cosas para
+generar más ingresos, y no ven el hecho
+de que la calle principal está muy
+jodida ahora mismo.
+Sabes, todo el espacio de oficinas
+comerciales, la industria de la
+construcción, los mercados hipotecarios
+, todo eso es un desastre.
+Y especialmente dada esa forma de K, no
+entiendo por qué negociamos Walmart a
+más de 44 veces sus ganancias, mientras
+que la parte de la economía que
+realmente puede lidiar con las tasas de
+interés altas está, no sé, a cuatro o
+cinco veces sus ganancias futuras.
+Eso me parece extraño porque, ya sabes,
+el consumo tradicional sufrirá.
+sufrirá.
+Bueno, ¿Walmart realmente se ve afectado
+si son como el Microsoft Windows de las
+cosas, verdad?
+Es como si todos los demás fueran a
+desaparecer y Walmart y Amazon fueran a
+sobrevivir.
+Sí.
+Ese es un punto válido, quiero decir.
+Porque ellos acaparan casi todo al poder
+ser los productores de menor costo de
+todo, Costco también.
+El argumento en contra interesante sobre
+ese comercio de Walmart, ¿verdad?
+Algunas personas, porque los productos
+de consumo básico se han negociado
+increíblemente bien durante este ciclo
+de IA, lo cual es una anomalía.
+Bueno, los bienes de consumo
+discrecional han sido aniquilados.
+Sí, pero míralo de esta manera.
+Aún no me he decidido sobre esa tesis,
+pero Walmart ha tenido una colaboración
+fantástica con uno de los
+ya sabes, fabricantes de robótica para
+almacenes y han logrado ganancias
+increíbles usando robótica en sus
+almacenes en los últimos dos o tres años
+.
+Y dado que Walmart es un negocio de bajo
+margen para empezar, tal vez sea el tipo
+exacto de negocio que verá, desde el
+punto de vista porcentual, el mayor
+aumento en los márgenes si la robótica,
+ya sabes, funciona.
+Así que podemos probar esto porque
+Amazon lo hizo. Para 2019 estaban
+invirtiendo muchísimo dinero en robótica
+y gastos de capital.
+Y por el otro lado, dejaron de contratar
+gente. Dejaron de contratar gente
+alrededor de 2019.
+Y realmente no han vuelto a contratar.
+Sin embargo, su número de robots
+superará al número de humanos para el
+próximo año.
+Y su productividad ha aumentado.
+Así que sus ganancias por empleado han
+subido masivamente. Sus márgenes han
+aumentado.
+Así que Amazon es como un experimento
+gigante de la economía estadounidense a
+medida que implementa IA y robótica, y
+lo están demostrando, y Walmart lo está
+demostrando o lo demostrará.
+Y todos seguirán el ejemplo al final
+porque tendrán que hacerlo, porque si no
+, te vas del negocio.
+Así que esa forma de K también va a
+continuar. Es como quién demonios se va
+a mantener en el negocio y quién va a
+quebrar.
+Es realmente increíble. Y es por eso que
+, ya sabes, tuve una discusión con el
+gerente de cartera hoy temprano en una
+llamada.
+¿Qué sectores podemos realmente valorar
+con una visibilidad decente en los
+próximos cinco a diez años?
+Yo diría que Amazon puede ser valorada
+con una visibilidad decente.
+Walmart tal vez lo mismo. Al menos están
+haciendo algunas de las cosas correctas
+. Tal vez lo están haciendo demasiado
+lento, pero están haciendo algunas de
+las cosas correctas.
+Bloomberg, ¿podemos valorar eso con una
+visibilidad decente? No lo creo, porque
+necesitan tomar algunas decisiones
+increíblemente audaces para mantenerse
+vivos en mi opinión.
+He dicho lo mismo a todos mis gerentes
+de cuenta de software financiero. Lo he
+dicho durante tres años seguidos. Si no
+toman las decisiones estratégicas
+correctas, dejaré de ser cliente en
+cinco años. Estoy seguro de ello.
+Sí, bueno, tuve esta conversación con
+Bloomberg y me mandaron al [ __ ], y les
+dije lo mismo, ya sabes. He sido cliente
+de Bloomberg desde 1992.
+Mhm.
+Y he...simplemente cancelé. Dije: no,
+simplemente ya no voy a hacer esto. No
+tiene sentido. Y no pueden cobrarme 30
+000 dólares al año alegando que tienen
+un monopolio cuando, básicamente, no los
+necesito.
+Y míralo de esta manera, Raoul. Gasto
+sustancialmente menos en Claude que en
+Bloomberg.
+Aunque mi flujo de trabajo está en
+Claude ahora y probablemente creo el 90
+%de mis gráficos dentro del ecosistema
+de Claude, ocasionalmente con datos de
+Bloomberg, ocasionalmente.
+Cuando miras bonos lituanos de 1962
+fuera de circulación, quizás.
+Sí.
+Suficiente sobre mi cartera, Raoul, pero
+quizás el único foso que queda, ya sabes
+, hablando de esta falta de atención
+humana, como lo llamaste al principio de
+este programa, el único foso que queda
+es que muchos de mis contactos ya no
+responden correos electrónicos si
+intentas escribirles, "Oye, tu
+suscripción está lista para la
+renovación anual", eso no lo detecta su
+escáner de Claude o lo que sea que
+tengan implementado, ¿verdad?
+Así que cuando les escribes por
+Bloomberg, realmente puedes ponerte en
+contacto con la gente. Eso sigue siendo
+muy valioso para mí, pero es más o menos
+la única razón por la que tengo la
+suscripción. Es la única razón. Y pago
+30 000 dólares al año por eso.
+Y lo admito porque, ya sabes, sigue
+siendo un negocio de personas vender
+suscripciones a muchos individuos dentro
+de la industria de gestión de fondos,
+etc. Pero creo que quizás en 5 a 10 años
+, quién se preocupará por el chat de
+Bloomberg, porque todos ya están
+conectados a través del MCP que he
+construido dentro del ecosistema de
+Claude y todo eso. Pero
+Pero incluso he notado una
+desaceleración en el tráfico de correos
+electrónicos de, ya sabes, los
+suscriptores de GMI.
+Y no es porque estén menos comprometidos
+, es porque la gente está abrumada y
+simplemente...la gente ha dejado de
+hacerlo.
+WhatsApp parece ser la forma más
+efectiva de hablar con todos ahora para
+mí.
+Es, ya sabes, porque nada más...la gente
+ha dejado de usar el correo electrónico
+.
+Pero todavía estoy tratando de averiguar
+si esto es un paraíso para mí, porque
+todos se están convirtiendo en el mismo
+tipo de persona que yo he sido toda mi
+vida.
+Sabes, siempre me ha faltado la
+capacidad de atención para leer cosas de
+mis colegas por correo electrónico y eso
+. Nunca he respondido a los correos y
+nunca he sido así, ¿verdad? Yo, yo, solo
+respondo a las cosas de las que recibo
+notificaciones en mi teléfono, ¿sabes? Y
+ahora todo el mundo es así.
+Y es, es algo con lo que necesito
+aprender a lidiar, porque normalmente
+trataba con gente que realmente leía lo
+que les decía.
+Y ya no hacen eso.
+No. Y es algo extraño porque, sabes, ¿
+cuánta de tu propia investigación que
+escribes se sientan realmente a leer,
+frente a ponerla en su plataforma y
+decir: "solo toma en cuenta cómo piensa
+Andreas sobre esto"?
+¿Cambia esto mis posturas?
+Es, es algo raro.
+Uno de nuestros miembros en Real Vision
+, Raul, me envió una captura de pantalla
+de un agente que configuró para que solo
+le diera el resumen de las cosas que
+pongo en mayúsculas y los trabajos de
+investigación, ¿verdad?
+Y era bastante bueno, porque siempre lo
+pongo en mayúsculas cuando realmente
+quiero decir algo.
+Sí, yo solo pongo lo mío en negrita.
+Simplemente hay un texto en negrita y no
+necesitas leer el resto. Solo lee eso en
+los títulos y está bien.
+Exacto. Pero no sé cómo lidia el mundo
+con esto, sé que hay algo más grande
+aquí y todavía estoy tratando de
+pensarlo. La escasez de atención humana
+, la hemos saturado.
+Mhm.
+Puedo verlo en X. Puedo verlo en todas
+partes. Puedo verlo en los negocios.
+Hemos saturado la atención humana.
+Y no sé cómo cambia eso las cosas ni a
+quién cambia y para qué.
+Pero creo que terminaremos con menos
+plataformas y más superplataformas.
+Sí.
+Eh, sabes, ya es bastante difícil
+cambiar entre, ya sabes, X y luego tu
+WhatsApp y luego tu correo y luego Real
+Vision y luego algo en YouTube y luego
+lo que sea, todas estas cosas, es
+demasiado difícil.
+Hay demasiado cambio de contexto entre
+diferentes plataformas y cosas, cuando
+parece que mucho de esto se servirá en
+un solo lugar de una manera digerible.
+Pero es raro porque hay IA escribiendo
+artículos para IAs que están digiriendo
+artículos.
+Pero yo
+Y comprimiéndolo para los humanos porque
+somos demasiado estúpidos para poder
+procesar esta cantidad de información.
+Pero desde un punto de vista empresarial
+, bueno, participo en muchas inversiones
+ángel en software en el norte de Europa
+, y en muchos de los casos en los que he
+invertido ya tienen clientes, y dada la
+velocidad de su codificación actual,
+básicamente pueden cumplir todas las
+promesas a todos los clientes al mismo
+tiempo en, ya sabes, 45 minutos.
+Simplemente piden a sus gestores de
+cuentas que se sienten allí, graben la
+conversación con el cliente y luego se
+codifica básicamente de forma automática
+dentro del ecosistema de software en
+cuestión de días como máximo, ¿verdad?
+Creo que eso hará que su ventaja
+competitiva sea aún más fuerte en
+comparación con los dos chicos en un
+sótano intentando crear un nuevo
+producto de software, porque lo que esos
+dos chicos en el sótano no pueden hacer
+ahora en comparación con antes es
+construir algo que lleve mucho tiempo
+replicar.
+Sí, pero a esos chicos en los que
+inviertes les iría mejor si permitieran
+que también se conecte a Claude.
+Claro.
+Así la gente tendría un sistema
+operativo único y se convertiría en una
+de sus herramientas que Claude usa, como
+, ya sabes, mi TradingView. Sí, uso la
+plataforma, pero también tengo la
+alimentación de datos conectada a mi
+Claude. Tengo el conector MCP y obtengo
+mis cosas de TradingView allí, y puedo
+analizar gráficos y volver y decir: "
+Oye, ¿qué opinas del gráfico del dólar?
+". Y Claude me dará, ya sabes, un
+vistazo y dirá: "Sí, te gustan los
+marcos alemanes y esto es donde creo que
+están los marcos", todo eso sin tener
+que abrir mi TradingView. Creo que hacia
+allá es hacia donde se dirige todo.
+Sí.
+Porque la capa de inteligencia es
+demasiado importante.
+Pero, sí, el...sí, yo, yo no lo sé.
+Todavía no lo he descifrado del todo,
+pero hay algo en esta escasez de
+atención humana que hace que todo deba
+comprimirse ahora para nosotros, porque
+la realidad es que la inteligencia
+funcionó basada en carbono durante toda
+nuestra existencia al comprender
+cualquier cosa. Ya sabes, el planeta,
+todo funcionaba y funciona con
+inteligencia de carbono. Básicamente
+pasas energía a través del carbono y
+obtienes inteligencia. Y simplemente
+cambiamos el sustrato al silicio.
+Y así, ahora pasamos electricidad a
+través de arena y generamos
+superinteligencia, y es un millón de
+veces más rápida.
+No podemos lidiar con eso.
+Por eso hay un millón de veces más
+producción de artículos de lo que
+podemos procesar.
+Y lo único que puede lidiar con eso es
+la IA misma, porque es un millón de
+veces más rápida.
+Y esa es la razón por la que he lanzado
+una gira de stand-up en vivo en
+Dinamarca, porque no sé qué más hacer,
+así que esto tiene todo el sentido del
+mundo.
+Y la gente quiere que estemos charlando
+frente a la cámara porque eso comprime
+la información.
+Todos los escritos, todo el material, se
+reduce a la conversación de una forma
+digerible que hace que la gente piense:
+vale, siento que estoy al tanto de todo
+eso ahora.
+Sí.
+Así que no desaparece.
+¿Hay algo más que estés observando o eso
+es prácticamente todo el mundo? Quiero
+decir, estas son las cosas más
+importantes. No se me ocurre nada más
+que realmente importe.
+Bueno, lo único que me ha sorprendido un
+poco durante estos meses de dólar fuerte
+es, de hecho, cómo las criptomonedas han
+superado a muchos otros activos en esta
+carrera.
+Probablemente no habría tenido eso en mi
+quiniela.
+No, miré la relación entre el NASDAQ y
+Bitcoin. Estaba dos desviaciones
+estándar sobrevendido en su tendencia
+logarítmica. Así que estaba muy
+sobrevendido, pero sí, le ha ido
+bastante bien. Parecía que hubo una
+rotación y, aunque todavía no puede, ya
+sabes, no puede ganar tracción porque
+todavía no hay suficiente liquidez.
+Pero creo que tan pronto como la
+liquidez regrese, tan pronto como vuelva
+, entonces, ya sabes, tiene que ponerse
+al día.
+Me cuesta aceptar la idea de que es o
+cripto o IA.
+Sí.
+Y quiero decir que esos dos temas van de
+la mano por una serie de razones obvias
+, pero parece que esa narrativa existe
+porque la gente no tiene suficiente
+liquidez para invertir en ambos temas al
+mismo tiempo por ahora.
+Y puedes verlo en las ganancias de Robin
+Hood, puedes ver a Coinbase e incluso a
+Robin Hood, la gente realmente no tiene
+suficiente dinero para invertir.
+Hm.
+Entonces, ya sabes, hay una limitación
+de capacidad en los hogares, no tienen
+mucho dinero porque los ingresos
+realmente no han estado subiendo.
+Los costos de las hipotecas son altos,
+los alquileres son altos, los costos de
+los alimentos son altos, y eso no se
+está resolviendo. Entonces, ya sabes, la
+única forma de evitar eso es mediante la
+liquidez, los préstamos y todo eso, y
+eso realmente no está sucediendo porque
+la curva de rendimiento es demasiado
+plana.
+Hm.
+Todo vuelve a lo mismo. Al final,
+siempre es la liquidez.
+Sí.
+Y um, Claude es el nuevo Windows. Quería
+decir eso como una frase antes de
+terminar aquí. Y no sé si OpenAI es el
+Mac del espacio de escritorio, ¿quién
+sabe?¿O será Gemini? Sí.
+Sí, pensé que era algo así como el Mac,
+pero ya veremos.
+Es un mundo completamente nuevo. Escucha
+, amigo, una conversación fantástica.
+Esperamos haber aportado algo de valor y
+no haber confundido a nadie. Pero ambos
+pensamos que el mercado, a menos que
+cambie algo drásticamente con la
+liquidez, está valorando todo esto de
+forma errónea.
+Sí. De acuerdo.
+Muy bien. Hasta la próxima, amigo.
+Cuídate.
+Este episodio es presentado por Pith.
+Pith Network es la empresa de datos
+financieros de más rápido crecimiento en
+la actualidad. Con la confianza de
+Fidelity Investments, el Departamento de
+Comercio de EE. UU. , Revolut, Calsi,
+Jane Street, Coinbase y muchos más.
+Proporcionan datos de mercado financiero
+en tiempo real de más de 3,000 acciones
+, materias primas, criptomonedas, tipos
+de cambio y, de nuevo, mucho más. Son el
+primer y mayor proveedor de índices
+financieros 24/7 y ofrecen la gama más
+amplia de datos de mercado al menor
+costo. Así que dirígete a pyth.network
+para aprovechar su prueba gratuita.
+Obviamente, este video te gustó lo
+suficiente como para llegar al final.
+Eso es una gran hazaña. Pero escucha,
+hazme un favor, presiona el botón de me
+gusta y suscríbete, y también mira cuál
+es el siguiente video porque creo que te
+encantará.
+Pero si quieres aún más, y cuando digo
+más, me refiero a ideas generadas por
+miembros, alfa increíble, investigación
+, todo lo necesario para ayudarte en tu
+camino, simplemente dirígete a
+realvision.com/join para obtener la
+mejor inteligencia financiera y el alfa
+puro que se encuentra dentro de la
+plataforma.
