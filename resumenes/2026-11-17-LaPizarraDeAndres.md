@@ -42,3 +42,5 @@
 **Nota cruzada:** sigue a [[2026-11-13-LaPizarraDeAndres]], donde veía el castigo a Nvidia "demasiado severo" por múltiplos. Hoy mantiene esa lectura, pero lo plantea como una desconfianza del mercado hacia toda la IA, no solo hacia Nvidia.
 
 **Contraste con otros canales:** el mismo día, Pablo Gil ([[2026-11-18-PabloGilTrader]]) sitúa el soporte clave de Nvidia en ~155 y, si se pierde, no descarta 80-90. Peter Schiff ([[2026-11-18-PeterSchiff]]) da caídas similares en los índices (Nasdaq -12,25%, S&P -6,4%).
+
+**Nota cruzada (posterior):** en [[2026-11-18-LaPizarraDeAndres]] analiza en directo los resultados de Nvidia: los ve "probablemente los mejores de la historia" de una empresa, le extraña que la acción no suba y "no descarta comprar algo".

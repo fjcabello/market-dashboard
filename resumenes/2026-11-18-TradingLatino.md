@@ -47,3 +47,5 @@
 **Nota cruzada:** el 13 de noviembre ([[2026-11-14-TradingLatino-FzZxl2uGPVU]]) su cifra de recompra de Bitcoin en *spot* salía cortada ("$5,000"). Hoy habla de "zonas de 45.000", lo que podría ser la misma cifra, aunque no lo confirma. El clip del mismo día [[2026-11-18-TradingLatino-jYOojgncxMQ]] pertenece a aquel directo del 13 de noviembre, no a este.
 
 **Contraste con otros canales:** Peter Schiff ([[2026-11-18-PeterSchiff]]) ve un hombro-cabeza-hombro en Bitcoin con la línea de cuello en 50.000 y un posible desplome a 20.000-40.000, y en cambio pide comprar oro y plata ya (la plata, a ~47). José Luis Cava ([[2026-11-18-JoseLuisCava]]) no compraría Nvidia salvo para un rebote con techo en 170.
+
+**Nota cruzada (posterior 3):** los clips [[2026-11-19-TradingLatino-xxUExrynAvU]] (rebotes por debajo de la media de 55) y [[2026-11-19-TradingLatino-k76ThE_1p40]] (el "diablito" que querría un desplome) salen de este directo. En el directo siguiente ([[2026-11-19-TradingLatino]], 18 de noviembre, Bitcoin en ~62.500) mantiene las mismas posiciones, y sitúa sus ventas de Bitcoin por encima de 120.000 y sus recompras en 90.000 y 68.000.

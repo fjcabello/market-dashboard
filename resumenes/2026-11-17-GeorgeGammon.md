@@ -29,3 +29,5 @@
 **Tono:** alarmista sobre la estabilidad de la infraestructura digital de EE. UU. Sin tesis de mercado.
 
 **Contraste con otros canales:** el 13 de noviembre, Jaime Merino ([[2026-11-14-TradingLatino-FzZxl2uGPVU]]) ya preguntaba al chat si "todos los aeropuertos están inoperables" y especulaba con "algún hackeo".
+
+**Nota cruzada (posterior):** al día siguiente, en [[2026-11-18-GeorgeGammon]], vuelve al análisis de mercado: la caída de Nvidia tras batir previsiones y el S&P por debajo de la media de 200 sesiones como posible "principio del fin". Jaime Merino ([[2026-11-19-TradingLatino]]) se burla de los avisos de apagón y de "preparar una mochila" como "negocio del miedo".

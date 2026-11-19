@@ -37,3 +37,5 @@
 **Contraste con otros canales:** sobre el motivo de la dimisión, Pablo Gil ([[2026-11-13-PabloGilTrader]]) añade que una de las relaciones fue con una empresaria ligada a una empresa investigada por desviar chips a China, algo que Andrés no menciona. Sobre el precio, Pablo Gil cita un cierre del −4,34%, cuando Andrés grabó con caídas del 7-9%. George Gammon ([[2026-11-13-GeorgeGammon]]) lo ve desde otro ángulo: no le preocupa la valoración, sino el papel de Nvidia como "banco en la sombra" del sector.
 
 **Nota cruzada (posterior):** en [[2026-11-17-LaPizarraDeAndres]], con Nvidia en 156 (-35% desde máximos), mantiene que es barata por múltiplos, pero lo plantea como una desconfianza del mercado hacia toda la IA (Sandisk, a PER *forward* ~3).
+
+**Nota cruzada (posterior 2):** en [[2026-11-18-LaPizarraDeAndres]], tras los resultados de Nvidia, mantiene la lectura de que es barata (PER *forward* ~10), pero ya "no descarta comprar algo", frente al "Yo no voy a comprarla" de este vídeo.
