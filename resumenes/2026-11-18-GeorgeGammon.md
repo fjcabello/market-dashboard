@@ -39,3 +39,5 @@
 **Nota cruzada:** vuelve al mercado tras [[2026-11-17-GeorgeGammon]], que no tenía tesis de mercado. En [[2026-11-16-GeorgeGammon]] ya planteaba que Nvidia dejaba de ser "el banco central de la burbuja de la IA" y la posibilidad de una subida de 50 pb de la Fed.
 
 **Contraste con otros canales:** Andrés ([[2026-11-18-LaPizarraDeAndres]]) analiza los mismos resultados en tiempo real y saca la conclusión contraria: le parece "bastante extraño" que no suba y ve la acción "objetivamente barata". Pablo Gil ([[2026-11-18-PabloGilTrader]]) vigilaba el soporte del S&P en **7.230-7.320**, y el cierre del 19 de noviembre (7.229) queda justo en el borde inferior. Raoul Pal ([[2026-11-19-RaoulPal]]) también ve la curva "demasiado plana", pero lo atribuye a la falta de liquidez y cree que el mercado valora mal la IA.
+
+**Nota cruzada (posterior):** al día siguiente, en [[2026-11-19-GeorgeGammon]], analiza la OPI de Anthropic (salida a 83, máximo de 111 y después a la baja) con el Nasdaq a -2% y el Dow a -1.000 puntos, y lo lee como posible estallido de la burbuja "en tiempo real".

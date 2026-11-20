@@ -56,3 +56,5 @@
 **Contraste con datos:** `fred_data.csv` da el oro en **3.864,2** el 17 de noviembre y en **3.741,6** el 18, y Bitcoin en **64.894** y **63.087**, en línea con lo que dice. El S&P 500 figura en **7.340,5** el 17.
 
 **Contraste con otros canales:** Andrés ([[2026-11-17-LaPizarraDeAndres]]) coincide en que el oro "no está sirviendo de refugio", pero lo atribuye al rally previo y a las subidas de tipos, sin hablar de crisis de liquidez. Jaime Merino ([[2026-11-18-TradingLatino]]) espera un rebote del oro y después una caída por debajo de 3.500, y empezaría a comprar plata en 40. José Luis Cava ([[2026-11-18-JoseLuisCava]]) también espera una crisis seguida de inyecciones de liquidez, pero antes ve un rebote estacional.
+
+**Nota cruzada (posterior):** el clip [[2026-11-20-PeterSchiff]] recoge frases de este episodio ("una burbuja en todo", deuda de casi 41 billones, el tren al final del túnel), sin datos nuevos.

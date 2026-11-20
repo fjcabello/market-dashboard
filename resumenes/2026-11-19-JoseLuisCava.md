@@ -36,3 +36,5 @@
 **Nota cruzada:** el vídeo es anterior a [[2026-11-18-JoseLuisCava]] (encuesta de BofA y Nvidia), aunque se publica después.
 
 **Contraste con otros canales:** Jaime Merino ([[2026-11-19-TradingLatino]]) ve el oro (3.707) "con todo para seguir cayendo" en semanal, duplicaría su largo en futuros en ~3.500 y dice que para el particular "no es un refugio". George Gammon ([[2026-11-18-GeorgeGammon]]) está corto en el GLD mientras siga por debajo de la media de 200 sesiones. Peter Schiff ([[2026-11-18-PeterSchiff]]) pedía comprar oro ya, en ~3.850. Raoul Pal y su invitado ([[2026-11-19-RaoulPal]]) también explican las caídas por la liquidez, pero no hablan del oro.
+
+**Nota cruzada (posterior):** en [[2026-11-20-JoseLuisCava]] dice que ya está "comprando cada 100 $ que cae" en el oro como inversión estratégica, sin esperar a la figura de agotamiento que pedía aquí, y sitúa en el primer trimestre de 2027 una inyección de liquidez de ~6,6 billones entre EE. UU. y China.
