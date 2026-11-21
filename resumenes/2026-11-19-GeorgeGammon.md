@@ -45,3 +45,5 @@
 **Nota cruzada:** continúa directamente [[2026-11-18-GeorgeGammon]] ("hablamos de esto ayer"), en el que el S&P perdía la media de 200 y Gammon señalaba a Anthropic como lo siguiente que vigilar.
 
 **Contraste con otros canales:** Pablo Gil ([[2026-11-18-PabloGilTrader]]) situaba el soporte crítico del S&P en **7.230-7.320**, que el cierre del 19 ya pierde. Jaime Merino ([[2026-11-20-TradingLatino]]) también atribuye la caída general a que el dinero va a Anthropic ("tremendo *pump*"), pero cree que la burbuja de la IA "no ha explotado aún". José Luis Cava ([[2026-11-20-JoseLuisCava]]) tampoco ve todavía capitulación (el VIX no ha superado 36-40), pero espera solo un rebote a corto plazo y, después, una inyección masiva de liquidez.
+
+**Nota cruzada (posterior):** en [[2026-11-20-GeorgeGammon]], el día siguiente, Gammon da por confirmada la lectura bajista. Anthropic cae un 10-12%, Nvidia un ~12% y el Nasdaq un 4,21%, y advierte de un posible lunes negro.

@@ -50,3 +50,5 @@
 **Nota cruzada:** sigue a [[2026-11-19-TradingLatino]] (directo del 18, Bitcoin en ~62.500), donde decía que duplicaría el oro en 3.500 y Nvidia en 130. Hoy cumple lo del oro un poco antes de llegar a 3.500. Los clips del mismo día [[2026-11-20-TradingLatino-9bhiv61ZxFE]] (Coinbase) y [[2026-11-20-TradingLatino-Lm0SvWZANvQ]] (XRP y cortos en Bitcoin) salen de aquel directo del 18, no de este.
 
 **Contraste con otros canales:** George Gammon ([[2026-11-19-GeorgeGammon]]) ve en el mismo día de la OPI de Anthropic una posible explosión de la burbuja en tiempo real; Merino cree que solo es un retroceso. José Luis Cava ([[2026-11-20-JoseLuisCava]]) también compra la caída del oro, pero con una tesis de liquidez, no técnica.
+
+**Nota cruzada (posterior):** el clip [[2026-11-21-TradingLatino]] recoge el pasaje de este directo sobre BNB (350 si Bitcoin cae a 40.000), sin datos nuevos.

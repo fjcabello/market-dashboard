@@ -55,3 +55,5 @@
 **Contraste con otros canales:** José Luis Cava ([[2026-11-18-JoseLuisCava]]) espera un rebote de Nvidia con techo en 170 antes de nuevas caídas. Jaime Merino ([[2026-11-18-TradingLatino]]) ve Nvidia como compra en acciones y solo ampliaría por debajo de 130. Peter Schiff ([[2026-11-18-PeterSchiff]]) da caídas parecidas en los índices (Russell -12%, QQQ -14%) y dice que Nvidia batió previsiones.
 
 **Nota cruzada (posterior):** los clips [[2026-11-19-PabloGilTrader]] y [[2026-11-19-PabloGilTrader-AjjEl6ZRYUM]] vuelven a la derrota de Trump: más supervisión, centros de datos más lentos y una demanda de chips que "probablemente también hay que ajustar a la baja".
+
+**Nota cruzada (posterior):** el clip [[2026-11-20-PabloGilTrader]] recoge el pasaje de este vídeo sobre la dimisión de Jensen Huang, sin datos nuevos.
