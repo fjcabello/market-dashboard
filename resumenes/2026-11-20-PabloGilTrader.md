@@ -5,3 +5,5 @@
 **Activos mencionados:** Nvidia, sin niveles en el clip.
 
 **Tono:** prudente o bajista con Nvidia por el riesgo de liderazgo.
+
+**Nota cruzada (posterior):** el clip [[2026-11-21-PabloGilTrader]], sacado del mismo vídeo, añade la conclusión: Nvidia como "catalizador negativo" y la duda de "hasta qué punto es sustituible" Jensen Huang.

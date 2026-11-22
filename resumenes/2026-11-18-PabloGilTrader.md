@@ -57,3 +57,5 @@
 **Nota cruzada (posterior):** los clips [[2026-11-19-PabloGilTrader]] y [[2026-11-19-PabloGilTrader-AjjEl6ZRYUM]] vuelven a la derrota de Trump: más supervisión, centros de datos más lentos y una demanda de chips que "probablemente también hay que ajustar a la baja".
 
 **Nota cruzada (posterior):** el clip [[2026-11-20-PabloGilTrader]] recoge el pasaje de este vídeo sobre la dimisión de Jensen Huang, sin datos nuevos.
+
+**Nota cruzada (posterior):** el clip [[2026-11-21-PabloGilTrader]] recoge la conclusión de este vídeo sobre Nvidia como "catalizador negativo", publicada ya después de los resultados y sin datos nuevos.
