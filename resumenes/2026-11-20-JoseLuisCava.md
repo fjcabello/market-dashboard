@@ -47,3 +47,5 @@
 **Nota cruzada:** en [[2026-11-19-JoseLuisCava]] (grabado el 12 de noviembre) buscaba compras de oro en **3.440-3.819**, pero esperaba a ver "figura de agotamiento". Hoy dice que ya compra cada 100 $ de caída sin esperar a esa señal. El "hemos cambiado de opinión" con que presenta el bloque del oro no se desarrolla en el transcript.
 
 **Contraste con otros canales:** George Gammon ([[2026-11-19-GeorgeGammon]]) también ve el oro cayendo "como una acción meme" por desapalancamiento y apunta el siguiente soporte en ~3.500, aunque la víspera estaba corto en GLD. Jaime Merino ([[2026-11-20-TradingLatino]]) duplica su largo en oro en ~3.525, pero cree que "vamos a romper 3.500 y para abajo".
+
+**Nota cruzada (posterior):** en [[2026-11-23-JoseLuisCava]], el lunes siguiente, se produce el rebote que esperaba. Cava lo califica de "capitulación provisional" por cierre de cortos y sitúa el suelo verdadero en una segunda caída.

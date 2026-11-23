@@ -34,3 +34,5 @@
 **Nota cruzada:** **cambio a señalar:** en [[2026-11-13-LaPizarraDeAndres]], con Nvidia en ~158 y la misma lectura de múltiplos (PER *forward* ~10), decía "Yo no voy a comprarla". Hoy "no descarta comprar algo". En [[2026-11-17-LaPizarraDeAndres]] ya planteaba la caída como desconfianza del mercado hacia toda la IA.
 
 **Contraste con otros canales:** George Gammon ([[2026-11-18-GeorgeGammon]]) ve justo lo contrario en la misma reacción: que la acción no suba con resultados espectaculares es "muy, muy bajista". José Luis Cava ([[2026-11-18-JoseLuisCava]]) señala como riesgo el margen bruto, que caería del 75% hacia el 70%. Raoul Pal y su invitado ([[2026-11-19-RaoulPal]]) coinciden con Andrés en que el sector de la IA cotiza a múltiplos "de negocio moribundo".
+
+**Nota cruzada (posterior):** en [[2026-11-22-LaPizarraDeAndres]], con Nvidia un 47,5% por debajo en ~20 días, Andrés da por resuelta su duda a favor de que "hay algo que no nos estaban contando" (la revisión de la SEC y el 10-Q no presentado) y plantea tres escenarios.

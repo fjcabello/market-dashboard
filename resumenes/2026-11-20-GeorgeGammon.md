@@ -60,3 +60,5 @@
 **Nota cruzada:** continúa directamente [[2026-11-19-GeorgeGammon]] ("lo que decíamos ayer"), donde presentaba la OPI de Anthropic como prueba decisiva. Hoy da por confirmada la lectura bajista.
 
 **Contraste con otros canales:** Peter Schiff ([[2026-11-18-PeterSchiff]]) da para el Dow un -7,3% desde máximos, la misma cifra que Gammon atribuye a la última semana. Schiff y Gammon coinciden en que la caída del oro es desapalancamiento, pero Schiff pide comprarlo y Gammon está corto. José Luis Cava ([[2026-11-20-JoseLuisCava]]) no ve capitulación mientras el VIX no supere 36-40 y espera un rebote por Acción de Gracias. Jaime Merino ([[2026-11-20-TradingLatino]]) cree que la burbuja de la IA "no ha explotado aún".
+
+**Nota cruzada (posterior):** el lunes siguiente no hay lunes negro. En [[2026-11-23-GeorgeGammon]] el mercado sube con fuerza (S&P +4,5%, Nasdaq +6-6,7% en sesión) tras la readmisión de Jensen Huang, que Gammon interpreta como prueba de que todo depende de "un único punto de fallo".

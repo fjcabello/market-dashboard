@@ -7,3 +7,5 @@
 **Tono:** muy bajista y alarmista con la economía estadounidense y la política de la Fed.
 
 **Nota cruzada:** encaja con el clip [[2026-11-20-PeterSchiff-xKE4HUk1LhM]], según el cual una subida de 50 pb en diciembre sería "demasiado poco y demasiado tarde" y la Fed "habla alto porque no tiene garrote". Para el episodio largo más reciente, ver [[2026-11-18-PeterSchiff]].
+
+**Nota cruzada (posterior):** el clip [[2026-11-23-PeterSchiff]] repite la idea de que "la Fed ha perdido la guerra" y de que se paga "más por el gobierno", y añade que el sistema podría implosionar antes de 2028.

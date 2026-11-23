@@ -59,3 +59,5 @@
 **Nota cruzada (posterior):** el clip [[2026-11-20-PabloGilTrader]] recoge el pasaje de este vídeo sobre la dimisión de Jensen Huang, sin datos nuevos.
 
 **Nota cruzada (posterior):** el clip [[2026-11-21-PabloGilTrader]] recoge la conclusión de este vídeo sobre Nvidia como "catalizador negativo", publicada ya después de los resultados y sin datos nuevos.
+
+**Nota cruzada (posterior):** el clip [[2026-11-22-PabloGilTrader]] recoge el cierre de este vídeo ("contarlo antes de que ocurra"), publicado cuando el S&P ya había perdido 7.230 y sin datos nuevos.
