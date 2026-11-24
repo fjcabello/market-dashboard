@@ -52,3 +52,5 @@
 **Contraste con otros canales:** George Gammon ([[2026-11-19-GeorgeGammon]]) ve en el mismo día de la OPI de Anthropic una posible explosión de la burbuja en tiempo real; Merino cree que solo es un retroceso. José Luis Cava ([[2026-11-20-JoseLuisCava]]) también compra la caída del oro, pero con una tesis de liquidez, no técnica.
 
 **Nota cruzada (posterior):** el clip [[2026-11-21-TradingLatino]] recoge el pasaje de este directo sobre BNB (350 si Bitcoin cae a 40.000), sin datos nuevos.
+
+**Nota cruzada (posterior):** en [[2026-11-24-TradingLatino]] (directo del 23) cierra los largos en futuros de oro (-2.884 $) y de Nvidia (+~4.000 $ tras el rebote) y solo mantiene el de Bitcoin, que duplicaría en 47.000-48.000.

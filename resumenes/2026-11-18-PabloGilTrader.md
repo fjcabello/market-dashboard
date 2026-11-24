@@ -61,3 +61,5 @@
 **Nota cruzada (posterior):** el clip [[2026-11-21-PabloGilTrader]] recoge la conclusión de este vídeo sobre Nvidia como "catalizador negativo", publicada ya después de los resultados y sin datos nuevos.
 
 **Nota cruzada (posterior):** el clip [[2026-11-22-PabloGilTrader]] recoge el cierre de este vídeo ("contarlo antes de que ocurra"), publicado cuando el S&P ya había perdido 7.230 y sin datos nuevos.
+
+**Nota cruzada (posterior):** dos clips publicados el 24 de noviembre parecen salir de este vídeo: [[2026-11-24-PabloGilTrader]] (S&P 500 en la zona de 7.300) y [[2026-11-24-PabloGilTrader-MaonvBlJZQ4]] (Oracle en 75-80, un 76% desde máximos).

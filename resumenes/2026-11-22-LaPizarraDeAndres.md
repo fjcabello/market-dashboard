@@ -41,3 +41,5 @@
 **Contraste con datos:** `fred_data.csv` da el S&P 500 en **6.910,4** y el oro en **3.515,4** el 20 de noviembre (último cierre antes del vídeo), coherente con su referencia de 3.500 para el oro.
 
 **Nota cruzada:** en [[2026-11-18-LaPizarraDeAndres]], tras los resultados de Nvidia, "no descartaba comprar algo" y planteaba que había algo que "no estamos sabiendo ver". Hoy da por confirmado que era eso, no la "maravillosa compra". Al día siguiente, [[2026-11-23-GeorgeGammon]] cuenta que Trump convenció al consejo de readmitir a Jensen Huang y que el mercado rebota con fuerza; Gammon no menciona el estado de la investigación de la SEC ("¿significa eso que la investigación desaparece? No lo sé").
+
+**Nota cruzada (posterior):** en [[2026-11-24-LaPizarraDeAndres]], analizando la cartera de un cliente, va más allá y dice que se empieza a plantear comprar oro "en algún punto" para sus propias carteras, tras un 26% de caída desde los 5.000 que no quiso comprar.

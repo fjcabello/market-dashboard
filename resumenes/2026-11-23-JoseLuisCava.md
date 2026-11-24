@@ -30,3 +30,5 @@
 **Nota cruzada:** cumple lo que anticipaba en [[2026-11-20-JoseLuisCava]]: "solo un rebote", ayudado por el vencimiento de opciones y la estacionalidad de Acción de Gracias, sin capitulación definitiva. Allí situaba la intervención de las autoridades en el primer trimestre de 2027 y los mínimos "en torno a marzo".
 
 **Contraste con otros canales:** George Gammon ([[2026-11-23-GeorgeGammon]]), el mismo día, atribuye el rebote a la readmisión de Jensen Huang en Nvidia por presión de Trump, algo que Cava no menciona. Los dos coinciden en no verlo como un cambio de tendencia por fundamentales.
+
+**Nota cruzada (posterior):** en [[2026-11-24-JoseLuisCava]] mantiene que es un rebote, ahora "hasta el mes de diciembre" por los flujos del vencimiento de opciones, y atribuye buena parte de la subida a una readmisión "programada" de Jensen Huang en Nvidia tras el vencimiento de noviembre.
