@@ -41,3 +41,5 @@
 **Nota cruzada:** en [[2026-11-20-GeorgeGammon]], el viernes, Gammon decía que "las probabilidades aumentan sustancialmente" de un lunes negro (sin predecirlo). Este lunes el mercado sube con fuerza por la vuelta de Huang. Continúa su tesis de Nvidia como "banco central" y "DJ" de [[2026-11-19-GeorgeGammon]].
 
 **Contraste con otros canales:** José Luis Cava ([[2026-11-23-JoseLuisCava]]), el mismo día, también lo ve como "un mero rebote", pero lo atribuye a la cobertura de cortos y la estacionalidad de Acción de Gracias, sin mencionar a Huang. Pablo Gil ([[2026-11-22-PabloGilTrader]]) citaba "tal vez el CEO de Nvidia vuelva" como una de las salidas posibles. La Pizarra de Andrés ([[2026-11-22-LaPizarraDeAndres]]) hacía depender el escenario del resultado de la investigación de la SEC, que Gammon no da por cerrada.
+
+**Nota cruzada (posterior):** en [[2026-11-24-GeorgeGammon]] comenta la entrevista de Steve Eisman en CNBC, que también atribuye la readmisión de Huang a una llamada de Trump. Discrepa de Eisman en que Huang sea prescindible: para Gammon, Nvidia actúa como "banco central" del ecosistema de IA.

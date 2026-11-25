@@ -49,3 +49,5 @@
 **Nota cruzada:** en [[2026-11-20-TradingLatino]] (directo del 19) había duplicado el largo en oro en ~3.525-3.530 y fijaba el umbral para duplicar Nvidia en futuros "por debajo de 130", con el precio en 144,35. Hoy cierra las dos posiciones. **Matiz a señalar:** en aquel directo no se mencionaban compras de Nvidia en *spot* en 162 y 128; solo que mantenía acciones. Los clips del mismo día [[2026-11-24-TradingLatino-HjU0eap2tgI]] y [[2026-11-24-TradingLatino-hoftLGu76Qs]] tratan sus compras en *spot* de Bitcoin (siguiente en ~47.000).
 
 **Contraste con otros canales:** José Luis Cava ([[2026-11-24-JoseLuisCava]]) también ve la vuelta de Huang como una maniobra que barrió a los bajistas, pero la usa como argumento de que la subida no es fiable, mientras que Merino ve recorrido al alza para Nvidia en el corto plazo.
+
+**Nota cruzada (posterior):** en el directo del 24, [[2026-11-25-TradingLatino]], mantiene la flecha bajista con Bitcoin en ~59.000-59.400 (objetivos de 57.000 y 55.000) y da Nvidia en 155. El clip [[2026-11-25-TradingLatino-I6U0taF0Z40]] recoge el pasaje de este directo sobre la "cobertura" entre Nvidia y oro.
