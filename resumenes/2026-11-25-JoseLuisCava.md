@@ -39,3 +39,5 @@
 **Nota cruzada:** mantiene el esquema de [[2026-11-24-JoseLuisCava]] (rebote hasta el vencimiento de diciembre y retroceso después, con el crédito seco) y de [[2026-11-23-JoseLuisCava]] ("esta gente necesitaba una crisis"). Lo nuevo es el fondo soberano comprando Nvidia y las pruebas de falta de liquidez en China y Arabia Saudí.
 
 **Contraste con otros canales:** Mark Moss ([[2026-11-25-MarkMoss]]) también explica la caída simultánea de bolsa, oro y Bitcoin por una crisis de liquidez, pero cree que la liquidez "ya está volviendo a subir". Jaime Merino ([[2026-11-25-TradingLatino]]) también cita una subida de tipos el 9 de diciembre y la idea de "generar un problema y luego darle una solución" imprimiendo dinero.
+
+**Nota cruzada (posterior):** en [[2026-11-26-JoseLuisCava]] cuestiona la narrativa de una subida agresiva (50 puntos básicos) en diciembre: la caída del coste energético (~25% desde octubre) y la de las expectativas de inflación harían que la Fed rectificara. Compra notas del Tesoro a 2 años (ETF IBTA).

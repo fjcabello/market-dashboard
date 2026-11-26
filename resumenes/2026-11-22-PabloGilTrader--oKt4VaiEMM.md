@@ -47,3 +47,5 @@
 **Contraste con otros canales:** George Gammon ([[2026-11-19-GeorgeGammon]]) siguió el estreno en directo: apertura muy por encima de 83, máximo de ~111 y caída posterior; al día siguiente ([[2026-11-20-GeorgeGammon]]) habla de un descenso del 10-12%. Raoul Pal y Andreas ([[2026-11-19-RaoulPal]]) sostienen lo contrario que el escenario desfavorable: el sector de la IA, Anthropic incluida, cotiza "a precio de negocios moribundos".
 
 **Nota cruzada:** el clip del mismo día [[2026-11-22-PabloGilTrader]] procede del vídeo técnico del 18 ([[2026-11-18-PabloGilTrader]]). Al día siguiente, [[2026-11-23-GeorgeGammon]] informa de que el consejo de Nvidia ha readmitido a Jensen Huang tras la presión de Trump, lo que deja atrás la interinidad de Kress que se menciona aquí.
+
+**Nota cruzada (posterior):** el clip [[2026-11-26-PabloGilTrader]] reproduce la entrada de este vídeo.

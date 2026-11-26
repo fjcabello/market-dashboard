@@ -48,3 +48,5 @@
 **Nota cruzada:** continúa [[2026-11-23-GeorgeGammon]], donde atribuía la vuelta de Huang a la presión de Trump, hablaba del "único punto de fallo" y de la "tiranía fascista" y esperaba al cierre diario del SPY para saber qué narrativa ganaba. Aquí no actualiza esa lectura técnica.
 
 **Contraste con otros canales:** José Luis Cava ([[2026-11-24-JoseLuisCava]]) también ve la readmisión como una jugada "programada", y Jaime Merino ([[2026-11-24-TradingLatino]]) la ve como "un show para barrer a todo mundo". En [[2026-11-25-MarkMoss]], Moss toma el mismo episodio como un detonante más de una crisis de liquidez que empezó en julio, no como la causa de fondo.
+
+**Nota cruzada (posterior):** en [[2026-11-25-GeorgeGammon]] critica los nuevos aranceles de la sección 301 y señala que los rendimientos de los bonos bajaron pese a un PIB del 4,3%, lo que interpreta como anticipo de que "Jensen 2.0" frenará la liquidez.

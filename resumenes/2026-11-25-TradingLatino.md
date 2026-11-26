@@ -54,3 +54,5 @@
 **Nota cruzada:** sigue al directo del 23 ([[2026-11-24-TradingLatino]]), donde mantenía la flecha bajista con Bitcoin en 60.187 y veía "bastante alta" la probabilidad de llegar a 45.000. El clip [[2026-11-25-TradingLatino-I6U0taF0Z40]] repite su defensa del cierre de Nvidia y oro como "cobertura".
 
 **Contraste con otros canales:** José Luis Cava ([[2026-11-25-JoseLuisCava]]) también cita una subida de tipos de la Fed descontada "con una probabilidad del 100%" y la misma lógica de crisis provocada para inyectar liquidez. Mark Moss ([[2026-11-25-MarkMoss]]) habla de "rebote de gato muerto", pero cree que la liquidez ya está volviendo.
+
+**Nota cruzada (posterior):** en el directo del 25 ([[2026-11-26-TradingLatino]]), Merino dice que el precio tocó **57.426** (mínimo intradía que no recoge la serie diaria de `fred_data.csv`) y rebotó hasta 61.500-61.600 sin llegar a la mecha de 55.000. Cambia la flecha de 4 horas al alza, hacia 63.000. El clip [[2026-11-26-TradingLatino-GfpOD3RWudk]] sale de este directo (pasaje sobre INJ, BNB, XRP y Solana).
