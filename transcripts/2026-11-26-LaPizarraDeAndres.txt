@@ -1,0 +1,488 @@
+Hola a todos y bienvenidos un día más a
+mi canal, La pizarra de Andrés. En el
+día de hoy vamos a hablar sobre una vez
+más Nvidia, semiconductores, sector de
+la IA y vamos a de una forma ya eh más
+numérica a determinar en qué punto
+estamos y si de verdad estamos tan bien
+o tan mal. Eh, en primer lugar, quiero
+recordar una vez más que estos vídeos
+informativos ni mucho menos predicen lo
+que va a ocurrir mañana. Eh, nadie sabe
+lo que van a hacer mañana los mercados y
+sí que es cierto que hay ciertas cosas
+que sí podemos corroborar con números, y
+asumiendo que estos números sean verdad,
+es decir, que no nos estén engañando de
+ninguna forma las empresas y, eso es lo
+que vamos a intentar hacer hoy. Hm,
+normalmente mis vídeos no van sesgados,
+bueno, si leéis los comentarios parece
+que para unos van sesgados hacia eh ser
+alcista o positivo siempre y para otros
+van a van sesgados a ser negativo
+catastrofista. La realidad es que ni una
+cosa ni otra. El objetivo es tener una
+cartera casi siempre eh sobre todo en
+capitales altos lo más todoterreno
+posible y no de adivinar dónde va a ir
+el mercado porque eso es imposible,
+aunque en promedio eh vaya más para
+arriba que para abajo, ¿no? Dicho esto,
+sí que vamos a eh intentar explicar en
+qué punto estamos actualmente, ¿vale? Y
+para eso en el día de hoy, y aprovecho
+que esto se deberá estar subiendo un
+Black Friday, tenéis la promoción más
+importante del año en Investing Pro,
+¿vale? Con el código pizarra y con los
+días de Black Friday se os queda
+tremendamente barato. ¿Para qué sirve
+Investing Pro? Para lo que vamos a hacer
+hoy, no solo para lo que vamos a hacer
+hoy, sino para muchas cosas más, pero
+que es eh determinar en qué punto está
+una empresa, ¿vale? Te di intentar
+entender qué es todo lo relacionado a
+esa empresa ehm que tenemos hoy en día
+en el en el precio y así pues que cada
+uno pueda decidir si algo está caro o
+barato. Para ello he cogido Nvidia y
+vamos a hablar de muchas cosas de lo que
+vamos a ver aquí. Esto lo vamos a
+extrapolar un poco a los mercados de
+forma ehm a los mercados que tenemos
+actualmente para intentar eh discernir
+si estamos en una burbuja o si no o si
+lo estuviéramos en qué punto estaríamos.
+Eh, cojo Nvidia una vez más porque me
+parece mejor reflejo, aunque luego
+podemos ver otra empresa, por ejemplo,
+Sandisk o alguna que haya que se haya
+visto ehm beneficiada por todo el sector
+de la IA y sacar otras conclusiones
+similares. ¿Qué es lo primero que vemos
+de Nvidia? Vale. Ehm, partiendo de la
+base de que ni yo tengo ni idea de cuál
+es el verdadero valor de Nvidia ni
+probablemente tampoco los analistas ni
+los modelos de de valoración, sí que es
+cierto que de primeras sorprende que
+esto es bastante poco común, que los
+modelos de inversión y los analistas
+coinciden en el precio objetivo de
+Nvidia. Es decir, según todo el mundo,
+por todo el mundo, son modelos que no
+tienen ehm uso de razón, simplemente
+toman en cuenta diferentes múltiplos.
+Aquí lo ves, los modelos de valoración
+la valoran entre 185 y 275 dólares, eh
+siendo el promedio 200 y poco, 220, 230.
+Bueno, el promedio aquí está, 240,
+¿vale? Entonces, esto no son personas,
+estos son modelos tradicionales como
+todos estos ehm normalmente múltiplos
+que se utilizan habitualmente en la
+industria. Eh, después están los
+analistas, donde sí que es cierto que,
+por ejemplo, aquí hay alguna analista
+pesimista que podría que dice que podría
+valer hasta 130 dólares y algún analista
+hiper optimista que cree que podría
+valer hasta 425. La realidad es que el
+promedio es 244, con lo cual de primeras
+sí que entendería a cualquiera que con
+un mejor análisis que el que tiene la
+mayoría de personas, pues diga que
+Nvidia es compra, ¿vale? Sin embargo, no
+estamos aquí para determinar si Nvidia
+es compra o no, estamos aquí, que es la
+pregunta del vídeo, para preguntarnos si
+existe una burbuja en la IA sí o no,
+¿vale? Eh, pero de primeras, si alguien
+quisiera comprar Nvidia solo por estos
+fundamentos, parece que es razonable
+querer comprar Nvidia, ¿vale? Ehm, con
+lo cual el precio a día de hoy 165
+dólares con aproximadamente un 50% de
+revalorización objetivo hasta su precio
+promedio o su precio esperado. Y esto es
+incluso después del rebote que ayer esta
+empresa rebotó un 31%, ¿no? Con lo cual,
+a priori, empresa eh empresa muy buena,
+una empresa que eh se espera que pueda
+valer más, ¿vale? Este es el rebote que
+vimos ayer, que lo vamos a ver aquí,
+¿vale? Que claro, visto en perspectiva
+no parece tanto. Aquí lo vemos,
+¿Dónde quiero llegar yo con esto? Bueno,
+ehm además de que Investing en un
+vistazo rápido pues te da eh esto mismo,
+el precio objetivo, incluso un poco el
+Financial Health de la empresa, todo lo
+que esté por aquí por cuatro o cinco es
+que implica que la empresa está en un
+buen estado. Eh, pero donde me quiero ir
+es aquí porque es donde hay más
+información. Yo entiendo que esto para
+muchos puede ser algo complejo y lo voy
+a intentar explicar desde lo más básico
+posible, ¿vale? Esto de aquí no son más
+que los números de la empresa, ¿vale?
+Los números de de beneficio, de de
+bueno, de de de ehm ehm beneficios por
+acción, EBITDA, eh liquidez, eh activos,
+eh ehm liabilities de todo, ¿no? Incluso
+la deuda, que ahora lo veremos aquí, que
+evidentemente eh en esta empresa no es
+lo más importante, ¿no? Pero ehm qué es
+donde donde yo quiero hacer hincapié,
+vale. Si le dais aquí en Data Explorer
+en Edit, buscáis aquí, podéis buscar
+métricas futuras, ¿vale? Que es lo que
+vamos a utilizar para determinar si
+estas empresas están caras o no y cómo
+penaliza el mercado este sector o cómo
+está descontando el mercado en este
+sector las cosas, ¿no? Normalmente
+cuando tú dices que hay una burbuja, lo
+que esperas ver son valoraciones altas
+hoy y valoraciones altas, aunque un
+poquito menos altas mañana, ¿vale?
+Porque esperas seguir viendo crecimiento
+y, por tanto, ese crecimiento lo pagas
+muy bien. No sé si se entiende esto.
+Cuando tú eres una empresa y te tienen
+que valorar como empresa, si dos
+empresas son exactamente iguales y una
+crece mucho más que la otra, la que
+crece mucho más tiene que estar más cara
+porque se asume que el día de mañana
+será mejor. Es decir, hoy son iguales,
+pero como una crece al 10 y otra crece
+al 20, la que crece al 20 tiene que
+estar más cara, ¿vale? Porque se espera
+que mañana valga más dinero porque ha
+crecido más. En este caso eh para
+empresas normalmente de un sector como
+la IA donde se espera crecimiento, lo
+normal sería ver unos múltiplos de
+futuro que sean iguales o superiores. En
+el caso de que no fueran superiores, lo
+primero que tienes que preguntarte es,
+oye, cómo una empresa que está en un
+sector de la IA, que se asume que está
+creciendo muchísimo, ehm tiene múltiplos
+en el futuro que son más baratos. ¿Qué
+me estoy perdiendo aquí? Eso eh sería
+bastante extraño y eso mismo es lo que
+estamos viendo en el sector, cosa que me
+sorprende bastante. Entonces, vamos a
+empezar desde el inicio, ¿vale? Esto de
+aquí es el dividendo. De esto no vamos a
+hablar porque en Nvidia sí es relevante.
+Esto de aquí es el es el famoso PER,
+¿vale?
+Esto te divide el precio de la acción
+entre los beneficios por acción.
+Históricamente, si cogéis cualquier
+libro de hm o cualquier tipo de eh
+artículo, filosofía, value, Warren
+Buffett y demás, te van a decir que un
+PER en torno a 18 20 veces sería lo
+normal. Incluso por debajo de 18
+empezaría a estar barato. Bien, pues
+Nvidia, a pesar de ser una empresa eh en
+crecimiento, está a 17,6 veces. Eso a
+pesar del rebote de ayer, con lo cual
+podemos decir que Nvidia si fuera una
+empresa totalmente consolidada que no
+crece y una buena empresa 17,6 veces
+sería un buen múltiplo y dirías, esta
+empresa está bien, pero si no es una
+empresa que crece, esto parece bastante
+barato. Cosa que es algo extraño. Bueno,
+ya sabemos que Nvidia se ha visto en eh
+involucrado en en otro tipo de cosas con
+su CEO, etcétera, etcétera, pero de
+primeras en la valoración actual parece
+sensata e incluso barata, ¿vale? Y y
+digo sensata si no creciera. Como crece,
+pues es una es una valoración barata,
+¿no? Si bajamos aquí un poco otro ratio
+muy importante es el EV/EBITDA, que es
+el enterprise value, cuánto vale la
+empresa, entre el EBITDA, los beneficios
+que tiene, ¿vale? Beneficios antes de
+impuestos, depreciación y amortización.
+Estos son 16 veces. Esto también es un
+ratio aceptable. Es decir, normalmente
+digamos que a partir de 10 12 veces
+podríamos decir que la empresa empieza a
+estar barata. 16 veces sería algo quizá
+normal. Quizá un poquito por encima de
+lo esperado, pero bueno, sigue siendo un
+ratio muy de empresa consolidada. No es
+un ratio eh tremendamente caro ni mucho
+menos, ¿no? Ehm, bueno, del free cash
+flow yield de esto podemos hablar otro
+día. Aquí vemos deuda financiera EBITDA
+que es -0,2 veces, con lo cual tiene
+cash, no tiene deuda, algo muy sano para
+una empresa. Y luego nos vamos a los dos
+múltiplos que he sacado yo. Esto es lo
+que sorprende. Y es que cuando sacamos
+los ratios que pone FWD, esto significa
+forward, significa a 1 vista
+normalmente, ¿vale? Significa ehm cómo
+cambian estos dos datos, el PER, que lo
+vimos aquí, y el EV/EBITDA eh del
+futuro. Y si te fijas, el PER dentro de
+1 año se espera que pase de 17,6 a 17,1,
+es decir, algo aquí no cuadra porque se
+espera que la empresa crezca, pero que
+esté más barata. Eh, en el EV/EBITDA
+pasa lo mismo, se espera que la empresa
+en número de veces que justifica su
+valoración con el dinero que ganas eh
+baja de 16 veces a 13,7, es decir, el
+año que viene NVIDIA va a estar más
+barata. Esto no es síntoma de burbuja.
+Esto no es síntoma de burbuja porque el
+mercado ya se está protegiendo. ¿Qué es
+lo que descuenta aquí el mercado? Se
+está protegiendo de la posibilidad de
+que NVIDIA no crezca lo que debe lo que
+debería crecer. Es decir, no se cree lo
+que tú vas a crecer porque si se creyera
+lo que tú vas a crecer el el PER y el
+EV/EBITDA futuros deberían ser mayores
+que el PER y el EV/EBITDA actuales
+porque la empresa es mejor. La empresa
+es mejor o como mínimo mantenerse, pero
+si una empresa crece no puede valer
+menos en teoría, en teoría, ¿no? Hay
+matices y sí que si fueran crecimientos
+muy leves y demás y se tuvieran otras
+otras cosas en cuenta, pues podrían
+valer, ¿no? He cogido estos dos estos
+dos ratios para que veáis, se podrían
+ otros muchos ratios, pero he
+cogido estos dos ratios para que veáis
+que eh ocurre en más de un múltiplo, no
+es que sea una casualidad, ¿vale? Esto
+lo vamos a ver ahora mucho más bestia en
+otra empresa, con lo cual lo que te está
+diciendo el mercado es que, uno, no se
+cree que el sector de la IA y NVIDIA en
+concreto vaya a crecer tanto, vaya a
+crecer tanto o que pueda venir algo que
+que el mercado desconoce. Por eso no
+está dispuesto a darte una valoración o,
+mejor dicho, unos múltiplos mayores a
+futuro. Entonces, esto es bueno porque
+si mañana por lo que sea hay un golpe a
+la IA hay parte del golpe que ya está
+descontado, hay parte del golpe que se
+está Si NVIDIA está barata hoy es porque
+no se creen el mañana de la IA.
+Entonces, el no se creen es que el
+mercado no quiere entrar en un periodo
+de burbuja como si lo hizo en otros
+muchos periodos, ¿vale? Esto mismo si lo
+hubierais visto en la .com no sería así,
+sería mucho más bestia. Entonces, esto
+es bastante extraño y es lo que hace que
+NVIDIA parezca una oportunidad de libro
+increíblemente buena ehm porque los
+múltiplos que tiene con respecto a la
+compañía que es no no tiene mucho
+sentido la compañía que es y el
+crecimiento que se espera. Esto mismo os
+lo voy a enseñar en una compañía eh
+donde se ve mucho más. Sandisk es una
+compañía de memorias, ¿vale? Se ha
+puesto de moda con la IA, etcétera,
+etcétera. Vemos lo mismo, ¿no? Una
+compañía que cotiza a 87 dólares,
+modelos de valoración en 112 y analistas
+en 248, es decir, incluso el analista
+más pesimista dice 110, con lo cual como
+mínimo esta empresa estaba eh
+infravalorada un 30 %, ¿vale? Que vemos
+aquí. Esto como mínimo, ¿no? Esta
+empresa es muy bestia. Yo no había visto
+nunca esto antes, ¿vale? Cotiza a un PER
+de cinco veces, es ridículo, ya lo hemos
+dicho. Esto por debajo de 18 veces
+podríamos decir que ya es para mirarlo.
+Un PER por debajo de hm 10 veces ya
+empieza a ser una una posición muy value
+eh y un PER a cinco veces es ridículo,
+es algo totalmente eh incomprensible. Un
+EV/EBITDA de cuatro veces, esto
+significa que con los beneficios de
+cuatro años de la empresa pagas la
+empresa entera, para que nos hagamos una
+idea, más o menos, ¿no? Ehm, esto es
+ridículo, ¿vale? Es ridículo. Ehm, y
+cuando nos vamos al PER y al EV/EBITDA
+futuros es que el EV/EBITDA de de dentro
+de un año es dos veces. Esto quiere
+decir que lo con los beneficios
+esperados del año que viene, dos años
+seguidos pagas la empresa entera. Esto
+es como No es del todo cierto lo que voy
+a decir, pero para que os hagáis una
+idea. Esto es como si tú tienes una
+peluquería que te ha costado 100.000
+euros eh y todos los años te queda te
+deja 50.000 euros de beneficio, más o
+menos. Pues, ¿cuánto valdría ese
+negocio? Pues, tú dirías, menudo hecho
+yo hice, compro una cosa por 100 y me
+está dejando 50 todos los años. Pues,
+esto sería más o menos lo mismo, ¿vale?
+Eh, esto es ridículo porque
+supuestamente eh un negocio es algo
+mucho más que su caja o o o que el
+dinero que gana en un año, ¿no? El PER
+lo mismo, el PER baja a 2,7, son dos
+cosas que son ridículas. Y y alguien
+dirá, Andrés, entonces, ¿cómo es posible
+que una compañía cotiza estos múltiplos
+futuros tan baratos? Pues, muy sencillo.
+El mercado no se cree que Sandisk pueda
+mantener los crecimientos o los ehm o
+las ventas y los beneficios que se le
+esperan un año. No se los cree porque si
+se los creyera estos ratios no
+existirían jamás. Si tú te miras los
+beneficios por acción pasa de palmar
+pasta en el 25 a ganar un poco de pasta
+en julio del 26 a más que doblar o a
+doblar prácticamente su beneficio, es
+decir, pasa de palmar pasta en junio del
+25 a tener estos retornos en octubre del
+26. Esto supuestamente va a seguir
+creciendo el año que viene y el mercado
+no es nada optimista con la IA a estos
+niveles, es decir, no cree ni que
+Nvidia, ni que Sandisk, ni que ninguna
+de estas empresas pueda mantener el
+ritmo de crecimiento de pedidos que el
+mercado sí estima. Y es por ello que el
+mercado ya se está preparando para un
+para un para un posible pinchazo, no
+pinchazo, pero para un posible retroceso
+en el avance de la IA o que simplemente
+pues los ehm pedidos que se crean en el
+futuro, que el mercado espera en el
+futuro, son mucho menores que los
+pedidos que esperan las las empresas en
+el futuro. Esa sería la frase, ¿vale?
+Que las expectativas que tiene el
+mercado sobre la IA son mucho menores
+que las expectativas que tiene las
+propias empresas sobre sus propios
+negocios. Y eso hace que la posibilidad
+de que esto sea una burbuja gigante pues
+se minimice, porque si esto fuera una
+burbuja, todas estas empresas, está
+incluida, no podría cotizar a dos veces
+eh EV EBITDA futuro. No tiene sentido,
+esto no es una métrica de valoración
+normal, un negocio saludable, como hemos
+dicho anteriormente, tiene que cotizar
+pues a 5, 6, 8, 10 veces EBITDA. Es algo
+totalmente normal, ya no te digo en una
+empresa que encima crece. Si esto ocurre
+eh es porque ehm el mercado no se lo
+cree. Y además hablamos, pues aquí lo
+vemos, eh Sandisk tampoco tiene deudas,
+una empresa que no tiene deuda, que no
+tiene ese problema que digas, no, es que
+te penaliza mucho la deuda, por eso
+cotizas tan barato. Vale, sí, hay
+negocios en dificultades donde estos
+múltiplos pueden ser muy baratos porque
+las empresas están en una situación
+financiera chunga, jodida, ¿no? En este
+caso no es el caso. Entonces, ¿qué es lo
+que sacamos en conclusión de todo esto?
+Que el mercado, mercado, lo que son las
+personas no creen ni que Nvidia, ni que
+Sandisk, ni que ninguna de estas eh vaya
+a vender y a crecer tanto como ellos
+mismos se piensan que sí lo va a hacer.
+Y por eso se protegen ya mismo con estos
+mercados, con estas caídas. Sandisk ha
+caído en en 3 meses un 53. Es cierto que
+si lo miras desde abajo sigue estando
+muy arriba, pero fijaros como el propio
+mercado dice, oye, cuidado con esto que
+es probable que esto no sea sostenible.
+Entonces, son buenas empresas a día de
+hoy con buenas perspectivas, que ganan
+dinero, qué tal, que no sé qué y que a a
+todos los efectos están baratas. Sí. Te
+está mandando una una señal de alerta al
+mercado diciendo cuidado que esto que
+nos dicen es posible que no se cumpla
+también. Y esto es un poco lo que a mí,
+entre comillas, me deja más tranquilo
+porque si esto fuera eh múltiplos
+supercaros con crecimientos muy
+difíciles de sostener en el tiempo, pues
+ahí habría un problema, porque no es lo
+mismo crecer de dos a cuatro que de
+cuatro a ocho. En los dos doblas, pero
+el dinero que necesitas para doblar en
+uno es muchísimo mayor que el dinero que
+necesitas para doblar en otro, ¿no? Y
+esto es lo que el mercado se protege a
+día de hoy. Por eso, la suma de este
+tipo de análisis me hace pensar que el
+mercado, en este caso, no quiere caer en
+la misma trampa que en otras burbujas y
+ya de por sí descuenta eh favorablemente
+para el inversor y por eso las empresas
+están más baratas que todo esto no es
+sostenible, sobre todo ese crecimiento
+tan bestia, esas valoraciones eh que
+deberían ser mucho más agresivas eh no
+lo son. Y eso pues para los que seguimos
+el mercado pues nos hace estar un poco
+más tranquilos porque yo soy de los que
+cree que esto es insostenible el el
+sentido de el nivel de inversión que se
+está dedicando, el nivel de en este caso
+de ventas de ciertas empresas, el nivel
+de crecimiento que estamos
+experimentando creo que es insostenible
+a largo plazo y está bien que el mercado
+lo frene un poco diciéndote que ciertas
+empresas no pueden estar tan caras o no
+pueden tener cierto tipo de
+valoraciones. Espero, chicos, que el
+vídeo más o menos haya quedado claro. Sé
+que son muchos conceptos. También es
+está bien de vez en cuando subir un poco
+el nivel de de los vídeos. Si os gusta
+este tipo de cosas, os aconsejo sobre
+todo para nivel de de
+y esto es publicidad, para nivel de
+empresas de de eh eh todos aquellos que
+queráis tener acciones en cartera,
+etcétera, etcétera, creo que no tenéis
+ninguna herramienta mejor que Investing
+Pro. Con el código pizarra es
+tremendamente barato y sobre todo estos
+días de Black Friday. Y ya habéis visto
+la de información que os da si poco a
+poco vais abriendo eh buscarla, ¿no?
+Ehm, si os ha gustado, chicos, un like,
+un comentario, todo esto se agradece un
+montón y nosotros nos vemos en el
+siguiente vídeo. Se despide la pizarra
+Andrés.
