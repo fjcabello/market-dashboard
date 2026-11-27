@@ -43,3 +43,5 @@
 **Nota cruzada:** en [[2026-11-25-JoseLuisCava]] daba la subida de tipos de diciembre como descontada "con una probabilidad del 100%" y defendía que sin liquidez no hay suelo; ahora mantiene la tesis de la crisis provocada para inyectar liquidez, pero cuestiona que la Fed vaya a sostener la subida.
 
 **Contraste con otros canales:** George Gammon ([[2026-11-25-GeorgeGammon]]) lee en FedWatch una probabilidad del 97% de subida, pero solo un **0%** de que sea de 50 puntos básicos, frente a los 50 que Cava atribuye a la narrativa dominante. Gammon coincide en que el mercado de bonos ya descuenta un deterioro: los rendimientos bajaron pese a un PIB del 4,3%.
+
+**Nota cruzada (posterior):** en [[2026-11-27-JoseLuisCava-L_q7QbxBYhg]] atribuye el rebote del miércoles 25 a un cierre de cortos sin entrada de dinero, espera un lateral hasta el vencimiento de diciembre (quizá hasta el 6 de enero) y un agravamiento después, y repite que la subida de tipos está descontada al 100

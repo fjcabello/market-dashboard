@@ -50,3 +50,5 @@
 **Nota cruzada:** en el directo del 24 ([[2026-11-25-TradingLatino]]) proyectaba perder 59.000, ir a 57.000 y a la mecha de ~55.000, y después un rebote a 61.000-62.000 dentro de un lateral de 55.000-65.000. Según Merino, el precio tocó 57.426 y rebotó a 61.600 sin pasar por 55.000. Entonces daba Nvidia en 155; ahora, en 152,70. El clip [[2026-11-26-TradingLatino-GfpOD3RWudk]], publicado el mismo día, sale del directo del 24.
 
 **Contraste con otros canales:** La Pizarra de Andrés ([[2026-11-26-LaPizarraDeAndres]]) da Nvidia en **165 $** el mismo día. José Luis Cava ([[2026-11-26-JoseLuisCava]]) espera un rebote en bolsa si la Fed rectifica, mientras que Merino ya deja flechas alcistas en los índices sin hablar de la Fed.
+
+**Nota cruzada (posterior):** los clips [[2026-11-27-TradingLatino]] (operar por porcentaje: "el 10% a 5x") y [[2026-11-27-TradingLatino-JdLCCLirL-o]] (cierre en 77.000 y "no perder es ganar") salen de este directo.
